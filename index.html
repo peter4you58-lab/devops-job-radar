@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>DevOps Job Radar</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600;700&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet" />
+<style>
+  :root {
+    --bg:        #070b10;
+    --panel:     #0d141c;
+    --panel-2:   #111b24;
+    --line:      #1d2a36;
+    --text:      #c6d3de;
+    --muted:     #6b8194;
+    --green:     #43d17f;
+    --amber:     #e3b341;
+    --red:       #d9657c;
+    --accent:    #43d17f;
+    --mono: 'IBM Plex Mono', ui-monospace, monospace;
+    --sans: 'IBM Plex Sans', system-ui, sans-serif;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html { scroll-behavior: smooth; }
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: var(--sans);
+    line-height: 1.5;
+    /* faint radar grid */
+    background-image:
+      radial-gradient(circle at 50% -10%, rgba(67,209,127,0.08), transparent 55%),
+      linear-gradient(var(--line) 1px, transparent 1px),
+      linear-gradient(90deg, var(--line) 1px, transparent 1px);
+    background-size: auto, 46px 46px, 46px 46px;
+    background-position: 0 0, -1px -1px, -1px -1px;
+    min-height: 100vh;
+  }
+  .wrap { max-width: 1080px; margin: 0 auto; padding: 48px 22px 80px; }
+
+  header { border-bottom: 1px solid var(--line); padding-bottom: 22px; margin-bottom: 26px; }
+  .tag {
+    font-family: var(--mono); font-size: 11px; letter-spacing: .28em;
+    color: var(--accent); text-transform: uppercase;
+    display: inline-flex; align-items: center; gap: 9px; margin-bottom: 14px;
+  }
+  .dot { width: 8px; height: 8px; border-radius: 50%; background: var(--green);
+         box-shadow: 0 0 0 0 rgba(67,209,127,.6); animation: pulse 2.4s infinite; }
+  @keyframes pulse {
+    0% { box-shadow: 0 0 0 0 rgba(67,209,127,.5); }
+    70% { box-shadow: 0 0 0 10px rgba(67,209,127,0); }
+    100% { box-shadow: 0 0 0 0 rgba(67,209,127,0); }
+  }
+  h1 { font-family: var(--mono); font-weight: 700; font-size: clamp(30px, 6vw, 46px);
+       letter-spacing: -.01em; color: #eef4f9; }
+  h1 span { color: var(--accent); }
+  .sub { color: var(--muted); margin-top: 8px; max-width: 60ch; font-size: 14.5px; }
+  .meta { font-family: var(--mono); font-size: 12px; color: var(--muted);
+          margin-top: 16px; display: flex; gap: 22px; flex-wrap: wrap; }
+  .meta b { color: var(--text); font-weight: 600; }
+
+  .controls { display: flex; gap: 12px; flex-wrap: wrap; align-items: center;
+              margin: 24px 0 18px; }
+  .controls input[type=search] {
+    flex: 1; min-width: 220px; background: var(--panel); border: 1px solid var(--line);
+    color: var(--text); font-family: var(--mono); font-size: 13px;
+    padding: 11px 14px; border-radius: 8px; outline: none;
+  }
+  .controls input[type=search]:focus { border-color: var(--accent); }
+  .controls label { font-family: var(--mono); font-size: 12px; color: var(--muted);
+                    display: flex; align-items: center; gap: 8px; user-select: none; }
+  .controls select { background: var(--panel); border: 1px solid var(--line);
+    color: var(--text); font-family: var(--mono); font-size: 12px; padding: 9px 10px;
+    border-radius: 8px; }
+  .controls input[type=checkbox] { accent-color: var(--accent); width: 15px; height: 15px; }
+
+  .grid { display: grid; gap: 10px; }
+  .row {
+    display: grid; grid-template-columns: 64px 1fr 150px auto;
+    gap: 16px; align-items: center; background: var(--panel);
+    border: 1px solid var(--line); border-radius: 10px; padding: 14px 18px;
+    transition: border-color .15s, transform .15s;
+  }
+  .row:hover { border-color: #2c4150; transform: translateX(2px); }
+  .row.applied { opacity: .45; }
+  .fit { font-family: var(--mono); font-weight: 700; font-size: 19px; text-align: center; }
+  .fit small { display: block; font-size: 9px; font-weight: 500; letter-spacing: .15em;
+               color: var(--muted); margin-top: 2px; }
+  .fit.hi  { color: var(--green); }
+  .fit.mid { color: var(--amber); }
+  .fit.lo  { color: var(--red); }
+  .role .title { font-weight: 600; color: #eef4f9; font-size: 15px; }
+  .role .co { font-family: var(--mono); font-size: 12px; color: var(--muted); margin-top: 3px; }
+  .role .co .src { color: var(--accent); }
+  .loc { font-family: var(--mono); font-size: 12px; color: var(--muted); }
+  .actions { display: flex; align-items: center; gap: 14px; }
+  .apply {
+    font-family: var(--mono); font-size: 12px; font-weight: 600; text-decoration: none;
+    color: var(--bg); background: var(--accent); padding: 8px 14px; border-radius: 7px;
+    white-space: nowrap; transition: opacity .15s;
+  }
+  .apply:hover { opacity: .85; }
+  .mark { font-family: var(--mono); font-size: 11px; color: var(--muted);
+          cursor: pointer; user-select: none; background: none; border: 1px solid var(--line);
+          padding: 7px 10px; border-radius: 7px; }
+  .mark:hover { color: var(--text); border-color: var(--muted); }
+  .row.applied .mark { color: var(--green); border-color: var(--green); }
+
+  .empty { font-family: var(--mono); color: var(--muted); text-align: center;
+           padding: 60px 20px; border: 1px dashed var(--line); border-radius: 12px; }
+  .empty code { color: var(--accent); }
+
+  footer { margin-top: 40px; font-family: var(--mono); font-size: 11px;
+           color: var(--muted); border-top: 1px solid var(--line); padding-top: 18px; }
+  footer a { color: var(--accent); text-decoration: none; }
+
+  @media (max-width: 640px) {
+    .row { grid-template-columns: 52px 1fr; row-gap: 10px; }
+    .loc { grid-column: 2; }
+    .actions { grid-column: 1 / -1; justify-content: space-between; }
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="tag"><span class="dot"></span> live remote scan</div>
+    <h1>DevOps Job <span>Radar</span></h1>
+    <p class="sub">Self-updating scan of remote DevOps &amp; cloud roles, scored against my stack and stripped of US-authorization-only postings. Refreshes daily.</p>
+    <div class="meta">
+      <span>last scan&nbsp; <b id="generated">—</b></span>
+      <span>roles&nbsp; <b id="count">0</b></span>
+      <span>applied&nbsp; <b id="appliedCount">0</b></span>
+    </div>
+  </header>
+
+  <div class="controls">
+    <input type="search" id="q" placeholder="filter by role, company, location…" />
+    <label>min fit
+      <select id="minfit">
+        <option value="0">any</option>
+        <option value="55">55+</option>
+        <option value="70" selected>70+</option>
+        <option value="85">85+</option>
+      </select>
+    </label>
+    <label><input type="checkbox" id="hideApplied" /> hide applied</label>
+  </div>
+
+  <div class="grid" id="grid"></div>
+
+  <footer>
+    built with python + github actions + pages · $0 to run ·
+    <a href="https://github.com/peter4you58-lab/devops-job-radar">source</a>
+  </footer>
+</div>
+
+<script>
+const APPLIED_KEY = "djr_applied_v1";
+let applied = new Set(JSON.parse(localStorage.getItem(APPLIED_KEY) || "[]"));
+let JOBS = [];
+
+const $ = (id) => document.getElementById(id);
+
+function fitClass(f) { return f >= 70 ? "hi" : f >= 55 ? "mid" : "lo"; }
+
+function saveApplied() {
+  localStorage.setItem(APPLIED_KEY, JSON.stringify([...applied]));
+  $("appliedCount").textContent = applied.size;
+}
+
+function toggleApplied(url, rowEl) {
+  if (applied.has(url)) { applied.delete(url); rowEl.classList.remove("applied"); }
+  else { applied.add(url); rowEl.classList.add("applied"); }
+  saveApplied();
+  if ($("hideApplied").checked) render();
+}
+
+function render() {
+  const q = $("q").value.trim().toLowerCase();
+  const min = parseInt($("minfit").value, 10);
+  const hide = $("hideApplied").checked;
+  const grid = $("grid");
+  grid.innerHTML = "";
+
+  const rows = JOBS.filter(j => {
+    if (j.fit < min) return false;
+    if (hide && applied.has(j.url)) return false;
+    if (q && !(`${j.title} ${j.company} ${j.location}`.toLowerCase().includes(q))) return false;
+    return true;
+  });
+
+  if (!rows.length) {
+    grid.innerHTML = `<div class="empty">No roles match yet.<br>
+      If this is a fresh deploy, run the <code>scout-jobs</code> workflow once
+      (Actions tab → Run workflow), or loosen the filters above.</div>`;
+    return;
+  }
+
+  for (const j of rows) {
+    const row = document.createElement("div");
+    row.className = "row" + (applied.has(j.url) ? " applied" : "");
+    row.innerHTML = `
+      <div class="fit ${fitClass(j.fit)}">${j.fit}<small>FIT</small></div>
+      <div class="role">
+        <div class="title">${esc(j.title)}</div>
+        <div class="co">${esc(j.company)} · <span class="src">${esc(j.source || "")}</span></div>
+      </div>
+      <div class="loc">${esc(j.location)}</div>
+      <div class="actions">
+        <button class="mark">${applied.has(j.url) ? "✓ applied" : "mark applied"}</button>
+        <a class="apply" href="${encodeURI(j.url)}" target="_blank" rel="noopener">apply →</a>
+      </div>`;
+    row.querySelector(".mark").addEventListener("click", (e) => {
+      toggleApplied(j.url, row);
+      e.target.textContent = applied.has(j.url) ? "✓ applied" : "mark applied";
+    });
+    grid.appendChild(row);
+  }
+}
+
+function esc(s) { return (s || "").replace(/[&<>"]/g, c =>
+  ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c])); }
+
+async function load() {
+  try {
+    const res = await fetch("jobs.json?_=" + Date.now());
+    if (!res.ok) throw new Error("no jobs.json yet");
+    const data = await res.json();
+    JOBS = data.jobs || [];
+    $("generated").textContent = data.generated || "—";
+    $("count").textContent = data.count ?? JOBS.length;
+  } catch (_) {
+    $("generated").textContent = "pending first run";
+  }
+  $("appliedCount").textContent = applied.size;
+  render();
+}
+
+["q", "minfit", "hideApplied"].forEach(id =>
+  $(id).addEventListener("input", render));
+load();
+</script>
+</body>
+</html>
