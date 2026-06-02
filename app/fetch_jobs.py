@@ -4,7 +4,9 @@ DevOps Job Radar — fetch remote DevOps/cloud roles from free public APIs,
 score each against my stack, drop anything that requires US work
 authorization, and write the result to jobs.json (served by GitHub Pages).
 
-No paid services. Runs anywhere Python + requests is available.
+Primary source is Jobicy (a public remote-jobs API that does NOT block CI
+runners). Remotive/RemoteOK are kept as best-effort extras — they often
+refuse datacenter IPs, in which case they simply skip.
 """
 import sys
 import json
@@ -29,8 +31,7 @@ MY_STACK = [
 GOOD_TITLE = ["devops", "sre", "site reliability", "platform",
               "cloud", "infrastructure"]
 
-# Precise phrases only. If any appears, the role is dropped. These are
-# deliberately specific so a genuinely remote-worldwide role is NOT removed
+# Precise phrases only — so a genuinely remote-worldwide role is NOT removed
 # just for mentioning the US in passing.
 BLOCKERS = [
     "us citizen", "u.s. citizen", "must be a us citizen",
@@ -41,11 +42,14 @@ BLOCKERS = [
     "united states only", "us-based only", "green card required",
 ]
 
-# Search terms used against the Remotive API (robust to category-slug changes).
-REMOTIVE_QUERIES = ["devops", "site reliability", "platform engineer",
-                    "cloud engineer", "infrastructure engineer"]
+# Jobicy search tags (searches title + description). CI-reliable source.
+JOBICY_TAGS = ["devops", "kubernetes", "site reliability",
+               "platform engineer", "cloud engineer"]
 
-# Company application boards to watch directly (clean JSON, never rot).
+# Remotive search terms (best-effort; often blocked from CI).
+REMOTIVE_QUERIES = ["devops", "site reliability", "cloud engineer"]
+
+# Company application boards (clean JSON, never blocked — your Tier-1 targets).
 # Greenhouse token = slug in boards.greenhouse.io/<TOKEN>
 GREENHOUSE_TOKENS = []          # e.g. ["gitlab"]
 # Lever token = slug in jobs.lever.co/<TOKEN>
@@ -84,6 +88,19 @@ def add(jobs, *, title, company, url, location, text, source):
     }
 
 
+def from_jobicy(jobs):
+    for tag in JOBICY_TAGS:
+        r = requests.get("https://jobicy.com/api/v2/remote-jobs",
+                         params={"count": 50, "tag": tag},
+                         headers=UA, timeout=30)
+        r.raise_for_status()
+        for j in r.json().get("jobs", []):
+            add(jobs, title=j.get("jobTitle", ""),
+                company=j.get("companyName", ""), url=j.get("url", ""),
+                location=j.get("jobGeo", ""),
+                text=j.get("jobDescription", ""), source="Jobicy")
+
+
 def from_remotive(jobs):
     for term in REMOTIVE_QUERIES:
         r = requests.get("https://remotive.com/api/remote-jobs",
@@ -101,7 +118,7 @@ def from_remoteok(jobs):
     r.raise_for_status()
     for j in r.json():
         if not isinstance(j, dict) or "position" not in j:
-            continue  # first element is a legal/metadata object
+            continue
         add(jobs, title=j.get("position", ""), company=j.get("company", ""),
             url=j.get("url", ""), location=j.get("location", "Remote"),
             text=" ".join(j.get("tags", [])) + " " + j.get("description", ""),
@@ -143,8 +160,9 @@ def run_source(jobs, name, fn, *args):
 def main():
     jobs = {}
 
-    run_source(jobs, "Remotive", from_remotive)
-    run_source(jobs, "RemoteOK", from_remoteok)
+    run_source(jobs, "Jobicy", from_jobicy)      # primary, CI-reliable
+    run_source(jobs, "Remotive", from_remotive)  # best-effort
+    run_source(jobs, "RemoteOK", from_remoteok)  # best-effort
     for token in GREENHOUSE_TOKENS:
         run_source(jobs, f"greenhouse:{token}", from_greenhouse, token)
     for token in LEVER_TOKENS:

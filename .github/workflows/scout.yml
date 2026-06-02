@@ -3,14 +3,20 @@ name: scout-jobs
 on:
   schedule:
     - cron: "0 6 * * *"      # every day at 06:00 UTC
-  workflow_dispatch: {}        # adds a manual "Run workflow" button
+  workflow_dispatch: {}        # manual "Run workflow" button
   push:
     branches: [main]
     paths-ignore:
       - "jobs.json"            # don't re-trigger on the bot's own commit
 
 permissions:
-  contents: write              # lets the job commit jobs.json back
+  contents: write
+
+# Only one run at a time, queued (never cancelled) — stops runs racing
+# each other when they all try to commit jobs.json back to the repo.
+concurrency:
+  group: scout-jobs-commit
+  cancel-in-progress: false
 
 jobs:
   scout:
@@ -32,6 +38,12 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet -- jobs.json; then
+            echo "No changes to jobs.json — nothing to commit."
+            exit 0
+          fi
           git add jobs.json
-          git diff --quiet --staged || git commit -m "Update jobs $(date -u +%F)"
+          git commit -m "Update jobs $(date -u +'%Y-%m-%d %H:%M')"
+          # pull anything that landed on main since checkout, then push
+          git pull --rebase --autostash origin main
           git push
