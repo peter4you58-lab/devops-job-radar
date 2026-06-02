@@ -1,5 +1,110 @@
 {
-  "generated": "2026-06-02 01:12 UTC",
-  "count": 0,
-  "jobs": []
+  "generated": "2026-06-02 01:40 UTC",
+  "count": 13,
+  "jobs": [
+    {
+      "title": "Senior DevOps Engineer",
+      "company": "Experian",
+      "url": "https://jobicy.com/jobs/144464-senior-devops-engineer-5",
+      "location": "Costa Rica",
+      "fit": 100,
+      "source": "Jobicy"
+    },
+    {
+      "title": "Senior Site Reliability Engineer",
+      "company": "Akamai Technologies",
+      "url": "https://jobicy.com/jobs/143565-senior-site-reliability-engineer-3",
+      "location": "Poland",
+      "fit": 100,
+      "source": "Jobicy"
+    },
+    {
+      "title": "Senior Data Platform Engineer",
+      "company": "1Password",
+      "url": "https://jobicy.com/jobs/144689-senior-data-platform-engineer",
+      "location": "Canada,  USA",
+      "fit": 100,
+      "source": "Jobicy"
+    },
+    {
+      "title": "Platform Engineer",
+      "company": "Defense Unicorns",
+      "url": "https://jobicy.com/jobs/143041-platform-engineer",
+      "location": "USA",
+      "fit": 100,
+      "source": "Jobicy"
+    },
+    {
+      "title": "Staff MLOps Engineer (AI/ML Platform)",
+      "company": "Cint",
+      "url": "https://jobicy.com/jobs/143911-staff-mlops-engineer-ai-ml-platform",
+      "location": "UK",
+      "fit": 100,
+      "source": "Jobicy"
+    },
+    {
+      "title": "Lead Cloud Network Engineer",
+      "company": "Experian",
+      "url": "https://jobicy.com/jobs/144467-lead-cloud-network-engineer",
+      "location": "Costa Rica",
+      "fit": 100,
+      "source": "Jobicy"
+    },
+    {
+      "title": "BigData DevOps Engineer",
+      "company": "Experian",
+      "url": "https://jobicy.com/jobs/144462-bigdata-devops-engineer",
+      "location": "Costa Rica",
+      "fit": 83,
+      "source": "Jobicy"
+    },
+    {
+      "title": "Senior Site Reliability Engineer",
+      "company": "Cribl",
+      "url": "https://jobicy.com/jobs/144089-senior-site-reliability-engineer-4",
+      "location": "Poland",
+      "fit": 83,
+      "source": "Jobicy"
+    },
+    {
+      "title": "Cloud Security Engineer",
+      "company": "Stripe",
+      "url": "https://jobicy.com/jobs/143132-cloud-security-engineer",
+      "location": "USA",
+      "fit": 50,
+      "source": "Jobicy"
+    },
+    {
+      "title": "Senior AI Platform Engineer",
+      "company": "Samsara",
+      "url": "https://jobicy.com/jobs/143133-senior-ai-platform-engineer",
+      "location": "Canada",
+      "fit": 33,
+      "source": "Jobicy"
+    },
+    {
+      "title": "Staff Software Engineer, App Platform",
+      "company": "Fieldguide",
+      "url": "https://jobicy.com/jobs/144040-staff-software-engineer-app-platform",
+      "location": "USA",
+      "fit": 33,
+      "source": "Jobicy"
+    },
+    {
+      "title": "Software Engineer, Cloud",
+      "company": "Redpanda Data",
+      "url": "https://jobicy.com/jobs/144508-software-engineer-cloud",
+      "location": "Poland",
+      "fit": 33,
+      "source": "Jobicy"
+    },
+    {
+      "title": "Platform Support Engineer (Remote – Mexico Only)",
+      "company": "Varicent",
+      "url": "https://jobicy.com/jobs/143687-platform-support-engineer-remote-mexico-only",
+      "location": "Mexico",
+      "fit": 0,
+      "source": "Jobicy"
+    }
+  ]
 }
