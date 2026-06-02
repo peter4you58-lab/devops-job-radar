@@ -6,12 +6,15 @@ authorization, and write the result to jobs.json (served by GitHub Pages).
 
 No paid services. Runs anywhere Python + requests is available.
 """
-import json
 import sys
+import json
 import datetime
 import requests
 
-UA = {"User-Agent": "devops-job-radar (+https://github.com/peter4you58-lab/devops-job-radar)"}
+UA = {
+    "User-Agent": "devops-job-radar (+https://github.com/peter4you58-lab/devops-job-radar)",
+    "Accept": "application/json",
+}
 
 # --- TUNE THESE TO YOUR PROFILE -------------------------------------------
 
@@ -22,22 +25,30 @@ MY_STACK = [
     "datadog", "python", "bash", "linux", "gitops", "trivy", "kyverno",
 ]
 
-# Title must contain one of these, or the role is skipped.
+# A role is kept only if its title contains one of these.
 GOOD_TITLE = ["devops", "sre", "site reliability", "platform",
               "cloud", "infrastructure"]
 
-# If any of these appear, the role is dropped (US-authorization walls etc.).
+# Precise phrases only. If any appears, the role is dropped. These are
+# deliberately specific so a genuinely remote-worldwide role is NOT removed
+# just for mentioning the US in passing.
 BLOCKERS = [
-    "us only", "u.s. only", "united states only", "us-based only",
-    "authorized to work in the us", "authorized to work in the united states",
-    "us citizen", "u.s. citizen", "security clearance", "must reside in the us",
-    "must reside in the united states", "onsite", "on-site only",
+    "us citizen", "u.s. citizen", "must be a us citizen",
+    "security clearance", "active clearance", "ts/sci",
+    "authorized to work in the united states",
+    "authorized to work in the us", "us work authorization",
+    "must reside in the united states", "must reside in the us",
+    "united states only", "us-based only", "green card required",
 ]
 
+# Search terms used against the Remotive API (robust to category-slug changes).
+REMOTIVE_QUERIES = ["devops", "site reliability", "platform engineer",
+                    "cloud engineer", "infrastructure engineer"]
+
 # Company application boards to watch directly (clean JSON, never rot).
-# Find a Greenhouse token in a careers URL: boards.greenhouse.io/<TOKEN>
+# Greenhouse token = slug in boards.greenhouse.io/<TOKEN>
 GREENHOUSE_TOKENS = []          # e.g. ["gitlab"]
-# Find a Lever token in a careers URL: jobs.lever.co/<TOKEN>
+# Lever token = slug in jobs.lever.co/<TOKEN>
 LEVER_TOKENS = []               # e.g. ["someco"]
 
 # --------------------------------------------------------------------------
@@ -46,7 +57,6 @@ LEVER_TOKENS = []               # e.g. ["someco"]
 def score(text: str) -> int:
     t = text.lower()
     hits = sum(1 for k in MY_STACK if k in t)
-    # 6 strong matches == a perfect fit; cap at 100.
     return round(min(hits / 6, 1.0) * 100)
 
 
@@ -55,7 +65,7 @@ def blocked(text: str) -> bool:
     return any(b in t for b in BLOCKERS)
 
 
-def add(jobs: dict, *, title, company, url, location, text, source):
+def add(jobs, *, title, company, url, location, text, source):
     title = (title or "").strip()
     url = (url or "").strip()
     if not url or not title:
@@ -75,14 +85,15 @@ def add(jobs: dict, *, title, company, url, location, text, source):
 
 
 def from_remotive(jobs):
-    r = requests.get("https://remotive.com/api/remote-jobs?category=devops",
-                     headers=UA, timeout=30)
-    r.raise_for_status()
-    for j in r.json().get("jobs", []):
-        add(jobs, title=j.get("title", ""), company=j.get("company_name", ""),
-            url=j.get("url", ""),
-            location=j.get("candidate_required_location", ""),
-            text=j.get("description", ""), source="Remotive")
+    for term in REMOTIVE_QUERIES:
+        r = requests.get("https://remotive.com/api/remote-jobs",
+                         params={"search": term}, headers=UA, timeout=30)
+        r.raise_for_status()
+        for j in r.json().get("jobs", []):
+            add(jobs, title=j.get("title", ""),
+                company=j.get("company_name", ""), url=j.get("url", ""),
+                location=j.get("candidate_required_location", ""),
+                text=j.get("description", ""), source="Remotive")
 
 
 def from_remoteok(jobs):
@@ -120,30 +131,24 @@ def from_lever(jobs, token):
             text=j.get("descriptionPlain", ""), source=f"Lever:{token}")
 
 
+def run_source(jobs, name, fn, *args):
+    before = len(jobs)
+    try:
+        fn(jobs, *args)
+        print(f"[ok]   {name}: +{len(jobs) - before} kept (running total {len(jobs)})")
+    except Exception as exc:                           # noqa: BLE001
+        print(f"[skip] {name}: {exc}", file=sys.stderr)
+
+
 def main():
-    jobs: dict = {}
+    jobs = {}
 
-    base = [("Remotive", from_remotive), ("RemoteOK", from_remoteok)]
-    for name, fn in base:
-        try:
-            fn(jobs)
-            print(f"[ok]   {name}")
-        except Exception as exc:                       # noqa: BLE001
-            print(f"[skip] {name}: {exc}", file=sys.stderr)
-
+    run_source(jobs, "Remotive", from_remotive)
+    run_source(jobs, "RemoteOK", from_remoteok)
     for token in GREENHOUSE_TOKENS:
-        try:
-            from_greenhouse(jobs, token)
-            print(f"[ok]   greenhouse:{token}")
-        except Exception as exc:                       # noqa: BLE001
-            print(f"[skip] greenhouse:{token}: {exc}", file=sys.stderr)
-
+        run_source(jobs, f"greenhouse:{token}", from_greenhouse, token)
     for token in LEVER_TOKENS:
-        try:
-            from_lever(jobs, token)
-            print(f"[ok]   lever:{token}")
-        except Exception as exc:                       # noqa: BLE001
-            print(f"[skip] lever:{token}: {exc}", file=sys.stderr)
+        run_source(jobs, f"lever:{token}", from_lever, token)
 
     ranked = sorted(jobs.values(), key=lambda j: j["fit"], reverse=True)
     out = {
