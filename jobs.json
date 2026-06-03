@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-02 10:01 UTC",
-  "count": 13,
+  "generated": "2026-06-03 10:41 UTC",
+  "count": 16,
   "jobs": [
     {
       "title": "Senior DevOps Engineer",
@@ -59,11 +59,35 @@
       "source": "Jobicy"
     },
     {
+      "title": "(Senior) Site Reliability Engineer (m/f/d) – Platform & Agentic Operations",
+      "company": "1KOMMA5°",
+      "url": "https://jobicy.com/jobs/145278-senior-site-reliability-engineer-m-f-d-platform-agentic-operations",
+      "location": "Germany",
+      "fit": 83,
+      "source": "Jobicy"
+    },
+    {
       "title": "Senior Site Reliability Engineer",
       "company": "Cribl",
       "url": "https://jobicy.com/jobs/144089-senior-site-reliability-engineer-4",
       "location": "Poland",
       "fit": 83,
+      "source": "Jobicy"
+    },
+    {
+      "title": "Senior Staff Software Engineer – Data Platform",
+      "company": "Marqeta",
+      "url": "https://jobicy.com/jobs/145328-senior-staff-software-engineer-data-platform",
+      "location": "USA",
+      "fit": 50,
+      "source": "Jobicy"
+    },
+    {
+      "title": "Staff Cloud Security Engineer",
+      "company": "Temporal Technologies",
+      "url": "https://jobicy.com/jobs/145309-staff-cloud-security-engineer",
+      "location": "USA",
+      "fit": 50,
       "source": "Jobicy"
     },
     {
