@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-03 10:41 UTC",
+  "generated": "2026-06-04 09:41 UTC",
   "count": 16,
   "jobs": [
     {
@@ -27,14 +27,6 @@
       "source": "Jobicy"
     },
     {
-      "title": "Platform Engineer",
-      "company": "Defense Unicorns",
-      "url": "https://jobicy.com/jobs/143041-platform-engineer",
-      "location": "USA",
-      "fit": 100,
-      "source": "Jobicy"
-    },
-    {
       "title": "Staff MLOps Engineer (AI/ML Platform)",
       "company": "Cint",
       "url": "https://jobicy.com/jobs/143911-staff-mlops-engineer-ai-ml-platform",
@@ -48,6 +40,14 @@
       "url": "https://jobicy.com/jobs/144467-lead-cloud-network-engineer",
       "location": "Costa Rica",
       "fit": 100,
+      "source": "Jobicy"
+    },
+    {
+      "title": "DevOps / SysOps Engineer",
+      "company": "Harris Computer",
+      "url": "https://jobicy.com/jobs/145497-devops-sysops-engineer",
+      "location": "Netherlands",
+      "fit": 83,
       "source": "Jobicy"
     },
     {
