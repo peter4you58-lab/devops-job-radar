@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-05 09:27 UTC",
-  "count": 16,
+  "generated": "2026-06-06 08:22 UTC",
+  "count": 17,
   "jobs": [
     {
       "title": "Senior DevOps Engineer",
@@ -75,6 +75,22 @@
       "source": "Jobicy"
     },
     {
+      "title": "Staff Data Platform Engineer",
+      "company": "Crystal Intelligence",
+      "url": "https://jobicy.com/jobs/145655-staff-data-platform-engineer",
+      "location": "Portugal",
+      "fit": 83,
+      "source": "Jobicy"
+    },
+    {
+      "title": "Cloud Systems Engineer",
+      "company": "ECS",
+      "url": "https://jobicy.com/jobs/145638-cloud-systems-engineer",
+      "location": "USA",
+      "fit": 83,
+      "source": "Jobicy"
+    },
+    {
       "title": "Senior Staff Software Engineer – Data Platform",
       "company": "Marqeta",
       "url": "https://jobicy.com/jobs/145328-senior-staff-software-engineer-data-platform",
@@ -88,22 +104,6 @@
       "url": "https://jobicy.com/jobs/145309-staff-cloud-security-engineer",
       "location": "USA",
       "fit": 50,
-      "source": "Jobicy"
-    },
-    {
-      "title": "Cloud Security Engineer",
-      "company": "Stripe",
-      "url": "https://jobicy.com/jobs/143132-cloud-security-engineer",
-      "location": "USA",
-      "fit": 50,
-      "source": "Jobicy"
-    },
-    {
-      "title": "Senior AI Platform Engineer",
-      "company": "Samsara",
-      "url": "https://jobicy.com/jobs/143133-senior-ai-platform-engineer",
-      "location": "Canada",
-      "fit": 33,
       "source": "Jobicy"
     },
     {
@@ -129,6 +129,14 @@
       "location": "Mexico",
       "fit": 0,
       "source": "Jobicy"
+    },
+    {
+      "title": "Security Platform Engineer",
+      "company": "Lumin Digital",
+      "url": "https://remoteOK.com/remote-jobs/remote-security-platform-engineer-lumin-digital-1132826",
+      "location": "Remote",
+      "fit": 0,
+      "source": "RemoteOK"
     }
   ]
 }
