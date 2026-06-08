@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-07 08:43 UTC",
-  "count": 17,
+  "generated": "2026-06-08 10:14 UTC",
+  "count": 16,
   "jobs": [
     {
       "title": "Senior DevOps Engineer",
@@ -129,14 +129,6 @@
       "location": "Mexico",
       "fit": 0,
       "source": "Jobicy"
-    },
-    {
-      "title": "Security Platform Engineer",
-      "company": "Lumin Digital",
-      "url": "https://remoteOK.com/remote-jobs/remote-security-platform-engineer-lumin-digital-1132826",
-      "location": "Remote",
-      "fit": 0,
-      "source": "RemoteOK"
     }
   ]
 }
