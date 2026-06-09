@@ -1,7 +1,15 @@
 {
-  "generated": "2026-06-08 10:14 UTC",
-  "count": 16,
+  "generated": "2026-06-09 08:57 UTC",
+  "count": 17,
   "jobs": [
+    {
+      "title": "DevOps Engineer",
+      "company": "PSI CRO",
+      "url": "https://jobicy.com/jobs/145786-devops-engineer-3",
+      "location": "Latvia",
+      "fit": 100,
+      "source": "Jobicy"
+    },
     {
       "title": "Senior DevOps Engineer",
       "company": "Experian",
