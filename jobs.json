@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-09 08:57 UTC",
-  "count": 17,
+  "generated": "2026-06-10 09:38 UTC",
+  "count": 19,
   "jobs": [
     {
       "title": "DevOps Engineer",
@@ -51,6 +51,14 @@
       "source": "Jobicy"
     },
     {
+      "title": "Staff Software Engineer Infrastructure",
+      "company": "Docker",
+      "url": "https://remoteOK.com/remote-jobs/remote-staff-software-engineer-infrastructure-docker-1133025",
+      "location": "Remote",
+      "fit": 100,
+      "source": "RemoteOK"
+    },
+    {
       "title": "DevOps / SysOps Engineer",
       "company": "Harris Computer",
       "url": "https://jobicy.com/jobs/145497-devops-sysops-engineer",
@@ -87,6 +95,14 @@
       "company": "Crystal Intelligence",
       "url": "https://jobicy.com/jobs/145655-staff-data-platform-engineer",
       "location": "Portugal",
+      "fit": 83,
+      "source": "Jobicy"
+    },
+    {
+      "title": "Senior Software Engineer – Data Platform",
+      "company": "Samsara",
+      "url": "https://jobicy.com/jobs/145935-senior-software-engineer-data-platform-2",
+      "location": "USA",
       "fit": 83,
       "source": "Jobicy"
     },
