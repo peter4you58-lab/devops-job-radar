@@ -1,7 +1,15 @@
 {
-  "generated": "2026-06-10 09:38 UTC",
-  "count": 19,
+  "generated": "2026-06-11 10:03 UTC",
+  "count": 23,
   "jobs": [
+    {
+      "title": "Principal DevOps Engineer (Poland Remote)",
+      "company": "Turnitin, LLC",
+      "url": "https://jobicy.com/jobs/145949-principal-devops-engineer-poland-remote",
+      "location": "Poland",
+      "fit": 100,
+      "source": "Jobicy"
+    },
     {
       "title": "DevOps Engineer",
       "company": "PSI CRO",
@@ -51,14 +59,6 @@
       "source": "Jobicy"
     },
     {
-      "title": "Staff Software Engineer Infrastructure",
-      "company": "Docker",
-      "url": "https://remoteOK.com/remote-jobs/remote-staff-software-engineer-infrastructure-docker-1133025",
-      "location": "Remote",
-      "fit": 100,
-      "source": "RemoteOK"
-    },
-    {
       "title": "DevOps / SysOps Engineer",
       "company": "Harris Computer",
       "url": "https://jobicy.com/jobs/145497-devops-sysops-engineer",
@@ -99,6 +99,14 @@
       "source": "Jobicy"
     },
     {
+      "title": "Senior Machine Learning Engineer, AI Platform",
+      "company": "Mozilla",
+      "url": "https://jobicy.com/jobs/146091-senior-machine-learning-engineer-ai-platform",
+      "location": "Canada",
+      "fit": 83,
+      "source": "Jobicy"
+    },
+    {
       "title": "Senior Software Engineer – Data Platform",
       "company": "Samsara",
       "url": "https://jobicy.com/jobs/145935-senior-software-engineer-data-platform-2",
@@ -112,6 +120,22 @@
       "url": "https://jobicy.com/jobs/145638-cloud-systems-engineer",
       "location": "USA",
       "fit": 83,
+      "source": "Jobicy"
+    },
+    {
+      "title": "Staff Software Engineer – Platform, SysEng | Canada | Remote",
+      "company": "Grafana Labs",
+      "url": "https://jobicy.com/jobs/146089-staff-software-engineer-platform-syseng-canada-remote",
+      "location": "Canada",
+      "fit": 67,
+      "source": "Jobicy"
+    },
+    {
+      "title": "Senior Software Engineer, Backend – Platform Team",
+      "company": "Cresta",
+      "url": "https://jobicy.com/jobs/146081-senior-software-engineer-backend-platform-team",
+      "location": "Canada",
+      "fit": 67,
       "source": "Jobicy"
     },
     {
@@ -144,6 +168,14 @@
       "url": "https://jobicy.com/jobs/144508-software-engineer-cloud",
       "location": "Poland",
       "fit": 33,
+      "source": "Jobicy"
+    },
+    {
+      "title": "Senior Platform Engineer (Network and Edge Services)",
+      "company": "1Password",
+      "url": "https://jobicy.com/jobs/146088-senior-platform-engineer-network-and-edge-services",
+      "location": "Canada,  USA",
+      "fit": 17,
       "source": "Jobicy"
     },
     {
