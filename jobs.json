@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-12 09:55 UTC",
-  "count": 22,
+  "generated": "2026-06-13 08:45 UTC",
+  "count": 24,
   "jobs": [
     {
       "title": "Principal DevOps Engineer (Poland Remote)",
@@ -48,6 +48,14 @@
       "url": "https://jobicy.com/jobs/144467-lead-cloud-network-engineer",
       "location": "Costa Rica",
       "fit": 100,
+      "source": "Jobicy"
+    },
+    {
+      "title": "Senior DevOps Engineer – Financial Company – (Remote/LATAM)",
+      "company": "Truelogic",
+      "url": "https://jobicy.com/jobs/146308-senior-devops-engineer-financial-company-remote-latam",
+      "location": "LATAM",
+      "fit": 83,
       "source": "Jobicy"
     },
     {
@@ -115,6 +123,14 @@
       "source": "Jobicy"
     },
     {
+      "title": "Lead Data Platform Engineer",
+      "company": "saas.group",
+      "url": "https://jobicy.com/jobs/146232-lead-data-platform-engineer",
+      "location": "Europe",
+      "fit": 67,
+      "source": "Jobicy"
+    },
+    {
       "title": "Staff Software Engineer – Platform, SysEng | Canada | Remote",
       "company": "Grafana Labs",
       "url": "https://jobicy.com/jobs/146089-staff-software-engineer-platform-syseng-canada-remote",
@@ -147,6 +163,14 @@
       "source": "Jobicy"
     },
     {
+      "title": "Senior/Lead Data Engineer – AI-Native Aftermarket Platform",
+      "company": "Truelogic",
+      "url": "https://jobicy.com/jobs/146282-senior-lead-data-engineer-ai-native-aftermarket-platform",
+      "location": "LATAM",
+      "fit": 33,
+      "source": "Jobicy"
+    },
+    {
       "title": "Staff Software Engineer, App Platform",
       "company": "Fieldguide",
       "url": "https://jobicy.com/jobs/144040-staff-software-engineer-app-platform",
@@ -168,14 +192,6 @@
       "url": "https://jobicy.com/jobs/146088-senior-platform-engineer-network-and-edge-services",
       "location": "Canada,  USA",
       "fit": 17,
-      "source": "Jobicy"
-    },
-    {
-      "title": "Platform Support Engineer (Remote – Mexico Only)",
-      "company": "Varicent",
-      "url": "https://jobicy.com/jobs/143687-platform-support-engineer-remote-mexico-only",
-      "location": "Mexico",
-      "fit": 0,
       "source": "Jobicy"
     }
   ]
