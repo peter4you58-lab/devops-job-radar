@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-15 11:42 UTC",
-  "count": 23,
+  "generated": "2026-06-16 10:51 UTC",
+  "count": 24,
   "jobs": [
     {
       "title": "Principal DevOps Engineer (Poland Remote)",
@@ -152,6 +152,14 @@
       "url": "https://jobicy.com/jobs/145309-staff-cloud-security-engineer",
       "location": "USA",
       "fit": 50,
+      "source": "Jobicy"
+    },
+    {
+      "title": "Principal DevOps Engineer",
+      "company": "Zartis",
+      "url": "https://jobicy.com/jobs/146762-principal-devops-engineer",
+      "location": "Europe",
+      "fit": 33,
       "source": "Jobicy"
     },
     {
