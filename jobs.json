@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-16 10:51 UTC",
-  "count": 24,
+  "generated": "2026-06-17 10:23 UTC",
+  "count": 23,
   "jobs": [
     {
       "title": "Principal DevOps Engineer (Poland Remote)",
@@ -23,6 +23,14 @@
       "company": "Experian",
       "url": "https://jobicy.com/jobs/144464-senior-devops-engineer-5",
       "location": "Costa Rica",
+      "fit": 100,
+      "source": "Jobicy"
+    },
+    {
+      "title": "Senior Site Reliability Engineer (Remote Build)",
+      "company": "Remote",
+      "url": "https://jobicy.com/jobs/146979-senior-site-reliability-engineer-remote-build",
+      "location": "EMEA",
       "fit": 100,
       "source": "Jobicy"
     },
@@ -79,14 +87,6 @@
       "company": "Cribl",
       "url": "https://jobicy.com/jobs/144089-senior-site-reliability-engineer-4",
       "location": "Poland",
-      "fit": 83,
-      "source": "Jobicy"
-    },
-    {
-      "title": "Staff Data Platform Engineer",
-      "company": "Crystal Intelligence",
-      "url": "https://jobicy.com/jobs/145655-staff-data-platform-engineer",
-      "location": "Portugal",
       "fit": 83,
       "source": "Jobicy"
     },
@@ -167,14 +167,6 @@
       "company": "Truelogic",
       "url": "https://jobicy.com/jobs/146282-senior-lead-data-engineer-ai-native-aftermarket-platform",
       "location": "LATAM",
-      "fit": 33,
-      "source": "Jobicy"
-    },
-    {
-      "title": "Staff Software Engineer, App Platform",
-      "company": "Fieldguide",
-      "url": "https://jobicy.com/jobs/144040-staff-software-engineer-app-platform",
-      "location": "USA",
       "fit": 33,
       "source": "Jobicy"
     },
