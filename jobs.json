@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-17 10:23 UTC",
+  "generated": "2026-06-18 10:03 UTC",
   "count": 23,
   "jobs": [
     {
@@ -83,14 +83,6 @@
       "source": "Jobicy"
     },
     {
-      "title": "Senior Site Reliability Engineer",
-      "company": "Cribl",
-      "url": "https://jobicy.com/jobs/144089-senior-site-reliability-engineer-4",
-      "location": "Poland",
-      "fit": 83,
-      "source": "Jobicy"
-    },
-    {
       "title": "Senior Machine Learning Engineer, AI Platform",
       "company": "Mozilla",
       "url": "https://jobicy.com/jobs/146091-senior-machine-learning-engineer-ai-platform",
@@ -159,6 +151,14 @@
       "company": "Zartis",
       "url": "https://jobicy.com/jobs/146762-principal-devops-engineer",
       "location": "Europe",
+      "fit": 33,
+      "source": "Jobicy"
+    },
+    {
+      "title": "Staff Software Engineer, App Platform",
+      "company": "Fieldguide",
+      "url": "https://jobicy.com/jobs/144040-staff-software-engineer-app-platform",
+      "location": "USA",
       "fit": 33,
       "source": "Jobicy"
     },
