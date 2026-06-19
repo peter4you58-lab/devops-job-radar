@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-18 10:03 UTC",
-  "count": 23,
+  "generated": "2026-06-19 10:10 UTC",
+  "count": 25,
   "jobs": [
     {
       "title": "Principal DevOps Engineer (Poland Remote)",
@@ -43,6 +43,14 @@
       "source": "Jobicy"
     },
     {
+      "title": "Staff MLOps Engineer (AI/ML Platform)",
+      "company": "Cint",
+      "url": "https://jobicy.com/jobs/143911-staff-mlops-engineer-ai-ml-platform",
+      "location": "UK",
+      "fit": 100,
+      "source": "Jobicy"
+    },
+    {
       "title": "Lead Cloud Network Engineer",
       "company": "Experian",
       "url": "https://jobicy.com/jobs/144467-lead-cloud-network-engineer",
@@ -71,6 +79,14 @@
       "company": "Experian",
       "url": "https://jobicy.com/jobs/144462-bigdata-devops-engineer",
       "location": "Costa Rica",
+      "fit": 83,
+      "source": "Jobicy"
+    },
+    {
+      "title": "Senior Site Reliability Engineer",
+      "company": "Cribl",
+      "url": "https://jobicy.com/jobs/144089-senior-site-reliability-engineer-4",
+      "location": "Poland",
       "fit": 83,
       "source": "Jobicy"
     },
