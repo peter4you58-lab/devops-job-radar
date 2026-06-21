@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-20 08:38 UTC",
-  "count": 26,
+  "generated": "2026-06-21 09:33 UTC",
+  "count": 27,
   "jobs": [
     {
       "title": "Principal DevOps Engineer (Poland Remote)",
@@ -199,6 +199,14 @@
       "company": "1Password",
       "url": "https://jobicy.com/jobs/146088-senior-platform-engineer-network-and-edge-services",
       "location": "Canada,  USA",
+      "fit": 17,
+      "source": "Jobicy"
+    },
+    {
+      "title": "Principal Engineer – AI Platform",
+      "company": "iHerb",
+      "url": "https://jobicy.com/jobs/147337-principal-engineer-ai-platform",
+      "location": "USA",
       "fit": 17,
       "source": "Jobicy"
     },
