@@ -1,7 +1,15 @@
 {
-  "generated": "2026-06-22 11:31 UTC",
-  "count": 27,
+  "generated": "2026-06-23 08:56 UTC",
+  "count": 25,
   "jobs": [
+    {
+      "title": "Senior DevOps Engineer",
+      "company": "Experian",
+      "url": "https://jobicy.com/jobs/144464-senior-devops-engineer-5",
+      "location": "Costa Rica",
+      "fit": 100,
+      "source": "Jobicy"
+    },
     {
       "title": "Principal DevOps Engineer (Poland Remote)",
       "company": "Turnitin, LLC",
@@ -15,14 +23,6 @@
       "company": "PSI CRO",
       "url": "https://jobicy.com/jobs/145786-devops-engineer-3",
       "location": "Latvia",
-      "fit": 100,
-      "source": "Jobicy"
-    },
-    {
-      "title": "Senior DevOps Engineer",
-      "company": "Experian",
-      "url": "https://jobicy.com/jobs/144464-senior-devops-engineer-5",
-      "location": "Costa Rica",
       "fit": 100,
       "source": "Jobicy"
     },
@@ -63,22 +63,6 @@
       "company": "Truelogic",
       "url": "https://jobicy.com/jobs/146308-senior-devops-engineer-financial-company-remote-latam",
       "location": "LATAM",
-      "fit": 83,
-      "source": "Jobicy"
-    },
-    {
-      "title": "DevOps / SysOps Engineer",
-      "company": "Harris Computer",
-      "url": "https://jobicy.com/jobs/145497-devops-sysops-engineer",
-      "location": "Netherlands",
-      "fit": 83,
-      "source": "Jobicy"
-    },
-    {
-      "title": "BigData DevOps Engineer",
-      "company": "Experian",
-      "url": "https://jobicy.com/jobs/144462-bigdata-devops-engineer",
-      "location": "Costa Rica",
       "fit": 83,
       "source": "Jobicy"
     },
@@ -203,20 +187,20 @@
       "source": "Jobicy"
     },
     {
+      "title": "Senior Machine Learning Systems Engineer, Ads ML Experience Platform",
+      "company": "Reddit",
+      "url": "https://jobicy.com/jobs/147489-senior-machine-learning-systems-engineer-ads-ml-experience-platform",
+      "location": "USA",
+      "fit": 17,
+      "source": "Jobicy"
+    },
+    {
       "title": "Principal Engineer – AI Platform",
       "company": "iHerb",
       "url": "https://jobicy.com/jobs/147337-principal-engineer-ai-platform",
       "location": "USA",
       "fit": 17,
       "source": "Jobicy"
-    },
-    {
-      "title": "IT Infrastructure Systems Lead",
-      "company": "Monde Nissin Corporation",
-      "url": "https://remoteOK.com/remote-jobs/remote-it-infrastructure-systems-lead-monde-nissin-corporation-1133707",
-      "location": "Pasig, Pasig, National Capital Region, Philippines",
-      "fit": 17,
-      "source": "RemoteOK"
     }
   ]
 }
