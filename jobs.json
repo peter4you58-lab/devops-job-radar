@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-23 08:56 UTC",
-  "count": 25,
+  "generated": "2026-06-24 08:51 UTC",
+  "count": 27,
   "jobs": [
     {
       "title": "Senior DevOps Engineer",
@@ -43,6 +43,14 @@
       "source": "Jobicy"
     },
     {
+      "title": "Software Engineer, AI Agent Platform",
+      "company": "QAD, Inc.",
+      "url": "https://jobicy.com/jobs/147582-software-engineer-ai-agent-platform",
+      "location": "Mexico",
+      "fit": 100,
+      "source": "Jobicy"
+    },
+    {
       "title": "Staff MLOps Engineer (AI/ML Platform)",
       "company": "Cint",
       "url": "https://jobicy.com/jobs/143911-staff-mlops-engineer-ai-ml-platform",
@@ -56,6 +64,14 @@
       "url": "https://jobicy.com/jobs/144467-lead-cloud-network-engineer",
       "location": "Costa Rica",
       "fit": 100,
+      "source": "Jobicy"
+    },
+    {
+      "title": "BigData DevOps Engineer",
+      "company": "Experian",
+      "url": "https://jobicy.com/jobs/144462-bigdata-devops-engineer",
+      "location": "Costa Rica",
+      "fit": 83,
       "source": "Jobicy"
     },
     {
