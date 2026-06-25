@@ -1,7 +1,15 @@
 {
-  "generated": "2026-06-24 08:51 UTC",
-  "count": 27,
+  "generated": "2026-06-25 08:49 UTC",
+  "count": 28,
   "jobs": [
+    {
+      "title": "Sr. Video Streaming DevOps Engineer",
+      "company": "NBCUniversal",
+      "url": "https://jobicy.com/jobs/147693-sr-video-streaming-devops-engineer",
+      "location": "USA",
+      "fit": 100,
+      "source": "Jobicy"
+    },
     {
       "title": "Senior DevOps Engineer",
       "company": "Experian",
@@ -64,14 +72,6 @@
       "url": "https://jobicy.com/jobs/144467-lead-cloud-network-engineer",
       "location": "Costa Rica",
       "fit": 100,
-      "source": "Jobicy"
-    },
-    {
-      "title": "BigData DevOps Engineer",
-      "company": "Experian",
-      "url": "https://jobicy.com/jobs/144462-bigdata-devops-engineer",
-      "location": "Costa Rica",
-      "fit": 83,
       "source": "Jobicy"
     },
     {
@@ -216,6 +216,14 @@
       "url": "https://jobicy.com/jobs/147337-principal-engineer-ai-platform",
       "location": "USA",
       "fit": 17,
+      "source": "Jobicy"
+    },
+    {
+      "title": "Engineering Manager, Service Platform",
+      "company": "Instacart",
+      "url": "https://jobicy.com/jobs/147603-engineering-manager-service-platform",
+      "location": "Canada",
+      "fit": 0,
       "source": "Jobicy"
     }
   ]
