@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-25 08:49 UTC",
-  "count": 28,
+  "generated": "2026-06-26 08:48 UTC",
+  "count": 33,
   "jobs": [
     {
       "title": "Sr. Video Streaming DevOps Engineer",
@@ -39,6 +39,14 @@
       "company": "Remote",
       "url": "https://jobicy.com/jobs/146979-senior-site-reliability-engineer-remote-build",
       "location": "EMEA",
+      "fit": 100,
+      "source": "Jobicy"
+    },
+    {
+      "title": "Platform Engineer",
+      "company": "Defense Unicorns",
+      "url": "https://jobicy.com/jobs/143041-platform-engineer",
+      "location": "USA",
       "fit": 100,
       "source": "Jobicy"
     },
@@ -115,12 +123,28 @@
       "source": "Jobicy"
     },
     {
+      "title": "Senior Cloud Software Engineer",
+      "company": "Twilio",
+      "url": "https://jobicy.com/jobs/142478-senior-cloud-software-engineer",
+      "location": "Spain",
+      "fit": 83,
+      "source": "Jobicy"
+    },
+    {
       "title": "Cloud Systems Engineer",
       "company": "ECS",
       "url": "https://jobicy.com/jobs/145638-cloud-systems-engineer",
       "location": "USA",
       "fit": 83,
       "source": "Jobicy"
+    },
+    {
+      "title": "Senior DevOps Engineer",
+      "company": "Lemon.io",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-devops-engineer-lemon-io-1134015",
+      "location": "Remote",
+      "fit": 83,
+      "source": "RemoteOK"
     },
     {
       "title": "Lead Data Platform Engineer",
@@ -144,6 +168,14 @@
       "url": "https://jobicy.com/jobs/146081-senior-software-engineer-backend-platform-team",
       "location": "Canada",
       "fit": 67,
+      "source": "Jobicy"
+    },
+    {
+      "title": "Senior Engineering Manager, Platform Delivery",
+      "company": "Upstart",
+      "url": "https://jobicy.com/jobs/142530-senior-engineering-manager-platform-delivery",
+      "location": "USA",
+      "fit": 50,
       "source": "Jobicy"
     },
     {
@@ -183,6 +215,14 @@
       "company": "Truelogic",
       "url": "https://jobicy.com/jobs/146282-senior-lead-data-engineer-ai-native-aftermarket-platform",
       "location": "LATAM",
+      "fit": 33,
+      "source": "Jobicy"
+    },
+    {
+      "title": "Cloud Support Engineer",
+      "company": "Platform.sh",
+      "url": "https://jobicy.com/jobs/142481-cloud-support-engineer",
+      "location": "Spain",
       "fit": 33,
       "source": "Jobicy"
     },
