@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-29 10:19 UTC",
-  "count": 6,
+  "generated": "2026-06-30 08:53 UTC",
+  "count": 7,
   "jobs": [
     {
       "title": "Sr. Video Streaming DevOps Engineer",
@@ -40,6 +40,14 @@
       "url": "https://jobicy.com/jobs/146308-senior-devops-engineer-financial-company-remote-latam",
       "location": "LATAM",
       "fit": 83,
+      "source": "Jobicy"
+    },
+    {
+      "title": "Senior DevOps Engineer",
+      "company": "Zartis",
+      "url": "https://jobicy.com/jobs/148116-senior-devops-engineer",
+      "location": "EMEA,  LATAM",
+      "fit": 50,
       "source": "Jobicy"
     },
     {
