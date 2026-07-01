@@ -1,7 +1,15 @@
 {
-  "generated": "2026-06-30 08:53 UTC",
-  "count": 7,
+  "generated": "2026-07-01 09:27 UTC",
+  "count": 9,
   "jobs": [
+    {
+      "title": "Principal DevOps Engineer",
+      "company": "NBCUniversal",
+      "url": "https://jobicy.com/jobs/148200-principal-devops-engineer-2",
+      "location": "USA",
+      "fit": 100,
+      "source": "Jobicy"
+    },
     {
       "title": "Sr. Video Streaming DevOps Engineer",
       "company": "NBCUniversal",
@@ -40,6 +48,14 @@
       "url": "https://jobicy.com/jobs/146308-senior-devops-engineer-financial-company-remote-latam",
       "location": "LATAM",
       "fit": 83,
+      "source": "Jobicy"
+    },
+    {
+      "title": "DevOps Senior Engineer",
+      "company": "Experian",
+      "url": "https://jobicy.com/jobs/148202-devops-senior-engineer",
+      "location": "Costa Rica",
+      "fit": 50,
       "source": "Jobicy"
     },
     {
