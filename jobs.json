@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-03 08:46 UTC",
-  "count": 8,
+  "generated": "2026-07-04 08:21 UTC",
+  "count": 47,
   "jobs": [
     {
       "title": "Principal DevOps Engineer",
@@ -35,11 +35,195 @@
       "source": "Jobicy"
     },
     {
+      "title": "Senior Site Reliability Engineer",
+      "company": "Remote",
+      "url": "https://jobicy.com/jobs/148108-senior-site-reliability-engineer",
+      "location": "EMEA",
+      "fit": 100,
+      "source": "Jobicy"
+    },
+    {
+      "title": "Senior Site Reliability Engineer",
+      "company": "Akamai Technologies",
+      "url": "https://jobicy.com/jobs/143565-senior-site-reliability-engineer-3",
+      "location": "Poland",
+      "fit": 100,
+      "source": "Jobicy"
+    },
+    {
+      "title": "Lead Cloud Solution Architect- Application Modernization (AWS)",
+      "company": "World Wide Technology",
+      "url": "https://jobicy.com/jobs/147047-lead-cloud-solution-architect-application-modernization-aws",
+      "location": "USA",
+      "fit": 100,
+      "source": "Jobicy"
+    },
+    {
+      "title": "Senior Site Reliability Engineer (Remote Build)",
+      "company": "Remote",
+      "url": "https://jobicy.com/jobs/146979-senior-site-reliability-engineer-remote-build",
+      "location": "EMEA",
+      "fit": 100,
+      "source": "Jobicy"
+    },
+    {
+      "title": "MTS Cloud Test",
+      "company": "Aviatrix",
+      "url": "https://jobicy.com/jobs/145145-mts-cloud-test",
+      "location": "USA",
+      "fit": 100,
+      "source": "Jobicy"
+    },
+    {
+      "title": "Platform Engineer",
+      "company": "Defense Unicorns",
+      "url": "https://jobicy.com/jobs/143041-platform-engineer",
+      "location": "USA",
+      "fit": 100,
+      "source": "Jobicy"
+    },
+    {
+      "title": "Software Engineer, AI Agent Platform",
+      "company": "QAD, Inc.",
+      "url": "https://jobicy.com/jobs/147582-software-engineer-ai-agent-platform",
+      "location": "Mexico",
+      "fit": 100,
+      "source": "Jobicy"
+    },
+    {
+      "title": "Infrastructure Engineer",
+      "company": "Roboflow",
+      "url": "https://jobicy.com/jobs/147331-infrastructure-engineer",
+      "location": "USA",
+      "fit": 100,
+      "source": "Jobicy"
+    },
+    {
+      "title": "Staff MLOps Engineer (AI/ML Platform)",
+      "company": "Cint",
+      "url": "https://jobicy.com/jobs/143911-staff-mlops-engineer-ai-ml-platform",
+      "location": "UK",
+      "fit": 100,
+      "source": "Jobicy"
+    },
+    {
+      "title": "Senior Data Platform Engineer",
+      "company": "1Password",
+      "url": "https://jobicy.com/jobs/144689-senior-data-platform-engineer",
+      "location": "Canada,  USA",
+      "fit": 100,
+      "source": "Jobicy"
+    },
+    {
+      "title": "Lead Cloud Network Engineer",
+      "company": "Experian",
+      "url": "https://jobicy.com/jobs/144467-lead-cloud-network-engineer",
+      "location": "Costa Rica",
+      "fit": 100,
+      "source": "Jobicy"
+    },
+    {
       "title": "Senior DevOps Engineer - Financial Company - (Remote/LATAM)",
       "company": "Truelogic",
       "url": "https://jobicy.com/jobs/146308-senior-devops-engineer-financial-company-remote-latam",
       "location": "LATAM",
       "fit": 83,
+      "source": "Jobicy"
+    },
+    {
+      "title": "(Senior) Site Reliability Engineer (m/f/d) - Platform & Agentic Operations",
+      "company": "1KOMMA5°",
+      "url": "https://jobicy.com/jobs/145278-senior-site-reliability-engineer-m-f-d-platform-agentic-operations",
+      "location": "Germany",
+      "fit": 83,
+      "source": "Jobicy"
+    },
+    {
+      "title": "Engineering Manager, Internal Developer Platform",
+      "company": "Chainguard",
+      "url": "https://jobicy.com/jobs/148144-engineering-manager-internal-developer-platform",
+      "location": "USA",
+      "fit": 83,
+      "source": "Jobicy"
+    },
+    {
+      "title": "Customer Reliability Engineer - Infrastructure",
+      "company": "Astronomer",
+      "url": "https://jobicy.com/jobs/147812-customer-reliability-engineer-infrastructure",
+      "location": "USA",
+      "fit": 83,
+      "source": "Jobicy"
+    },
+    {
+      "title": "Senior Cloud Software Engineer",
+      "company": "Twilio",
+      "url": "https://jobicy.com/jobs/142478-senior-cloud-software-engineer",
+      "location": "Spain",
+      "fit": 83,
+      "source": "Jobicy"
+    },
+    {
+      "title": "Senior Cloud AI Software Developer",
+      "company": "TELUS",
+      "url": "https://jobicy.com/jobs/143127-senior-cloud-ai-software-developer",
+      "location": "Canada",
+      "fit": 83,
+      "source": "Jobicy"
+    },
+    {
+      "title": "Senior Site Reliability Engineer",
+      "company": "Cribl",
+      "url": "https://jobicy.com/jobs/144089-senior-site-reliability-engineer-4",
+      "location": "Poland",
+      "fit": 83,
+      "source": "Jobicy"
+    },
+    {
+      "title": "Senior Software Engineer - Data Platform",
+      "company": "Samsara",
+      "url": "https://jobicy.com/jobs/145935-senior-software-engineer-data-platform-2",
+      "location": "USA",
+      "fit": 83,
+      "source": "Jobicy"
+    },
+    {
+      "title": "Cloud Systems Engineer",
+      "company": "ECS",
+      "url": "https://jobicy.com/jobs/145638-cloud-systems-engineer",
+      "location": "USA",
+      "fit": 83,
+      "source": "Jobicy"
+    },
+    {
+      "title": "MTS Site Reliability Engineer",
+      "company": "Aviatrix",
+      "url": "https://jobicy.com/jobs/141982-mts-site-reliability-engineer",
+      "location": "USA",
+      "fit": 67,
+      "source": "Jobicy"
+    },
+    {
+      "title": "Technical Product Manager - AI Compute Platform",
+      "company": "Nebius",
+      "url": "https://jobicy.com/jobs/147407-technical-product-manager-ai-compute-platform",
+      "location": "Europe,  Netherlands",
+      "fit": 67,
+      "source": "Jobicy"
+    },
+    {
+      "title": "Lead Data Platform Engineer",
+      "company": "saas.group",
+      "url": "https://jobicy.com/jobs/146232-lead-data-platform-engineer",
+      "location": "Europe",
+      "fit": 67,
+      "source": "Jobicy"
+    },
+    {
+      "title": "Senior Software Engineer, Backend - Platform Team",
+      "company": "Cresta",
+      "url": "https://jobicy.com/jobs/146081-senior-software-engineer-backend-platform-team",
+      "location": "Canada",
+      "fit": 67,
       "source": "Jobicy"
     },
     {
@@ -51,10 +235,34 @@
       "source": "Jobicy"
     },
     {
-      "title": "Senior DevOps Engineer",
+      "title": "Senior Engineering Manager, Platform Delivery",
+      "company": "Upstart",
+      "url": "https://jobicy.com/jobs/142530-senior-engineering-manager-platform-delivery",
+      "location": "USA",
+      "fit": 50,
+      "source": "Jobicy"
+    },
+    {
+      "title": "Staff Cloud Security Engineer",
+      "company": "Temporal Technologies",
+      "url": "https://jobicy.com/jobs/145309-staff-cloud-security-engineer",
+      "location": "USA",
+      "fit": 50,
+      "source": "Jobicy"
+    },
+    {
+      "title": "Senior Platform Engineer",
       "company": "Zartis",
-      "url": "https://jobicy.com/jobs/148116-senior-devops-engineer",
-      "location": "EMEA,  LATAM",
+      "url": "https://jobicy.com/jobs/148224-senior-platform-engineer",
+      "location": "Europe",
+      "fit": 50,
+      "source": "Jobicy"
+    },
+    {
+      "title": "Senior Staff Software Engineer - Data Platform",
+      "company": "Marqeta",
+      "url": "https://jobicy.com/jobs/145328-senior-staff-software-engineer-data-platform",
+      "location": "USA",
       "fit": 50,
       "source": "Jobicy"
     },
@@ -64,6 +272,110 @@
       "url": "https://jobicy.com/jobs/146762-principal-devops-engineer",
       "location": "Europe",
       "fit": 33,
+      "source": "Jobicy"
+    },
+    {
+      "title": "Staff Software Engineer, App Platform",
+      "company": "Fieldguide",
+      "url": "https://jobicy.com/jobs/144040-staff-software-engineer-app-platform",
+      "location": "USA",
+      "fit": 33,
+      "source": "Jobicy"
+    },
+    {
+      "title": "Senior/Lead Data Engineer – AI-Native Aftermarket Platform",
+      "company": "Truelogic",
+      "url": "https://jobicy.com/jobs/146282-senior-lead-data-engineer-ai-native-aftermarket-platform",
+      "location": "LATAM",
+      "fit": 33,
+      "source": "Jobicy"
+    },
+    {
+      "title": "Senior Software Engineer - Customer Experience Platform",
+      "company": "Hopper",
+      "url": "https://jobicy.com/jobs/148319-senior-software-engineer-customer-experience-platform",
+      "location": "USA",
+      "fit": 17,
+      "source": "Jobicy"
+    },
+    {
+      "title": "Developer Intern, Trust Platforms - Fall 2026",
+      "company": "1Password",
+      "url": "https://jobicy.com/jobs/146075-developer-intern-trust-platforms-fall-2026",
+      "location": "Canada,  USA",
+      "fit": 17,
+      "source": "Jobicy"
+    },
+    {
+      "title": "Senior Manager, IT Platform Engineering - FIXED TERM",
+      "company": "ŌURA",
+      "url": "https://jobicy.com/jobs/148338-senior-manager-it-platform-engineering-fixed-term",
+      "location": "USA",
+      "fit": 17,
+      "source": "Jobicy"
+    },
+    {
+      "title": "Senior Platform Engineer (Network and Edge Services)",
+      "company": "1Password",
+      "url": "https://jobicy.com/jobs/146088-senior-platform-engineer-network-and-edge-services",
+      "location": "Canada,  USA",
+      "fit": 17,
+      "source": "Jobicy"
+    },
+    {
+      "title": "Senior Machine Learning Systems Engineer, Ads ML Experience Platform",
+      "company": "Reddit",
+      "url": "https://jobicy.com/jobs/147489-senior-machine-learning-systems-engineer-ads-ml-experience-platform",
+      "location": "USA",
+      "fit": 17,
+      "source": "Jobicy"
+    },
+    {
+      "title": "Principal Engineer - AI Platform",
+      "company": "iHerb",
+      "url": "https://jobicy.com/jobs/147337-principal-engineer-ai-platform",
+      "location": "USA",
+      "fit": 17,
+      "source": "Jobicy"
+    },
+    {
+      "title": "Staff Technical Product Manager, Ads ML Platform",
+      "company": "Reddit",
+      "url": "https://jobicy.com/jobs/145336-staff-technical-product-manager-ads-ml-platform",
+      "location": "USA",
+      "fit": 0,
+      "source": "Jobicy"
+    },
+    {
+      "title": "Senior Technical Product Manager, Ads ML Platform",
+      "company": "Reddit",
+      "url": "https://jobicy.com/jobs/144634-senior-technical-product-manager-ads-ml-platform",
+      "location": "USA",
+      "fit": 0,
+      "source": "Jobicy"
+    },
+    {
+      "title": "Platform Support Engineer (Remote - Mexico Only)",
+      "company": "Varicent",
+      "url": "https://jobicy.com/jobs/143687-platform-support-engineer-remote-mexico-only",
+      "location": "Mexico",
+      "fit": 0,
+      "source": "Jobicy"
+    },
+    {
+      "title": "Engineering Manager, Service Platform",
+      "company": "Instacart",
+      "url": "https://jobicy.com/jobs/147603-engineering-manager-service-platform",
+      "location": "Canada",
+      "fit": 0,
+      "source": "Jobicy"
+    },
+    {
+      "title": "Program Lead, Strategic Partnerships (Cloud / AI / Data)",
+      "company": "Experian",
+      "url": "https://jobicy.com/jobs/146375-program-lead-strategic-partnerships-cloud-ai-data",
+      "location": "USA",
+      "fit": 0,
       "source": "Jobicy"
     }
   ]
