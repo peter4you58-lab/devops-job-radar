@@ -1,0 +1,69 @@
+{
+  "profile": {
+    "years": 4,
+    "base": "Nigeria",
+    "note": "Edit these lists as you learn which companies actually respond."
+  },
+
+  "allowlist": [
+    "andela", "turing", "toptal", "x-team", "xteam", "deel", "terminal",
+    "gitlab", "automattic", "zapier", "doist", "buffer", "canonical",
+    "paystack", "moniepoint", "flutterwave", "kuda", "reliance health",
+    "quidax", "remote.com", "oyster", "crossover", "talentql", "crewscale"
+  ],
+
+  "global_signals": [
+    "remote anywhere", "remote - anywhere", "remote \u2013 anywhere", "remote, anywhere",
+    "worldwide", "world wide", "world-wide", "remote global", "remote - global",
+    "remote \u2013 global", "work from anywhere", "anywhere in the world",
+    "fully distributed", "globally distributed", "async-first", "async first",
+    "global remote", "100% remote"
+  ],
+
+  "africa_signals": [
+    "africa", "nigeria", "lagos", "abuja", "open to africa", "including africa",
+    "west africa", "wat timezone", "wat time zone"
+  ],
+
+  "block_seniority": [
+    "principal", "staff engineer", "staff devops", "staff sre", "staff platform",
+    "director", "head of", "vp ", "vice president", "chief", "distinguished"
+  ],
+
+  "soft_seniority": ["senior", "lead", "sr.", "sr "],
+
+  "geo_country": [
+    "usa", "u.s.", "united states", "us only", "us-based", "us based", "americas only",
+    "uk only", "united kingdom", "poland", "costa rica", "latvia", "germany", "france",
+    "spain", "netherlands", "portugal", "romania", "italy", "canada", "australia",
+    "brazil", "mexico", "argentina", "india only", "philippines only", "singapore"
+  ],
+
+  "geo_region": [
+    "europe", "european", "eu only", "eu-based", "eu based", "emea", "apac",
+    "latam", "north america", "americas"
+  ],
+
+  "block_text": [
+    "authorized to work in the us", "without sponsorship", "no sponsorship",
+    "eu citizens only", "uk citizens only", "us citizens only",
+    "citizen or permanent resident", "must be based in", "must reside in",
+    "must be located in", "valid work authorization", "green card",
+    "security clearance", "work permit required", "eligible to work in"
+  ],
+
+  "stack_role": [
+    "devops", "sre", "site reliability", "platform engineer", "cloud engineer",
+    "infrastructure", "infra engineer", "kubernetes engineer", "gitops"
+  ],
+
+  "stack_tech": [
+    "aws", "kubernetes", "k8s", "terraform", "docker", "ci/cd", "cicd", "argo",
+    "argocd", "helm", "github actions", "ansible", "prometheus", "grafana",
+    "gitops", "eks", "cloudformation", "pulumi", "datadog", "trivy"
+  ],
+
+  "emea_mode": "block",
+  "cap_fit": 99,
+  "keep_blocked_limit": 40
+}
