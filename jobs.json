@@ -1,7 +1,15 @@
 {
-  "generated": "2026-07-04 08:21 UTC",
-  "count": 47,
+  "generated": "2026-07-05 08:38 UTC",
+  "count": 50,
   "jobs": [
+    {
+      "title": "Senior DevOps Engineer",
+      "company": "Zartis",
+      "url": "https://jobicy.com/jobs/148666-senior-devops-engineer-2",
+      "location": "Europe",
+      "fit": 100,
+      "source": "Jobicy"
+    },
     {
       "title": "Principal DevOps Engineer",
       "company": "NBCUniversal",
@@ -63,6 +71,14 @@
       "company": "Remote",
       "url": "https://jobicy.com/jobs/146979-senior-site-reliability-engineer-remote-build",
       "location": "EMEA",
+      "fit": 100,
+      "source": "Jobicy"
+    },
+    {
+      "title": "Senior Cloud Engineer - Product Metrics",
+      "company": "Clickhouse",
+      "url": "https://jobicy.com/jobs/148664-senior-cloud-engineer-product-metrics",
+      "location": "Europe",
       "fit": 100,
       "source": "Jobicy"
     },
@@ -367,6 +383,14 @@
       "company": "Instacart",
       "url": "https://jobicy.com/jobs/147603-engineering-manager-service-platform",
       "location": "Canada",
+      "fit": 0,
+      "source": "Jobicy"
+    },
+    {
+      "title": "Platform Product Manager",
+      "company": "Zone &#038; Co",
+      "url": "https://jobicy.com/jobs/145291-platform-product-manager",
+      "location": "Spain",
       "fit": 0,
       "source": "Jobicy"
     },
