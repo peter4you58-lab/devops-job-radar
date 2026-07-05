@@ -29,7 +29,6 @@
     color: var(--text);
     font-family: var(--sans);
     line-height: 1.5;
-    /* faint radar grid */
     background-image:
       radial-gradient(circle at 50% -10%, rgba(67,209,127,0.08), transparent 55%),
       linear-gradient(var(--line) 1px, transparent 1px),
@@ -56,10 +55,13 @@
   h1 { font-family: var(--mono); font-weight: 700; font-size: clamp(30px, 6vw, 46px);
        letter-spacing: -.01em; color: #eef4f9; }
   h1 span { color: var(--accent); }
-  .sub { color: var(--muted); margin-top: 8px; max-width: 60ch; font-size: 14.5px; }
+  .sub { color: var(--muted); margin-top: 8px; max-width: 64ch; font-size: 14.5px; }
   .meta { font-family: var(--mono); font-size: 12px; color: var(--muted);
           margin-top: 16px; display: flex; gap: 22px; flex-wrap: wrap; }
   .meta b { color: var(--text); font-weight: 600; }
+  .meta .g b { color: var(--green); }
+  .meta .a b { color: var(--amber); }
+  .meta .r b { color: var(--red); }
 
   .controls { display: flex; gap: 12px; flex-wrap: wrap; align-items: center;
               margin: 24px 0 18px; }
@@ -78,22 +80,43 @@
 
   .grid { display: grid; gap: 10px; }
   .row {
-    display: grid; grid-template-columns: 64px 1fr 150px auto;
+    display: grid; grid-template-columns: 70px 1fr 160px auto;
     gap: 16px; align-items: center; background: var(--panel);
     border: 1px solid var(--line); border-radius: 10px; padding: 14px 18px;
     transition: border-color .15s, transform .15s;
   }
   .row:hover { border-color: #2c4150; transform: translateX(2px); }
   .row.applied { opacity: .45; }
+
+  /* eligibility tiers */
+  .row.eligible { border-left: 3px solid var(--green); }
+  .row.review   { border-left: 3px solid var(--amber); }
+  .row.blocked  { border-left: 3px solid var(--red); opacity: .58; }
+  .row.blocked:hover { opacity: .78; }
+
   .fit { font-family: var(--mono); font-weight: 700; font-size: 19px; text-align: center; }
   .fit small { display: block; font-size: 9px; font-weight: 500; letter-spacing: .15em;
                color: var(--muted); margin-top: 2px; }
   .fit.hi  { color: var(--green); }
   .fit.mid { color: var(--amber); }
   .fit.lo  { color: var(--red); }
+  .fit.x   { color: var(--red); font-size: 22px; }
+
   .role .title { font-weight: 600; color: #eef4f9; font-size: 15px; }
   .role .co { font-family: var(--mono); font-size: 12px; color: var(--muted); margin-top: 3px; }
   .role .co .src { color: var(--accent); }
+  .role .why { font-family: var(--mono); font-size: 11px; margin-top: 5px; line-height: 1.45; }
+  .row.eligible .why { color: var(--green); }
+  .row.review   .why { color: var(--amber); }
+  .row.blocked  .why { color: var(--red); }
+
+  .pill { font-family: var(--mono); font-size: 9.5px; font-weight: 600; letter-spacing: .14em;
+          text-transform: uppercase; padding: 2px 7px; border-radius: 5px; margin-right: 8px;
+          display: inline-block; }
+  .pill.eligible { background: rgba(67,209,127,.14); color: var(--green); }
+  .pill.review   { background: rgba(227,179,65,.14); color: var(--amber); }
+  .pill.blocked  { background: rgba(217,101,124,.14); color: var(--red); }
+
   .loc { font-family: var(--mono); font-size: 12px; color: var(--muted); }
   .actions { display: flex; align-items: center; gap: 14px; }
   .apply {
@@ -102,6 +125,9 @@
     white-space: nowrap; transition: opacity .15s;
   }
   .apply:hover { opacity: .85; }
+  .row.review  .apply { background: var(--amber); }
+  .row.blocked .apply { background: transparent; color: var(--muted);
+                        border: 1px solid var(--line); }
   .mark { font-family: var(--mono); font-size: 11px; color: var(--muted);
           cursor: pointer; user-select: none; background: none; border: 1px solid var(--line);
           padding: 7px 10px; border-radius: 7px; }
@@ -117,7 +143,7 @@
   footer a { color: var(--accent); text-decoration: none; }
 
   @media (max-width: 640px) {
-    .row { grid-template-columns: 52px 1fr; row-gap: 10px; }
+    .row { grid-template-columns: 60px 1fr; row-gap: 10px; }
     .loc { grid-column: 2; }
     .actions { grid-column: 1 / -1; justify-content: space-between; }
   }
@@ -128,16 +154,27 @@
   <header>
     <div class="tag"><span class="dot"></span> live remote scan</div>
     <h1>DevOps Job <span>Radar</span></h1>
-    <p class="sub">Self-updating scan of remote DevOps &amp; cloud roles, scored against my stack and stripped of US-authorization-only postings. Refreshes daily.</p>
+    <p class="sub">Self-updating scan of remote DevOps &amp; cloud roles. Every listing is run
+      through an <b>eligibility gate</b> first (geo, seniority, work-authorization) — then, and only
+      then, scored against my stack. A blocked role shows why, not a fake 100.</p>
     <div class="meta">
       <span>last scan&nbsp; <b id="generated">—</b></span>
-      <span>roles&nbsp; <b id="count">0</b></span>
-      <span>applied&nbsp; <b id="appliedCount">0</b></span>
+      <span>scanned&nbsp; <b id="count">0</b></span>
+      <span class="g">eligible&nbsp; <b id="cEligible">0</b></span>
+      <span class="a">worth a shot&nbsp; <b id="cReview">0</b></span>
+      <span class="r">blocked&nbsp; <b id="cBlocked">0</b></span>
     </div>
   </header>
 
   <div class="controls">
     <input type="search" id="q" placeholder="filter by role, company, location…" />
+    <label>show
+      <select id="show">
+        <option value="eligible">eligible only</option>
+        <option value="eligerev" selected>eligible + worth a shot</option>
+        <option value="all">everything (incl. blocked)</option>
+      </select>
+    </label>
     <label>min fit
       <select id="minfit">
         <option value="0">any</option>
@@ -152,23 +189,166 @@
   <div class="grid" id="grid"></div>
 
   <footer>
-    built with python + github actions + pages · $0 to run ·
+    built with python + github actions + pages · $0 to run · gate-then-score eligibility model ·
     <a href="https://github.com/peter4you58-lab/devops-job-radar">source</a>
   </footer>
 </div>
 
 <script>
+/* ============================================================================
+   ELIGIBILITY CONFIG  —  edit this block as you learn which companies respond.
+   (Can be externalised to a config.json + fetch() later; inline keeps it 1-file.)
+   ========================================================================== */
+const CONFIG = {
+  profile: { years: 4, base: "Nigeria" },
+
+  // employers that hire remote engineers based in Africa without a local entity/visa
+  allowlist: ["andela","turing","toptal","x-team","xteam","deel","terminal",
+    "gitlab","automattic","zapier","doist","buffer","canonical",
+    "paystack","moniepoint","flutterwave","kuda","remote.com","oyster"],
+
+  // strong "hire anyone, anywhere" signals -> beats a geo tag
+  globalSignals: ["remote anywhere","remote - anywhere","remote – anywhere","remote, anywhere",
+    "worldwide","world wide","remote global","remote - global","remote – global",
+    "work from anywhere","anywhere in the world","fully distributed","globally distributed",
+    "async-first","async first","global remote"],
+
+  // explicit Africa inclusion -> eligible
+  africaSignals: ["africa","nigeria","lagos","abuja","open to africa","including africa"],
+
+  // titles that usually demand 5–10+ yrs -> block unless "<=4 yrs" is stated
+  blockSeniority: ["principal","staff engineer","staff devops","staff sre","staff platform",
+    "director","head of","vp ","vice president","chief"],
+  softSeniority: ["senior","lead","sr.","sr "],
+
+  // hard country / US locks
+  geoCountry: ["usa","u.s.","united states","us only","us-based","us based","americas only",
+    "uk only","united kingdom","poland","costa rica","latvia","germany","france","spain",
+    "netherlands","portugal","romania","canada","australia","brazil","mexico","india only",
+    "philippines only","singapore"],
+
+  // ambiguous regions (EU-ish)
+  geoRegion: ["europe","european","eu only","eu-based","eu based","emea","apac","latam","north america"],
+
+  // legal blockers that always win
+  blockText: ["authorized to work in the us","without sponsorship","no sponsorship",
+    "eu citizens only","uk citizens only","us citizens only","citizen or permanent resident",
+    "must be based in","must reside in","must be located in","valid work authorization",
+    "green card","security clearance","work permit required"],
+
+  // your doc says EMEA/APAC without an Africa note = BLOCK. Flip to "review" to soften.
+  emeaMode: "block",
+  capFit: 99   // nothing is a perfect 100 anymore — 100 was the tell.
+};
+
+/* ============================================================================ */
 const APPLIED_KEY = "djr_applied_v1";
 let applied = new Set(JSON.parse(localStorage.getItem(APPLIED_KEY) || "[]"));
 let JOBS = [];
 
 const $ = (id) => document.getElementById(id);
+const cap = (s) => s ? s.charAt(0).toUpperCase() + s.slice(1) : s;
 
+function matchYears(blob) {
+  const m = blob.match(/(\d+)\s*\+?\s*(?:years|yrs|year)/);
+  return m ? parseInt(m[1], 10) : null;
+}
+
+/* ---- the gate ---- */
+function evaluate(job) {
+  const title = (job.title || "").toLowerCase();
+  const loc   = (job.location || "").toLowerCase();
+  const co    = (job.company || "").toLowerCase();
+  const blob  = Object.values(job).filter(v => typeof v === "string").join(" ").toLowerCase();
+
+  const allow  = CONFIG.allowlist.find(a => co.includes(a));
+  const global = CONFIG.globalSignals.some(s => blob.includes(s));
+  const africa = CONFIG.africaSignals.some(s => blob.includes(s));
+  const reasons = [];
+
+  // 1. legal / work-auth wall — always wins unless Africa is named
+  const legal = CONFIG.blockText.find(t => blob.includes(t));
+  if (legal && !africa) {
+    return mk(job, "blocked", 0, ["work-authorization wall (" + legal + ")"]);
+  }
+
+  // 2. seniority
+  const hardSen = CONFIG.blockSeniority.find(s => title.includes(s));
+  if (hardSen) {
+    const yrs = matchYears(blob);
+    if (!(yrs !== null && yrs <= CONFIG.profile.years)) {
+      return mk(job, "blocked", 0,
+        [cap(hardSen.trim()) + "-level — usually 5–10+ yrs, you have ~" + CONFIG.profile.years]);
+    }
+  }
+
+  // 3. geography
+  let geo = null, geoWhy = null;
+  const country = CONFIG.geoCountry.find(g => loc.includes(g));
+  const region  = CONFIG.geoRegion.find(g => loc.includes(g));
+  if (country) { geo = "blocked"; geoWhy = cap(country) + "-only location"; }
+  else if (region) {
+    if (region === "emea" || region === "apac") {
+      geo = CONFIG.emeaMode === "block" ? "blocked" : "review";
+      geoWhy = region.toUpperCase() + " — usually EU/work-auth, Africa rarely included";
+    } else { geo = "blocked"; geoWhy = cap(region) + "-region only"; }
+  }
+
+  // 4. rescue signals
+  if (global || africa) {
+    reasons.push(africa ? "explicitly open to Africa/Nigeria" : "remote — anywhere / global");
+    geo = null;
+  } else if (allow) {
+    reasons.push("Africa-friendly employer (" + cap(allow) + ")");
+    if (geo === "blocked") { geo = "review"; geoWhy = "allowlisted, but listing tags " + (country || region); }
+  }
+
+  if (geo === "blocked") return mk(job, "blocked", 0, [geoWhy]);
+
+  let tier = "eligible";
+  if (geo === "review") { tier = "review"; reasons.push(geoWhy); }
+  if (allow && tier === "eligible" && !(global || africa)) { tier = "review"; }
+
+  // unspecified location, nothing to anchor on -> verify
+  if (!country && !region && !global && !africa && !allow) {
+    const bare = loc.trim();
+    if (bare === "" || bare === "remote") {
+      tier = "review";
+      reasons.push("location unspecified — confirm it's open to Africa before applying");
+    }
+  }
+
+  // soft seniority note (doesn't block, just flags the stretch)
+  const soft = CONFIG.softSeniority.find(s => title.includes(s));
+  if (soft) reasons.push("senior title — a stretch at ~" + CONFIG.profile.years + " yrs, but go for it");
+
+  const score = scoreFit(blob, { allow: !!allow, global, africa, soft: !!soft, tier });
+  return mk(job, tier, score, reasons.length ? reasons : ["clear on location & seniority"]);
+}
+
+function mk(job, tier, score, reasons) { return { tier, score, reasons }; }
+
+/* ---- the score (only meaningful for eligible/review) ---- */
+function scoreFit(blob, f) {
+  let s = 42;
+  if (/(devops|sre|site reliability|platform engineer|cloud engineer|infrastructure|\binfra\b|k8s)/.test(blob)) s += 16;
+  const tech = ["aws","kubernetes","k8s","terraform","docker","ci/cd","argo","helm",
+    "github actions","ansible","prometheus","grafana","gitops","eks","cloudformation","pulumi"];
+  let t = 0; tech.forEach(k => { if (blob.includes(k)) t += 4; });
+  s += Math.min(t, 16);
+  if (f.allow)  s += 12;
+  if (f.global) s += 8;
+  if (f.africa) s += 10;
+  if (f.soft)   s -= 6;
+  if (f.tier === "review") s -= 10;
+  return Math.max(28, Math.min(CONFIG.capFit, Math.round(s)));
+}
+
+/* ---- rendering ---- */
 function fitClass(f) { return f >= 70 ? "hi" : f >= 55 ? "mid" : "lo"; }
 
 function saveApplied() {
   localStorage.setItem(APPLIED_KEY, JSON.stringify([...applied]));
-  $("appliedCount").textContent = applied.size;
 }
 
 function toggleApplied(url, rowEl) {
@@ -178,35 +358,51 @@ function toggleApplied(url, rowEl) {
   if ($("hideApplied").checked) render();
 }
 
+const TIER_ORDER = { eligible: 0, review: 1, blocked: 2 };
+
 function render() {
-  const q = $("q").value.trim().toLowerCase();
-  const min = parseInt($("minfit").value, 10);
+  const q    = $("q").value.trim().toLowerCase();
+  const show = $("show").value;
+  const min  = parseInt($("minfit").value, 10);
   const hide = $("hideApplied").checked;
   const grid = $("grid");
   grid.innerHTML = "";
 
-  const rows = JOBS.filter(j => {
-    if (j.fit < min) return false;
+  let rows = JOBS.filter(j => {
+    const ev = j._ev;
+    if (show === "eligible" && ev.tier !== "eligible") return false;
+    if (show === "eligerev" && ev.tier === "blocked") return false;
+    if (ev.tier !== "blocked" && ev.score < min) return false;
     if (hide && applied.has(j.url)) return false;
     if (q && !(`${j.title} ${j.company} ${j.location}`.toLowerCase().includes(q))) return false;
     return true;
   });
 
+  rows.sort((a, b) =>
+    (TIER_ORDER[a._ev.tier] - TIER_ORDER[b._ev.tier]) || (b._ev.score - a._ev.score));
+
   if (!rows.length) {
-    grid.innerHTML = `<div class="empty">No roles match yet.<br>
-      If this is a fresh deploy, run the <code>scout-jobs</code> workflow once
-      (Actions tab → Run workflow), or loosen the filters above.</div>`;
+    grid.innerHTML = `<div class="empty">Nothing in this view.<br>
+      If the feed is empty everywhere, run the <code>scout-jobs</code> workflow once
+      (Actions tab → Run workflow). Otherwise widen <code>show</code> or drop min fit.</div>`;
     return;
   }
 
   for (const j of rows) {
+    const ev = j._ev;
     const row = document.createElement("div");
-    row.className = "row" + (applied.has(j.url) ? " applied" : "");
+    row.className = "row " + ev.tier + (applied.has(j.url) ? " applied" : "");
+
+    const fitCell = ev.tier === "blocked"
+      ? `<div class="fit x">✕<small>BLOCK</small></div>`
+      : `<div class="fit ${fitClass(ev.score)}">${ev.score}<small>FIT</small></div>`;
+
     row.innerHTML = `
-      <div class="fit ${fitClass(j.fit)}">${j.fit}<small>FIT</small></div>
+      ${fitCell}
       <div class="role">
-        <div class="title">${esc(j.title)}</div>
+        <div class="title"><span class="pill ${ev.tier}">${ev.tier === "review" ? "worth a shot" : ev.tier}</span>${esc(j.title)}</div>
         <div class="co">${esc(j.company)} · <span class="src">${esc(j.source || "")}</span></div>
+        <div class="why">${esc(ev.reasons.join(" · "))}</div>
       </div>
       <div class="loc">${esc(j.location)}</div>
       <div class="actions">
@@ -224,22 +420,37 @@ function render() {
 function esc(s) { return (s || "").replace(/[&<>"]/g, c =>
   ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c])); }
 
+function tally() {
+  const c = { eligible: 0, review: 0, blocked: 0 };
+  JOBS.forEach(j => c[j._ev.tier]++);
+  $("cEligible").textContent = c.eligible;
+  $("cReview").textContent   = c.review;
+  $("cBlocked").textContent  = c.blocked;
+}
+
 async function load() {
   try {
     const res = await fetch("jobs.json?_=" + Date.now());
     if (!res.ok) throw new Error("no jobs.json yet");
     const data = await res.json();
-    JOBS = data.jobs || [];
+    JOBS = (data.jobs || []).map(j => {
+      // Trust the pipeline's upstream gate when it provides one; otherwise
+      // fall back to the client-side gate (keeps old jobs.json working).
+      j._ev = (j.verdict && typeof j.fit === "number" && Array.isArray(j.reasons))
+        ? { tier: j.verdict, score: j.fit, reasons: j.reasons }
+        : evaluate(j);
+      return j;
+    });
     $("generated").textContent = data.generated || "—";
     $("count").textContent = data.count ?? JOBS.length;
+    tally();
   } catch (_) {
     $("generated").textContent = "pending first run";
   }
-  $("appliedCount").textContent = applied.size;
   render();
 }
 
-["q", "minfit", "hideApplied"].forEach(id =>
+["q", "show", "minfit", "hideApplied"].forEach(id =>
   $(id).addEventListener("input", render));
 load();
 </script>
