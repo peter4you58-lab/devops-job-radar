@@ -2,48 +2,44 @@ name: scout-jobs
 
 on:
   schedule:
-    - cron: "0 6 * * *"      # every day at 06:00 UTC
-  workflow_dispatch: {}        # manual "Run workflow" button
-  push:
-    branches: [main]
-    paths-ignore:
-      - "jobs.json"            # don't re-trigger on the bot's own commit
+    - cron: "0 6 * * *"      # daily 06:00 UTC (~07:00 WAT)
+  workflow_dispatch: {}       # manual: Actions tab -> Run workflow
+
+# never let two runs race on the same jobs.json commit
+concurrency:
+  group: scout-jobs
+  cancel-in-progress: false
 
 permissions:
-  contents: write
-
-# Only one run at a time, queued (never cancelled) — stops runs racing
-# each other when they all try to commit jobs.json back to the repo.
-concurrency:
-  group: scout-jobs-commit
-  cancel-in-progress: false
+  contents: write             # least privilege: only needs to push jobs.json
 
 jobs:
   scout:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
 
-      - uses: actions/setup-python@v5
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
           python-version: "3.12"
 
       - name: Install deps
-        run: pip install -r requirements.txt
+        run: pip install --quiet requests feedparser
 
-      - name: Scout jobs
-        run: python app/fetch_jobs.py
+      - name: Run scout
+        run: python scout-jobs.py
 
-      - name: Commit results
+      - name: Commit jobs.json if changed
         run: |
-          git config user.name  "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name  "job-radar-bot"
+          git config user.email "actions@github.com"
           if git diff --quiet -- jobs.json; then
-            echo "No changes to jobs.json — nothing to commit."
-            exit 0
+            echo "No change in jobs.json — nothing to commit."
+          else
+            git add jobs.json
+            git commit -m "radar: refresh jobs.json ($(date -u +%Y-%m-%dT%H:%MZ))"
+            git push
           fi
-          git add jobs.json
-          git commit -m "Update jobs $(date -u +'%Y-%m-%d %H:%M')"
-          # pull anything that landed on main since checkout, then push
-          git pull --rebase --autostash origin main
-          git push
