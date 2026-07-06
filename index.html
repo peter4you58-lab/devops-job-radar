@@ -177,9 +177,9 @@
     </label>
     <label>min fit
       <select id="minfit">
-        <option value="0">any</option>
+        <option value="0" selected>any</option>
         <option value="55">55+</option>
-        <option value="70" selected>70+</option>
+        <option value="70">70+</option>
         <option value="85">85+</option>
       </select>
     </label>
@@ -214,30 +214,31 @@ const CONFIG = {
     "async-first","async first","global remote"],
 
   // explicit Africa inclusion -> eligible
-  africaSignals: ["africa","nigeria","lagos","abuja","open to africa","including africa"],
+  africaSignals: ["africa","nigeria","lagos","abuja","open to africa","including africa",
+    "west africa","wat timezone","wat time zone","kenya","ghana","rwanda","egypt",
+    "nairobi","accra"],
 
-  // titles that usually demand 5–10+ yrs -> block unless "<=4 yrs" is stated
-  blockSeniority: ["principal","staff engineer","staff devops","staff sre","staff platform",
-    "director","head of","vp ","vice president","chief"],
-  softSeniority: ["senior","lead","sr.","sr "],
+  // titles usually demanding 5–10+ yrs -> block unless "<=4 yrs" is stated
+  blockSeniority: ["principal","staff","director","head of","vp ","vice president",
+    "chief","distinguished"],
+  softSeniority: ["senior","lead","sr.","sr ","architect"],
 
-  // hard country / US locks
+  // country / US tags -> worth-a-shot (verify), NOT an automatic block
   geoCountry: ["usa","u.s.","united states","us only","us-based","us based","americas only",
-    "uk only","united kingdom","poland","costa rica","latvia","germany","france","spain",
-    "netherlands","portugal","romania","canada","australia","brazil","mexico","india only",
-    "philippines only","singapore"],
+    "uk","u.k.","uk only","united kingdom","poland","costa rica","latvia","germany","france",
+    "spain","netherlands","portugal","romania","italy","canada","australia","brazil","mexico",
+    "argentina","india only","philippines only","singapore"],
 
-  // ambiguous regions (EU-ish)
-  geoRegion: ["europe","european","eu only","eu-based","eu based","emea","apac","latam","north america"],
+  // regions (EU-ish) -> also worth-a-shot
+  geoRegion: ["europe","european","eu only","eu-based","eu based","emea","apac","latam",
+    "north america","americas"],
 
-  // legal blockers that always win
+  // real work-auth walls -> the only geo-related HARD block
   blockText: ["authorized to work in the us","without sponsorship","no sponsorship",
     "eu citizens only","uk citizens only","us citizens only","citizen or permanent resident",
     "must be based in","must reside in","must be located in","valid work authorization",
-    "green card","security clearance","work permit required"],
+    "green card","security clearance","work permit required","eligible to work in"],
 
-  // your doc says EMEA/APAC without an Africa note = BLOCK. Flip to "review" to soften.
-  emeaMode: "block",
   capFit: 99   // nothing is a perfect 100 anymore — 100 was the tell.
 };
 
@@ -254,76 +255,69 @@ function matchYears(blob) {
   return m ? parseInt(m[1], 10) : null;
 }
 
-/* ---- the gate ---- */
+/* ---- the gate ----
+   Only two things HARD-block: a work-auth wall, or a seniority you're years
+   short of. A geo tag (USA/UK/EU) becomes "worth a shot", not a block — many
+   US/EU firms hire globally, so you see it and decide. Signals are matched on
+   title+location+description, NOT the company name (so "World Wide Technology"
+   can't fake a remote-anywhere tag). */
+function sigText(job) {
+  return [job.title, job.location, job.description, (job.tags || []).join(" ")]
+    .map(x => x || "").join(" ").toLowerCase();
+}
+
 function evaluate(job) {
   const title = (job.title || "").toLowerCase();
   const loc   = (job.location || "").toLowerCase();
   const co    = (job.company || "").toLowerCase();
+  const sig   = sigText(job);
   const blob  = Object.values(job).filter(v => typeof v === "string").join(" ").toLowerCase();
 
   const allow  = CONFIG.allowlist.find(a => co.includes(a));
-  const global = CONFIG.globalSignals.some(s => blob.includes(s));
-  const africa = CONFIG.africaSignals.some(s => blob.includes(s));
-  const reasons = [];
+  const global = CONFIG.globalSignals.some(s => sig.includes(s));
+  const africa = CONFIG.africaSignals.some(s => sig.includes(s));
 
-  // 1. legal / work-auth wall — always wins unless Africa is named
-  const legal = CONFIG.blockText.find(t => blob.includes(t));
-  if (legal && !africa) {
-    return mk(job, "blocked", 0, ["work-authorization wall (" + legal + ")"]);
-  }
+  // hard blocks — the only genuinely dead cases
+  const legal = CONFIG.blockText.find(t => sig.includes(t));
+  if (legal && !africa) return mk(job, "blocked", 0, ["work-authorization wall (" + legal + ")"]);
 
-  // 2. seniority
   const hardSen = CONFIG.blockSeniority.find(s => title.includes(s));
   if (hardSen) {
-    const yrs = matchYears(blob);
+    const yrs = matchYears(sig);
     if (!(yrs !== null && yrs <= CONFIG.profile.years)) {
       return mk(job, "blocked", 0,
         [cap(hardSen.trim()) + "-level — usually 5–10+ yrs, you have ~" + CONFIG.profile.years]);
     }
   }
 
-  // 3. geography
-  let geo = null, geoWhy = null;
-  const country = CONFIG.geoCountry.find(g => loc.includes(g));
-  const region  = CONFIG.geoRegion.find(g => loc.includes(g));
-  if (country) { geo = "blocked"; geoWhy = cap(country) + "-only location"; }
-  else if (region) {
-    if (region === "emea" || region === "apac") {
-      geo = CONFIG.emeaMode === "block" ? "blocked" : "review";
-      geoWhy = region.toUpperCase() + " — usually EU/work-auth, Africa rarely included";
-    } else { geo = "blocked"; geoWhy = cap(region) + "-region only"; }
-  }
+  const reasons = [];
+  const soft = CONFIG.softSeniority.find(s => title.includes(s));
+  let tier;
 
-  // 4. rescue signals
   if (global || africa) {
+    tier = "eligible";
     reasons.push(africa ? "explicitly open to Africa/Nigeria" : "remote — anywhere / global");
-    geo = null;
-  } else if (allow) {
-    reasons.push("Africa-friendly employer (" + cap(allow) + ")");
-    if (geo === "blocked") { geo = "review"; geoWhy = "allowlisted, but listing tags " + (country || region); }
-  }
-
-  if (geo === "blocked") return mk(job, "blocked", 0, [geoWhy]);
-
-  let tier = "eligible";
-  if (geo === "review") { tier = "review"; reasons.push(geoWhy); }
-  if (allow && tier === "eligible" && !(global || africa)) { tier = "review"; }
-
-  // unspecified location, nothing to anchor on -> verify
-  if (!country && !region && !global && !africa && !allow) {
-    const bare = loc.trim();
-    if (bare === "" || bare === "remote") {
-      tier = "review";
-      reasons.push("location unspecified — confirm it's open to Africa before applying");
+    if (allow) reasons.push("Africa-friendly employer (" + cap(allow) + ")");
+  } else {
+    tier = "review";
+    const country = CONFIG.geoCountry.find(g => loc.includes(g));
+    const region  = CONFIG.geoRegion.find(g => loc.includes(g));
+    if (country) {
+      reasons.push(cap(country) + "-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying");
+    } else if (region) {
+      const label = (region === "emea" || region === "apac") ? region.toUpperCase() : cap(region);
+      reasons.push(label + "-tagged — verify it's open to Africa first");
+    } else if (allow) {
+      reasons.push("Africa-friendly employer (" + cap(allow) + ") — role location unconfirmed");
+    } else {
+      reasons.push("location unconfirmed — verify it's open to Africa");
     }
   }
 
-  // soft seniority note (doesn't block, just flags the stretch)
-  const soft = CONFIG.softSeniority.find(s => title.includes(s));
   if (soft) reasons.push("senior title — a stretch at ~" + CONFIG.profile.years + " yrs, but go for it");
 
   const score = scoreFit(blob, { allow: !!allow, global, africa, soft: !!soft, tier });
-  return mk(job, tier, score, reasons.length ? reasons : ["clear on location & seniority"]);
+  return mk(job, tier, score, reasons);
 }
 
 function mk(job, tier, score, reasons) { return { tier, score, reasons }; }
@@ -340,7 +334,7 @@ function scoreFit(blob, f) {
   if (f.global) s += 8;
   if (f.africa) s += 10;
   if (f.soft)   s -= 6;
-  if (f.tier === "review") s -= 10;
+  if (f.tier === "review") s -= 6;
   return Math.max(28, Math.min(CONFIG.capFit, Math.round(s)));
 }
 
