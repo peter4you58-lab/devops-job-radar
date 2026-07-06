@@ -247,6 +247,16 @@ def text_blob(job):
     return " ".join(parts).lower()
 
 
+def sig_text(job):
+    """Text used for geo / global / legal signals. Deliberately EXCLUDES the
+    company name so a name like 'World Wide Technology' can't fake a
+    remote-anywhere signal."""
+    return " ".join([
+        job.get("title", ""), job.get("location", ""),
+        job.get("description", ""), " ".join(job.get("tags", [])),
+    ]).lower()
+
+
 def match_years(blob):
     m = re.search(r"(\d+)\s*\+?\s*(?:years|yrs|year)", blob)
     return int(m.group(1)) if m else None
@@ -271,76 +281,72 @@ def score_fit(blob, flags, cfg):
     if flags["soft"]:
         s -= 6
     if flags["tier"] == "review":
-        s -= 10
+        s -= 6
     return max(28, min(cfg["cap_fit"], round(s)))
 
 
 def evaluate(job, cfg):
+    """Gate then score.
+
+    Only two things HARD-block (genuinely zero-shot):
+      - a work-authorization wall in the text ("no sponsorship", "citizens only")
+      - a seniority the candidate is years short of (Principal/Staff/Director...)
+
+    Everything else is either ELIGIBLE (a positive open signal: global / Africa)
+    or WORTH-A-SHOT (a geo tag or unconfirmed location — shown & flagged, you
+    decide). A bare 'USA'/'UK'/'EU' tag is NOT a wall: many US/EU firms hire
+    globally, so those become 'review', not 'blocked'."""
     title = job.get("title", "").lower()
     loc = job.get("location", "").lower()
     co = job.get("company", "").lower()
-    blob = text_blob(job)
-    reasons = []
+    sig = sig_text(job)       # signals & legal — excludes company name
+    blob = text_blob(job)     # everything — used only for stack scoring
 
     allow = next((a for a in cfg["allowlist"] if a in co), None)
-    is_global = any(s in blob for s in cfg["global_signals"])
-    is_africa = any(s in blob for s in cfg["africa_signals"])
+    is_global = any(s in sig for s in cfg["global_signals"])
+    is_africa = any(s in sig for s in cfg["africa_signals"])
 
-    # 1. legal wall
-    legal = next((t for t in cfg["block_text"] if t in blob), None)
+    # -- hard blocks (the only genuinely dead cases) --
+    legal = next((t for t in cfg["block_text"] if t in sig), None)
     if legal and not is_africa:
         return "blocked", 0, [f"work-authorization wall ({legal})"]
 
-    # 2. seniority
     hard_sen = next((s for s in cfg["block_seniority"] if s in title), None)
     if hard_sen:
-        yrs = match_years(blob)
+        yrs = match_years(sig)
         if not (yrs is not None and yrs <= cfg["profile"]["years"]):
             return "blocked", 0, [
                 f"{cap(hard_sen.strip())}-level — usually 5\u201310+ yrs, "
                 f"you have ~{cfg['profile']['years']}"]
 
-    # 3. geography
-    geo = geo_why = None
-    country = next((g for g in cfg["geo_country"] if g in loc), None)
-    region = next((g for g in cfg["geo_region"] if g in loc), None)
-    if country:
-        geo, geo_why = "blocked", f"{cap(country)}-only location"
-    elif region:
-        if region in ("emea", "apac"):
-            geo = "blocked" if cfg["emea_mode"] == "block" else "review"
-            geo_why = f"{region.upper()} — usually EU/work-auth, Africa rarely included"
-        else:
-            geo, geo_why = "blocked", f"{cap(region)}-region only"
+    reasons = []
+    soft = next((s for s in cfg["soft_seniority"] if s in title), None)
 
-    # 4. rescue signals
+    # -- eligible: a positive, confirmed open signal --
     if is_global or is_africa:
+        tier = "eligible"
         reasons.append("explicitly open to Africa/Nigeria" if is_africa
                        else "remote — anywhere / global")
-        geo = None
-    elif allow:
-        reasons.append(f"Africa-friendly employer ({cap(allow)})")
-        if geo == "blocked":
-            geo = "review"
-            geo_why = f"allowlisted, but listing tags {country or region}"
-
-    if geo == "blocked":
-        return "blocked", 0, [geo_why]
-
-    tier = "eligible"
-    if geo == "review":
+        if allow:
+            reasons.append(f"Africa-friendly employer ({cap(allow)})")
+    else:
+        # -- worth a shot: geo-tagged or unconfirmed. shown & flagged. --
         tier = "review"
-        reasons.append(geo_why)
-    if allow and tier == "eligible" and not (is_global or is_africa):
-        tier = "review"
+        country = next((g for g in cfg["geo_country"] if g in loc), None)
+        region = next((g for g in cfg["geo_region"] if g in loc), None)
+        if country:
+            reasons.append(
+                f"{cap(country)}-tagged — some US/EU firms still hire globally; "
+                f"check for a work-auth clause before applying")
+        elif region:
+            label = region.upper() if region in ("emea", "apac") else cap(region)
+            reasons.append(f"{label}-tagged — verify it's open to Africa first")
+        elif allow:
+            reasons.append(
+                f"Africa-friendly employer ({cap(allow)}) — role location unconfirmed")
+        else:
+            reasons.append("location unconfirmed — verify it's open to Africa")
 
-    if not country and not region and not is_global and not is_africa and not allow:
-        bare = loc.strip()
-        if bare in ("", "remote"):
-            tier = "review"
-            reasons.append("location unspecified — confirm it's open to Africa")
-
-    soft = next((s for s in cfg["soft_seniority"] if s in title), None)
     if soft:
         reasons.append(
             f"senior title — a stretch at ~{cfg['profile']['years']} yrs, but go for it")
@@ -348,7 +354,7 @@ def evaluate(job, cfg):
     flags = {"allow": bool(allow), "global": is_global,
              "africa": is_africa, "soft": bool(soft), "tier": tier}
     score = score_fit(blob, flags, cfg)
-    return tier, score, reasons or ["clear on location & seniority"]
+    return tier, score, reasons
 
 
 # --------------------------------------------------------------------------- #
@@ -447,6 +453,10 @@ SAMPLE_JOBS = [
          "Docker, Kubernetes, GitHub Actions, Terraform, AWS. Async-first team."),
     norm("Cloud Engineer", "GloboCorp", "Remote", "u12", "test",
          "US citizens only. Must be authorized to work in the US without sponsorship."),
+    # --- the two that leaked through on the live site ---
+    norm("Lead Cloud Solution Architect- Application Modernization (AWS)",
+         "World Wide Technology", "USA", "u13", "Jobicy"),   # company name faked 'world wide'
+    norm("Staff MLOps Engineer (AI/ML Platform)", "Cint", "UK", "u14", "Jobicy"),
 ]
 
 
