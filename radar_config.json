@@ -22,19 +22,20 @@
 
   "africa_signals": [
     "africa", "nigeria", "lagos", "abuja", "open to africa", "including africa",
-    "west africa", "wat timezone", "wat time zone"
+    "west africa", "wat timezone", "wat time zone",
+    "kenya", "ghana", "rwanda", "egypt", "nairobi", "accra"
   ],
 
   "block_seniority": [
-    "principal", "staff engineer", "staff devops", "staff sre", "staff platform",
-    "director", "head of", "vp ", "vice president", "chief", "distinguished"
+    "principal", "staff", "director", "head of", "vp ", "vice president",
+    "chief", "distinguished"
   ],
 
-  "soft_seniority": ["senior", "lead", "sr.", "sr "],
+  "soft_seniority": ["senior", "lead", "sr.", "sr ", "architect"],
 
   "geo_country": [
     "usa", "u.s.", "united states", "us only", "us-based", "us based", "americas only",
-    "uk only", "united kingdom", "poland", "costa rica", "latvia", "germany", "france",
+    "uk", "u.k.", "uk only", "united kingdom", "poland", "costa rica", "latvia", "germany", "france",
     "spain", "netherlands", "portugal", "romania", "italy", "canada", "australia",
     "brazil", "mexico", "argentina", "india only", "philippines only", "singapore"
   ],
