@@ -1,11 +1,11 @@
 {
-  "generated": "2026-07-06 09:52 UTC",
+  "generated": "2026-07-07 09:21 UTC",
   "count": 116,
   "summary": {
     "scanned": 116,
     "eligible": 28,
-    "review": 75,
-    "blocked": 13
+    "review": 74,
+    "blocked": 14
   },
   "jobs": [
     {
@@ -792,10 +792,54 @@
       ]
     },
     {
+      "title": "Senior Cloud Engineer",
+      "company": "Valsoft Corporation",
+      "location": "India",
+      "url": "https://himalayas.app/companies/valsoft-corporation/jobs/senior-cloud-engineer",
+      "source": "Himalayas",
+      "description": "We are seeking a Senior Cloud Engineer to join one of our software businesses within TAG Software Group. Working closely with software engineering, architecture, product management, and cybersecurity teams, you will design, build, and support secure, scalable, and cost-effective cloud solutions that power our software platforms across a global customer base. The successful candidate will play a key role in modernizing our cloud infrastructure, implementing automation and Infrastructure as Code, supporting cloud-native applications, and establishing cloud engineering best practices. You will he",
+      "tags": [
+        "cloud-engineering",
+        "devops-engineering",
+        "aws-cloud-engineer",
+        "senior-cloud-engineer",
+        "infrastructure-as-code",
+        "senior-cloud-engineering",
+        "senior-cloud-software-engineer",
+        "senior-cloud-infrastructure-engineer",
+        "senior-cloud-platform-engineer",
+        "senior-cloud-systems-engineer",
+        "senior-cloud-architect",
+        "senior-cloud-devops-engineer"
+      ],
+      "verdict": "review",
+      "fit": 50,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Manager, Customer Success Managers, EMEA",
+      "company": "GitLab",
+      "location": "Austria, Germany",
+      "url": "https://jobicy.com/jobs/148783-manager-customer-success-managers-emea",
+      "source": "Jobicy",
+      "description": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster. The same principles built into&hellip;",
+      "tags": [
+        "customer success"
+      ],
+      "verdict": "review",
+      "fit": 48,
+      "reasons": [
+        "Germany-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
       "title": "Senior AI Engineer",
       "company": "Lemon.io",
       "location": "Northern America, LATAM, Europe, APAC",
-      "url": "https://remotive.com/remote-jobs/software-development/senior-ai-engineer-2090986",
+      "url": "https://remotive.com/remote-jobs/artificial-intelligence/senior-ai-engineer-2090986",
       "source": "Remotive",
       "description": "Are you a talented Senior AI Engineer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The rate depends on your skills and experience. We've already paid out over $11M to our engineers. No more hunting for clients or negotiating rates — let us handle the business side of things so you can focus on what you do best. Choose a schedule that works best for you. It’s possible to communicate async or minimally overlap within team working",
       "tags": [
@@ -1272,23 +1316,6 @@
       ]
     },
     {
-      "title": "Senior Site Reliability Engineer (Remote Build)",
-      "company": "Remote",
-      "location": "EMEA",
-      "url": "https://jobicy.com/jobs/146979-senior-site-reliability-engineer-remote-build",
-      "source": "Jobicy",
-      "description": "About Remote Remote is solving modern organizations’ biggest challenge – navigating global employment compliantly with ease. We make it possible for businesses of all sizes to recruit, pay, and manage international teams. With our core values at heart and future focused work culture, our team works tirelessly on ambitious problems, asynchronously, around the world. You&hellip;",
-      "tags": [
-        "devops &amp; infrastructure"
-      ],
-      "verdict": "review",
-      "fit": 46,
-      "reasons": [
-        "EMEA-tagged — verify it's open to Africa first",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
       "title": "Communications Manager",
       "company": "Lemon.io",
       "location": "LATAM, Europe",
@@ -1761,36 +1788,19 @@
       ]
     },
     {
-      "title": "Events &amp; Experiences Coordinator",
-      "company": "BlinkRx",
-      "location": "New York, New York, New York, United States",
-      "url": "https://remoteOK.com/remote-jobs/remote-events-amp-experiences-coordinator-blinkrx-1134354",
-      "source": "RemoteOK",
-      "description": "Company Overview: Blink Health is the fastest growing healthcare technology company that builds products to make prescriptions accessible and affordable to everybody.Â Our two primary products â BlinkRx and Quick Save â remove traditional roadblocks within the current prescription supply chain, resulting in better access to critical medications and improved health outcomes for patients.Â BlinkRx is the worldâs first pharma-to-patient cloud that offers a digital concierge service for patients who are prescribed branded medications. Patients benefit from transparent low prices, free home d",
+      "title": "Software Development Engineer in Test",
+      "company": "Sporty Group",
+      "location": "EMEA",
+      "url": "https://jobicy.com/jobs/145584-software-development-engineer-in-test",
+      "source": "Jobicy",
+      "description": "About the roleWe are looking for a Senior SDET (Software Development Engineer in Test) to improve software quality across the engineering organization through automation, testing platforms, quality standards and engineering enablement. This is not a feature-testing role. The focus is on building scalable quality solutions and helping teams own quality.Our Stack Programming language: Python DB:&hellip;",
       "tags": [
-        "design",
-        "designer",
-        "marketing",
-        "video",
-        "education",
-        "exec",
-        "content writing",
-        "ops",
-        "digital nomad",
-        "dev",
-        "finance",
-        "coordinator",
-        "customer support",
-        "travel",
-        "cloud",
-        "senior",
-        "excel",
-        "medical"
+        "software engineering"
       ],
       "verdict": "review",
       "fit": 36,
       "reasons": [
-        "United states-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+        "EMEA-tagged — verify it's open to Africa first"
       ]
     },
     {
@@ -2034,22 +2044,6 @@
       ]
     },
     {
-      "title": "Salesforce Developer",
-      "company": "dentsu",
-      "location": "Spain",
-      "url": "https://jobicy.com/jobs/146848-salesforce-developer-2",
-      "source": "Jobicy",
-      "description": "Job Description:Omega CRM is a Merkle &amp; Dentsu company, leader in development of Customer Experience services, with +20 years of experience in the use of Technology applied to Marketing and providing a unique Customer Relationship with mainly focus on Innovation is looking for a Salesforce Developer.Main responsabilities:Develop software according to user requirements, functional and technical&hellip;",
-      "tags": [
-        "software engineering"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Spain-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
       "title": "Senior Data Scientist",
       "company": "Lemon.io",
       "location": "Americas, Europe, Asia, Oceania",
@@ -2090,23 +2084,6 @@
       "fit": 34,
       "reasons": [
         "Europe-tagged — verify it's open to Africa first",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Lead Cloud Solution Architect- Application Modernization (AWS)",
-      "company": "World Wide Technology",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/147047-lead-cloud-solution-architect-application-modernization-aws",
-      "source": "Jobicy",
-      "description": "Qualifications Minimum 10 years of progressive experience in cloud architecture, application development, or related technical disciplines Minimum 7 years of hands-on experience designing, deploying, and operating workloads on AWS in enterprise environments Bachelor's degree in Computer Science, Information Systems, Engineering, or equivalent practical experience Demonstrated real-world experience modernizing enterprise applications, including replatforming to containers, re-architecting&hellip;",
-      "tags": [
-        "software engineering"
-      ],
-      "verdict": "review",
-      "fit": 34,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -2521,6 +2498,22 @@
       "description": "Company DescriptionWhen you join Turnitin, you'll be welcomed into a company that is a recognized innovator in global education. For over 25 years, Turnitin has partnered with educators and institutions to develop learning integrity solutions that recognize the enduring value of critical thinking in a rapidly changing world. Over 16,000 academic institutions, publishers, and corporations&hellip;",
       "tags": [
         "devops &amp; infrastructure"
+      ],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Principal-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
+      "title": "Principal AI Data Analyst",
+      "company": "UnitedHealth Group",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/148891-principal-ai-data-analyst",
+      "source": "Jobicy",
+      "description": "Optum is a global organization that delivers care, aided by technology to help millions of people live healthier lives. The work you do with our team will directly improve health outcomes by connecting people with the care, pharmacy benefits, data and resources they need to feel their best. Here, you will find a culture guided&hellip;",
+      "tags": [
+        "data science &amp; analytics"
       ],
       "verdict": "blocked",
       "fit": 0,
