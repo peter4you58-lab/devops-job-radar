@@ -1,10 +1,10 @@
 {
-  "generated": "2026-07-07 09:21 UTC",
-  "count": 116,
+  "generated": "2026-07-08 08:05 UTC",
+  "count": 113,
   "summary": {
-    "scanned": 116,
+    "scanned": 113,
     "eligible": 28,
-    "review": 74,
+    "review": 71,
     "blocked": 14
   },
   "jobs": [
@@ -555,76 +555,6 @@
       ]
     },
     {
-      "title": "Executive Assistant",
-      "company": "EfficientAide",
-      "location": "California, California, United States",
-      "url": "https://remoteOK.com/remote-jobs/remote-executive-assistant-efficientaide-1134363",
-      "source": "RemoteOK",
-      "description": "*Please note that this job is not for EfficientAide. It's for our client who is based in California. This is a full-time, remote role. WHO WE ARE Our client is a leading creative technology agency that builds what's next. Since 2008, they have partnered with the world's most ambitious brands to transform breakthrough technology into extraordinary human experiences, delivering end-to-end digital transformation for companies including Google, Amazon, and Meta. Enterprise Digital: Architecting seamless digital ecosystems that simplify complexity and drive measurable impact Product Innovation: Bui",
-      "tags": [
-        "design",
-        "customer support",
-        "dev",
-        "marketing",
-        "travel",
-        "exec",
-        "finance",
-        "ops",
-        "sales",
-        "medical",
-        "ads",
-        "ecommerce",
-        "digital nomad",
-        "coordinator",
-        "strategy",
-        "web dev",
-        "speech",
-        "education",
-        "content writing",
-        "stats",
-        "recruiter",
-        "social media",
-        "virtual assistant",
-        "amazon",
-        "game dev",
-        "cloud",
-        "engineer",
-        "full time"
-      ],
-      "verdict": "review",
-      "fit": 52,
-      "reasons": [
-        "United states-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Data Scientist",
-      "company": "New Flyer",
-      "location": "Winnipeg, Winnipeg, Manitoba, Canada",
-      "url": "https://remoteOK.com/remote-jobs/remote-data-scientist-new-flyer-1134357",
-      "source": "RemoteOK",
-      "description": "New Flyer is North America's heavy-duty transit bus leader and offers the most advanced product line under the XcelsiorÂ® and Xcelsior CHARGEÂ® brands. It also offers infrastructure development through NFI Infrastructure Solutionsâ¢, a service dedicated to providing safe, sustainable, and reliable charging and mobility solutions. Further information is available at www.newflyer.com. POSITION SUMMARY: The position is coordination of business value added projects including the design, testing, documentation, training and implementation of customized business solutions to meet the requirements o",
-      "tags": [
-        "design",
-        "python",
-        "education",
-        "customer support",
-        "testing",
-        "cloud",
-        "exec",
-        "data science",
-        "stats",
-        "medical",
-        "engineer",
-        "digital nomad"
-      ],
-      "verdict": "review",
-      "fit": 52,
-      "reasons": [
-        "Canada-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
       "title": "Site Reliability Engineer (SRE)",
       "company": "Bright Vision Technologies",
       "location": "New Jersey",
@@ -788,34 +718,6 @@
       "fit": 50,
       "reasons": [
         "Uk-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Senior Cloud Engineer",
-      "company": "Valsoft Corporation",
-      "location": "India",
-      "url": "https://himalayas.app/companies/valsoft-corporation/jobs/senior-cloud-engineer",
-      "source": "Himalayas",
-      "description": "We are seeking a Senior Cloud Engineer to join one of our software businesses within TAG Software Group. Working closely with software engineering, architecture, product management, and cybersecurity teams, you will design, build, and support secure, scalable, and cost-effective cloud solutions that power our software platforms across a global customer base. The successful candidate will play a key role in modernizing our cloud infrastructure, implementing automation and Infrastructure as Code, supporting cloud-native applications, and establishing cloud engineering best practices. You will he",
-      "tags": [
-        "cloud-engineering",
-        "devops-engineering",
-        "aws-cloud-engineer",
-        "senior-cloud-engineer",
-        "infrastructure-as-code",
-        "senior-cloud-engineering",
-        "senior-cloud-software-engineer",
-        "senior-cloud-infrastructure-engineer",
-        "senior-cloud-platform-engineer",
-        "senior-cloud-systems-engineer",
-        "senior-cloud-architect",
-        "senior-cloud-devops-engineer"
-      ],
-      "verdict": "review",
-      "fit": 50,
-      "reasons": [
-        "location unconfirmed — verify it's open to Africa",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -1484,6 +1386,35 @@
       ]
     },
     {
+      "title": "File Clerk",
+      "company": "Recruitlytic Hiring",
+      "location": "Hong Kong, Hong Kong, Hong Kong SAR",
+      "url": "https://remoteOK.com/remote-jobs/remote-file-clerk-recruitlytic-hiring-1134559",
+      "source": "RemoteOK",
+      "description": "As a Remote File Clerk, youâll keep digital and scanned records accurate, organized, searchable, and compliant. Youâll support multiple teams by receiving documents, validating completeness, applying naming conventions, classifying files into the correct repositories, and maintaining an audit-ready trail of what was received, when it was processed, and where it lives. Youâll work in a high-volume environment where speed matters, but accuracy and confidentiality matter more. Â Key responsibilities: Â Intake &amp; indexing: Receive files from shared inboxes, portals, internal ticketing too",
+      "tags": [
+        "teaching",
+        "customer support",
+        "marketing",
+        "education",
+        "senior",
+        "non tech",
+        "jira",
+        "hr",
+        "finance",
+        "cloud",
+        "admin",
+        "exec",
+        "ops",
+        "legal"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
       "title": "Administrative Data Entry File Clerk",
       "company": "Recruitlytics Hiring",
       "location": "Alberta, Alberta, Canada",
@@ -1745,41 +1676,6 @@
         "recruiter",
         "project manager",
         "infosec"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "United states-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Influencer Marketing Coordinator",
-      "company": "Nello",
-      "location": "New York, New York, United States",
-      "url": "https://remoteOK.com/remote-jobs/remote-influencer-marketing-coordinator-nello-1134355",
-      "source": "RemoteOK",
-      "description": "We're looking for a highly organized and proactive Influencer Coordinator to own the day-to-day operations of our influencer and affiliate marketing programs. This role is ideal for someone who lives on TikTok and Instagram, understands creator culture deeply, and thrives on the behind-the-scenes execution that keeps influencer campaigns running at scale. You'll work closely with the Influencer Marketing Manager across creator partnerships, gifting and seeding logistics, campaign tracking, reporting, and calendar management - playing a key role in how we grow our creator ecosystem and drive pe",
-      "tags": [
-        "design",
-        "designer",
-        "marketing",
-        "video",
-        "education",
-        "exec",
-        "content writing",
-        "ops",
-        "digital nomad",
-        "dev",
-        "finance",
-        "coordinator",
-        "customer support",
-        "travel",
-        "cloud",
-        "senior",
-        "excel",
-        "medical",
-        "shopify",
-        "full time"
       ],
       "verdict": "review",
       "fit": 36,
