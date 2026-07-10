@@ -1,11 +1,11 @@
 {
-  "generated": "2026-07-09 09:18 UTC",
-  "count": 107,
+  "generated": "2026-07-10 08:59 UTC",
+  "count": 102,
   "summary": {
-    "scanned": 107,
-    "eligible": 22,
-    "review": 73,
-    "blocked": 12
+    "scanned": 102,
+    "eligible": 21,
+    "review": 70,
+    "blocked": 11
   },
   "jobs": [
     {
@@ -288,62 +288,6 @@
       ]
     },
     {
-      "title": "Business Analyst",
-      "company": "Blockchain.com",
-      "location": "New York, New York, United States",
-      "url": "https://remoteOK.com/remote-jobs/remote-business-analyst-blockchain-com-1134457",
-      "source": "RemoteOK",
-      "description": "Blockchain is connecting the world to the future of finance. As the most trusted and fastest-growing global crypto company, it helps millions of people worldwide safely access cryptocurrency. Since its inception in 2011, Blockchain has earned the trust of over 90 million wallet holders and more than 40 million verified users, facilitating over $1 trillion in crypto transactions. Blockchain.com is looking for a Business Analyst to support strategic products, markets, and customer segments within the Consumer business. This is a high-impact analytical and product-oriented role focused on busines",
-      "tags": [
-        "design",
-        "consulting",
-        "exec",
-        "customer support",
-        "testing",
-        "marketing",
-        "web dev",
-        "video",
-        "education",
-        "seo",
-        "content writing",
-        "senior",
-        "ops",
-        "sales",
-        "golang",
-        "medical",
-        "digital nomad",
-        "travel",
-        "finance",
-        "stats",
-        "engineer",
-        "shopify",
-        "speech",
-        "full time",
-        "part time",
-        "hr",
-        "c",
-        "legal",
-        "coordinator",
-        "dev",
-        "cloud",
-        "excel",
-        "sys admin",
-        "game dev",
-        "english teacher",
-        "teaching",
-        "linguistics",
-        "analyst",
-        "crypto",
-        "controller",
-        "recruiter"
-      ],
-      "verdict": "eligible",
-      "fit": 50,
-      "reasons": [
-        "remote — anywhere / global"
-      ]
-    },
-    {
       "title": "Sales Engineer (Remote, US Based)",
       "company": "Liquibase",
       "location": "Anywhere in the World",
@@ -455,6 +399,117 @@
       "reasons": [
         "remote — anywhere / global",
         "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Update Add Your Resume Any Position EOI Infrastructure Projects",
+      "company": "Bellwether Group",
+      "location": "Brisbane,",
+      "url": "https://remoteOK.com/remote-jobs/remote-update-add-your-resume-any-position-eoi-infrastructure-projects-bellwether-group-1134658",
+      "source": "RemoteOK",
+      "description": "About Bellwether We provide Professional Engineering and Project Management services to private and government clients across Australia, and are also Principal Contractors. Our people come from major infrastructure backgrounds and bring with them hands-on experience in the planning and delivery of some of Australiaâs biggest and iconic projects. We're always on the lookout for great people with proven construction industry experience to join our team. About Our Team We pride ourselves on living and breathing our Core Values. Weâre professional in our approach and presentation, and we go th",
+      "tags": [
+        "education",
+        "customer support",
+        "medical",
+        "non tech",
+        "infosec",
+        "golang",
+        "exec",
+        "ops",
+        "engineer",
+        "marketing"
+      ],
+      "verdict": "review",
+      "fit": 52,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
+      "title": "Project Coordinator",
+      "company": "Franklin Fitch",
+      "location": "London Area, London Area, United Kingdom",
+      "url": "https://remoteOK.com/remote-jobs/remote-project-coordinator-franklin-fitch-1134634",
+      "source": "RemoteOK",
+      "description": "Location: Fully Remote (UK) Contract Type: Contract IR35 Status: Inside IR35 Duration: Initial 3â6 Months (with potential extension) Day Rate: Competitive The Opportunity We are looking for a highly organised and proactive Project Coordinator to support the successful delivery of cloud transformation, migration, and modernisation programmes across enterprise environments. Working closely with Project Managers, technical teams, and business stakeholders, you will play a key role in ensuring projects are delivered in line with agreed governance, processes, budgets, and timelines. This is an ex",
+      "tags": [
+        "customer support",
+        "marketing",
+        "travel",
+        "exec",
+        "content writing",
+        "sales",
+        "golang",
+        "controller",
+        "excel",
+        "teaching",
+        "testing",
+        "video",
+        "education",
+        "finance",
+        "ads",
+        "senior",
+        "recruiter",
+        "social media",
+        "full time",
+        "part time",
+        "jira",
+        "technical",
+        "coordinator",
+        "analyst",
+        "devops",
+        "cloud",
+        "microsoft",
+        "ops"
+      ],
+      "verdict": "review",
+      "fit": 52,
+      "reasons": [
+        "United kingdom-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "Freelance Social Media &amp; Marketing Executive",
+      "company": "MePlus Nutrition",
+      "location": "Glasgow, Glasgow, Scotland, United Kingdom",
+      "url": "https://remoteOK.com/remote-jobs/remote-freelance-social-media-amp-marketing-executive-meplus-nutrition-1134635",
+      "source": "RemoteOK",
+      "description": "Freelance Social Media &amp; Marketing Executive (Part-Time) Location: Remote (UK only â Glasgow area preferred for occasional content shoots and meetings) Monthly Retainer: Â£1,500 Type: Ongoing freelance partnership Please Note This is a part-time, ongoing freelance retainer (Â£1,500 per month), not an employed position. About Us New Wave Snacks is the company behind exciting brands including Me+ and Bliss . We're a small, growing FMCG business with ambitious plans across retail, licensing and brand growth. We're looking for a proactive and organised Freelance Social Media &amp; Marketing ",
+      "tags": [
+        "customer support",
+        "marketing",
+        "travel",
+        "exec",
+        "content writing",
+        "sales",
+        "golang",
+        "controller",
+        "excel",
+        "teaching",
+        "testing",
+        "video",
+        "education",
+        "finance",
+        "ads",
+        "senior",
+        "recruiter",
+        "social media",
+        "full time",
+        "part time",
+        "jira",
+        "technical",
+        "coordinator",
+        "analyst",
+        "devops",
+        "cloud",
+        "microsoft",
+        "ops"
+      ],
+      "verdict": "review",
+      "fit": 52,
+      "reasons": [
+        "United kingdom-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -589,32 +644,6 @@
       "fit": 52,
       "reasons": [
         "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "SRE Engineer Contractor",
-      "company": "IPSY",
-      "location": "Mexico",
-      "url": "https://himalayas.app/companies/ipsy/jobs/sre-engineer-contractor",
-      "source": "Himalayas",
-      "description": "ABOUT US Join us in inspiring everyone to express their unique beauty. IPSY is the beauty industry’s most powerful platform, uniting brands, creators, and hyper-engaged consumers with unprecedented access to each other through the ultimate beauty membership. Home to sample-size subscription IPSY Original, full-size subscription IPSY Extra, and quarterly, limited-edition collection IPSY Ultimate, we curate beauty for millions of members so they can play, explore, and express their unique beauty every day. We think self-discovery, self-expression, and confidence are beautiful. Agree? Then join u",
-      "tags": [
-        "site-reliability-engineering",
-        "sre-engineer",
-        "infrastructure-engineering",
-        "devops-engineering",
-        "it-and-infrastructure",
-        "sre-engineering",
-        "sre-devops-engineering",
-        "sre-consulting",
-        "sre-system-engineer",
-        "sre",
-        "sre-(site-reliability-engineering)"
-      ],
-      "verdict": "review",
-      "fit": 52,
-      "reasons": [
-        "Mexico-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -1148,23 +1177,6 @@
       ]
     },
     {
-      "title": "Senior Site Reliability Engineer (Remote Build)",
-      "company": "Remote",
-      "location": "EMEA",
-      "url": "https://jobicy.com/jobs/146979-senior-site-reliability-engineer-remote-build",
-      "source": "Jobicy",
-      "description": "About Remote Remote is solving modern organizations’ biggest challenge – navigating global employment compliantly with ease. We make it possible for businesses of all sizes to recruit, pay, and manage international teams. With our core values at heart and future focused work culture, our team works tirelessly on ambitious problems, asynchronously, around the world. You&hellip;",
-      "tags": [
-        "devops &amp; infrastructure"
-      ],
-      "verdict": "review",
-      "fit": 46,
-      "reasons": [
-        "EMEA-tagged — verify it's open to Africa first",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
       "title": "Communications Manager",
       "company": "Lemon.io",
       "location": "LATAM, Europe",
@@ -1389,167 +1401,19 @@
       ]
     },
     {
-      "title": "Administrative Data Entry File Clerk",
-      "company": "Recruitlytics Hiring",
-      "location": "Alberta, Alberta, Canada",
-      "url": "https://remoteOK.com/remote-jobs/remote-administrative-data-entry-file-clerk-recruitlytics-hiring-1134498",
-      "source": "RemoteOK",
-      "description": "Dedicated to delivering exceptional service and maintaining organized business operations, our company is seeking a detail-oriented Administrative Data Entry File Clerk to join our team. If you excel at managing records, entering data accurately, and working independently in a remote environment, this opportunity may be the perfect fit for you. In this role, you will be responsible for maintaining digital files, updating databases, organizing administrative records, and ensuring information is entered accurately and efficiently. Your attention to detail, reliability, and commitment to data acc",
+      "title": "Customer Success Engineer",
+      "company": "Tailscale",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/149066-customer-success-engineer-3",
+      "source": "Jobicy",
+      "description": "About Tailscale Tailscale is building the new Internet by delivering software that makes it easy to securely interconnect people and their devices, no matter where they are. From hobbyists to multinational corporations, teams of every size use Tailscale each day to protect their networks, share access to internal tools, and more. We're building a future&hellip;",
       "tags": [
-        "design",
-        "saas",
-        "embedded",
-        "customer support",
-        "marketing",
-        "analyst",
-        "quality assurance",
-        "finance",
-        "ops",
-        "stats",
-        "sales",
-        "sys admin",
-        "medical",
-        "engineer",
-        "backend",
-        "exec",
-        "digital nomad",
-        "data entry",
-        "jira",
-        "hr",
-        "cloud",
-        "admin",
-        "excel",
-        "legal"
+        "customer success"
       ],
       "verdict": "review",
       "fit": 36,
       "reasons": [
-        "Canada-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "File Clerk",
-      "company": "Recruitlytics Hiring",
-      "location": "Hong Kong, Hong Kong, Hong Kong SAR",
-      "url": "https://remoteOK.com/remote-jobs/remote-file-clerk-recruitlytics-hiring-1134495",
-      "source": "RemoteOK",
-      "description": "As a Remote File Clerk, youâll keep digital and scanned records accurate, organized, searchable, and compliant. Youâll support multiple teams by receiving documents, validating completeness, applying naming conventions, classifying files into the correct repositories, and maintaining an audit-ready trail of what was received, when it was processed, and where it lives. Youâll work in a high-volume environment where speed matters, but accuracy and confidentiality matter more. Â Key responsibilities: Â Intake &amp; indexing: Receive files from shared inboxes, portals, internal ticketing too",
-      "tags": [
-        "jira",
-        "hr",
-        "customer support",
-        "finance",
-        "cloud",
-        "admin",
-        "exec",
-        "ops",
-        "legal"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "location unconfirmed — verify it's open to Africa"
-      ]
-    },
-    {
-      "title": "Online Casino Game Tester",
-      "company": "RG&amp;T Solutions",
-      "location": "New York,",
-      "url": "https://remoteOK.com/remote-jobs/remote-online-casino-game-tester-rgampt-solutions-1134455",
-      "source": "RemoteOK",
-      "description": "Join a gambling technology company as a Website Tester across Michigan, New Jersey, Pennsylvania, and West Virginia . This flexible, short-term contract offers an opportunity to earn at least $1,000 for about 20 hours of testing, with a minimum of $25/hour and a $100 onboarding bonus. No prior experience is needed; training is provided. As a tester, you will participate in user experience testing on online casino platforms, follow instructions, report bugs, and provide feedback within deadlines. Requirements include being 21+, owning a computer, residing in one of the eligible states, and comp",
-      "tags": [
-        "design",
-        "consulting",
-        "exec",
-        "customer support",
-        "testing",
-        "marketing",
-        "web dev",
-        "video",
-        "education",
-        "seo",
-        "content writing",
-        "senior",
-        "ops",
-        "sales",
-        "golang",
-        "medical",
-        "digital nomad",
-        "travel",
-        "finance",
-        "stats",
-        "engineer",
-        "shopify",
-        "speech",
-        "full time",
-        "part time",
-        "hr",
-        "c",
-        "legal",
-        "coordinator",
-        "dev",
-        "cloud",
-        "excel",
-        "sys admin",
-        "game dev"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "location unconfirmed — verify it's open to Africa"
-      ]
-    },
-    {
-      "title": "Pedagogy Specialist English",
-      "company": "CloudFactory",
-      "location": "Massachusetts, Massachusetts, United States",
-      "url": "https://remoteOK.com/remote-jobs/remote-pedagogy-specialist-english-cloudfactory-1134456",
-      "source": "RemoteOK",
-      "description": "Who We Are At CloudFactory, we are a mission-driven team passionate about unlocking the disruptive potential of AI for the world. By combining advanced technology with a global network of talented experts, we make unusable data usable and inference reliable and trustworthy, driving real-world business value at scale. More than just a workplace, we're a global community founded on strong relationships and the belief that meaningful work transforms lives. Our commitment to earning, learning, and serving fuels everything we do, as we strive to connect one million people to meaningful work and bui",
-      "tags": [
-        "design",
-        "consulting",
-        "exec",
-        "customer support",
-        "testing",
-        "marketing",
-        "web dev",
-        "video",
-        "education",
-        "seo",
-        "content writing",
-        "senior",
-        "ops",
-        "sales",
-        "golang",
-        "medical",
-        "digital nomad",
-        "travel",
-        "finance",
-        "stats",
-        "engineer",
-        "shopify",
-        "speech",
-        "full time",
-        "part time",
-        "hr",
-        "c",
-        "legal",
-        "coordinator",
-        "dev",
-        "cloud",
-        "excel",
-        "sys admin",
-        "game dev",
-        "english teacher",
-        "teaching",
-        "linguistics"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "United states-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -1793,28 +1657,6 @@
       ]
     },
     {
-      "title": "Engineering Manager, Search Platform",
-      "company": "ezCater",
-      "location": "United States",
-      "url": "https://himalayas.app/companies/ezcater/jobs/engineering-manager-search-platform",
-      "source": "Himalayas",
-      "description": "ezCater is the #1 food tech platform for workplaces in the US. The company makes it easy for any organization to manage its food needs and order from over 125,000 restaurants nationwide. For workplaces, ezCater provides flexible and scalable solutions for everything from employee meal programs to one-off meetings, all backed by beyond helpful 24/7 service and business-grade reliability. For restaurant partners, ezCater helps grow their business by bringing them new high-value customers and large orders. Search is the front door of the ezCater marketplace. Every browse, search, filter, and disc",
-      "tags": [
-        "engineering-management",
-        "search-platform-engineering",
-        "backend-engineering",
-        "platform-engineering",
-        "technical-lead",
-        "platform-engineering-manager",
-        "engineering-manager"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "United states-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
       "title": "Senior Data Scientist",
       "company": "Lemon.io",
       "location": "Americas, Europe, Asia, Oceania",
@@ -1859,23 +1701,6 @@
       ]
     },
     {
-      "title": "Lead Cloud Solution Architect- Application Modernization (AWS)",
-      "company": "World Wide Technology",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/147047-lead-cloud-solution-architect-application-modernization-aws",
-      "source": "Jobicy",
-      "description": "Qualifications Minimum 10 years of progressive experience in cloud architecture, application development, or related technical disciplines Minimum 7 years of hands-on experience designing, deploying, and operating workloads on AWS in enterprise environments Bachelor's degree in Computer Science, Information Systems, Engineering, or equivalent practical experience Demonstrated real-world experience modernizing enterprise applications, including replatforming to containers, re-architecting&hellip;",
-      "tags": [
-        "software engineering"
-      ],
-      "verdict": "review",
-      "fit": 34,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
       "title": "Senior Independent AI Engineer / Architect",
       "company": "A.Team",
       "location": "Americas, Europe, Israel",
@@ -1890,6 +1715,23 @@
         "apple",
         "testing",
         "catalyst"
+      ],
+      "verdict": "review",
+      "fit": 30,
+      "reasons": [
+        "Europe-tagged — verify it's open to Africa first",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "QA Automation Lead [gn] Data Intelligence",
+      "company": "Actian",
+      "location": "Europe",
+      "url": "https://jobicy.com/jobs/149048-qa-automation-lead-gn-data-intelligence",
+      "source": "Jobicy",
+      "description": "The QA Automation Team is the ultimate guardian of our platform’s reliability, scalability, and deployment velocity. In a complex, data-heavy ecosystem, manual testing is a bottleneck; continuous, intelligent, and bulletproof automation is the only way forward. We are looking for a QA Automation Lead who will architect, scale, and own our automated testing strategy end-to-end.&hellip;",
+      "tags": [
+        "qa &amp; testing"
       ],
       "verdict": "review",
       "fit": 30,
@@ -2107,54 +1949,6 @@
       "fit": 0,
       "reasons": [
         "Head of-level — usually 5–10+ yrs, you have ~4"
-      ]
-    },
-    {
-      "title": "Supply Chain Director",
-      "company": "Novaris Search",
-      "location": "New York City Metropolitan Area",
-      "url": "https://remoteOK.com/remote-jobs/remote-supply-chain-director-novaris-search-1134454",
-      "source": "RemoteOK",
-      "description": "Supply Chain Director New York, USA On-site / Hybrid depending on business needs About the Company Novaris Search is partnered with a growing business within the personal care and beauty manufacturing space that is looking to appoint a Supply Chain Director to lead and strengthen its end-to-end supply chain function. This is a key leadership role for a commercially aware supply chain professional who can build structure, improve performance, and support the business through its next phase of growth. Position Overview The Supply Chain Director will be responsible for overseeing the full supply ",
-      "tags": [
-        "design",
-        "consulting",
-        "exec",
-        "customer support",
-        "testing",
-        "marketing",
-        "web dev",
-        "video",
-        "education",
-        "seo",
-        "content writing",
-        "senior",
-        "ops",
-        "sales",
-        "golang",
-        "medical",
-        "digital nomad",
-        "travel",
-        "finance",
-        "stats",
-        "engineer",
-        "shopify",
-        "speech",
-        "full time",
-        "part time",
-        "hr",
-        "c",
-        "legal",
-        "coordinator",
-        "dev",
-        "cloud",
-        "excel",
-        "sys admin"
-      ],
-      "verdict": "blocked",
-      "fit": 0,
-      "reasons": [
-        "Director-level — usually 5–10+ yrs, you have ~4"
       ]
     },
     {
