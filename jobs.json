@@ -1,11 +1,11 @@
 {
-  "generated": "2026-07-11 07:30 UTC",
-  "count": 113,
+  "generated": "2026-07-12 07:56 UTC",
+  "count": 122,
   "summary": {
-    "scanned": 113,
+    "scanned": 122,
     "eligible": 22,
-    "review": 80,
-    "blocked": 11
+    "review": 79,
+    "blocked": 21
   },
   "jobs": [
     {
@@ -630,38 +630,6 @@
       ]
     },
     {
-      "title": "Full Stack Engineer (Global)",
-      "company": "infisical",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/147332-full-stack-engineer-global",
-      "source": "Jobicy",
-      "description": "Skills: Node.js, TypeScriptInfisical is looking to hire exceptional talent to join our teams in building the open source security infrastructure stack for the AI era.We're building a generational company with a world-class engineering team. This isn’t a place to coast — but if you want to grow fast, take ownership, and solve tough problems, you’ll&hellip;",
-      "tags": [
-        "software engineering"
-      ],
-      "verdict": "review",
-      "fit": 52,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Full Stack Engineer (Americas)",
-      "company": "infisical",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/147188-full-stack-engineer-americas",
-      "source": "Jobicy",
-      "description": "Skills: Node.js, TypeScriptInfisical is looking to hire exceptional talent to join our teams in building the open source security infrastructure stack for the AI era.We're building a generational company with a world-class engineering team. This isn’t a place to coast — but if you want to grow fast, take ownership, and solve tough problems, you’ll&hellip;",
-      "tags": [
-        "software engineering"
-      ],
-      "verdict": "review",
-      "fit": 52,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
       "title": "Customer Solutions Architect, Amazon Connect",
       "company": "Caylent",
       "location": "Canada",
@@ -1022,6 +990,23 @@
       ]
     },
     {
+      "title": "Senior Cloud Engineer / DevOps (GCP) - Marketing",
+      "company": "Truelogic",
+      "location": "LATAM",
+      "url": "https://jobicy.com/jobs/149150-senior-cloud-engineer-devops-gcp-marketing",
+      "source": "Jobicy",
+      "description": "About TruelogicAt Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of all sizes, from innovative startups to industry leaders, helping them achieve their digital transformation goals.Our team of 600+ highly skilled tech professionals, based in Latin&hellip;",
+      "tags": [
+        "devops &amp; infrastructure"
+      ],
+      "verdict": "review",
+      "fit": 46,
+      "reasons": [
+        "Latam-tagged — verify it's open to Africa first",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
       "title": "Senior DevOps Engineer",
       "company": "Zartis",
       "location": "Europe",
@@ -1081,6 +1066,23 @@
       "description": "About TruelogicAt Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of all sizes, from innovative startups to industry leaders, helping them achieve their digital transformation goals.Our team of 600+ highly skilled tech professionals, based in Latin&hellip;",
       "tags": [
         "devops &amp; infrastructure"
+      ],
+      "verdict": "review",
+      "fit": 46,
+      "reasons": [
+        "Latam-tagged — verify it's open to Africa first",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Lead Platform Engineer",
+      "company": "Launchpad Technologies",
+      "location": "LATAM",
+      "url": "https://jobicy.com/jobs/149146-lead-platform-engineer",
+      "source": "Jobicy",
+      "description": "Who We Are Launchpad Technologies Inc. is a global technology partner connecting top talent with high-impact projects across North America and beyond. We specialize in Staff Augmentation and product development, helping companies scale with agility while empowering professionals to grow in meaningful, remote-first environments.About the Role - Lead Platform Engineer (Azure)Build the platform behind one&hellip;",
+      "tags": [
+        "software engineering"
       ],
       "verdict": "review",
       "fit": 46,
@@ -2068,22 +2070,6 @@
       ]
     },
     {
-      "title": "Golang Engineer",
-      "company": "Plain Concepts",
-      "location": "Brazil",
-      "url": "https://jobicy.com/jobs/144179-golang-engineer",
-      "source": "Jobicy",
-      "description": "We are seeking a Senior Golang Engineer with strong expertise in event-driven architectures, distributed systems, and modern AI-assisted software engineering practices. The ideal candidate has deep hands-on experience with Apache Kafka, high-performance backend engineering, and the ability to design resilient microservices at scale, while leveraging modern AI-powered development tools to improve productivity, code quality, and&hellip;",
-      "tags": [
-        "software engineering"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Brazil-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
       "title": "Senior Data Scientist",
       "company": "Lemon.io",
       "location": "Americas, Europe, Asia, Oceania",
@@ -2147,6 +2133,23 @@
       "fit": 30,
       "reasons": [
         "Europe-tagged — verify it's open to Africa first",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Senior Software Architect (C# / AI First) - GovTech SaaS company",
+      "company": "Truelogic",
+      "location": "LATAM",
+      "url": "https://jobicy.com/jobs/149164-senior-software-architect-c-ai-first-govtech-saas-company",
+      "source": "Jobicy",
+      "description": "About TruelogicAt Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of all sizes, from innovative startups to industry leaders, helping them achieve their digital transformation goals.Our team of 600+ highly skilled tech professionals, based in Latin&hellip;",
+      "tags": [
+        "software engineering"
+      ],
+      "verdict": "review",
+      "fit": 30,
+      "reasons": [
+        "Latam-tagged — verify it's open to Africa first",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -2287,20 +2290,388 @@
       ]
     },
     {
-      "title": "Senior AI Engineer",
-      "company": "eMerchantPay",
-      "location": "Bulgaria",
-      "url": "https://jobicy.com/jobs/144139-senior-ai-engineer-3",
-      "source": "Jobicy",
-      "description": "emerchantpay is a leading global payment service provider and acquirer for online, mobile, in-store and over the phone payments. Our global payments solution is available through a simple integration, offering a diverse range of features, including global acquiring, global and local payment methods, advanced fraud management and performance optimisation. We empower businesses to design seamless&hellip;",
+      "title": "Staff Software Engineer, Product (Belo Horizonte)",
+      "company": "LawnStarter",
+      "location": "Brazil",
+      "url": "https://remotive.com/remote-jobs/software-development/staff-software-engineer-product-belo-horizonte-2091056",
+      "source": "Remotive",
+      "description": "This is a remote role for candidates located in Belo Horizonte, Brazil. About LawnStarter LawnStarter is the nation's leading on-demand marketplace for lawn care and outdoor services, with over $100M in annual bookings. We're expanding beyond lawn care to become the one-stop shop for all home services — operating across three brands (LawnStarter, Lawn Love, Home Gnome) on a single shared platform. About Engineering at LawnStarter We build in small, focused initiative teams: a Product Engineer working alongside a PM and a designer, supported by an Engineering Manager who helps you grow. You'll ",
       "tags": [
-        "software engineering"
+        "aws",
+        "backend",
+        "frontend",
+        "php",
+        "react",
+        "security",
+        "ui/ux",
+        "ai/ml",
+        "jira",
+        "react native",
+        "documentation",
+        "laravel",
+        "typescript",
+        "people management",
+        "prototyping",
+        "engineering management",
+        "marketplace",
+        "github",
+        "rest",
+        "datadog"
       ],
-      "verdict": "review",
-      "fit": 30,
+      "verdict": "blocked",
+      "fit": 0,
       "reasons": [
-        "location unconfirmed — verify it's open to Africa",
-        "senior title — a stretch at ~4 yrs, but go for it"
+        "Staff-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
+      "title": "Staff Software Engineer, Product (Montevideo)",
+      "company": "LawnStarter",
+      "location": "Uruguay",
+      "url": "https://remotive.com/remote-jobs/software-development/staff-software-engineer-product-montevideo-2091058",
+      "source": "Remotive",
+      "description": "This is a remote role for candidates located in Montevideo, Uruguay. About LawnStarter LawnStarter is the nation's leading on-demand marketplace for lawn care and outdoor services, with over $100M in annual bookings. We're expanding beyond lawn care to become the one-stop shop for all home services — operating across three brands (LawnStarter, Lawn Love, Home Gnome) on a single shared platform. About Engineering at LawnStarter We build in small, focused initiative teams: a Product Engineer working alongside a PM and a designer, supported by an Engineering Manager who helps you grow. You'll als",
+      "tags": [
+        "aws",
+        "backend",
+        "frontend",
+        "php",
+        "react",
+        "security",
+        "ui/ux",
+        "ai/ml",
+        "jira",
+        "react native",
+        "documentation",
+        "laravel",
+        "typescript",
+        "people management",
+        "prototyping",
+        "engineering management",
+        "marketplace",
+        "github",
+        "rest",
+        "datadog"
+      ],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Staff-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
+      "title": "Staff Software Engineer, Product (São Paulo)",
+      "company": "LawnStarter",
+      "location": "Brazil",
+      "url": "https://remotive.com/remote-jobs/software-development/staff-software-engineer-product-sao-paulo-2091055",
+      "source": "Remotive",
+      "description": "This is a remote role for candidates located in São Paulo, Brazil. About LawnStarter LawnStarter is the nation's leading on-demand marketplace for lawn care and outdoor services, with over $100M in annual bookings. We're expanding beyond lawn care to become the one-stop shop for all home services — operating across three brands (LawnStarter, Lawn Love, Home Gnome) on a single shared platform. About Engineering at LawnStarter We build in small, focused initiative teams: a Product Engineer working alongside a PM and a designer, supported by an Engineering Manager who helps you grow. You'll also ",
+      "tags": [
+        "aws",
+        "backend",
+        "frontend",
+        "php",
+        "react",
+        "security",
+        "ui/ux",
+        "ai/ml",
+        "jira",
+        "react native",
+        "documentation",
+        "laravel",
+        "typescript",
+        "people management",
+        "prototyping",
+        "engineering management",
+        "marketplace",
+        "github",
+        "rest",
+        "datadog"
+      ],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Staff-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
+      "title": "Staff Software Engineer, Product (Mexico City)",
+      "company": "LawnStarter",
+      "location": "Mexico",
+      "url": "https://remotive.com/remote-jobs/software-development/staff-software-engineer-product-mexico-city-2091050",
+      "source": "Remotive",
+      "description": "This is a remote role for candidates located in Mexico City, Mexico. About LawnStarter LawnStarter is the nation's leading on-demand marketplace for lawn care and outdoor services, with over $100M in annual bookings. We're expanding beyond lawn care to become the one-stop shop for all home services — operating across three brands (LawnStarter, Lawn Love, Home Gnome) on a single shared platform. About Engineering at LawnStarter We build in small, focused initiative teams: a Product Engineer working alongside a PM and a designer, supported by an Engineering Manager who helps you grow. You'll als",
+      "tags": [
+        "aws",
+        "backend",
+        "frontend",
+        "php",
+        "react",
+        "security",
+        "ui/ux",
+        "ai/ml",
+        "jira",
+        "react native",
+        "documentation",
+        "laravel",
+        "typescript",
+        "people management",
+        "prototyping",
+        "engineering management",
+        "marketplace",
+        "github",
+        "rest",
+        "datadog"
+      ],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Staff-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
+      "title": "Staff Software Engineer, Product (Campinas)",
+      "company": "LawnStarter",
+      "location": "Brazil",
+      "url": "https://remotive.com/remote-jobs/software-development/staff-software-engineer-product-campinas-2091049",
+      "source": "Remotive",
+      "description": "This is a remote role for candidates located in Campinas, Brazil. About LawnStarter LawnStarter is the nation's leading on-demand marketplace for lawn care and outdoor services, with over $100M in annual bookings. We're expanding beyond lawn care to become the one-stop shop for all home services — operating across three brands (LawnStarter, Lawn Love, Home Gnome) on a single shared platform. About Engineering at LawnStarter We build in small, focused initiative teams: a Product Engineer working alongside a PM and a designer, supported by an Engineering Manager who helps you grow. You'll also w",
+      "tags": [
+        "aws",
+        "backend",
+        "frontend",
+        "php",
+        "react",
+        "security",
+        "ui/ux",
+        "ai/ml",
+        "jira",
+        "react native",
+        "documentation",
+        "laravel",
+        "typescript",
+        "people management",
+        "prototyping",
+        "engineering management",
+        "marketplace",
+        "github",
+        "rest",
+        "datadog"
+      ],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Staff-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
+      "title": "Staff Software Engineer, Product (Florianópolis)",
+      "company": "LawnStarter",
+      "location": "Brazil",
+      "url": "https://remotive.com/remote-jobs/software-development/staff-software-engineer-product-florianopolis-2091059",
+      "source": "Remotive",
+      "description": "This is a remote role for candidates located in Florianópolis, Brazil. About LawnStarter LawnStarter is the nation's leading on-demand marketplace for lawn care and outdoor services, with over $100M in annual bookings. We're expanding beyond lawn care to become the one-stop shop for all home services — operating across three brands (LawnStarter, Lawn Love, Home Gnome) on a single shared platform. About Engineering at LawnStarter We build in small, focused initiative teams: a Product Engineer working alongside a PM and a designer, supported by an Engineering Manager who helps you grow. You'll a",
+      "tags": [
+        "aws",
+        "backend",
+        "frontend",
+        "php",
+        "react",
+        "security",
+        "ui/ux",
+        "ai/ml",
+        "jira",
+        "react native",
+        "documentation",
+        "laravel",
+        "typescript",
+        "people management",
+        "prototyping",
+        "engineering management",
+        "marketplace",
+        "github",
+        "rest",
+        "datadog"
+      ],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Staff-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
+      "title": "Staff Product Engineer (Mexico City)",
+      "company": "LawnStarter",
+      "location": "Mexico",
+      "url": "https://remotive.com/remote-jobs/product/staff-product-engineer-mexico-city-2091057",
+      "source": "Remotive",
+      "description": "This is a remote role for candidates located in Mexico City, Mexico. About LawnStarter LawnStarter is the nation's leading on-demand marketplace for lawn care and outdoor services, with over $100M in annual bookings. We're expanding beyond lawn care to become the one-stop shop for all home services — operating across three brands (LawnStarter, Lawn Love, Home Gnome) on a single shared platform. About Engineering at LawnStarter We build in small, focused initiative teams: a Product Engineer working alongside a PM and a designer, supported by an Engineering Manager who helps you grow. You'll als",
+      "tags": [
+        "aws",
+        "backend",
+        "frontend",
+        "php",
+        "react",
+        "security",
+        "ui/ux",
+        "ai/ml",
+        "jira",
+        "react native",
+        "documentation",
+        "laravel",
+        "typescript",
+        "people management",
+        "prototyping",
+        "engineering management",
+        "marketplace",
+        "github",
+        "rest",
+        "datadog"
+      ],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Staff-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
+      "title": "Staff Product Engineer (Montevideo)",
+      "company": "LawnStarter",
+      "location": "Uruguay",
+      "url": "https://remotive.com/remote-jobs/product/staff-product-engineer-montevideo-2091054",
+      "source": "Remotive",
+      "description": "This is a remote role for candidates located in Montevideo, Uruguay. About LawnStarter LawnStarter is the nation's leading on-demand marketplace for lawn care and outdoor services, with over $100M in annual bookings. We're expanding beyond lawn care to become the one-stop shop for all home services — operating across three brands (LawnStarter, Lawn Love, Home Gnome) on a single shared platform. About Engineering at LawnStarter We build in small, focused initiative teams: a Product Engineer working alongside a PM and a designer, supported by an Engineering Manager who helps you grow. You'll als",
+      "tags": [
+        "aws",
+        "backend",
+        "frontend",
+        "php",
+        "react",
+        "security",
+        "ui/ux",
+        "ai/ml",
+        "jira",
+        "react native",
+        "documentation",
+        "laravel",
+        "typescript",
+        "people management",
+        "prototyping",
+        "engineering management",
+        "marketplace",
+        "github",
+        "rest",
+        "datadog"
+      ],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Staff-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
+      "title": "Staff Product Engineer (Campinas)",
+      "company": "LawnStarter",
+      "location": "Brazil",
+      "url": "https://remotive.com/remote-jobs/product/staff-product-engineer-campinas-2091053",
+      "source": "Remotive",
+      "description": "This is a remote role for candidates located in Campinas, Brazil. About LawnStarter LawnStarter is the nation's leading on-demand marketplace for lawn care and outdoor services, with over $100M in annual bookings. We're expanding beyond lawn care to become the one-stop shop for all home services — operating across three brands (LawnStarter, Lawn Love, Home Gnome) on a single shared platform. About Engineering at LawnStarter We build in small, focused initiative teams: a Product Engineer working alongside a PM and a designer, supported by an Engineering Manager who helps you grow. You'll also w",
+      "tags": [
+        "aws",
+        "backend",
+        "frontend",
+        "php",
+        "react",
+        "security",
+        "ui/ux",
+        "ai/ml",
+        "jira",
+        "react native",
+        "documentation",
+        "laravel",
+        "typescript",
+        "people management",
+        "prototyping",
+        "engineering management",
+        "marketplace",
+        "github",
+        "rest",
+        "datadog"
+      ],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Staff-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
+      "title": "Staff Product Engineer (Belo Horizonte)",
+      "company": "LawnStarter",
+      "location": "Brazil",
+      "url": "https://remotive.com/remote-jobs/product/staff-product-engineer-belo-horizonte-2091052",
+      "source": "Remotive",
+      "description": "This is a remote role for candidates located in Belo Horizonte, Brazil. About LawnStarter LawnStarter is the nation's leading on-demand marketplace for lawn care and outdoor services, with over $100M in annual bookings. We're expanding beyond lawn care to become the one-stop shop for all home services — operating across three brands (LawnStarter, Lawn Love, Home Gnome) on a single shared platform. About Engineering at LawnStarter We build in small, focused initiative teams: a Product Engineer working alongside a PM and a designer, supported by an Engineering Manager who helps you grow. You'll ",
+      "tags": [
+        "aws",
+        "backend",
+        "frontend",
+        "php",
+        "react",
+        "security",
+        "ui/ux",
+        "ai/ml",
+        "jira",
+        "react native",
+        "documentation",
+        "laravel",
+        "typescript",
+        "people management",
+        "prototyping",
+        "engineering management",
+        "marketplace",
+        "github",
+        "rest",
+        "datadog"
+      ],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Staff-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
+      "title": "Staff Product Engineer (Florianópolis)",
+      "company": "LawnStarter",
+      "location": "Brazil",
+      "url": "https://remotive.com/remote-jobs/product/staff-product-engineer-florianopolis-2091051",
+      "source": "Remotive",
+      "description": "This is a remote role for candidates located in Florianópolis, Brazil About LawnStarter LawnStarter is the nation's leading on-demand marketplace for lawn care and outdoor services, with over $100M in annual bookings. We're expanding beyond lawn care to become the one-stop shop for all home services — operating across three brands (LawnStarter, Lawn Love, Home Gnome) on a single shared platform. About Engineering at LawnStarter We build in small, focused initiative teams: a Product Engineer working alongside a PM and a designer, supported by an Engineering Manager who helps you grow. You'll al",
+      "tags": [
+        "aws",
+        "backend",
+        "frontend",
+        "php",
+        "react",
+        "security",
+        "ui/ux",
+        "ai/ml",
+        "jira",
+        "react native",
+        "documentation",
+        "laravel",
+        "typescript",
+        "people management",
+        "prototyping",
+        "engineering management",
+        "marketplace",
+        "github",
+        "rest",
+        "datadog"
+      ],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Staff-level — usually 5–10+ yrs, you have ~4"
       ]
     },
     {
@@ -2379,53 +2750,6 @@
       ]
     },
     {
-      "title": "Senior Vice President &amp; General Manager Senior Living",
-      "company": "PointClickCare",
-      "location": "Mississauga, Mississauga, Ontario, Canada",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-vice-president-amp-general-manager-senior-living-pointclickcare-1134686",
-      "source": "RemoteOK",
-      "description": "Job Title: Senior Vice President &amp; General Manager, Senior Living Location: Mississauga-Hybrid / Canada-Remote Travel to Office expectations** For Remote Roles : If this role is remote, there will be in-office events that will require travel to and from the Mississauga and/or Salt Lake City office. These will include, but not limited to, onboarding, team events, semi-annual and annual team meetings. For Hybrid Roles: If this role is Hybrid, there will be an expectation to reside within commutable distance to the office/location specified in the job listing. This will include, but not limit",
-      "tags": [
-        "customer support",
-        "exec",
-        "saas",
-        "dev",
-        "content writing",
-        "marketing",
-        "excel",
-        "legal",
-        "medical",
-        "ecommerce",
-        "shopify",
-        "full time",
-        "digital nomad",
-        "consulting",
-        "design",
-        "vfx",
-        "designer",
-        "web dev",
-        "ads",
-        "infosec",
-        "education",
-        "recruiter",
-        "travel",
-        "speech",
-        "finance",
-        "c",
-        "cloud",
-        "senior",
-        "ops",
-        "sales",
-        "golang",
-        "engineer"
-      ],
-      "verdict": "blocked",
-      "fit": 0,
-      "reasons": [
-        "Vice president-level — usually 5–10+ yrs, you have ~4"
-      ]
-    },
-    {
       "title": "Principal DevOps Engineer",
       "company": "NBCUniversal",
       "location": "USA",
@@ -2450,6 +2774,22 @@
       "description": "The company and our mission: Zartis is a global AI transformation and technology consulting partner where talented engineers and technologists work on cutting-edge innovation. We partner with ambitious organizations to design, build, and scale technology solutions that deliver real impact. Our teams bring deep expertise in AI-driven platforms, secure API architectures, and cloud-native engineering. You&hellip;",
       "tags": [
         "devops &amp; infrastructure"
+      ],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Principal-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
+      "title": "Principal Full-Stack Engineer (.NET/Angular) (AI-First Development) - Software",
+      "company": "Truelogic",
+      "location": "LATAM",
+      "url": "https://jobicy.com/jobs/149155-principal-full-stack-engineer-net-angular-ai-first-development-software",
+      "source": "Jobicy",
+      "description": "About TruelogicAt Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of all sizes, from innovative startups to industry leaders, helping them achieve their digital transformation goals.Our team of 600+ highly skilled tech professionals, based in Latin&hellip;",
+      "tags": [
+        "software engineering"
       ],
       "verdict": "blocked",
       "fit": 0,
@@ -2519,35 +2859,6 @@
       "fit": 0,
       "reasons": [
         "Director-level — usually 5–10+ yrs, you have ~4"
-      ]
-    },
-    {
-      "title": "Cloud Engineer",
-      "company": "Rapinno Tech",
-      "location": "United States",
-      "url": "https://himalayas.app/companies/rapinno-tech/jobs/cloud-engineer",
-      "source": "Himalayas",
-      "description": "VERY URGENT AND IMMEDIATE NEED. Note: Need Only US Citizen, Green Card, EAD-GC, J2 EAD, H4 EAD, L2 EAD, and TN Visa. ﻿ Job Title: Cloud Engineer Location: Durham, NC ,Westlake ,Tx , Merrimack, NH ,Remote till covid Duration: 12+ Months Contract﻿ Job Description: 5+ Years of experience in Cloud Operations experience Extensive experience working with Infrastructure as Code (AWS Cloud Formation Templates). Hands on experience working with AWS technologies such as ECS, EKS, Load Balancer, Route 53, Auto Scaling Group, AWS Batch, Lambda, S3, CloudWatch, SNS, Key Management Service Extensive hands-o",
-      "tags": [
-        "cloud-engineering",
-        "devops-engineering",
-        "aws-cloud-engineering",
-        "cloud-operations",
-        "infrastructure-engineering",
-        "cloud-engineer",
-        "cloud-software-engineer",
-        "aws-cloud-engineer",
-        "cloud-engineer-azure",
-        "cloud-infrastructure-engineer",
-        "cloud-platform-engineer",
-        "cloud-solutions-engineer",
-        "cloud-systems-engineer",
-        "azure-cloud-engineer"
-      ],
-      "verdict": "blocked",
-      "fit": 0,
-      "reasons": [
-        "work-authorization wall (green card)"
       ]
     }
   ]
