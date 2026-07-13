@@ -1,11 +1,11 @@
 {
-  "generated": "2026-07-12 07:56 UTC",
-  "count": 122,
+  "generated": "2026-07-13 08:44 UTC",
+  "count": 126,
   "summary": {
-    "scanned": 122,
+    "scanned": 126,
     "eligible": 22,
-    "review": 79,
-    "blocked": 21
+    "review": 81,
+    "blocked": 23
   },
   "jobs": [
     {
@@ -250,40 +250,6 @@
       ]
     },
     {
-      "title": "Remote Office Assistant",
-      "company": "Coalition Technologies",
-      "location": "Worldwide",
-      "url": "https://remotive.com/remote-jobs/marketing/remote-office-assistant-1680495",
-      "source": "Remotive",
-      "description": "Coalition Technologies is seeking a reliable, detail-oriented, and highly organized Remote Office Assistant to support administrative, bookkeeping, billing, reporting, data entry, and internal operations tasks. This role is ideal for someone with strong communication skills, discretion, attention to detail, and a willingness to learn and grow within a fast-paced remote work environment. As an Office Assistant, you will help support daily administrative operations, assist with entry-level bookkeeping, organize client documents, support internal reporting, and help maintain accurate company reco",
-      "tags": [
-        "css",
-        "excel",
-        "frontend",
-        "git",
-        "html",
-        "illustrator",
-        "magento",
-        "photoshop",
-        "php",
-        "shopify",
-        "wordpress",
-        "mysql",
-        "startup",
-        "responsive",
-        "themes",
-        "bootstrap",
-        "insurance",
-        "jquery",
-        "ajax"
-      ],
-      "verdict": "eligible",
-      "fit": 50,
-      "reasons": [
-        "remote — anywhere / global"
-      ]
-    },
-    {
       "title": "Customer Success Manager",
       "company": "INNERGY",
       "location": "Austin, Austin, Texas, United States",
@@ -346,6 +312,22 @@
       "source": "WeWorkRemotely",
       "description": "Headquarters: ignitionit.com URL: https://ignitionit.com APPLY HERE: https://go.cultureindex.com/p/bLvP56CvGHU Fully Remote · Work from home · Full-time (Eastern or Pacific time zones) · Apple-first&nbsp; TL;DR ignitionit.com is a seasoned, Apple-first MSP — in business for almost 30 years — and we're hiring a Help Desk Technician to be the friendly, capable first voice our clients reach when something isn't working. This position is a remote, work-from-home, full-time role. We've written this as a junior-to-mid-level job description because that's where most great people start on our team. Bu",
       "tags": [],
+      "verdict": "eligible",
+      "fit": 50,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
+    {
+      "title": "GenAI Engineer",
+      "company": "NTT DATA",
+      "location": "LATAM",
+      "url": "https://jobicy.com/jobs/145940-genai-engineer",
+      "source": "Jobicy",
+      "description": "Job Title: GenAI EngineerLocation Preference: 100% remote in Mexico, Brasil, Peru, Chile working EST Time Zone OR onsite in Washington, D.C.Duration: 1-Year Assignment with possibility of extensionNTT DATA is a team of more than 139,000 diverse professionals operating in more than 50 countries worldwide. Our sectors of activity include telecommunications, finance, industry, utilities, energy, public&hellip;",
+      "tags": [
+        "software engineering"
+      ],
       "verdict": "eligible",
       "fit": 50,
       "reasons": [
@@ -460,6 +442,47 @@
       ]
     },
     {
+      "title": "Billing Specialist",
+      "company": "DataBank",
+      "location": "Dallas,",
+      "url": "https://remoteOK.com/remote-jobs/remote-billing-specialist-databank-1134749",
+      "source": "RemoteOK",
+      "description": "DataBank Holdings Ltd. is a leading provider of enterprise-class data center, cloud, and interconnection services, offering customers 100% uptime availability of data, applications, and infrastructure. DataBankâs managed data center services are anchored in world-class facilities. Our customized technology solutions are designed to help customers effectively manage risk, improve their technology performance and allow them to focus on their core business objectives. DataBank is headquartered in the historic former Federal Reserve Bank Building, in downtown Dallas, TX. DataBank is proud to be ",
+      "tags": [
+        "exec",
+        "strategy",
+        "customer support",
+        "testing",
+        "content writing",
+        "marketing",
+        "medical",
+        "social media",
+        "video",
+        "finance",
+        "photoshop",
+        "design",
+        "python",
+        "vfx",
+        "education",
+        "game dev",
+        "dev",
+        "c",
+        "c plus plus",
+        "cloud",
+        "robotics",
+        "engineer",
+        "digital nomad",
+        "supervisor",
+        "accounting",
+        "excel"
+      ],
+      "verdict": "review",
+      "fit": 52,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
       "title": "Update Add Your Resume Any Position EOI Infrastructure Projects",
       "company": "Bellwether Group",
       "location": "Brisbane,",
@@ -482,49 +505,6 @@
       "fit": 52,
       "reasons": [
         "location unconfirmed — verify it's open to Africa"
-      ]
-    },
-    {
-      "title": "Project Coordinator",
-      "company": "Franklin Fitch",
-      "location": "London Area, London Area, United Kingdom",
-      "url": "https://remoteOK.com/remote-jobs/remote-project-coordinator-franklin-fitch-1134634",
-      "source": "RemoteOK",
-      "description": "Location: Fully Remote (UK) Contract Type: Contract IR35 Status: Inside IR35 Duration: Initial 3â6 Months (with potential extension) Day Rate: Competitive The Opportunity We are looking for a highly organised and proactive Project Coordinator to support the successful delivery of cloud transformation, migration, and modernisation programmes across enterprise environments. Working closely with Project Managers, technical teams, and business stakeholders, you will play a key role in ensuring projects are delivered in line with agreed governance, processes, budgets, and timelines. This is an ex",
-      "tags": [
-        "customer support",
-        "marketing",
-        "travel",
-        "exec",
-        "content writing",
-        "sales",
-        "golang",
-        "controller",
-        "excel",
-        "teaching",
-        "testing",
-        "video",
-        "education",
-        "finance",
-        "ads",
-        "senior",
-        "recruiter",
-        "social media",
-        "full time",
-        "part time",
-        "jira",
-        "technical",
-        "coordinator",
-        "analyst",
-        "devops",
-        "cloud",
-        "microsoft",
-        "ops"
-      ],
-      "verdict": "review",
-      "fit": 52,
-      "reasons": [
-        "United kingdom-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -595,6 +575,22 @@
       "fit": 52,
       "reasons": [
         "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
+      "title": "DevOps Engineer",
+      "company": "PSI CRO",
+      "location": "Latvia",
+      "url": "https://jobicy.com/jobs/145786-devops-engineer-3",
+      "source": "Jobicy",
+      "description": "Company DescriptionPSI is a leading Contract Research Organization (CRO) with 30 years of experience in the pharmaceutical industry. Originated in Switzerland, PSI is a privately owned, full-service CRO with a global reach, supporting clinical trials across multiple countries and continents. Our reputation for being highly selective about the projects we undertake highlights our commitment to&hellip;",
+      "tags": [
+        "devops &amp; infrastructure"
+      ],
+      "verdict": "review",
+      "fit": 52,
+      "reasons": [
+        "Latvia-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -1058,19 +1054,19 @@
       ]
     },
     {
-      "title": "Senior DevOps Engineer - Financial Company - (Remote/LATAM)",
-      "company": "Truelogic",
-      "location": "LATAM",
-      "url": "https://jobicy.com/jobs/146308-senior-devops-engineer-financial-company-remote-latam",
+      "title": "Senior Full Stack Engineer",
+      "company": "infisical",
+      "location": "Brazil, Canada, France, UK, USA",
+      "url": "https://jobicy.com/jobs/145861-senior-full-stack-engineer-5",
       "source": "Jobicy",
-      "description": "About TruelogicAt Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of all sizes, from innovative startups to industry leaders, helping them achieve their digital transformation goals.Our team of 600+ highly skilled tech professionals, based in Latin&hellip;",
+      "description": "Infisical is looking to hire exceptional talent to join our teams in building the open source security infrastructure stack for the AI era.We're building a generational company with a world-class team. This isn’t a place to coast — but if you want to grow fast, take ownership, and solve tough problems, you’ll be challenged like&hellip;",
       "tags": [
-        "devops &amp; infrastructure"
+        "software engineering"
       ],
       "verdict": "review",
       "fit": 46,
       "reasons": [
-        "Latam-tagged — verify it's open to Africa first",
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -1173,23 +1169,6 @@
       "fit": 46,
       "reasons": [
         "Poland-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Senior Manager, Solutions Architect",
-      "company": "Vercel",
-      "location": "Australia",
-      "url": "https://jobicy.com/jobs/144530-senior-manager-solutions-architect",
-      "source": "Jobicy",
-      "description": "About Vercel: Vercel is the agentic infrastructure company. We free people and agents to ship what’s next. For more than a decade, Vercel has shaped how the web is built. As the team behind Next.js, v0, and AI SDK, we create products that help builders move from idea to production with speed, security, and exceptional&hellip;",
-      "tags": [
-        "devops &amp; infrastructure"
-      ],
-      "verdict": "review",
-      "fit": 46,
-      "reasons": [
-        "Australia-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -1335,25 +1314,6 @@
       ]
     },
     {
-      "title": "Assistant Account Payable",
-      "company": "The Obesity Society",
-      "location": "USA",
-      "url": "https://remotive.com/remote-jobs/medical/assistant-account-payable-2090989",
-      "source": "Remotive",
-      "description": "This role may require you to be on site at times - please check with the employer first. The Accounts Payable Assistant performs accounting and c lerical tasks that are related to accounts payable transactions including receiving and logging invoices, maintaining and updating an accounts payable ledger, generating financial statements and reports, and other financial matters as assigned by the Director of Finance &amp; Operations. The ideal candidate will possess a basic understanding of accounting fundamentals as well as excellent office support skills. Key Responsibilities of the Accounts Pa",
-      "tags": [
-        "accounting",
-        "excel",
-        "data entry",
-        "outlook"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
       "title": "Quality Assurance Rater - German (Germany)",
       "company": "TELUS Digital",
       "location": "Germany",
@@ -1374,6 +1334,287 @@
       "fit": 36,
       "reasons": [
         "Germany-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "Interface Designer",
+      "company": "Grow the Roses",
+      "location": "Only,",
+      "url": "https://remoteOK.com/remote-jobs/remote-interface-designer-grow-the-roses-1134742",
+      "source": "RemoteOK",
+      "description": "About The Role We are looking for a talented Interface Designer to create intuitive, visually engaging, and user-friendly digital experiences. You will work closely with UX designers, developers, and product teams to design interfaces that enhance usability and elevate brand identity. Responsibilities Design clean, functional, and aesthetically appealing user interfaces for web and mobile applications. Collaborate with UX designers, developers, and stakeholders to create seamless digital experiences. Develop wireframes, prototypes, and high-fidelity UI designs using industry-standard tools. En",
+      "tags": [
+        "c",
+        "music",
+        "game dev",
+        "dev",
+        "video",
+        "content writing",
+        "ops",
+        "marketing",
+        "internship",
+        "non tech",
+        "digital nomad",
+        "design",
+        "teaching",
+        "education",
+        "designer",
+        "technical",
+        "web dev",
+        "mobile",
+        "photoshop",
+        "illustrator",
+        "data entry",
+        "customer support",
+        "microsoft",
+        "exec",
+        "medical",
+        "consulting",
+        "saas",
+        "sys admin",
+        "cloud",
+        "sales",
+        "engineer",
+        "recruiter",
+        "strategy",
+        "ads",
+        "analyst",
+        "accounting",
+        "finance",
+        "legal",
+        "travel",
+        "speech",
+        "admin",
+        "front end",
+        "css",
+        "html"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
+      "title": "Social Media Coordinator",
+      "company": "Digital Style House",
+      "location": "Los Angeles County, Los Angeles County, California, United States",
+      "url": "https://remoteOK.com/remote-jobs/remote-social-media-coordinator-digital-style-house-1134743",
+      "source": "RemoteOK",
+      "description": "Company Description Digital Style House (DSH) is an Inc. 5000-ranked social media marketing agency based in Los Angeles, serving over 100 active clients and 1,100+ brands. Founded in 2016, DSH operates like an in-house content team for mid-market brands across DTC ecommerce, hospitality, health and wellness, home and interiors, fashion, food and beverage, and medical aesthetics. The agency offers organic social media strategy and management, paid advertising on Meta and TikTok, UGC creator programs, DM automation, content production, photography, and website design. With proprietary workflows,",
+      "tags": [
+        "c",
+        "music",
+        "game dev",
+        "dev",
+        "video",
+        "content writing",
+        "ops",
+        "marketing",
+        "internship",
+        "non tech",
+        "digital nomad",
+        "design",
+        "teaching",
+        "education",
+        "designer",
+        "technical",
+        "web dev",
+        "mobile",
+        "photoshop",
+        "illustrator",
+        "data entry",
+        "customer support",
+        "microsoft",
+        "exec",
+        "medical",
+        "consulting",
+        "saas",
+        "sys admin",
+        "cloud",
+        "sales",
+        "engineer",
+        "recruiter",
+        "strategy",
+        "ads",
+        "analyst",
+        "accounting",
+        "finance",
+        "legal",
+        "travel",
+        "speech",
+        "admin",
+        "front end",
+        "css",
+        "html",
+        "coordinator",
+        "stats",
+        "social media",
+        "ecommerce",
+        "full time"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "United states-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "Educational Programs Administrator",
+      "company": "Lingraphica",
+      "location": "Princeton, Princeton, New Jersey, United States",
+      "url": "https://remoteOK.com/remote-jobs/remote-educational-programs-administrator-lingraphica-1134741",
+      "source": "RemoteOK",
+      "description": "Lingraphica is a mission-driven organization that provides speech-generating devices to help improve communication, speech, and quality of life for people with communication impairments. Lingraphica is a leader in augmentative and alternative communication (AAC) technology, helping people with aphasia and other speech and language impairments communicate and engage more fully in daily life. Through a combination of innovative devices, software, and services, Lingraphica is focused on improving communication outcomes and supporting individuals, families, and care teams. We look for candidates w",
+      "tags": [
+        "c",
+        "music",
+        "game dev",
+        "dev",
+        "video",
+        "content writing",
+        "ops",
+        "marketing",
+        "internship",
+        "non tech",
+        "digital nomad",
+        "design",
+        "teaching",
+        "education",
+        "designer",
+        "technical",
+        "web dev",
+        "mobile",
+        "photoshop",
+        "illustrator",
+        "data entry",
+        "customer support",
+        "microsoft",
+        "exec",
+        "medical",
+        "consulting",
+        "saas",
+        "sys admin",
+        "cloud",
+        "sales",
+        "engineer",
+        "recruiter",
+        "strategy",
+        "ads",
+        "analyst",
+        "accounting",
+        "finance",
+        "legal",
+        "travel",
+        "speech",
+        "admin"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "United states-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "Designer",
+      "company": "Crevtus",
+      "location": "Indiana,",
+      "url": "https://remoteOK.com/remote-jobs/remote-designer-crevtus-1134739",
+      "source": "RemoteOK",
+      "description": "Location: Remote Full Reports To: Lead Brand Strategist What We Need A Designer that will be responsible for creating still designs for the brands we work with in the form of social creatives and larger brand identity projects. What Youâll Be Doing Brand Identity Design: Join the team in creating brand identities by creating logos, colour schemes, typography, and style guides that encapsulate the essence of each clientâs brand. Design for Social: Work with the team to birth visually engaging creatives for social media platforms depending on the need of each clientâs brand. Requirements T",
+      "tags": [
+        "c",
+        "music",
+        "game dev",
+        "dev",
+        "video",
+        "content writing",
+        "ops",
+        "marketing",
+        "internship",
+        "non tech",
+        "digital nomad",
+        "design",
+        "teaching",
+        "education",
+        "designer",
+        "technical",
+        "web dev",
+        "mobile",
+        "photoshop",
+        "illustrator",
+        "data entry",
+        "customer support",
+        "microsoft",
+        "exec",
+        "medical",
+        "consulting",
+        "saas",
+        "sys admin",
+        "cloud",
+        "sales",
+        "engineer",
+        "recruiter",
+        "strategy",
+        "ads"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
+      "title": "KYC Compliance Analyst",
+      "company": "KAST",
+      "location": "Tampa, Tampa, Florida, United States",
+      "url": "https://remoteOK.com/remote-jobs/remote-kyc-compliance-analyst-kast-1134740",
+      "source": "RemoteOK",
+      "description": "Application Deadline: 17 July 2026 Department: Legal &amp; Compliance Location: Tampa Description We are looking for a A KYC (Know Your Customer) Analyst who is a compliance professional responsible for verifying the identities of clients, assessing their financial risk, and ensuring that a financial institution adheres to anti-money laundering (AML) and regulatory requirements. Location: remote from the US. Preferably, Florida, but not a must. Key Responsibilities Customer Due Diligence (CDD) &amp; Enhanced Due Diligence (EDD): Performing thorough investigations on new and existing clients to",
+      "tags": [
+        "c",
+        "music",
+        "game dev",
+        "dev",
+        "video",
+        "content writing",
+        "ops",
+        "marketing",
+        "internship",
+        "non tech",
+        "digital nomad",
+        "design",
+        "teaching",
+        "education",
+        "designer",
+        "technical",
+        "web dev",
+        "mobile",
+        "photoshop",
+        "illustrator",
+        "data entry",
+        "customer support",
+        "microsoft",
+        "exec",
+        "medical",
+        "consulting",
+        "saas",
+        "sys admin",
+        "cloud",
+        "sales",
+        "engineer",
+        "recruiter",
+        "strategy",
+        "ads",
+        "analyst",
+        "accounting",
+        "finance",
+        "legal"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "United states-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -2035,38 +2276,6 @@
       "fit": 36,
       "reasons": [
         "Costa rica-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Customer Success Manager (US Remote)",
-      "company": "Upwind Security",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/147501-customer-success-manager-us-remote",
-      "source": "Jobicy",
-      "description": "DescriptionAbout The PositionUpwind is a next-generation Cloud Security Platform that leverages runtime context to identify and prioritize critical risks, providing precise insights and efficient cloud security management. Unlike traditional tools, Upwind uses runtime data proactively for risk prioritization and posture insights, ensuring teams focus on what truly matters. With industry-leading efficiency and eBPF-powered sensors, Upwind&hellip;",
-      "tags": [
-        "customer success"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Technical Account Manager (US Remote)",
-      "company": "Upwind Security",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/144380-technical-account-manager-us-remote-2",
-      "source": "Jobicy",
-      "description": "DescriptionUpwind is a next-generation Cloud Security Platform that leverages runtime context to identify and prioritize critical risks, providing precise insights and efficient cloud security management. Unlike traditional tools, Upwind uses runtime data proactively for risk prioritization and posture insights, ensuring teams focus on what truly matters. With industry-leading efficiency and eBPF-powered sensors, Upwind delivers comprehensive&hellip;",
-      "tags": [
-        "customer success"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -2747,6 +2956,69 @@
       "fit": 0,
       "reasons": [
         "Head of-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
+      "title": "Director of Customer Success",
+      "company": "INNERGY",
+      "location": "Austin, Austin, Texas, United States",
+      "url": "https://remoteOK.com/remote-jobs/remote-director-of-customer-success-innergy-1134738",
+      "source": "RemoteOK",
+      "description": "INNERGY is transforming the woodworking industry with purpose built, cloud based ERP software designed exclusively for custom manufacturers. Our platform helps businesses operate smarter, faster, and more efficiently while seamlessly connecting design, production, and delivery for teams creating architectural millwork, cabinetry, and casework. What truly sets INNERGY apart is our people. Founded in 2016, we are a globally distributed team of 200 plus professionals united by deep software expertise and a shared passion for solving meaningful, real world problems. We value collaboration, creativ",
+      "tags": [
+        "c",
+        "music",
+        "game dev",
+        "dev",
+        "video",
+        "content writing",
+        "ops",
+        "marketing",
+        "internship",
+        "non tech",
+        "digital nomad",
+        "design",
+        "teaching",
+        "education",
+        "designer",
+        "technical",
+        "web dev",
+        "mobile",
+        "photoshop",
+        "illustrator",
+        "data entry",
+        "customer support",
+        "microsoft",
+        "exec",
+        "medical",
+        "consulting",
+        "saas",
+        "sys admin",
+        "cloud",
+        "sales",
+        "engineer",
+        "recruiter"
+      ],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Director-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
+      "title": "Principal DevOps Engineer (Poland Remote)",
+      "company": "Turnitin, LLC",
+      "location": "Poland",
+      "url": "https://jobicy.com/jobs/145949-principal-devops-engineer-poland-remote",
+      "source": "Jobicy",
+      "description": "Company DescriptionWhen you join Turnitin, you'll be welcomed into a company that is a recognized innovator in global education. For over 25 years, Turnitin has partnered with educators and institutions to develop learning integrity solutions that recognize the enduring value of critical thinking in a rapidly changing world. Over 16,000 academic institutions, publishers, and corporations&hellip;",
+      "tags": [
+        "devops &amp; infrastructure"
+      ],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Principal-level — usually 5–10+ yrs, you have ~4"
       ]
     },
     {
