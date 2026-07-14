@@ -1,11 +1,11 @@
 {
-  "generated": "2026-07-13 08:44 UTC",
-  "count": 126,
+  "generated": "2026-07-14 07:44 UTC",
+  "count": 123,
   "summary": {
-    "scanned": 126,
-    "eligible": 22,
-    "review": 81,
-    "blocked": 23
+    "scanned": 123,
+    "eligible": 23,
+    "review": 76,
+    "blocked": 24
   },
   "jobs": [
     {
@@ -148,6 +148,40 @@
       "fit": 52,
       "reasons": [
         "explicitly open to Africa/Nigeria"
+      ]
+    },
+    {
+      "title": "Remote Office Assistant",
+      "company": "Coalition Technologies",
+      "location": "Worldwide",
+      "url": "https://remotive.com/remote-jobs/marketing/remote-office-assistant-1680495",
+      "source": "Remotive",
+      "description": "Coalition Technologies is seeking a reliable, detail-oriented, and highly organized Remote Office Assistant to support administrative, bookkeeping, billing, reporting, data entry, and internal operations tasks. This role is ideal for someone with strong communication skills, discretion, attention to detail, and a willingness to learn and grow within a fast-paced remote work environment. As an Office Assistant, you will help support daily administrative operations, assist with entry-level bookkeeping, organize client documents, support internal reporting, and help maintain accurate company reco",
+      "tags": [
+        "css",
+        "excel",
+        "frontend",
+        "git",
+        "html",
+        "illustrator",
+        "magento",
+        "photoshop",
+        "php",
+        "shopify",
+        "wordpress",
+        "mysql",
+        "startup",
+        "responsive",
+        "themes",
+        "bootstrap",
+        "insurance",
+        "jquery",
+        "ajax"
+      ],
+      "verdict": "eligible",
+      "fit": 50,
+      "reasons": [
+        "remote — anywhere / global"
       ]
     },
     {
@@ -483,31 +517,6 @@
       ]
     },
     {
-      "title": "Update Add Your Resume Any Position EOI Infrastructure Projects",
-      "company": "Bellwether Group",
-      "location": "Brisbane,",
-      "url": "https://remoteOK.com/remote-jobs/remote-update-add-your-resume-any-position-eoi-infrastructure-projects-bellwether-group-1134658",
-      "source": "RemoteOK",
-      "description": "About Bellwether We provide Professional Engineering and Project Management services to private and government clients across Australia, and are also Principal Contractors. Our people come from major infrastructure backgrounds and bring with them hands-on experience in the planning and delivery of some of Australiaâs biggest and iconic projects. We're always on the lookout for great people with proven construction industry experience to join our team. About Our Team We pride ourselves on living and breathing our Core Values. Weâre professional in our approach and presentation, and we go th",
-      "tags": [
-        "education",
-        "customer support",
-        "medical",
-        "non tech",
-        "infosec",
-        "golang",
-        "exec",
-        "ops",
-        "engineer",
-        "marketing"
-      ],
-      "verdict": "review",
-      "fit": 52,
-      "reasons": [
-        "location unconfirmed — verify it's open to Africa"
-      ]
-    },
-    {
       "title": "Site Reliability Engineer (SRE)",
       "company": "Bright Vision Technologies",
       "location": "New Jersey",
@@ -639,23 +648,6 @@
       "fit": 50,
       "reasons": [
         "Canada-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Senior Full-Stack Developer",
-      "company": "Automat-it",
-      "location": "Ukraine",
-      "url": "https://jobicy.com/jobs/143143-senior-full-stack-developer",
-      "source": "Jobicy",
-      "description": "DescriptionAutomat-it is an all-in AWS Premier Partner and Managed Services Provider specializing in the startup ecosystem. With over 800 customers and 500+ AWS certifications, Automat-it brings hands-on expertise in AI, DevOps, and FinOps to empower fast-paced startups to grow, deliver &amp; win. Our customers save significant time-to-market and optimize their cloud performance and costs.We work&hellip;",
-      "tags": [
-        "programming"
-      ],
-      "verdict": "review",
-      "fit": 50,
-      "reasons": [
-        "Uk-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -1054,6 +1046,40 @@
       ]
     },
     {
+      "title": "Lead Cloud Platform & Dev Ops Engineer",
+      "company": "University of Colorado Anschutz Medical Campus",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/149240-lead-cloud-platform-dev-ops-engineer-2",
+      "source": "Jobicy",
+      "description": "Lead Cloud Platform &amp; Dev Ops Engineer(Job Number: 40286)Description Join Our Team and Make a Difference in Higher Education! At the System Administration office at the University of Colorado, we are dedicated to building a workplace where everyone feels valued, supported, and empowered to thrive. Our office is committed to fostering a culture where employees find community, a&hellip;",
+      "tags": [
+        "devops &amp; infrastructure"
+      ],
+      "verdict": "review",
+      "fit": 46,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Lead Cloud Platform & Dev Ops Engineer",
+      "company": "University of Colorado",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/149238-lead-cloud-platform-dev-ops-engineer",
+      "source": "Jobicy",
+      "description": "Lead Cloud Platform &amp; Dev Ops Engineer - 40286 University Staff Description Join Our Team and Make a Difference in Higher Education! At the System Administration office at the University of Colorado, we are dedicated to building a workplace where everyone feels valued, supported, and empowered to thrive. Our office is committed to fostering a culture where employees find community, a&hellip;",
+      "tags": [
+        "devops &amp; infrastructure"
+      ],
+      "verdict": "review",
+      "fit": 46,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
       "title": "Senior Full Stack Engineer",
       "company": "infisical",
       "location": "Brazil, Canada, France, UK, USA",
@@ -1248,6 +1274,25 @@
       ]
     },
     {
+      "title": "Assistant Account Payable",
+      "company": "The Obesity Society",
+      "location": "USA",
+      "url": "https://remotive.com/remote-jobs/medical/assistant-account-payable-2090989",
+      "source": "Remotive",
+      "description": "This role may require you to be on site at times - please check with the employer first. The Accounts Payable Assistant performs accounting and c lerical tasks that are related to accounts payable transactions including receiving and logging invoices, maintaining and updating an accounts payable ledger, generating financial statements and reports, and other financial matters as assigned by the Director of Finance &amp; Operations. The ideal candidate will possess a basic understanding of accounting fundamentals as well as excellent office support skills. Key Responsibilities of the Accounts Pa",
+      "tags": [
+        "accounting",
+        "excel",
+        "data entry",
+        "outlook"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
       "title": "Product Sales Specialist - Pet Health",
       "company": "Tribe Wellness",
       "location": "USA, CST (UTC-6)",
@@ -1314,26 +1359,73 @@
       ]
     },
     {
-      "title": "Quality Assurance Rater - German (Germany)",
-      "company": "TELUS Digital",
-      "location": "Germany",
-      "url": "https://remotive.com/remote-jobs/all-others/quality-assurance-rater-german-germany-2090988",
-      "source": "Remotive",
-      "description": "Join our elite team of Senior Raters as a critical contributor to high-quality validation data that directly influences product development and quality assurance for leading search engines and AI technologies. This flexible, remote opportunity allows you to apply your analytical and research skills to evaluate search results and AI-generated content while contributing to the development of high-quality AI systems. A Day in the Life of a Quality Assurance Rater In this role, you'll conduct analytical assessments of search results and AI responses, providing ratings and feedback that help improv",
+      "title": "Administrative Data Entry File Clerk",
+      "company": "ReLytics Hires",
+      "location": "Alberta, Alberta, Canada",
+      "url": "https://remoteOK.com/remote-jobs/remote-administrative-data-entry-file-clerk-relytics-hires-1134761",
+      "source": "RemoteOK",
+      "description": "Dedicated to delivering exceptional service and maintaining organized business operations, our company is seeking a detail-oriented Administrative Data Entry File Clerk to join our team. If you excel at managing records, entering data accurately, and working independently in a remote environment, this opportunity may be the perfect fit for you. In this role, you will be responsible for maintaining digital files, updating databases, organizing administrative records, and ensuring information is entered accurately and efficiently. Your attention to detail, reliability, and commitment to data acc",
       "tags": [
-        "social media",
-        "ai/ml",
-        "research",
-        "product development",
-        "digital content",
-        "stem",
-        "editing",
-        "diversity"
+        "virtual assistant",
+        "education",
+        "customer support",
+        "marketing",
+        "video",
+        "microsoft",
+        "exec",
+        "ops",
+        "excel",
+        "data entry",
+        "jira",
+        "hr",
+        "finance",
+        "cloud",
+        "admin",
+        "legal",
+        "sys admin"
       ],
       "verdict": "review",
       "fit": 36,
       "reasons": [
-        "Germany-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+        "Canada-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "The Role",
+      "company": "Artefacts / Asteria ART",
+      "location": "Indiana,",
+      "url": "https://remoteOK.com/remote-jobs/remote-the-role-artefacts-asteria-art-1134748",
+      "source": "RemoteOK",
+      "description": "Robotics Simulation Engineer By artefacts In jobs Artefacts is building a set of software tools for robotics software developers, facilitating Continuous Simulation in their workflow and tight integration with CI. We hope to help them take on the challenge of creating an advanced robotized world that will enable a more efficient and environmentally friendly society. We also believe that emerging AI techniques will dramatically change the way robotics software is built. The Role The role focuses on creating tools to help robotic engineers simulate and test their robots in rich and relevant virt",
+      "tags": [
+        "exec",
+        "strategy",
+        "customer support",
+        "testing",
+        "content writing",
+        "marketing",
+        "medical",
+        "social media",
+        "video",
+        "finance",
+        "photoshop",
+        "design",
+        "python",
+        "vfx",
+        "education",
+        "game dev",
+        "dev",
+        "c",
+        "c plus plus",
+        "cloud",
+        "robotics",
+        "engineer",
+        "digital nomad"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa"
       ]
     },
     {
@@ -1615,51 +1707,6 @@
       "fit": 36,
       "reasons": [
         "United states-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Administrative Customer Support",
-      "company": "Recruitlytixs Hirings",
-      "location": "Alberta, Alberta, Canada",
-      "url": "https://remoteOK.com/remote-jobs/remote-administrative-customer-support-recruitlytixs-hirings-1134668",
-      "source": "RemoteOK",
-      "description": "Customer Support Specialist | Remote Â Our company is fully dedicated to delivering exceptional products and services to our clients, and to achieve this, we are seeking a Customer Support Specialist Â to join our remote team and provide high-quality support to our customers. This fully remote role is ideal for individuals who are passionate about helping others, communicating clearly, and delivering positive customer experiences in a fast-paced digital environment. In this position, you will act as a key point of contact, assisting customers with inquiries, resolving issues, and ensuring ever",
-      "tags": [
-        "writer",
-        "customer support",
-        "exec",
-        "finance",
-        "microsoft",
-        "content writing",
-        "excel",
-        "golang",
-        "medical",
-        "virtual assistant",
-        "education",
-        "marketing",
-        "video",
-        "ops",
-        "travel",
-        "data entry",
-        "jira",
-        "hr",
-        "cloud",
-        "admin",
-        "legal",
-        "sys admin",
-        "dev",
-        "design",
-        "technical",
-        "testing",
-        "adult",
-        "photoshop",
-        "illustrator",
-        "digital nomad"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Canada-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -1991,86 +2038,6 @@
       ]
     },
     {
-      "title": "Junior Ecommerce Specialist",
-      "company": "Haystack",
-      "location": "Greater Chicago Area",
-      "url": "https://remoteOK.com/remote-jobs/remote-junior-ecommerce-specialist-haystack-1134653",
-      "source": "RemoteOK",
-      "description": "We're hiring on behalf of a Haystack partner! The Role â¢ Manage and update product content across a major North American eCommerce platform for both desktop and mobile. â¢ Collaborate with Merchandising, Product Marketing, Ecommerce, and Creative teams to ensure product pages are accurate and engaging. â¢ Review digital assets and marketing campaigns to maintain accuracy and adhere to style guidelines. â¢ Submit and track creative requests for web content updates. â¢ Analyze website data and customer feedback to propose enhancements to the online shopping experience. What You'll Need â¢",
-      "tags": [
-        "design",
-        "hr",
-        "sys admin",
-        "infosec",
-        "teaching",
-        "technical",
-        "customer support",
-        "dev",
-        "testing",
-        "marketing",
-        "travel",
-        "video",
-        "cloud",
-        "exec",
-        "linux",
-        "digital nomad",
-        "saas",
-        "salesforce",
-        "education",
-        "consulting",
-        "speech",
-        "finance",
-        "sales",
-        "medical",
-        "engineer",
-        "recruiter",
-        "supervisor",
-        "microsoft",
-        "content writing",
-        "ops",
-        "web dev",
-        "mobile",
-        "junior",
-        "excel",
-        "stats",
-        "ecommerce"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "location unconfirmed — verify it's open to Africa"
-      ]
-    },
-    {
-      "title": "SLT HDFC BB Bangalore",
-      "company": "Aditya Birla Capital",
-      "location": "Karnataka,",
-      "url": "https://remoteOK.com/remote-jobs/remote-slt-hdfc-bb-bangalore-aditya-birla-capital-1134676",
-      "source": "RemoteOK",
-      "description": "F.A.I.R. ABC Sales Leadership Program Objective: The Aditya Birla Capital Sales Leadership Program (SLP) is designed to develop the next generation of sales leaders through an accelerated career path. This program is intended for post-graduate students from colleges across India, providing them with the opportunity to build a robust career in the sales verticals of all our business lines of Aditya Birla Capital. The Program aims at hiring Sales Trainees into the multiple Sales and Distribution channels across the Aditya Birla Capital. Value Proposition Financial Service industry is in growth p",
-      "tags": [
-        "jira",
-        "hr",
-        "customer support",
-        "finance",
-        "cloud",
-        "admin",
-        "exec",
-        "ops",
-        "legal",
-        "recruiter",
-        "teaching",
-        "marketing",
-        "c",
-        "sales"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "location unconfirmed — verify it's open to Africa"
-      ]
-    },
-    {
       "title": "Cloud Security Analyst",
       "company": "Cloudbeds",
       "location": "Europe",
@@ -2263,66 +2230,6 @@
       ]
     },
     {
-      "title": "Software Engineer",
-      "company": "Experian",
-      "location": "Costa Rica",
-      "url": "https://jobicy.com/jobs/144461-software-engineer-7",
-      "source": "Jobicy",
-      "description": "Company DescriptionExperian is a global data and technology company, powering opportunities for people and businesses around the world. We operate across a range of markets, from financial services to healthcare, automotive, agribusiness, insurance, and many more. Experian invests in people and new advanced technologies to unlock the power of data. We have an amazing team&hellip;",
-      "tags": [
-        "software engineering"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Costa rica-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Senior Data Scientist",
-      "company": "Lemon.io",
-      "location": "Americas, Europe, Asia, Oceania",
-      "url": "https://remotive.com/remote-jobs/data/senior-data-scientist-2090982",
-      "source": "Remotive",
-      "description": "Are you a talented Senior Data Scientist looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The rate depends on your skills and experience. We've already paid out over $11M to our engineers. No more hunting for clients or negotiating rates — let us handle the business side of things so you can focus on what you do best. Choose a schedule that works best for you. It’s possible to communicate async or minimally overlap within team work",
-      "tags": [
-        "android",
-        "aws",
-        "azure",
-        "c++",
-        "data science",
-        "golang",
-        "ios",
-        "java",
-        "javascript",
-        "node.js",
-        "php",
-        "python",
-        "react",
-        "shopify",
-        "blockchain",
-        "ai/ml",
-        "rust",
-        "unity",
-        "spring",
-        "data analysis",
-        "solidity",
-        "flask",
-        "angular",
-        "gcp",
-        "symfony",
-        "startup",
-        "numpy",
-        "marketplace"
-      ],
-      "verdict": "review",
-      "fit": 34,
-      "reasons": [
-        "Europe-tagged — verify it's open to Africa first",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
       "title": "Senior Independent AI Engineer / Architect",
       "company": "A.Team",
       "location": "Americas, Europe, Israel",
@@ -2342,6 +2249,23 @@
       "fit": 30,
       "reasons": [
         "Europe-tagged — verify it's open to Africa first",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Canada- Sr Application Engineer (Salesforce-Agentforce Ai)",
+      "company": "PointClickCare",
+      "location": "Canada",
+      "url": "https://jobicy.com/jobs/149241-canada-sr-application-engineer-salesforce-agentforce-ai",
+      "source": "Jobicy",
+      "description": "At PointClickCare our mission is simple: to help providers deliver exceptional care. And that starts with our people. As a leading health tech company that’s founder-led and privately held, we empower our employees to push boundaries, innovate, and shape the future of healthcare. With the largest long-term and post-acute care dataset and a Marketplace of&hellip;",
+      "tags": [
+        "software engineering"
+      ],
+      "verdict": "review",
+      "fit": 30,
+      "reasons": [
+        "Canada-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -2439,57 +2363,6 @@
       "description": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. Our customers include Fortune 500 enterprises and global industry leaders, including Anduril, Canva, Fortinet, Hewlett Packard Enterprise, OpenAI, Snap&hellip;",
       "tags": [
         "customer success"
-      ],
-      "verdict": "review",
-      "fit": 30,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Senior Engineering Manager, Platform Delivery",
-      "company": "Upstart",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/142530-senior-engineering-manager-platform-delivery",
-      "source": "Jobicy",
-      "description": "About UpstartAt Upstart, we’re united by a mission that matters: to radically reduce the cost and complexity of borrowing for all Americans. Every day, we bring creativity, experimentation, and advanced AI to reshape access to credit, helping millions move forward financially with clarity and confidence.As the leading AI lending marketplace, we partner with banks and&hellip;",
-      "tags": [
-        "product &amp; operations"
-      ],
-      "verdict": "review",
-      "fit": 30,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Senior Cloud AI Software Developer",
-      "company": "TELUS",
-      "location": "Canada",
-      "url": "https://jobicy.com/jobs/143127-senior-cloud-ai-software-developer",
-      "source": "Jobicy",
-      "description": "Join our team and what we'll accomplish togetherThe TELUS Bill Presentment team is at the forefront of our digital transformation initiative, revolutionizing how we deliver billing information to our customers. Our mission is to create a billing experience that's simple, clear, and accurate, meeting the rapidly evolving demands of our customers. In this pivotal role,&hellip;",
-      "tags": [
-        "software engineering"
-      ],
-      "verdict": "review",
-      "fit": 30,
-      "reasons": [
-        "Canada-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Power BI Architect",
-      "company": "Tiger Analytics",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/143584-power-bi-architect",
-      "source": "Jobicy",
-      "description": "Tiger Analytics is a fast-growing advanced analytics consulting firm. Our consultants bring deep expertise in Data Science, Machine Learning and AI. We are the trusted analytics partner for several Fortune 100 companies, enabling them to generate business value from data. Our business value and leadership has been recognized by various market research firms, including Forrester&hellip;",
-      "tags": [
-        "data science &amp; analytics"
       ],
       "verdict": "review",
       "fit": 30,
@@ -2940,25 +2813,6 @@
       ]
     },
     {
-      "title": "Head of Engineering",
-      "company": "Lemon.io",
-      "location": "LATAM, Europe, Central America",
-      "url": "https://remotive.com/remote-jobs/software-development/head-of-engineering-2090983",
-      "source": "Remotive",
-      "description": "About Lemon.io Lemon.io is a profitable, growing talent marketplace that connects vetted senior engineers with companies that need them. We’ve been in business for 10 years, have 60 people across Ukraine, Europe, Canada, and the US, and process over $16M in annual GMV. We compress the traditional 2–5 week hiring timeline down to 24–48 hours through a curated, pre-vetted supply of developers. Hiring is still broken. Recruiters spend weeks building candidate pipelines on traditional platforms, burning energy on unqualified leads. We’re building the product that changes that. Giving recruiters qu",
-      "tags": [
-        "ai/ml",
-        "startup",
-        "marketplace",
-        "fundraising"
-      ],
-      "verdict": "blocked",
-      "fit": 0,
-      "reasons": [
-        "Head of-level — usually 5–10+ yrs, you have ~4"
-      ]
-    },
-    {
       "title": "Director of Customer Success",
       "company": "INNERGY",
       "location": "Austin, Austin, Texas, United States",
@@ -3046,6 +2900,38 @@
       "description": "The company and our mission: Zartis is a global AI transformation and technology consulting partner where talented engineers and technologists work on cutting-edge innovation. We partner with ambitious organizations to design, build, and scale technology solutions that deliver real impact. Our teams bring deep expertise in AI-driven platforms, secure API architectures, and cloud-native engineering. You&hellip;",
       "tags": [
         "devops &amp; infrastructure"
+      ],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Principal-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
+      "title": "Principal Cloud Application Engineer",
+      "company": "University of Colorado Anschutz Medical Campus",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/149239-principal-cloud-application-engineer-2",
+      "source": "Jobicy",
+      "description": "Principal Cloud Application Engineer(Job Number: 40285)Description Join Our Team and Make a Difference in Higher Education! At the System Administration office at the University of Colorado, we are dedicated to building a workplace where everyone feels valued, supported, and empowered to thrive. Our office is committed to fostering a culture where employees find community, a sense of belonging,&hellip;",
+      "tags": [
+        "software engineering"
+      ],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Principal-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
+      "title": "Principal Cloud Application Engineer",
+      "company": "University of Colorado",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/149237-principal-cloud-application-engineer",
+      "source": "Jobicy",
+      "description": "Principal Cloud Application Engineer - 40285 University Staff Description Join Our Team and Make a Difference in Higher Education! At the System Administration office at the University of Colorado, we are dedicated to building a workplace where everyone feels valued, supported, and empowered to thrive. Our office is committed to fostering a culture where employees find community, a sense of belonging,&hellip;",
+      "tags": [
+        "software engineering"
       ],
       "verdict": "blocked",
       "fit": 0,
