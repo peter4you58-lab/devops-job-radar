@@ -1,10 +1,10 @@
 {
-  "generated": "2026-07-14 07:44 UTC",
-  "count": 123,
+  "generated": "2026-07-15 07:48 UTC",
+  "count": 114,
   "summary": {
-    "scanned": 123,
-    "eligible": 23,
-    "review": 76,
+    "scanned": 114,
+    "eligible": 22,
+    "review": 68,
     "blocked": 24
   },
   "jobs": [
@@ -284,47 +284,6 @@
       ]
     },
     {
-      "title": "Customer Success Manager",
-      "company": "INNERGY",
-      "location": "Austin, Austin, Texas, United States",
-      "url": "https://remoteOK.com/remote-jobs/remote-customer-success-manager-innergy-1134651",
-      "source": "RemoteOK",
-      "description": "INNERGY is transforming the woodworking industry with purpose built, cloud based ERP software designed exclusively for custom manufacturers. Our platform helps businesses operate smarter, faster, and more efficiently while seamlessly connecting design, production, and delivery for teams creating architectural millwork, cabinetry, and casework. What truly sets INNERGY apart is our people. Founded in 2016, we are a globally distributed team of 200 plus professionals united by deep software expertise and a shared passion for solving meaningful, real world problems. We value collaboration, creativ",
-      "tags": [
-        "design",
-        "hr",
-        "sys admin",
-        "infosec",
-        "teaching",
-        "technical",
-        "customer support",
-        "dev",
-        "testing",
-        "marketing",
-        "travel",
-        "video",
-        "cloud",
-        "exec",
-        "linux",
-        "digital nomad",
-        "saas",
-        "salesforce",
-        "education",
-        "consulting",
-        "speech",
-        "finance",
-        "sales",
-        "medical",
-        "engineer",
-        "recruiter"
-      ],
-      "verdict": "eligible",
-      "fit": 50,
-      "reasons": [
-        "remote — anywhere / global"
-      ]
-    },
-    {
       "title": "Sales Engineer (Remote, US Based)",
       "company": "Liquibase",
       "location": "Anywhere in the World",
@@ -366,6 +325,23 @@
       "fit": 50,
       "reasons": [
         "remote — anywhere / global"
+      ]
+    },
+    {
+      "title": "Software Developer Sr. - AI-Native .NET/ Azure (Cloud Platform)",
+      "company": "Dayforce",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/146260-software-developer-sr-ai-native-net-azure-cloud-platform",
+      "source": "Jobicy",
+      "description": "Dayforce is a global human capital management (HCM) company headquartered in Toronto, Ontario, and Minneapolis, Minnesota, with operations across North America, Europe, Middle East, Africa (EMEA), and the Asia Pacific Japan (APJ) region.Our award-winning Cloud HCM platform offers a unified solution database and continuous calculation engine, driving efficiency, productivity and compliance for the global workforce.Our&hellip;",
+      "tags": [
+        "software engineering"
+      ],
+      "verdict": "eligible",
+      "fit": 46,
+      "reasons": [
+        "explicitly open to Africa/Nigeria",
+        "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
     {
@@ -459,20 +435,28 @@
       ]
     },
     {
-      "title": "Senior Cloud Software Engineer",
-      "company": "Twilio",
-      "location": "Spain",
-      "url": "https://jobicy.com/jobs/142478-senior-cloud-software-engineer",
-      "source": "Jobicy",
-      "description": "Who we are At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to hundreds of thousands of businesses and empower millions of developers worldwide to craft personalized customer experiences.Our dedication to remote-first work, and strong culture of connection and global inclusion means that no matter your location, you’re&hellip;",
+      "title": "DevOps Engineer",
+      "company": "Kyivstar",
+      "location": "Ukraine",
+      "url": "https://himalayas.app/companies/kyivstar/jobs/devops-engineer",
+      "source": "Himalayas",
+      "description": "At Kyivstar .Tech , we build and scale high-performance digital ecosystems that power millions of users. We are looking for a skilled DevOps Engineer to join our team. If you thrive on automating complex workflows, optimizing infrastructure resilience, and bridging the gap between development and operations, you'll find a perfect environment here to make an impact and grow professionally. About us Kyivstar .Tech is a Ukrainian hybrid IT company and a resident of Diia.City. We are a subsidiary of Kyivstar , one of Ukraine’s largest telecom operators. Our mission is to transform lives in Ukraine",
       "tags": [
-        "software engineering"
+        "devops-engineer",
+        "site-reliability-engineering",
+        "infrastructure-engineering",
+        "cloud-engineering",
+        "devops-sre",
+        "devops-software-engineer",
+        "cloud-devops-engineer",
+        "devops-automation-engineer",
+        "aws-devops-engineer",
+        "lead-devops-engineer"
       ],
-      "verdict": "eligible",
-      "fit": 44,
+      "verdict": "review",
+      "fit": 56,
       "reasons": [
-        "remote — anywhere / global",
-        "senior title — a stretch at ~4 yrs, but go for it"
+        "Uk-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -619,22 +603,6 @@
       ]
     },
     {
-      "title": "Customer Reliability Engineer - Infrastructure",
-      "company": "Astronomer",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/147812-customer-reliability-engineer-infrastructure",
-      "source": "Jobicy",
-      "description": "Astronomer empowers data teams to bring mission-critical software, analytics, and AI to life and is the company behind Astro, the industry-leading unified DataOps platform powered by Apache Airflow®. Astro accelerates building reliable data products that unlock insights, unleash AI value, and powers data-driven applications. Trusted by more than 800 of the world's leading enterprises, Astronomer&hellip;",
-      "tags": [
-        "technical support"
-      ],
-      "verdict": "review",
-      "fit": 52,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
       "title": "Customer Solutions Architect, Amazon Connect",
       "company": "Caylent",
       "location": "Canada",
@@ -665,6 +633,37 @@
       "fit": 48,
       "reasons": [
         "Germany-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "Senior Product Engineer (Fullstack)",
+      "company": "Clipster",
+      "location": "Europe, UK, Germany, France, European timezones",
+      "url": "https://remotive.com/remote-jobs/software-development/senior-product-engineer-fullstack-2091062",
+      "source": "Remotive",
+      "description": "About Clipster Clipster is where brands and creators connect to turn views into profits. Clippers (Creators) clip, remix, and post branded content on TikTok, YouTube, Instagram, X, and beyond — earning money for every view they deliver. Brands get a significantly better influencer marketing experience thanks to scale, simplicity, and reliable performance tracking. We started as an influencer marketing agency. While clients loved our results, delivering them was a pain. So we started automating everything we did — and it paid off. 2025 was a great year for us: We launched our platform in early ",
+      "tags": [
+        "backend",
+        "frontend",
+        "fullstack",
+        "golang",
+        "postgresql",
+        "react",
+        "ai/ml",
+        "documentation",
+        "youtube",
+        "redis",
+        "distributed systems",
+        "gcp",
+        "chat",
+        "next.js",
+        "infrastructure"
+      ],
+      "verdict": "review",
+      "fit": 46,
+      "reasons": [
+        "Uk-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
     {
@@ -978,6 +977,23 @@
       ]
     },
     {
+      "title": "Senior DevOps Engineer - Financial Company - (Remote/LATAM)",
+      "company": "Truelogic",
+      "location": "LATAM",
+      "url": "https://jobicy.com/jobs/146308-senior-devops-engineer-financial-company-remote-latam",
+      "source": "Jobicy",
+      "description": "About TruelogicAt Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of all sizes, from innovative startups to industry leaders, helping them achieve their digital transformation goals.Our team of 600+ highly skilled tech professionals, based in Latin&hellip;",
+      "tags": [
+        "devops &amp; infrastructure"
+      ],
+      "verdict": "review",
+      "fit": 46,
+      "reasons": [
+        "Latam-tagged — verify it's open to Africa first",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
       "title": "Senior Cloud Engineer / DevOps (GCP) - Marketing",
       "company": "Truelogic",
       "location": "LATAM",
@@ -1182,23 +1198,6 @@
       ]
     },
     {
-      "title": "Senior Site Reliability Engineer",
-      "company": "Akamai Technologies",
-      "location": "Poland",
-      "url": "https://jobicy.com/jobs/143565-senior-site-reliability-engineer-3",
-      "source": "Jobicy",
-      "description": "Are you passionate about cutting edge technology?Do solving some of the Internet's most difficult content delivery challenges interest you?Join our highly skilled Site Reliability teamOur team designs, develops, and manages applications and infrastructure that support Akamai's Compute products and services. We do this while maintaining Akamai's mission at the forefront of what we do. Make&hellip;",
-      "tags": [
-        "devops &amp; infrastructure"
-      ],
-      "verdict": "review",
-      "fit": 46,
-      "reasons": [
-        "Poland-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
       "title": "Communications Manager",
       "company": "Lemon.io",
       "location": "LATAM, Europe",
@@ -1356,6 +1355,29 @@
       "fit": 36,
       "reasons": [
         "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "Product Manager AI",
+      "company": "YipitData",
+      "location": "US Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-product-manager-ai-yipitdata-1134770",
+      "source": "RemoteOK",
+      "description": "About Us: YipitData is the leading market research and analytics firm for the disruptive economy and most recently raised $475M from The Carlyle Group at a valuation of over $1B. Every day, our proprietary technology analyzes billions of alternative data points to uncover actionable insights across sectors like software, AI, cloud, e-commerce, ridesharing, and payments. Our data and research teams transform raw data into strategic intelligence, delivering accurate, timely, and deeply contextualized analysis that our customersâranging from the worldâs top investment funds to Fortune 500 com",
+      "tags": [
+        "product manager",
+        "exec",
+        "dev",
+        "finance",
+        "cloud",
+        "stats",
+        "ecommerce",
+        "digital nomad"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa"
       ]
     },
     {
@@ -1608,433 +1630,67 @@
       ]
     },
     {
-      "title": "Designer",
-      "company": "Crevtus",
-      "location": "Indiana,",
-      "url": "https://remoteOK.com/remote-jobs/remote-designer-crevtus-1134739",
-      "source": "RemoteOK",
-      "description": "Location: Remote Full Reports To: Lead Brand Strategist What We Need A Designer that will be responsible for creating still designs for the brands we work with in the form of social creatives and larger brand identity projects. What Youâll Be Doing Brand Identity Design: Join the team in creating brand identities by creating logos, colour schemes, typography, and style guides that encapsulate the essence of each clientâs brand. Design for Social: Work with the team to birth visually engaging creatives for social media platforms depending on the need of each clientâs brand. Requirements T",
+      "title": "Support Engineering Manager (APAC)",
+      "company": "Supabase",
+      "location": "APAC",
+      "url": "https://jobicy.com/jobs/146230-support-engineering-manager-apac",
+      "source": "Jobicy",
+      "description": "About SupabaseSupabase is the Postgres development platform: Database, Auth, Storage, Edge Functions, Realtime, and Vector, deeply integrated and built for teams that need their backend to grow with them. We're open source, we move fast, and our users are developers who notice when things are off.About this roleWe're hiring a Support Manager on our global&hellip;",
       "tags": [
-        "c",
-        "music",
-        "game dev",
-        "dev",
-        "video",
-        "content writing",
-        "ops",
-        "marketing",
-        "internship",
-        "non tech",
-        "digital nomad",
-        "design",
-        "teaching",
-        "education",
-        "designer",
-        "technical",
-        "web dev",
-        "mobile",
-        "photoshop",
-        "illustrator",
-        "data entry",
-        "customer support",
-        "microsoft",
-        "exec",
-        "medical",
-        "consulting",
-        "saas",
-        "sys admin",
-        "cloud",
-        "sales",
-        "engineer",
-        "recruiter",
-        "strategy",
-        "ads"
+        "technical support"
       ],
       "verdict": "review",
       "fit": 36,
       "reasons": [
-        "location unconfirmed — verify it's open to Africa"
+        "APAC-tagged — verify it's open to Africa first"
       ]
     },
     {
-      "title": "KYC Compliance Analyst",
-      "company": "KAST",
-      "location": "Tampa, Tampa, Florida, United States",
-      "url": "https://remoteOK.com/remote-jobs/remote-kyc-compliance-analyst-kast-1134740",
-      "source": "RemoteOK",
-      "description": "Application Deadline: 17 July 2026 Department: Legal &amp; Compliance Location: Tampa Description We are looking for a A KYC (Know Your Customer) Analyst who is a compliance professional responsible for verifying the identities of clients, assessing their financial risk, and ensuring that a financial institution adheres to anti-money laundering (AML) and regulatory requirements. Location: remote from the US. Preferably, Florida, but not a must. Key Responsibilities Customer Due Diligence (CDD) &amp; Enhanced Due Diligence (EDD): Performing thorough investigations on new and existing clients to",
+      "title": ".NET Developer",
+      "company": "INNOCV Solutions",
+      "location": "Spain",
+      "url": "https://jobicy.com/jobs/146259-net-developer",
+      "source": "Jobicy",
+      "description": "Who are we?We are part of the Alkemy Group, specializing in driving growth through our technological expertise, tackling complex challenges, and fostering operational excellence.We are digital natives and technology-neutral thanks to our rapid adaptation capabilities and problem-solving skills in any business situation.We are passionate about technology challenges that have a significant impact on business. To&hellip;",
       "tags": [
-        "c",
-        "music",
-        "game dev",
-        "dev",
-        "video",
-        "content writing",
-        "ops",
-        "marketing",
-        "internship",
-        "non tech",
-        "digital nomad",
-        "design",
-        "teaching",
-        "education",
-        "designer",
-        "technical",
-        "web dev",
-        "mobile",
-        "photoshop",
-        "illustrator",
-        "data entry",
-        "customer support",
-        "microsoft",
-        "exec",
-        "medical",
-        "consulting",
-        "saas",
-        "sys admin",
-        "cloud",
-        "sales",
-        "engineer",
-        "recruiter",
-        "strategy",
-        "ads",
-        "analyst",
-        "accounting",
-        "finance",
-        "legal"
+        "software engineering"
       ],
       "verdict": "review",
       "fit": 36,
       "reasons": [
-        "United states-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+        "Spain-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
-      "title": "Administrative Data Entry File Clerk",
-      "company": "Recruitlytixs Hirings",
-      "location": "Alberta, Alberta, Canada",
-      "url": "https://remoteOK.com/remote-jobs/remote-administrative-data-entry-file-clerk-recruitlytixs-hirings-1134665",
-      "source": "RemoteOK",
-      "description": "Dedicated to delivering exceptional service and maintaining organized business operations, our company is seeking a detail-oriented Administrative Data Entry File Clerk to join our team. If you excel at managing records, entering data accurately, and working independently in a remote environment, this opportunity may be the perfect fit for you. In this role, you will be responsible for maintaining digital files, updating databases, organizing administrative records, and ensuring information is entered accurately and efficiently. Your attention to detail, reliability, and commitment to data acc",
+      "title": "Customer Success Manager",
+      "company": "Sonatype",
+      "location": "UK",
+      "url": "https://jobicy.com/jobs/146325-customer-success-manager-35",
+      "source": "Jobicy",
+      "description": "Sonatype is the software supply chain security company. We provide the world’s best end-to-end software supply chain security solution, combining the only proactive protection against malicious open source, the only enterprise grade SBOM management and the leading open source dependency management platform. This empowers enterprises to create and maintain secure, quality, and innovative software at&hellip;",
       "tags": [
-        "writer",
-        "customer support",
-        "exec",
-        "finance",
-        "microsoft",
-        "content writing",
-        "excel",
-        "golang",
-        "medical",
-        "virtual assistant",
-        "education",
-        "marketing",
-        "video",
-        "ops",
-        "travel",
-        "data entry",
-        "jira",
-        "hr",
-        "cloud",
-        "admin",
-        "legal",
-        "sys admin"
+        "customer success"
       ],
       "verdict": "review",
       "fit": 36,
       "reasons": [
-        "Canada-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+        "Uk-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
-      "title": "Computer User Support",
-      "company": "Recruitlytixs Hirings",
-      "location": "Alberta, Alberta, Canada",
-      "url": "https://remoteOK.com/remote-jobs/remote-computer-user-support-recruitlytixs-hirings-1134667",
-      "source": "RemoteOK",
-      "description": "Join our growing team as a Remote Computer User Support Specialist who will provide technical assistance and user support across our digital platforms. This role is ideal for individuals who enjoy troubleshooting, helping users resolve issues, and working in a structured remote environment. In this position, you will assist users with technical concerns, guide them through solutions, and ensure systems are functioning effectively. Your ability to communicate clearly and solve problems efficiently will support smooth day-to-day operations. Â What Youâll Be Doing: Respond to user support reque",
+      "title": "Support Engineering Manager (APAC)",
+      "company": "Supabase",
+      "location": "APAC",
+      "url": "https://jobicy.com/jobs/149306-support-engineering-manager-apac-2",
+      "source": "Jobicy",
+      "description": "About SupabaseSupabase is the Postgres development platform: Database, Auth, Storage, Edge Functions, Realtime, and Vector, deeply integrated and built for teams that need their backend to grow with them. We're open source, we move fast, and our users are developers who notice when things are off.About this roleWe're hiring a Support Manager on our global&hellip;",
       "tags": [
-        "writer",
-        "customer support",
-        "exec",
-        "finance",
-        "microsoft",
-        "content writing",
-        "excel",
-        "golang",
-        "medical",
-        "virtual assistant",
-        "education",
-        "marketing",
-        "video",
-        "ops",
-        "travel",
-        "data entry",
-        "jira",
-        "hr",
-        "cloud",
-        "admin",
-        "legal",
-        "sys admin",
-        "dev",
-        "design",
-        "technical",
-        "testing",
-        "adult",
-        "photoshop",
-        "illustrator",
-        "digital nomad"
+        "technical support"
       ],
       "verdict": "review",
       "fit": 36,
       "reasons": [
-        "Canada-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Data Entry Specialist Assistant Administrator",
-      "company": "Recruitlytixs Hirings",
-      "location": "Hong Kong, Hong Kong, Hong Kong SAR",
-      "url": "https://remoteOK.com/remote-jobs/remote-data-entry-specialist-assistant-administrator-recruitlytixs-hirings-1134677",
-      "source": "RemoteOK",
-      "description": "Remote Data Entry Specialist - Assistant Administrator Work Mode: Remote We are seeking a Remote Data Entry Specialist - Assistant Administrator to support data management and administrative operations across our organization. This fully remote role is ideal for individuals who are detail-oriented, organized, and comfortable handling both data entry tasks and general administrative support responsibilities. In this role, you will assist with maintaining accurate records, updating internal systems, and supporting day-to-day administrative workflows. Your ability to manage data with precision wh",
-      "tags": [
-        "jira",
-        "hr",
-        "customer support",
-        "finance",
-        "cloud",
-        "admin",
-        "exec",
-        "ops",
-        "legal",
-        "recruiter",
-        "teaching",
-        "marketing",
-        "c",
-        "sales",
-        "data entry",
-        "virtual assistant",
-        "education",
-        "microsoft",
-        "excel"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "location unconfirmed — verify it's open to Africa"
-      ]
-    },
-    {
-      "title": "Human Resources Assistant",
-      "company": "Recruitlytixs Hirings",
-      "location": "Ø£Ø¨Ù Ø¸Ø¨Ù, Ø£Ø¨Ù Ø¸Ø¨Ù Ø£Ø¨Ù Ø¸Ø¨Ù Ø§ÙØ¥Ù Ø§Ø±Ø§Øª Ø§ÙØ¹Ø±Ø¨ÙØ© Ø§ÙÙ ØªØ­Ø¯Ø©",
-      "url": "https://remoteOK.com/remote-jobs/remote-human-resources-assistant-recruitlytixs-hirings-1134680",
-      "source": "RemoteOK",
-      "description": "Join our dedicated team and play a vital role in supporting our people and workplace culture. As a Remote Human Resources Assistant, you will help ensure smooth HR operations by assisting with employee records, recruitment coordination, onboarding activities, and administrative support. Working remotely, you will contribute to creating a positive employee experience while maintaining accuracy, confidentiality, and professionalism in all HR processes. Your attention to detail, strong organizational skills, and commitment to supporting both employees and management will have a meaningful impact ",
-      "tags": [
-        "jira",
-        "hr",
-        "customer support",
-        "finance",
-        "cloud",
-        "admin",
-        "exec",
-        "ops",
-        "legal",
-        "recruiter",
-        "teaching",
-        "marketing",
-        "c",
-        "sales",
-        "data entry",
-        "virtual assistant",
-        "education",
-        "microsoft",
-        "excel",
-        "sys admin",
-        "technical",
-        "video",
-        "coordinator"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "location unconfirmed — verify it's open to Africa"
-      ]
-    },
-    {
-      "title": "File Clerk",
-      "company": "Recruitlytixs Hirings",
-      "location": "Ø£Ø¨Ù Ø¸Ø¨Ù, Ø£Ø¨Ù Ø¸Ø¨Ù Ø£Ø¨Ù Ø¸Ø¨Ù Ø§ÙØ¥Ù Ø§Ø±Ø§Øª Ø§ÙØ¹Ø±Ø¨ÙØ© Ø§ÙÙ ØªØ­Ø¯Ø©",
-      "url": "https://remoteOK.com/remote-jobs/remote-file-clerk-recruitlytixs-hirings-1134675",
-      "source": "RemoteOK",
-      "description": "We are actively recruiting a dependable and focused Remote File Clerk who will be responsible for maintaining continuous updates to our company's databases. In this role, you will be in communication with both internal employees and customers to collect information, which will be accurately and promptly entered into relevant databases. Â Key responsibilities: Â Intake &amp; indexing: Receive files from shared inboxes, portals, internal ticketing tools, and cloud folders. Confirm document type, required fields, signatures, and attachments. Index each record using standard metadata (client/proje",
-      "tags": [
-        "jira",
-        "hr",
-        "customer support",
-        "finance",
-        "cloud",
-        "admin",
-        "exec",
-        "ops",
-        "legal",
-        "recruiter"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "location unconfirmed — verify it's open to Africa"
-      ]
-    },
-    {
-      "title": "Administrative Assistant Entry Level",
-      "company": "Recruitlytixs Hirings",
-      "location": "Ø§ÙÙ Ø¯ÙÙØ©, Ø§ÙÙ Ø¯ÙÙØ© Ø§ÙÙ Ø¯ÙÙØ© Ø§ÙØ³Ø¹ÙØ¯ÙØ©",
-      "url": "https://remoteOK.com/remote-jobs/remote-administrative-assistant-entry-level-recruitlytixs-hirings-1134679",
-      "source": "RemoteOK",
-      "description": "Actively seeking a Remote Administrative Assistant to support daily operations by managing essential administrative tasks and maintaining well-organized systems. This fully remote role is ideal for individuals who are detail-oriented, dependable, and comfortable working within structured digital processes. In this position, you will contribute to operational efficiency by handling data management, coordinating tasks, and supporting general administrative workflows. Your ability to stay organized and complete routine tasks accurately will help ensure smooth and consistent team operations. Â Key",
-      "tags": [
-        "jira",
-        "hr",
-        "customer support",
-        "finance",
-        "cloud",
-        "admin",
-        "exec",
-        "ops",
-        "legal",
-        "recruiter",
-        "teaching",
-        "marketing",
-        "c",
-        "sales",
-        "data entry",
-        "virtual assistant",
-        "education",
-        "microsoft",
-        "excel",
-        "sys admin",
-        "technical",
-        "video"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "location unconfirmed — verify it's open to Africa"
-      ]
-    },
-    {
-      "title": "Customer Support",
-      "company": "Recruitlytixs Hirings",
-      "location": "Ø§ÙÙ Ø¯ÙÙØ©, Ø§ÙÙ Ø¯ÙÙØ© Ø§ÙÙ Ø¯ÙÙØ© Ø§ÙØ³Ø¹ÙØ¯ÙØ©",
-      "url": "https://remoteOK.com/remote-jobs/remote-customer-support-recruitlytixs-hirings-1134678",
-      "source": "RemoteOK",
-      "description": "Customer Support Specialist (Arabic) | Remote Â We are actively seeking a detail-oriented Remote Customer Support (Arabic) Specialist to join our team. In this role, you will be responsible for delivering professional and timely support to Arabic-speaking customers through various communication channels. You will handle customer inquiries, resolve issues efficiently, and ensure a positive customer experience at every interaction. Strong communication skills in Arabic, excellent problem-solving ability, and attention to detail are essential for success in this remote position. Your contribution",
-      "tags": [
-        "jira",
-        "hr",
-        "customer support",
-        "finance",
-        "cloud",
-        "admin",
-        "exec",
-        "ops",
-        "legal",
-        "recruiter",
-        "teaching",
-        "marketing",
-        "c",
-        "sales",
-        "data entry",
-        "virtual assistant",
-        "education",
-        "microsoft",
-        "excel",
-        "sys admin",
-        "technical"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "location unconfirmed — verify it's open to Africa"
-      ]
-    },
-    {
-      "title": "Support Technician Level 1 2",
-      "company": "Magic Memories",
-      "location": "Orlando,",
-      "url": "https://remoteOK.com/remote-jobs/remote-support-technician-level-1-2-magic-memories-1134650",
-      "source": "RemoteOK",
-      "description": "Job Details Description WE MAKE PEOPLE SMILE Magic Memories is a company that delights and amazes guests on the simple but universal concept of making people smile, and has driven that concept into its product, service, and innovation philosophy. Magic Memories is a global leader in capturing and delivering cherished memories for guests at leading tourist attractions and entertainment venues. We combine cutting-edge technology with exceptional guest service to create personalized photo and video experiences that make people smile. Our innovative approach and commitment to excellence have made ",
-      "tags": [
-        "design",
-        "hr",
-        "sys admin",
-        "infosec",
-        "teaching",
-        "technical",
-        "customer support",
-        "dev",
-        "testing",
-        "marketing",
-        "travel",
-        "video",
-        "cloud",
-        "exec",
-        "linux",
-        "digital nomad"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "location unconfirmed — verify it's open to Africa"
-      ]
-    },
-    {
-      "title": "Health Navigator I",
-      "company": "Moda Health",
-      "location": "Portland,",
-      "url": "https://remoteOK.com/remote-jobs/remote-health-navigator-i-moda-health-1134652",
-      "source": "RemoteOK",
-      "description": "Letâs do great things, together! About Moda Founded in Oregon in 1955, Moda is proud to be a company of real people committed to quality. Today, like then, weâre focused on building a better future for healthcare. That starts by offering outstanding coverage to our members, compassionate support to our community and comprehensive benefits to our employees. It keeps going by connecting with neighbors to create healthy spaces and places, together. Moda values diversity and inclusion in our workplace. We aim to demonstrate our commitment to diversity through all our business practices and inv",
-      "tags": [
-        "design",
-        "hr",
-        "sys admin",
-        "infosec",
-        "teaching",
-        "technical",
-        "customer support",
-        "dev",
-        "testing",
-        "marketing",
-        "travel",
-        "video",
-        "cloud",
-        "exec",
-        "linux",
-        "digital nomad",
-        "saas",
-        "salesforce",
-        "education",
-        "consulting",
-        "speech",
-        "finance",
-        "sales",
-        "medical",
-        "engineer",
-        "recruiter",
-        "supervisor",
-        "microsoft",
-        "content writing",
-        "ops"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "location unconfirmed — verify it's open to Africa"
+        "APAC-tagged — verify it's open to Africa first"
       ]
     },
     {
@@ -2166,67 +1822,20 @@
       ]
     },
     {
-      "title": "Professional Services Engagement Manager",
-      "company": "Harness",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/147874-professional-services-engagement-manager",
+      "title": "Sr. Machine Learning Solutions Architect",
+      "company": "phData",
+      "location": "LATAM",
+      "url": "https://jobicy.com/jobs/146291-sr-machine-learning-solutions-architect",
       "source": "Jobicy",
-      "description": "Harness is the AI Software Delivery Platform company, led by technologist and entrepreneur Jyoti Bansal (founder of AppDynamics, acquired by Cisco for $3.7B). Harness has raised approximately $570M in funding and is valued at $5.5B, backed by leading investors including Goldman Sachs, Menlo Ventures, IVP, Unusual Ventures, Citi Ventures, and more. As AI accelerates code&hellip;",
+      "description": "Join phData, a dynamic and innovative leader in the modern data stack. We partner with major cloud data platforms like Snowflake, AWS, Azure, GCP, Fivetran, Pinecone, Glean, and dbt to deliver cutting-edge services and solutions.We're committed to helping global enterprises overcome their toughest data challenges. phData is a remote-first global company with employees based in&hellip;",
       "tags": [
-        "business development"
+        "data science &amp; analytics"
       ],
       "verdict": "review",
-      "fit": 36,
+      "fit": 34,
       "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Customer Success Manager II - West",
-      "company": "Tines",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/147811-customer-success-manager-ii-west",
-      "source": "Jobicy",
-      "description": "Founded in 2018 with co-headquarters in Dublin and Boston, Tines powers some of the world's most important workflows. Our intelligent workflow platform applies AI, automation, and integration with human ingenuity to drive real business results. Tines serves a diverse range of customers, from startups to public companies, including Canva, Databricks, Elastic, Kayak, Intercom, and McKesson.&hellip;",
-      "tags": [
-        "customer success"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Customer Reliability Engineer, Airflow",
-      "company": "Astronomer",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/147810-customer-reliability-engineer-airflow",
-      "source": "Jobicy",
-      "description": "Astronomer empowers data teams to bring mission-critical software, analytics, and AI to life and is the company behind Astro, the industry-leading unified DataOps platform powered by Apache Airflow®. Astro accelerates building reliable data products that unlock insights, unleash AI value, and powers data-driven applications. Trusted by more than 800 of the world's leading enterprises, Astronomer&hellip;",
-      "tags": [
-        "technical support"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Technical Support Engineer (Blockchain & Backend Development)",
-      "company": "Binance",
-      "location": "APAC, UAE",
-      "url": "https://jobicy.com/jobs/142500-technical-support-engineer-blockchain-backend-development",
-      "source": "Jobicy",
-      "description": "Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. We are trusted by 300+ million people in 100+ countries for our industry-leading security, user fund transparency, trading engine speed, deep liquidity, and an unmatched portfolio of digital-asset products. Binance offerings range from trading and finance&hellip;",
-      "tags": [
-        "technical support"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "APAC-tagged — verify it's open to Africa first"
+        "Latam-tagged — verify it's open to Africa first",
+        "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
     {
@@ -2249,6 +1858,23 @@
       "fit": 30,
       "reasons": [
         "Europe-tagged — verify it's open to Africa first",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Senior Full-Stack Engineer (.NET/Angular) (ASP.NET Focus) - GovTech / HR Software - LATAM",
+      "company": "Truelogic",
+      "location": "LATAM",
+      "url": "https://jobicy.com/jobs/146293-senior-full-stack-engineer-net-angular-asp-net-focus-govtech-hr-software-latam",
+      "source": "Jobicy",
+      "description": "About TruelogicAt Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of all sizes, from innovative startups to industry leaders, helping them achieve their digital transformation goals.Our team of 600+ highly skilled tech professionals, based in Latin&hellip;",
+      "tags": [
+        "software engineering"
+      ],
+      "verdict": "review",
+      "fit": 30,
+      "reasons": [
+        "Latam-tagged — verify it's open to Africa first",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -2346,23 +1972,6 @@
       "description": "Harness is the AI Software Delivery Platform company, led by technologist and entrepreneur Jyoti Bansal (founder of AppDynamics, acquired by Cisco for $3.7B). Harness has raised approximately $570M in funding and is valued at $5.5B, backed by leading investors including Goldman Sachs, Menlo Ventures, IVP, Unusual Ventures, Citi Ventures, and more. As AI accelerates code&hellip;",
       "tags": [
         "finance &amp; accounting"
-      ],
-      "verdict": "review",
-      "fit": 30,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Senior Manager, Customer Success Management - Enterprise/EMEA",
-      "company": "Chainguard",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/144672-senior-manager-customer-success-management-enterprise-emea",
-      "source": "Jobicy",
-      "description": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. Our customers include Fortune 500 enterprises and global industry leaders, including Anduril, Canva, Fortinet, Hewlett Packard Enterprise, OpenAI, Snap&hellip;",
-      "tags": [
-        "customer success"
       ],
       "verdict": "review",
       "fit": 30,
