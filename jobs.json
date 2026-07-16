@@ -1,11 +1,11 @@
 {
-  "generated": "2026-07-15 07:48 UTC",
-  "count": 114,
+  "generated": "2026-07-16 07:52 UTC",
+  "count": 108,
   "summary": {
-    "scanned": 114,
-    "eligible": 22,
-    "review": 68,
-    "blocked": 24
+    "scanned": 108,
+    "eligible": 23,
+    "review": 63,
+    "blocked": 22
   },
   "jobs": [
     {
@@ -32,6 +32,20 @@
       "tags": [],
       "verdict": "eligible",
       "fit": 70,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
+    {
+      "title": "DevOps Engineer",
+      "company": "Common Securitization Solutions",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/common-securitization-solutions-devops-engineer",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Remote, United States URL: http://usfintech.com OVERVIEW &nbsp; The Company &nbsp; U.S. Financial Technology (U.S. FinTech) is seeking an experienced DevOps Engineer to join our team of talented professionals. This is a full-time remote opportunity.&nbsp; &nbsp; U.S. FinTech built and operates the largest and most advanced mortgage securitization platform in the world, supporting the Uniform Mortgage-Backed Security (UMBS) of Fannie Mae and Freddie Mac. &nbsp; Supporting 70% of the mortgage-backed securities in the market, U.S. FinTech provides best-in-class single-family issuanc",
+      "tags": [],
+      "verdict": "eligible",
+      "fit": 66,
       "reasons": [
         "remote — anywhere / global"
       ]
@@ -76,6 +90,21 @@
       "fit": 66,
       "reasons": [
         "remote — anywhere / global"
+      ]
+    },
+    {
+      "title": "Senior DevOps Engineer",
+      "company": "Five9",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/five9-senior-devops-engineer",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: United States (Remote) URL: http://five9.com Join us in bringing joy to customer experience. &nbsp;Five9 is a leading provider of cloud contact center software, bringing the power of cloud innovation to customers worldwide. &nbsp;&nbsp; Living our values everyday results in our team-first culture and enables us to innovate, grow, and thrive while enjoying the journey together. We celebrate diversity and foster an inclusive environment, empowering our employees to be their authentic selves.&nbsp; As part of the Product Engineering organization, the Senior DevOps Engineer will play",
+      "tags": [],
+      "verdict": "eligible",
+      "fit": 60,
+      "reasons": [
+        "remote — anywhere / global",
+        "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
     {
@@ -420,80 +449,27 @@
       ]
     },
     {
-      "title": "Senior Sales Engineer - Delphix",
-      "company": "Perforce",
-      "location": "Anywhere in the World",
-      "url": "https://weworkremotely.com/remote-jobs/perforce-senior-sales-engineer-delphix",
+      "title": "Site Reliability Engineer (SRE)",
+      "company": "Bright Vision Technologies",
+      "location": "New Jersey",
+      "url": "https://weworkremotely.com/remote-jobs/bright-vision-technologies-site-reliability-engineer-sre-1",
       "source": "WeWorkRemotely",
-      "description": "Headquarters: Argentina / Santiago URL: http://perforce.com Perforce is a community of collaborative experts, problem solvers, and possibility seekers who believe work should be both challenging and fun. We are proud to inspire creativity, foster belonging, support collaboration, and encourage wellness. At Perforce, you’ll work with and learn from some of the best and brightest in business. Before you know it, you’ll be in the middle of a rewarding career at a company headed in one direction: upward.&nbsp;&nbsp; &nbsp; With a global footprint spanning more than 80 countries and including over ",
+      "description": "Headquarters: Remote URL: http://bvteck.com Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions that help businesses automate and optimize their operations. We leverage cutting-edge technologies to create scalable, secure, and user-friendly applications. As we continue to grow, we’re looking for a skilled Site Reliability Engineer (SRE) to join our dynamic team and contribute to our mission of transforming business processes through technology. This is a fantastic opportunity to join an established and well-respected organiza",
       "tags": [],
-      "verdict": "eligible",
-      "fit": 44,
-      "reasons": [
-        "remote — anywhere / global",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "DevOps Engineer",
-      "company": "Kyivstar",
-      "location": "Ukraine",
-      "url": "https://himalayas.app/companies/kyivstar/jobs/devops-engineer",
-      "source": "Himalayas",
-      "description": "At Kyivstar .Tech , we build and scale high-performance digital ecosystems that power millions of users. We are looking for a skilled DevOps Engineer to join our team. If you thrive on automating complex workflows, optimizing infrastructure resilience, and bridging the gap between development and operations, you'll find a perfect environment here to make an impact and grow professionally. About us Kyivstar .Tech is a Ukrainian hybrid IT company and a resident of Diia.City. We are a subsidiary of Kyivstar , one of Ukraine’s largest telecom operators. Our mission is to transform lives in Ukraine",
-      "tags": [
-        "devops-engineer",
-        "site-reliability-engineering",
-        "infrastructure-engineering",
-        "cloud-engineering",
-        "devops-sre",
-        "devops-software-engineer",
-        "cloud-devops-engineer",
-        "devops-automation-engineer",
-        "aws-devops-engineer",
-        "lead-devops-engineer"
-      ],
       "verdict": "review",
-      "fit": 56,
+      "fit": 52,
       "reasons": [
-        "Uk-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+        "location unconfirmed — verify it's open to Africa"
       ]
     },
     {
-      "title": "Billing Specialist",
-      "company": "DataBank",
-      "location": "Dallas,",
-      "url": "https://remoteOK.com/remote-jobs/remote-billing-specialist-databank-1134749",
-      "source": "RemoteOK",
-      "description": "DataBank Holdings Ltd. is a leading provider of enterprise-class data center, cloud, and interconnection services, offering customers 100% uptime availability of data, applications, and infrastructure. DataBankâs managed data center services are anchored in world-class facilities. Our customized technology solutions are designed to help customers effectively manage risk, improve their technology performance and allow them to focus on their core business objectives. DataBank is headquartered in the historic former Federal Reserve Bank Building, in downtown Dallas, TX. DataBank is proud to be ",
-      "tags": [
-        "exec",
-        "strategy",
-        "customer support",
-        "testing",
-        "content writing",
-        "marketing",
-        "medical",
-        "social media",
-        "video",
-        "finance",
-        "photoshop",
-        "design",
-        "python",
-        "vfx",
-        "education",
-        "game dev",
-        "dev",
-        "c",
-        "c plus plus",
-        "cloud",
-        "robotics",
-        "engineer",
-        "digital nomad",
-        "supervisor",
-        "accounting",
-        "excel"
-      ],
+      "title": "Spécialiste DevOps",
+      "company": "Medfar",
+      "location": "Quebec",
+      "url": "https://weworkremotely.com/remote-jobs/medfar-specialiste-devops",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: 205-1224 Stanley Street, Montreal, Quebec, Canada URL: http://medfarsolutions.com Description de l'entreprise MEDFAR Solutions Cliniques a été fondée en 2010 par deux ingénieurs aéronautiques qui ont réalisé que les systèmes de santé n'exploitaient pas le plein potentiel de la technologie. Soutenue par une vaste communauté d'experts médicaux et axée sur le succès des cliniques et la sécurité des patients, MEDFAR a été la première entreprise à certifier un Dossier Médical Électronique infonuagique au Canada, MYLE (Make Your Life Easy). Engagée à promouvoir l'excellence et l'effica",
+      "tags": [],
       "verdict": "review",
       "fit": 52,
       "reasons": [
@@ -529,48 +505,6 @@
       ]
     },
     {
-      "title": "Working Student (m/f/d) DevOps – Software Development",
-      "company": "Bruker Corporation",
-      "location": "Baden-Württemberg",
-      "url": "https://weworkremotely.com/remote-jobs/bruker-corporation-working-student-m-f-d-devops-software-development",
-      "source": "WeWorkRemotely",
-      "description": "Headquarters: Ettlingen, Baden-Württemberg, Germany URL: http://bruker.com Overview Bruker is enabling scientists to make breakthrough discoveries and develop new applications that improve the quality of human life. Bruker’s high performance scientific instruments and high value analytical and diagnostic solutions enable scientists to explore life and materials at molecular, cellular, and microscopic levels. In close cooperation with our customers, Bruker is enabling innovation, improved productivity, and customer success in life science molecular and cell biology research, in applied and phar",
-      "tags": [],
-      "verdict": "review",
-      "fit": 52,
-      "reasons": [
-        "location unconfirmed — verify it's open to Africa"
-      ]
-    },
-    {
-      "title": "DevOps Engineer REF1752R (m/f/d)",
-      "company": "Deutsche Telekom IT Solutions Slovakia",
-      "location": "Košický kraj",
-      "url": "https://weworkremotely.com/remote-jobs/deutsche-telekom-it-solutions-slovakia-devops-engineer-ref1752r-m-f-d",
-      "source": "WeWorkRemotely",
-      "description": "Headquarters: Moldavská cesta, 040 11 Košice, Slovakia URL: http://deutschetelekomitsolutions.sk Company Description Our brand Deutsche Telekom IT Solutions Slovakia entered the life of Košice region in 2006 under the name of T-Systems Slovakia and ever since has been inextricably linked with the region when became one of the founding members of Košice IT Valley. We have managed to grow from scratch to the second largest employer in the eastern part of the country with more than 3900 employees. Our goal is to proactively find new ways to improve and continuously transform into the type of comp",
-      "tags": [],
-      "verdict": "review",
-      "fit": 52,
-      "reasons": [
-        "location unconfirmed — verify it's open to Africa"
-      ]
-    },
-    {
-      "title": "IT - Infrastructure Systems - DevOps Engineer II (Remote in CA only)",
-      "company": "Golden 1 Credit Union",
-      "location": "California",
-      "url": "https://weworkremotely.com/remote-jobs/golden-1-credit-union-it-infrastructure-systems-devops-engineer-ii-remote-in-ca",
-      "source": "WeWorkRemotely",
-      "description": "Headquarters: 8945 Cal Center Dr, Sacramento, CA 95826, USA URL: http://golden1.com TITLE: DevOps Engineer IISTATUS: ExemptREPORTS TO: Mgr - DevOps - SREDEPARTMENT: IT - Infrastructure Systems&nbsp;JOB CODE: 12041 PAY RANGE: $123,600.00 - $135,000.00 Annually &nbsp; POSITION AND PURPOSE The DevOps Engineer 2 is responsible for leading the automation processes for deploying Infrastructure as Code in both Microsoft Azure and On-Premises environments. The engineer will deploy product updates, identify production issues, and implement integrations that meet our customers’ needs. The ideal candidat",
-      "tags": [],
-      "verdict": "review",
-      "fit": 52,
-      "reasons": [
-        "location unconfirmed — verify it's open to Africa"
-      ]
-    },
-    {
       "title": "DevOps Engineer",
       "company": "PSI CRO",
       "location": "Latvia",
@@ -584,6 +518,22 @@
       "fit": 52,
       "reasons": [
         "Latvia-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "Atlassian Administrator 1726",
+      "company": "Softgic",
+      "location": "Anywhere",
+      "url": "https://jobicy.com/jobs/146254-atlassian-administrator-1726",
+      "source": "Jobicy",
+      "description": "This is a remote position. We are seeking an experienced Atlassian Administrator to manage, optimize, and continuously improve our Atlassian Cloud ecosystem. This role will be responsible for the administration, configuration, customization, and support of Jira Software, Confluence, and Jira Service Management (JSM) , ensuring these platforms effectively support business processes and operational goals across&hellip;",
+      "tags": [
+        "devops &amp; infrastructure"
+      ],
+      "verdict": "review",
+      "fit": 52,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa"
       ]
     },
     {
@@ -947,12 +897,12 @@
       ]
     },
     {
-      "title": "DevOps SRE - Senior or Lead (Remote Eligible)",
-      "company": "Southwest Power Pool",
-      "location": "Arkansas",
-      "url": "https://weworkremotely.com/remote-jobs/southwest-power-pool-devops-sre-senior-or-lead-remote-eligible",
+      "title": "Sr. DevOps Engineer",
+      "company": "Borrowell",
+      "location": "Ontario",
+      "url": "https://weworkremotely.com/remote-jobs/borrowell-sr-devops-engineer",
       "source": "WeWorkRemotely",
-      "description": "Headquarters: Little Rock, Arkansas, 72223, United States URL: http://spp.org Southwest Power Pool (SPP) is about more than power. We’re about the power of relationships. Our employees have the opportunity to work together to ensure electricity is delivered reliably and affordably to the millions of people living in our service territory. We have been voted one of Arkansas’ Best Places to work by Arkansas Business and we are looking for a member of our team who is passionate about our mission to keep the lights on! We have a core ideology here at SPP that we stand by: Do the right thing, for t",
+      "description": "Headquarters: Toronto, Ontario, Canada URL: http://borrowell.com Description About Borrowell At Borrowell, we’re on a mission to help Canadians feel confident about their money. We empower individuals to take control of their financial futures by providing the tools and insights needed to understand, build, and use their credit effectively. With over four million members, Borrowell empowers Canadians to understand their credit, build credit through Rent Advantage and Credit Builder, and make better financial product choices. Our team is diverse, inclusive, and driven by a shared passion for ma",
       "tags": [],
       "verdict": "review",
       "fit": 46,
@@ -962,12 +912,12 @@
       ]
     },
     {
-      "title": "Senior InfoSec Engineer (SecDevOps) - (REMOTE)",
-      "company": "Charles River",
-      "location": "Andhra Pradesh",
-      "url": "https://weworkremotely.com/remote-jobs/charles-river-senior-infosec-engineer-secdevops-remote",
+      "title": "DevOps SRE - Senior or Lead (Remote Eligible)",
+      "company": "Southwest Power Pool",
+      "location": "Arkansas",
+      "url": "https://weworkremotely.com/remote-jobs/southwest-power-pool-devops-sre-senior-or-lead-remote-eligible",
       "source": "WeWorkRemotely",
-      "description": "Headquarters: India URL: http://criver.com For 75 years, Charles River employees have worked together to assist in the discovery, development and safe manufacture of new drug therapies. When you join our family, you will have a significant impact on the health and well-being of people across the globe. Whether your background is in life sciences, finance, IT, sales or another area, your skills will play an important role in the work we perform. In return, we’ll help you build a career that you can feel passionate about. Job Overview The Senior InfoSec Engineer (SecDevOps) is a subject matter e",
+      "description": "Headquarters: Little Rock, Arkansas, 72223, United States URL: http://spp.org Southwest Power Pool (SPP) is about more than power. We’re about the power of relationships. Our employees have the opportunity to work together to ensure electricity is delivered reliably and affordably to the millions of people living in our service territory. We have been voted one of Arkansas’ Best Places to work by Arkansas Business and we are looking for a member of our team who is passionate about our mission to keep the lights on! We have a core ideology here at SPP that we stand by: Do the right thing, for t",
       "tags": [],
       "verdict": "review",
       "fit": 46,
@@ -1198,6 +1148,23 @@
       ]
     },
     {
+      "title": "Senior Site Reliability Engineer",
+      "company": "Akamai Technologies",
+      "location": "Poland",
+      "url": "https://jobicy.com/jobs/143565-senior-site-reliability-engineer-3",
+      "source": "Jobicy",
+      "description": "Are you passionate about cutting edge technology?Do solving some of the Internet's most difficult content delivery challenges interest you?Join our highly skilled Site Reliability teamOur team designs, develops, and manages applications and infrastructure that support Akamai's Compute products and services. We do this while maintaining Akamai's mission at the forefront of what we do. Make&hellip;",
+      "tags": [
+        "devops &amp; infrastructure"
+      ],
+      "verdict": "review",
+      "fit": 46,
+      "reasons": [
+        "Poland-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
       "title": "Communications Manager",
       "company": "Lemon.io",
       "location": "LATAM, Europe",
@@ -1230,46 +1197,6 @@
       "fit": 40,
       "reasons": [
         "location unconfirmed — verify it's open to Africa"
-      ]
-    },
-    {
-      "title": "Tech Lead Full-Stack Rails Engineer",
-      "company": "Mitre Media",
-      "location": "USA, Canada, USA timezones",
-      "url": "https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746",
-      "source": "Remotive",
-      "description": "About Mitre Media Mitre Media is redefining FinTech with AI-driven tools that empower millions of investors. Our portfolio, including Dividend.com and MutualFunds.com, leverages LLMs to deliver novel data insights and visually rich user experiences. For over a decade, we’ve served individual investors, financial advisors, and top asset managers like BlackRock and Vanguard through our premium data, tools, and advertising solutions. Join our lean, entrepreneurial team to shape the future of AI-powered investing from your location ±3 hours from Eastern Time. Our users are deeply engaged, spending",
-      "tags": [
-        "api",
-        "css",
-        "docker",
-        "elasticsearch",
-        "fullstack",
-        "html",
-        "javascript",
-        "kubernetes",
-        "postgresql",
-        "react",
-        "ror",
-        "ruby/rails",
-        "ai/ml",
-        "cad",
-        "advertising",
-        "redis",
-        "es6",
-        "web applications",
-        "mysql",
-        "nlp",
-        "fintech",
-        "micro services",
-        "github",
-        "system architecture"
-      ],
-      "verdict": "review",
-      "fit": 38,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
     {
@@ -1355,6 +1282,27 @@
       "fit": 36,
       "reasons": [
         "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "Sales Executive",
+      "company": "Unilever",
+      "location": "Navi Mumbai, Navi Mumbai, Maharashtra, India",
+      "url": "https://remoteOK.com/remote-jobs/remote-sales-executive-unilever-1134845",
+      "source": "RemoteOK",
+      "description": "Key Accounts Executive (HoReCa Sales) â West Region Position: Key Accounts Executive â HoReCa Sales Location: Mumbai (India HQ) Region: West India Reporting To: National Key Accounts Manager â HoReCa Role Purpose The Key Accounts Executive will be responsible for managing and growing strategic HoReCa (Hotels, Restaurants, CafÃ©s/Catering) accounts across the West region. The role focuses on driving sales, expanding product penetration, strengthening customer relationships, and ensuring profitable business growth with key hospitality customers. Key Responsibilities Manage and develop key ",
+      "tags": [
+        "sys admin",
+        "marketing",
+        "travel",
+        "exec",
+        "cloud",
+        "sales"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa"
       ]
     },
     {
@@ -1451,185 +1399,6 @@
       ]
     },
     {
-      "title": "Interface Designer",
-      "company": "Grow the Roses",
-      "location": "Only,",
-      "url": "https://remoteOK.com/remote-jobs/remote-interface-designer-grow-the-roses-1134742",
-      "source": "RemoteOK",
-      "description": "About The Role We are looking for a talented Interface Designer to create intuitive, visually engaging, and user-friendly digital experiences. You will work closely with UX designers, developers, and product teams to design interfaces that enhance usability and elevate brand identity. Responsibilities Design clean, functional, and aesthetically appealing user interfaces for web and mobile applications. Collaborate with UX designers, developers, and stakeholders to create seamless digital experiences. Develop wireframes, prototypes, and high-fidelity UI designs using industry-standard tools. En",
-      "tags": [
-        "c",
-        "music",
-        "game dev",
-        "dev",
-        "video",
-        "content writing",
-        "ops",
-        "marketing",
-        "internship",
-        "non tech",
-        "digital nomad",
-        "design",
-        "teaching",
-        "education",
-        "designer",
-        "technical",
-        "web dev",
-        "mobile",
-        "photoshop",
-        "illustrator",
-        "data entry",
-        "customer support",
-        "microsoft",
-        "exec",
-        "medical",
-        "consulting",
-        "saas",
-        "sys admin",
-        "cloud",
-        "sales",
-        "engineer",
-        "recruiter",
-        "strategy",
-        "ads",
-        "analyst",
-        "accounting",
-        "finance",
-        "legal",
-        "travel",
-        "speech",
-        "admin",
-        "front end",
-        "css",
-        "html"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "location unconfirmed — verify it's open to Africa"
-      ]
-    },
-    {
-      "title": "Social Media Coordinator",
-      "company": "Digital Style House",
-      "location": "Los Angeles County, Los Angeles County, California, United States",
-      "url": "https://remoteOK.com/remote-jobs/remote-social-media-coordinator-digital-style-house-1134743",
-      "source": "RemoteOK",
-      "description": "Company Description Digital Style House (DSH) is an Inc. 5000-ranked social media marketing agency based in Los Angeles, serving over 100 active clients and 1,100+ brands. Founded in 2016, DSH operates like an in-house content team for mid-market brands across DTC ecommerce, hospitality, health and wellness, home and interiors, fashion, food and beverage, and medical aesthetics. The agency offers organic social media strategy and management, paid advertising on Meta and TikTok, UGC creator programs, DM automation, content production, photography, and website design. With proprietary workflows,",
-      "tags": [
-        "c",
-        "music",
-        "game dev",
-        "dev",
-        "video",
-        "content writing",
-        "ops",
-        "marketing",
-        "internship",
-        "non tech",
-        "digital nomad",
-        "design",
-        "teaching",
-        "education",
-        "designer",
-        "technical",
-        "web dev",
-        "mobile",
-        "photoshop",
-        "illustrator",
-        "data entry",
-        "customer support",
-        "microsoft",
-        "exec",
-        "medical",
-        "consulting",
-        "saas",
-        "sys admin",
-        "cloud",
-        "sales",
-        "engineer",
-        "recruiter",
-        "strategy",
-        "ads",
-        "analyst",
-        "accounting",
-        "finance",
-        "legal",
-        "travel",
-        "speech",
-        "admin",
-        "front end",
-        "css",
-        "html",
-        "coordinator",
-        "stats",
-        "social media",
-        "ecommerce",
-        "full time"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "United states-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Educational Programs Administrator",
-      "company": "Lingraphica",
-      "location": "Princeton, Princeton, New Jersey, United States",
-      "url": "https://remoteOK.com/remote-jobs/remote-educational-programs-administrator-lingraphica-1134741",
-      "source": "RemoteOK",
-      "description": "Lingraphica is a mission-driven organization that provides speech-generating devices to help improve communication, speech, and quality of life for people with communication impairments. Lingraphica is a leader in augmentative and alternative communication (AAC) technology, helping people with aphasia and other speech and language impairments communicate and engage more fully in daily life. Through a combination of innovative devices, software, and services, Lingraphica is focused on improving communication outcomes and supporting individuals, families, and care teams. We look for candidates w",
-      "tags": [
-        "c",
-        "music",
-        "game dev",
-        "dev",
-        "video",
-        "content writing",
-        "ops",
-        "marketing",
-        "internship",
-        "non tech",
-        "digital nomad",
-        "design",
-        "teaching",
-        "education",
-        "designer",
-        "technical",
-        "web dev",
-        "mobile",
-        "photoshop",
-        "illustrator",
-        "data entry",
-        "customer support",
-        "microsoft",
-        "exec",
-        "medical",
-        "consulting",
-        "saas",
-        "sys admin",
-        "cloud",
-        "sales",
-        "engineer",
-        "recruiter",
-        "strategy",
-        "ads",
-        "analyst",
-        "accounting",
-        "finance",
-        "legal",
-        "travel",
-        "speech",
-        "admin"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "United states-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
       "title": "Support Engineering Manager (APAC)",
       "company": "Supabase",
       "location": "APAC",
@@ -1691,22 +1460,6 @@
       "fit": 36,
       "reasons": [
         "APAC-tagged — verify it's open to Africa first"
-      ]
-    },
-    {
-      "title": "Cloud Security Analyst",
-      "company": "Cloudbeds",
-      "location": "Europe",
-      "url": "https://jobicy.com/jobs/149093-cloud-security-analyst",
-      "source": "Jobicy",
-      "description": "What Makes Us Unique At Cloudbeds, we're not just building software, we’re transforming hospitality. Our intelligently designed platform powers properties across 150 countries, processing billions in bookings annually. From independent properties to hotel groups, we help hoteliers transform operations and uplevel their commercial strategy through a unified platform that integrates with hundreds of partners. And&hellip;",
-      "tags": [
-        "cybersecurity"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Europe-tagged — verify it's open to Africa first"
       ]
     },
     {
@@ -1787,22 +1540,6 @@
       "fit": 36,
       "reasons": [
         "Poland-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Engineering Manager, Internal Developer Platform",
-      "company": "Chainguard",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/148144-engineering-manager-internal-developer-platform",
-      "source": "Jobicy",
-      "description": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. Our customers include Fortune 500 enterprises and global industry leaders, including Anduril, Canva, Fortinet, Hewlett Packard Enterprise, OpenAI, Snap&hellip;",
-      "tags": [
-        "software engineering"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -1972,6 +1709,23 @@
       "description": "Harness is the AI Software Delivery Platform company, led by technologist and entrepreneur Jyoti Bansal (founder of AppDynamics, acquired by Cisco for $3.7B). Harness has raised approximately $570M in funding and is valued at $5.5B, backed by leading investors including Goldman Sachs, Menlo Ventures, IVP, Unusual Ventures, Citi Ventures, and more. As AI accelerates code&hellip;",
       "tags": [
         "finance &amp; accounting"
+      ],
+      "verdict": "review",
+      "fit": 30,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Senior Manager, Customer Success Management - Enterprise/EMEA",
+      "company": "Chainguard",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/144672-senior-manager-customer-success-management-enterprise-emea",
+      "source": "Jobicy",
+      "description": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. Our customers include Fortune 500 enterprises and global industry leaders, including Anduril, Canva, Fortinet, Hewlett Packard Enterprise, OpenAI, Snap&hellip;",
+      "tags": [
+        "customer success"
       ],
       "verdict": "review",
       "fit": 30,
@@ -2422,53 +2176,6 @@
       ]
     },
     {
-      "title": "Director of Customer Success",
-      "company": "INNERGY",
-      "location": "Austin, Austin, Texas, United States",
-      "url": "https://remoteOK.com/remote-jobs/remote-director-of-customer-success-innergy-1134738",
-      "source": "RemoteOK",
-      "description": "INNERGY is transforming the woodworking industry with purpose built, cloud based ERP software designed exclusively for custom manufacturers. Our platform helps businesses operate smarter, faster, and more efficiently while seamlessly connecting design, production, and delivery for teams creating architectural millwork, cabinetry, and casework. What truly sets INNERGY apart is our people. Founded in 2016, we are a globally distributed team of 200 plus professionals united by deep software expertise and a shared passion for solving meaningful, real world problems. We value collaboration, creativ",
-      "tags": [
-        "c",
-        "music",
-        "game dev",
-        "dev",
-        "video",
-        "content writing",
-        "ops",
-        "marketing",
-        "internship",
-        "non tech",
-        "digital nomad",
-        "design",
-        "teaching",
-        "education",
-        "designer",
-        "technical",
-        "web dev",
-        "mobile",
-        "photoshop",
-        "illustrator",
-        "data entry",
-        "customer support",
-        "microsoft",
-        "exec",
-        "medical",
-        "consulting",
-        "saas",
-        "sys admin",
-        "cloud",
-        "sales",
-        "engineer",
-        "recruiter"
-      ],
-      "verdict": "blocked",
-      "fit": 0,
-      "reasons": [
-        "Director-level — usually 5–10+ yrs, you have ~4"
-      ]
-    },
-    {
       "title": "Principal DevOps Engineer (Poland Remote)",
       "company": "Turnitin, LLC",
       "location": "Poland",
@@ -2578,22 +2285,6 @@
       "fit": 0,
       "reasons": [
         "Director-level — usually 5–10+ yrs, you have ~4"
-      ]
-    },
-    {
-      "title": "Principal AI Data Analyst",
-      "company": "UnitedHealth Group",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/148891-principal-ai-data-analyst",
-      "source": "Jobicy",
-      "description": "Optum is a global organization that delivers care, aided by technology to help millions of people live healthier lives. The work you do with our team will directly improve health outcomes by connecting people with the care, pharmacy benefits, data and resources they need to feel their best. Here, you will find a culture guided&hellip;",
-      "tags": [
-        "data science &amp; analytics"
-      ],
-      "verdict": "blocked",
-      "fit": 0,
-      "reasons": [
-        "Principal-level — usually 5–10+ yrs, you have ~4"
       ]
     },
     {
