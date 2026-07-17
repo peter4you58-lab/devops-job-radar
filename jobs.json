@@ -1,13 +1,79 @@
 {
-  "generated": "2026-07-16 07:52 UTC",
-  "count": 108,
+  "generated": "2026-07-17 07:50 UTC",
+  "count": 118,
   "summary": {
-    "scanned": 108,
-    "eligible": 23,
-    "review": 63,
-    "blocked": 22
+    "scanned": 118,
+    "eligible": 28,
+    "review": 70,
+    "blocked": 20
   },
   "jobs": [
+    {
+      "title": "Senior DevOps Engineer",
+      "company": "Lemon.io",
+      "location": "Americas, Europe, Asia, Africa, Oceania",
+      "url": "https://remotive.com/remote-jobs/devops/senior-devops-engineer-2091067",
+      "source": "Remotive",
+      "description": "Are you a talented Senior DevOps looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The rate depends on your skills and experience. We've already paid out over $11M to our engineers. No more hunting for clients or negotiating rates — let us handle the business side of things so you can focus on what you do best. Choose a schedule that works best for you. It’s possible to communicate async or minimally overlap within team working hour",
+      "tags": [
+        ".net",
+        "android",
+        "aws",
+        "azure",
+        "c",
+        "c#",
+        "c++",
+        "data science",
+        "golang",
+        "ios",
+        "java",
+        "javascript",
+        "kubernetes",
+        "node.js",
+        "php",
+        "python",
+        "react",
+        "ruby/rails",
+        "scala",
+        "shopify",
+        "sql",
+        "swift",
+        "ui/ux",
+        "wordpress",
+        "blockchain",
+        "ai/ml",
+        "automation",
+        "project management",
+        "react native",
+        "rust",
+        "product management",
+        "unity",
+        "electron",
+        "spring",
+        "data analysis",
+        "bash",
+        "laravel",
+        "ethereum",
+        "graphic design",
+        "typescript",
+        "terraform",
+        "angular",
+        "gcp",
+        "data engineering",
+        "site reliability",
+        "symfony",
+        "startup",
+        "marketplace",
+        "next.js",
+        "flutter"
+      ],
+      "verdict": "eligible",
+      "fit": 74,
+      "reasons": [
+        "explicitly open to Africa/Nigeria",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
     {
       "title": "DevOps & Platform Engineer (AWS / CI/CD)",
       "company": "Agilent Technologies",
@@ -32,6 +98,20 @@
       "tags": [],
       "verdict": "eligible",
       "fit": 70,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
+    {
+      "title": "DevOps Engineer III",
+      "company": "Avalon Administrative Services",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/avalon-administrative-services-devops-engineer-iii",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Remote Employee, US URL: http://avalonhcs.com About Avalon Healthcare Solutions: Avalon Healthcare Solutions is the nation’s leader in diagnostic intelligence, uniquely focused on transforming the role of diagnostic testing across the healthcare ecosystem. Our proprietary Diagnostic Insights Platform delivers evidence-based policies, curated lab networks, and real-time analytics that simplify complex diagnostics, accelerate innovation adoption, and optimize diagnostic investments. Supporting over 30 health plans and 100 million members nationwide, Avalon partners with payers and ",
+      "tags": [],
+      "verdict": "eligible",
+      "fit": 66,
       "reasons": [
         "remote — anywhere / global"
       ]
@@ -90,6 +170,21 @@
       "fit": 66,
       "reasons": [
         "remote — anywhere / global"
+      ]
+    },
+    {
+      "title": "Senior DevOps Engineer, Applications",
+      "company": "WME",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/wme-senior-devops-engineer-applications",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Remote-CA URL: http://wmeagency.com WME is building the next generation of internal platforms that power one of the world's leading entertainment companies. We're looking for a Senior Dev Ops Engineer who is equally comfortable designing cloud infrastructure and improving system reliability. The software we build helps agents and teams manage relationships, deals, and opportunities across the global entertainment industry — and keeping it fast, available, and observable is critical work. You'll own the infrastructure and reliability story end-to-end: provisioning cloud resources,",
+      "tags": [],
+      "verdict": "eligible",
+      "fit": 60,
+      "reasons": [
+        "remote — anywhere / global",
+        "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
     {
@@ -180,6 +275,36 @@
       ]
     },
     {
+      "title": "Entry Level Administrative Professional Operations &amp; Office Support",
+      "company": "PULSE (MENA)",
+      "location": "ØªØ¨ÙÙ, ØªØ¨ÙÙ ØªØ¨ÙÙ Ø§ÙØ³Ø¹ÙØ¯ÙØ©",
+      "url": "https://remoteOK.com/remote-jobs/remote-entry-level-administrative-professional-operations-amp-office-support-pulse-mena-1134938",
+      "source": "RemoteOK",
+      "description": "About PULSE (MENA) PULSE (MENA) is a forward-thinking organization dedicated to delivering operational excellence and supporting innovation across the Middle East and North Africa. We value collaboration, efficiency, integrity, and continuous learning. Our remote-first culture empowers team members to contribute meaningfully while developing professionally in a supportive and inclusive environment. We are looking for a motivated, detail-oriented, and organized Entry-Level Administrative Professional to join our Operations team. This role is ideal for someone beginning their administrative care",
+      "tags": [
+        "education",
+        "technical",
+        "customer support",
+        "dev",
+        "marketing",
+        "travel",
+        "video",
+        "cloud",
+        "microsoft",
+        "exec",
+        "ops",
+        "excel",
+        "sys admin",
+        "internship",
+        "digital nomad"
+      ],
+      "verdict": "eligible",
+      "fit": 52,
+      "reasons": [
+        "explicitly open to Africa/Nigeria"
+      ]
+    },
+    {
       "title": "Remote Office Assistant",
       "company": "Coalition Technologies",
       "location": "Worldwide",
@@ -233,10 +358,10 @@
       ]
     },
     {
-      "title": "Online Data Analyst Canada",
+      "title": "Online Data Analyst Canada (French Language) (C)",
       "company": "TELUS Digital",
       "location": "Canada",
-      "url": "https://remotive.com/remote-jobs/all-others/online-data-analyst-canada-2091047",
+      "url": "https://remotive.com/remote-jobs/all-others/online-data-analyst-canada-french-language-c-2091047",
       "source": "Remotive",
       "description": "Are you a detail-oriented individual with a passion for research and a good understanding of national and local geography? This freelance opportunity allows you to work at your own pace and from the comfort of your own home. A Day in the Life of an Online Data Analyst: In this role, you will be working on a project aimed at enhancing the content and quality of digital maps that are used by millions of people worldwide Completing research and evaluation tasks in a web-based environment such as verifying and comparing data, and determining the relevance and accuracy of information. Join us today",
       "tags": [
@@ -449,6 +574,81 @@
       ]
     },
     {
+      "title": "Senior Software Engineer, Platform (Full Stack)",
+      "company": "OEC",
+      "location": "Worldwide",
+      "url": "https://himalayas.app/companies/oec/jobs/senior-software-engineer-platform-full-stack",
+      "source": "Himalayas",
+      "description": "OEC provides software solutions to those who work in the automotive parts and repair industry. Our solutions make it easier for automotive industry professionals to buy and sell parts, conduct repair research &amp; planning, optimize estimates, improve the parts supply chain, and more. OEC partners with many of the world’s largest manufacturers, dealers and suppliers, shops and repairers, and service providers, giving our customers access to a comprehensive network and a streamlined workflow. We’re looking for a Senior Software Engineer to help shape and scale the core platform capabilities th",
+      "tags": [
+        "software-engineering",
+        "platform-engineering",
+        "backend-engineering",
+        "distributed-systems-engineering",
+        "fullstack-development"
+      ],
+      "verdict": "eligible",
+      "fit": 44,
+      "reasons": [
+        "remote — anywhere / global",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Engineer Sr, DevOps",
+      "company": "Carnival Corporation",
+      "location": "Florida",
+      "url": "https://weworkremotely.com/remote-jobs/carnival-corporation-engineer-sr-devops",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Miami, FL, United States URL: http://carnivalcorp.com Description The Senior Engineer, DevOps is responsible for designing, implementing, automating, and supporting the organization's cloud and on-premises infrastructure, CI/CD pipelines, deployment frameworks, and operational tooling. This role serves as a technical leader within the engineering organization, driving automation, reliability, scalability, and operational excellence across enterprise applications and platforms. &nbsp; Essential Functions: DevOps Engineering &amp; Automation:&nbsp; Design, implement, and maintain C",
+      "tags": [],
+      "verdict": "review",
+      "fit": 56,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
+      "title": "Create Your Own Role",
+      "company": "NewsletterJobs.io",
+      "location": "Pittsburgh,",
+      "url": "https://remoteOK.com/remote-jobs/remote-create-your-own-role-newsletterjobs-io-1134897",
+      "source": "RemoteOK",
+      "description": "Who We Are ðProduct: TLDR is the largest network of tech newsletters in the world, with over 7M subscribers covering everything from startups and software engineering to AI, cybersecurity, product, and more. Every issue is written by builders in tech. Both TLDR Crypto writers both work at Coinbase, TLDR Dev is written by engineers from DeepMind and Meta, TLDR AI is written by researchers from Anthropic and Adobe. Thatâs why TLDR is the best way to stay current on what truly matters in tech. ðªTeam: Our 24-person full time team includes alumni of TikTok, Business Insider, Morning Brew, a",
+      "tags": [
+        "crypto",
+        "dev",
+        "cloud",
+        "engineer",
+        "digital nomad"
+      ],
+      "verdict": "review",
+      "fit": 52,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
+      "title": "Publisher",
+      "company": "NewsletterJobs.io",
+      "location": "Morristown,",
+      "url": "https://remoteOK.com/remote-jobs/remote-publisher-newsletterjobs-io-1134898",
+      "source": "RemoteOK",
+      "description": "Company Description Best Version Media provides small businesses with a multi-platform, micro-targeted approach to reaching a valuable audience through print and digital. We are hiring publishers across the US and Canada. I am focusing my efforts on Hunterdon, Morris, Sussex, Essex and Union counties in New Jersey. Please reach out if you're intrigued, or know someone else who might be! Please mention the word **RESPONSIVE** and tag RMjAuODEuMTU5LjE= when applying to show you read the job post completely (#RMjAuODEuMTU5LjE=). This is a beta feature to avoid spam applicants. Companies can searc",
+      "tags": [
+        "crypto",
+        "dev",
+        "cloud",
+        "engineer",
+        "digital nomad"
+      ],
+      "verdict": "review",
+      "fit": 52,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
       "title": "Site Reliability Engineer (SRE)",
       "company": "Bright Vision Technologies",
       "location": "New Jersey",
@@ -502,22 +702,6 @@
       "fit": 52,
       "reasons": [
         "location unconfirmed — verify it's open to Africa"
-      ]
-    },
-    {
-      "title": "DevOps Engineer",
-      "company": "PSI CRO",
-      "location": "Latvia",
-      "url": "https://jobicy.com/jobs/145786-devops-engineer-3",
-      "source": "Jobicy",
-      "description": "Company DescriptionPSI is a leading Contract Research Organization (CRO) with 30 years of experience in the pharmaceutical industry. Originated in Switzerland, PSI is a privately owned, full-service CRO with a global reach, supporting clinical trials across multiple countries and continents. Our reputation for being highly selective about the projects we undertake highlights our commitment to&hellip;",
-      "tags": [
-        "devops &amp; infrastructure"
-      ],
-      "verdict": "review",
-      "fit": 52,
-      "reasons": [
-        "Latvia-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -897,6 +1081,36 @@
       ]
     },
     {
+      "title": "Senior DevOps Engineer",
+      "company": "ICF",
+      "location": "Virginia",
+      "url": "https://weworkremotely.com/remote-jobs/icf-senior-devops-engineer",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Nationwide Remote Office (US99) URL: http://icf.com The Company ICF is a mission-driven company filled with people who care deeply about improving the lives of others and making the world a better place. Our core values include Embracing Difference; we seek candidates who are passionate about building a culture that encourages, embraces, and hires dimensions of difference.&nbsp; &nbsp; Our Health Engineering Solutions team works side by side with customers to articulate a vision for success, and then make it happen. We know success doesn't happen by accident. It takes the right t",
+      "tags": [],
+      "verdict": "review",
+      "fit": 46,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Senior DevOps Engineer (Web3)",
+      "company": "Launch Legends",
+      "location": "Texas",
+      "url": "https://weworkremotely.com/remote-jobs/launch-legends-senior-devops-engineer-web3",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: [REMOTE] URL: http://launchlegends.io Shape the Future of Blockchain—Bringing Business On-Chain We’re offering a unique opportunity to join Launch Legends (and Autheo) as a part-time Equity Cofounder . Founded nearly four years ago, Launch Legends is at the forefront of bridging Web3 blockchain technology with the next evolution of Web2 integration—bringing businesses on-chain through enterprise-grade solutions, DePIN innovations, and decentralized financial infrastructure. Our flagship project, Autheo , is an AI enabled Layer-Zero OS with an integrated Layer-1&nbsp;blockchain&nb",
+      "tags": [],
+      "verdict": "review",
+      "fit": 46,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
       "title": "Sr. DevOps Engineer",
       "company": "Borrowell",
       "location": "Ontario",
@@ -1008,6 +1222,23 @@
       "fit": 46,
       "reasons": [
         "Costa rica-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Senior Technical Product Manager, Token Factory",
+      "company": "Nebius",
+      "location": "Europe, Netherlands, UK",
+      "url": "https://jobicy.com/jobs/149361-senior-technical-product-manager-token-factory",
+      "source": "Jobicy",
+      "description": "About Nebius: Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-house AI/ML infrastructure. Built by engineers, for engineers. From&hellip;",
+      "tags": [
+        "product &amp; operations"
+      ],
+      "verdict": "review",
+      "fit": 46,
+      "reasons": [
+        "Uk-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -1184,6 +1415,122 @@
       ]
     },
     {
+      "title": "TÃ©cnico De Estudos E Propostas",
+      "company": "Wikibuild S.A",
+      "location": "Lisboa,",
+      "url": "https://remoteOK.com/remote-jobs/remote-tecnico-de-estudos-e-propostas-wikibuild-s-a-1134929",
+      "source": "RemoteOK",
+      "description": "A Wikibuild S.A., Empresa De ReferÃªncia No Setor Da ConstruÃ§Ã£o Civil, Encontra-se a Recrutar Um (a) TÃ©cnico (a) De Estudos e Propostas.Responsabilidades â Elaborar propostas; â Elaborar documentaÃ§Ã£o tÃ©cnica; â Consultar fornecedores e subempreiteiros. Perfil ExperiÃªncia mÃ­nima de 5 anos na funÃ§Ã£o - preferencial; Perfil dinÃ¢micoe organizado; DomÃ­nio de ferramentas informÃ¡ticas: Microsoft Office, Project; CCS. Local De Trabalho Carnaxide â preferencial; Remoto â possibilidade. Se considera ter o perfil adequado para esta oportunidade envie, por favor, o seu CV atualizado ",
+      "tags": [
+        "mobile",
+        "engineer",
+        "exec",
+        "dev",
+        "junior",
+        "digital nomad",
+        "analyst",
+        "customer support",
+        "marketing",
+        "ops",
+        "excel",
+        "stats",
+        "sales",
+        "python",
+        "consulting",
+        "defi",
+        "react",
+        "react.js",
+        "technical",
+        "web dev",
+        "speech",
+        "javascript",
+        "finance",
+        "content writing",
+        "bus dev",
+        "medical",
+        "full time",
+        "part time",
+        "designer",
+        "design",
+        "amazon",
+        "cloud",
+        "git",
+        "microsoft",
+        "ecommerce",
+        "shopify",
+        "front end",
+        "docker",
+        "testing",
+        "typescript",
+        "node",
+        "node.js",
+        "senior"
+      ],
+      "verdict": "review",
+      "fit": 40,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
+      "title": "Software development Frontend Developer",
+      "company": "defdone",
+      "location": "PoznaÅ,",
+      "url": "https://remoteOK.com/remote-jobs/remote-software-developmentfrontend-developer-defdone-1134928",
+      "source": "RemoteOK",
+      "description": "Software development Back Frontend Developer Youâll work with international team on development and maintenance of the apps. We built most of our stuff using React + Redux and Node.js + Express. We prefer to use TypeScript when possible, but we believe if youâre good JavaScript developer there is nothing better than learn on the real project. We provide you time and materials to learn. Salary and seniority Junior 1+ years of experience 10-15k PLN NET Middle 3+ years of experience 15-25k PLN NET Senior 5+ years of experience 25-35k PLN NET Conditions Contract (permanent): B2B Client: 100% r",
+      "tags": [
+        "mobile",
+        "engineer",
+        "exec",
+        "dev",
+        "junior",
+        "digital nomad",
+        "analyst",
+        "customer support",
+        "marketing",
+        "ops",
+        "excel",
+        "stats",
+        "sales",
+        "python",
+        "consulting",
+        "defi",
+        "react",
+        "react.js",
+        "technical",
+        "web dev",
+        "speech",
+        "javascript",
+        "finance",
+        "content writing",
+        "bus dev",
+        "medical",
+        "full time",
+        "part time",
+        "designer",
+        "design",
+        "amazon",
+        "cloud",
+        "git",
+        "microsoft",
+        "ecommerce",
+        "shopify",
+        "front end",
+        "docker",
+        "testing",
+        "typescript",
+        "node",
+        "node.js",
+        "senior"
+      ],
+      "verdict": "review",
+      "fit": 40,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
       "title": "Enterprise Customer Success Manager",
       "company": "Datadog",
       "location": "Thailand",
@@ -1197,6 +1544,46 @@
       "fit": 40,
       "reasons": [
         "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
+      "title": "Tech Lead Full-Stack Rails Engineer",
+      "company": "Mitre Media",
+      "location": "USA, Canada, USA timezones",
+      "url": "https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746",
+      "source": "Remotive",
+      "description": "About Mitre Media Mitre Media is redefining FinTech with AI-driven tools that empower millions of investors. Our portfolio, including Dividend.com and MutualFunds.com, leverages LLMs to deliver novel data insights and visually rich user experiences. For over a decade, we’ve served individual investors, financial advisors, and top asset managers like BlackRock and Vanguard through our premium data, tools, and advertising solutions. Join our lean, entrepreneurial team to shape the future of AI-powered investing from your location ±3 hours from Eastern Time. Our users are deeply engaged, spending",
+      "tags": [
+        "api",
+        "css",
+        "docker",
+        "elasticsearch",
+        "fullstack",
+        "html",
+        "javascript",
+        "kubernetes",
+        "postgresql",
+        "react",
+        "ror",
+        "ruby/rails",
+        "ai/ml",
+        "cad",
+        "advertising",
+        "redis",
+        "es6",
+        "web applications",
+        "mysql",
+        "nlp",
+        "fintech",
+        "micro services",
+        "github",
+        "system architecture"
+      ],
+      "verdict": "review",
+      "fit": 38,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
     {
@@ -1265,6 +1652,24 @@
       ]
     },
     {
+      "title": "Data Labeling Specialists",
+      "company": "Workada",
+      "location": "USA",
+      "url": "https://remotive.com/remote-jobs/data/data-labeling-specialists-2090903",
+      "source": "Remotive",
+      "description": "Who We Are Workada creates high-quality labeled data for advanced technology systems. Our team reviews, organizes, categorizes, evaluates, and quality-checks digital content so those systems can better understand information and perform real-world tasks. We believe careful data work matters. Every reviewed item, categorized example, and quality-checked task helps improve how technology interprets information, follows instructions, and responds in practical settings. About You We're hiring detail-oriented individuals who are comfortable working on a computer and interested in careful, focused d",
+      "tags": [
+        "research",
+        "digital content",
+        "spreadsheets"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
       "title": "Sales Assistant",
       "company": "Endureed by Global Innovation",
       "location": "USA",
@@ -1282,6 +1687,57 @@
       "fit": 36,
       "reasons": [
         "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "Trabaja como canguro Ayuda con los deberes",
+      "company": "TUS Media",
+      "location": "MÃ¡laga, MÃ¡laga, AndalucÃ­a, EspaÃ±a",
+      "url": "https://remoteOK.com/remote-jobs/remote-trabaja-como-canguro-ayuda-con-los-deberes-tus-media-1134927",
+      "source": "RemoteOK",
+      "description": "Â¿Buscas una buena oportunidad para ganar ingresos extra este curso escolar? Â¿Te llevas bien con los niÃ±os y te gusta ayudarles con sus estudios? En Tusclasesparticulares , empresa lÃ­der en el sector educativo, estamos buscando niÃ±eras/canguros extraescolares para acompaÃ±ar a los niÃ±os despuÃ©s del colegio, ayudarles con los deberes y aprender jugando. Tareas Ayudar a los niÃ±os con sus deberes y actividades escolares. Supervisar y jugar con ellos mediante actividades educativas y recreativas. Requisitos Experiencia trabajando con niÃ±os (no imprescindible, pero valorada). MÃ¡xima respon",
+      "tags": [
+        "mobile",
+        "engineer",
+        "exec",
+        "dev",
+        "junior",
+        "digital nomad",
+        "analyst",
+        "customer support",
+        "marketing",
+        "ops",
+        "excel",
+        "stats",
+        "sales",
+        "python",
+        "consulting",
+        "defi",
+        "react",
+        "react.js",
+        "technical",
+        "web dev",
+        "speech",
+        "javascript",
+        "finance",
+        "content writing",
+        "bus dev",
+        "medical",
+        "full time",
+        "part time",
+        "designer",
+        "design",
+        "amazon",
+        "cloud",
+        "git",
+        "microsoft",
+        "ecommerce",
+        "shopify"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa"
       ]
     },
     {
@@ -1306,96 +1762,19 @@
       ]
     },
     {
-      "title": "Product Manager AI",
-      "company": "YipitData",
-      "location": "US Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-product-manager-ai-yipitdata-1134770",
-      "source": "RemoteOK",
-      "description": "About Us: YipitData is the leading market research and analytics firm for the disruptive economy and most recently raised $475M from The Carlyle Group at a valuation of over $1B. Every day, our proprietary technology analyzes billions of alternative data points to uncover actionable insights across sectors like software, AI, cloud, e-commerce, ridesharing, and payments. Our data and research teams transform raw data into strategic intelligence, delivering accurate, timely, and deeply contextualized analysis that our customersâranging from the worldâs top investment funds to Fortune 500 com",
+      "title": "Engineering Manager, Internal Developer Platform",
+      "company": "Chainguard",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/148144-engineering-manager-internal-developer-platform",
+      "source": "Jobicy",
+      "description": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. Our customers include Fortune 500 enterprises and global industry leaders, including Anduril, Canva, Fortinet, Hewlett Packard Enterprise, OpenAI, Snap&hellip;",
       "tags": [
-        "product manager",
-        "exec",
-        "dev",
-        "finance",
-        "cloud",
-        "stats",
-        "ecommerce",
-        "digital nomad"
+        "software engineering"
       ],
       "verdict": "review",
       "fit": 36,
       "reasons": [
-        "location unconfirmed — verify it's open to Africa"
-      ]
-    },
-    {
-      "title": "Administrative Data Entry File Clerk",
-      "company": "ReLytics Hires",
-      "location": "Alberta, Alberta, Canada",
-      "url": "https://remoteOK.com/remote-jobs/remote-administrative-data-entry-file-clerk-relytics-hires-1134761",
-      "source": "RemoteOK",
-      "description": "Dedicated to delivering exceptional service and maintaining organized business operations, our company is seeking a detail-oriented Administrative Data Entry File Clerk to join our team. If you excel at managing records, entering data accurately, and working independently in a remote environment, this opportunity may be the perfect fit for you. In this role, you will be responsible for maintaining digital files, updating databases, organizing administrative records, and ensuring information is entered accurately and efficiently. Your attention to detail, reliability, and commitment to data acc",
-      "tags": [
-        "virtual assistant",
-        "education",
-        "customer support",
-        "marketing",
-        "video",
-        "microsoft",
-        "exec",
-        "ops",
-        "excel",
-        "data entry",
-        "jira",
-        "hr",
-        "finance",
-        "cloud",
-        "admin",
-        "legal",
-        "sys admin"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Canada-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "The Role",
-      "company": "Artefacts / Asteria ART",
-      "location": "Indiana,",
-      "url": "https://remoteOK.com/remote-jobs/remote-the-role-artefacts-asteria-art-1134748",
-      "source": "RemoteOK",
-      "description": "Robotics Simulation Engineer By artefacts In jobs Artefacts is building a set of software tools for robotics software developers, facilitating Continuous Simulation in their workflow and tight integration with CI. We hope to help them take on the challenge of creating an advanced robotized world that will enable a more efficient and environmentally friendly society. We also believe that emerging AI techniques will dramatically change the way robotics software is built. The Role The role focuses on creating tools to help robotic engineers simulate and test their robots in rich and relevant virt",
-      "tags": [
-        "exec",
-        "strategy",
-        "customer support",
-        "testing",
-        "content writing",
-        "marketing",
-        "medical",
-        "social media",
-        "video",
-        "finance",
-        "photoshop",
-        "design",
-        "python",
-        "vfx",
-        "education",
-        "game dev",
-        "dev",
-        "c",
-        "c plus plus",
-        "cloud",
-        "robotics",
-        "engineer",
-        "digital nomad"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "location unconfirmed — verify it's open to Africa"
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -1543,19 +1922,19 @@
       ]
     },
     {
-      "title": "Field Marketing Manager - Nordics & Benelux",
-      "company": "Chainguard",
-      "location": "Denmark, Netherlands, Sweden",
-      "url": "https://jobicy.com/jobs/144916-field-marketing-manager-nordics-benelux",
+      "title": "Professional Services Engagement Manager",
+      "company": "Harness",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/147874-professional-services-engagement-manager",
       "source": "Jobicy",
-      "description": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. Our customers include Fortune 500 enterprises and global industry leaders, including Anduril, Canva, Fortinet, Hewlett Packard Enterprise, OpenAI, Snap&hellip;",
+      "description": "Harness is the AI Software Delivery Platform company, led by technologist and entrepreneur Jyoti Bansal (founder of AppDynamics, acquired by Cisco for $3.7B). Harness has raised approximately $570M in funding and is valued at $5.5B, backed by leading investors including Goldman Sachs, Menlo Ventures, IVP, Unusual Ventures, Citi Ventures, and more. As AI accelerates code&hellip;",
       "tags": [
-        "marketing &amp; sales"
+        "business development"
       ],
       "verdict": "review",
       "fit": 36,
       "reasons": [
-        "Netherlands-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -1572,29 +1951,6 @@
       "fit": 34,
       "reasons": [
         "Latam-tagged — verify it's open to Africa first",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Senior Independent AI Engineer / Architect",
-      "company": "A.Team",
-      "location": "Americas, Europe, Israel",
-      "url": "https://remotive.com/remote-jobs/software-development/senior-independent-ai-engineer-architect-1919266",
-      "source": "Remotive",
-      "description": "Senior Independent AI Engineer / Architect Remote | Americas, Europe, or Israel Most AI engineers can find work. Finding work worth doing is harder. A.Team is an invite-only network of senior AI engineers, ML engineers, and AI architects building production AI systems for startups, enterprises, and global companies. Since 2020, builders in the network have earned more than $200M working with companies including Lyft, Google X, HCA, Unilever, Sightful, D-ID, and others. The Work You'll join small teams solving real problems. Not demos. Not proof-of-concepts that never ship. Not another thin wra",
-      "tags": [
-        "go",
-        "ui/ux",
-        "wordpress",
-        "chat",
-        "apple",
-        "testing",
-        "catalyst"
-      ],
-      "verdict": "review",
-      "fit": 30,
-      "reasons": [
-        "Europe-tagged — verify it's open to Africa first",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -2155,27 +2511,6 @@
       ]
     },
     {
-      "title": "Senior Independent Software Developer",
-      "company": "A.Team",
-      "location": "Americas, Europe, Israel",
-      "url": "https://remotive.com/remote-jobs/software-development/senior-independent-software-developer-1919265",
-      "source": "Remotive",
-      "description": "You must be located in the Americas, Europe, or Israel to apply. A·Team is a VC-backed, stealth, application-only home on the internet for senior independent software builders to team up with hand-picked, high-growth companies on their next big thing. After talking with hundreds of independent engineers, designers, and product folks, we heard over and over that finding vetted, high-quality, consistent clients is hard, and projects are often too small to be rewarding. A·Team matches small teams of the most talented builders in the world with companies backed by a16z, YC, Softbank, General Catal",
-      "tags": [
-        "go",
-        "wordpress",
-        "chat",
-        "apple",
-        "testing",
-        "catalyst"
-      ],
-      "verdict": "blocked",
-      "fit": 0,
-      "reasons": [
-        "work-authorization wall (must be located in)"
-      ]
-    },
-    {
       "title": "Principal DevOps Engineer (Poland Remote)",
       "company": "Turnitin, LLC",
       "location": "Poland",
@@ -2198,22 +2533,6 @@
       "url": "https://jobicy.com/jobs/148200-principal-devops-engineer-2",
       "source": "Jobicy",
       "description": "Company DescriptionNBCUniversal is one of the world's leading media and entertainment companies. We create world-class content, which we distribute across our portfolio of film, television, and streaming, and bring to life through our global theme park destinations, consumer products, and experiences. We own and operate leading entertainment and news brands, including NBC, NBC News, NBC&hellip;",
-      "tags": [
-        "devops &amp; infrastructure"
-      ],
-      "verdict": "blocked",
-      "fit": 0,
-      "reasons": [
-        "Principal-level — usually 5–10+ yrs, you have ~4"
-      ]
-    },
-    {
-      "title": "Principal DevOps Engineer",
-      "company": "Zartis",
-      "location": "Europe",
-      "url": "https://jobicy.com/jobs/146762-principal-devops-engineer",
-      "source": "Jobicy",
-      "description": "The company and our mission: Zartis is a global AI transformation and technology consulting partner where talented engineers and technologists work on cutting-edge innovation. We partner with ambitious organizations to design, build, and scale technology solutions that deliver real impact. Our teams bring deep expertise in AI-driven platforms, secure API architectures, and cloud-native engineering. You&hellip;",
       "tags": [
         "devops &amp; infrastructure"
       ],
