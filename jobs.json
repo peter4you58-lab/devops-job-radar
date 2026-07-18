@@ -1,11 +1,11 @@
 {
-  "generated": "2026-07-17 07:50 UTC",
+  "generated": "2026-07-18 07:25 UTC",
   "count": 118,
   "summary": {
     "scanned": 118,
-    "eligible": 28,
-    "review": 70,
-    "blocked": 20
+    "eligible": 25,
+    "review": 71,
+    "blocked": 22
   },
   "jobs": [
     {
@@ -218,40 +218,6 @@
       ]
     },
     {
-      "title": "Frontend Developer",
-      "company": "Quinncia Inc",
-      "location": "Worldwide",
-      "url": "https://remotive.com/remote-jobs/software-development/frontend-developer-2090991",
-      "source": "Remotive",
-      "description": "(All applications will be considered ONLY through Wellfound. Please do not contact any employee of the company as no such contact/connection will be considered as an application for the job.) This posting is for a Frontend Developer, you would work alongside our team. We are a fully remote team so it does not matter which country or time zone you are in, as long as you are available from 10 AM to 1 PM (EST). We are NOT looking for part-time work, contractors, software development companies or consultants, so please only apply if you're looking for a full-time position. Quinncia is a career rea",
-      "tags": [
-        "css",
-        "docker",
-        "frontend",
-        "graphql",
-        "javascript",
-        "react js",
-        "ui/ux",
-        "video",
-        "ai/ml",
-        "computer vision",
-        "typescript",
-        "data visualization",
-        "nlp",
-        "testing",
-        "next.js",
-        "github",
-        "webpack",
-        "jest",
-        "rest"
-      ],
-      "verdict": "eligible",
-      "fit": 54,
-      "reasons": [
-        "remote — anywhere / global"
-      ]
-    },
-    {
       "title": "Client Success Coach (CSM)",
       "company": "Impact Clients",
       "location": "Northern America, Europe, South Africa",
@@ -267,36 +233,6 @@
         "onboarding",
         "spreadsheets",
         "gsuite"
-      ],
-      "verdict": "eligible",
-      "fit": 52,
-      "reasons": [
-        "explicitly open to Africa/Nigeria"
-      ]
-    },
-    {
-      "title": "Entry Level Administrative Professional Operations &amp; Office Support",
-      "company": "PULSE (MENA)",
-      "location": "ØªØ¨ÙÙ, ØªØ¨ÙÙ ØªØ¨ÙÙ Ø§ÙØ³Ø¹ÙØ¯ÙØ©",
-      "url": "https://remoteOK.com/remote-jobs/remote-entry-level-administrative-professional-operations-amp-office-support-pulse-mena-1134938",
-      "source": "RemoteOK",
-      "description": "About PULSE (MENA) PULSE (MENA) is a forward-thinking organization dedicated to delivering operational excellence and supporting innovation across the Middle East and North Africa. We value collaboration, efficiency, integrity, and continuous learning. Our remote-first culture empowers team members to contribute meaningfully while developing professionally in a supportive and inclusive environment. We are looking for a motivated, detail-oriented, and organized Entry-Level Administrative Professional to join our Operations team. This role is ideal for someone beginning their administrative care",
-      "tags": [
-        "education",
-        "technical",
-        "customer support",
-        "dev",
-        "marketing",
-        "travel",
-        "video",
-        "cloud",
-        "microsoft",
-        "exec",
-        "ops",
-        "excel",
-        "sys admin",
-        "internship",
-        "digital nomad"
       ],
       "verdict": "eligible",
       "fit": 52,
@@ -574,27 +510,6 @@
       ]
     },
     {
-      "title": "Senior Software Engineer, Platform (Full Stack)",
-      "company": "OEC",
-      "location": "Worldwide",
-      "url": "https://himalayas.app/companies/oec/jobs/senior-software-engineer-platform-full-stack",
-      "source": "Himalayas",
-      "description": "OEC provides software solutions to those who work in the automotive parts and repair industry. Our solutions make it easier for automotive industry professionals to buy and sell parts, conduct repair research &amp; planning, optimize estimates, improve the parts supply chain, and more. OEC partners with many of the world’s largest manufacturers, dealers and suppliers, shops and repairers, and service providers, giving our customers access to a comprehensive network and a streamlined workflow. We’re looking for a Senior Software Engineer to help shape and scale the core platform capabilities th",
-      "tags": [
-        "software-engineering",
-        "platform-engineering",
-        "backend-engineering",
-        "distributed-systems-engineering",
-        "fullstack-development"
-      ],
-      "verdict": "eligible",
-      "fit": 44,
-      "reasons": [
-        "remote — anywhere / global",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
       "title": "Engineer Sr, DevOps",
       "company": "Carnival Corporation",
       "location": "Florida",
@@ -606,6 +521,22 @@
       "fit": 56,
       "reasons": [
         "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
+      "title": "Technical Product Marketer, k0rdent AI - remote in the US",
+      "company": "Mirantis",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/146688-technical-product-marketer-k0rdent-ai-remote-in-the-us",
+      "source": "Jobicy",
+      "description": "Company DescriptionMirantis is the Kubernetes-native AI infrastructure company, enabling organizations to build and operate scalable, secure, and sovereign infrastructure for modern AI, machine learning, and data-intensive applications. By combining open source innovation with deep expertise in Kubernetes orchestration, Mirantis empowers platform engineering teams to deliver composable, production-ready developer platforms across any environment—on-premises, in the cloud,&hellip;",
+      "tags": [
+        "marketing &amp; sales"
+      ],
+      "verdict": "review",
+      "fit": 56,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -634,7 +565,7 @@
       "location": "Morristown,",
       "url": "https://remoteOK.com/remote-jobs/remote-publisher-newsletterjobs-io-1134898",
       "source": "RemoteOK",
-      "description": "Company Description Best Version Media provides small businesses with a multi-platform, micro-targeted approach to reaching a valuable audience through print and digital. We are hiring publishers across the US and Canada. I am focusing my efforts on Hunterdon, Morris, Sussex, Essex and Union counties in New Jersey. Please reach out if you're intrigued, or know someone else who might be! Please mention the word **RESPONSIVE** and tag RMjAuODEuMTU5LjE= when applying to show you read the job post completely (#RMjAuODEuMTU5LjE=). This is a beta feature to avoid spam applicants. Companies can searc",
+      "description": "Company Description Best Version Media provides small businesses with a multi-platform, micro-targeted approach to reaching a valuable audience through print and digital. We are hiring publishers across the US and Canada. I am focusing my efforts on Hunterdon, Morris, Sussex, Essex and Union counties in New Jersey. Please reach out if you're intrigued, or know someone else who might be! Please mention the word **RESPONSIVE** and tag RMTcyLjE4Mi4yMTEuMjA= when applying to show you read the job post completely (#RMTcyLjE4Mi4yMTEuMjA=). This is a beta feature to avoid spam applicants. Companies c",
       "tags": [
         "crypto",
         "dev",
@@ -1226,6 +1157,23 @@
       ]
     },
     {
+      "title": "Senior Site Reliability Engineer (Remote Build)",
+      "company": "Remote",
+      "location": "EMEA",
+      "url": "https://jobicy.com/jobs/146979-senior-site-reliability-engineer-remote-build",
+      "source": "Jobicy",
+      "description": "About Remote Remote is solving modern organizations’ biggest challenge – navigating global employment compliantly with ease. We make it possible for businesses of all sizes to recruit, pay, and manage international teams. With our core values at heart and future focused work culture, our team works tirelessly on ambitious problems, asynchronously, around the world. You&hellip;",
+      "tags": [
+        "devops &amp; infrastructure"
+      ],
+      "verdict": "review",
+      "fit": 46,
+      "reasons": [
+        "EMEA-tagged — verify it's open to Africa first",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
       "title": "Senior Technical Product Manager, Token Factory",
       "company": "Nebius",
       "location": "Europe, Netherlands, UK",
@@ -1311,23 +1259,6 @@
       ]
     },
     {
-      "title": "Senior Salesforce Administrator",
-      "company": "Trinetix",
-      "location": "Argentina",
-      "url": "https://jobicy.com/jobs/148732-senior-salesforce-administrator",
-      "source": "Jobicy",
-      "description": "We are seeking an experienced Senior Salesforce Administrator to support and enhance Salesforce environment. This role involves managing system configuration, ensuring smooth platform operations, and collaborating with stakeholders to deliver effective, scalable solutions. Requirements 5+ years of experience as a Salesforce Administrator Hands-on experience with Sales Cloud and Service Cloud Strong proficiency with Flows, Process Builder, and Approval Processes Proven ability to translate&hellip;",
-      "tags": [
-        "devops &amp; infrastructure"
-      ],
-      "verdict": "review",
-      "fit": 46,
-      "reasons": [
-        "Argentina-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
       "title": "Senior People Business Partner",
       "company": "Platform.sh",
       "location": "France",
@@ -1379,23 +1310,6 @@
       ]
     },
     {
-      "title": "Senior Site Reliability Engineer",
-      "company": "Akamai Technologies",
-      "location": "Poland",
-      "url": "https://jobicy.com/jobs/143565-senior-site-reliability-engineer-3",
-      "source": "Jobicy",
-      "description": "Are you passionate about cutting edge technology?Do solving some of the Internet's most difficult content delivery challenges interest you?Join our highly skilled Site Reliability teamOur team designs, develops, and manages applications and infrastructure that support Akamai's Compute products and services. We do this while maintaining Akamai's mission at the forefront of what we do. Make&hellip;",
-      "tags": [
-        "devops &amp; infrastructure"
-      ],
-      "verdict": "review",
-      "fit": 46,
-      "reasons": [
-        "Poland-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
       "title": "Communications Manager",
       "company": "Lemon.io",
       "location": "LATAM, Europe",
@@ -1421,64 +1335,6 @@
       "url": "https://remoteOK.com/remote-jobs/remote-tecnico-de-estudos-e-propostas-wikibuild-s-a-1134929",
       "source": "RemoteOK",
       "description": "A Wikibuild S.A., Empresa De ReferÃªncia No Setor Da ConstruÃ§Ã£o Civil, Encontra-se a Recrutar Um (a) TÃ©cnico (a) De Estudos e Propostas.Responsabilidades â Elaborar propostas; â Elaborar documentaÃ§Ã£o tÃ©cnica; â Consultar fornecedores e subempreiteiros. Perfil ExperiÃªncia mÃ­nima de 5 anos na funÃ§Ã£o - preferencial; Perfil dinÃ¢micoe organizado; DomÃ­nio de ferramentas informÃ¡ticas: Microsoft Office, Project; CCS. Local De Trabalho Carnaxide â preferencial; Remoto â possibilidade. Se considera ter o perfil adequado para esta oportunidade envie, por favor, o seu CV atualizado ",
-      "tags": [
-        "mobile",
-        "engineer",
-        "exec",
-        "dev",
-        "junior",
-        "digital nomad",
-        "analyst",
-        "customer support",
-        "marketing",
-        "ops",
-        "excel",
-        "stats",
-        "sales",
-        "python",
-        "consulting",
-        "defi",
-        "react",
-        "react.js",
-        "technical",
-        "web dev",
-        "speech",
-        "javascript",
-        "finance",
-        "content writing",
-        "bus dev",
-        "medical",
-        "full time",
-        "part time",
-        "designer",
-        "design",
-        "amazon",
-        "cloud",
-        "git",
-        "microsoft",
-        "ecommerce",
-        "shopify",
-        "front end",
-        "docker",
-        "testing",
-        "typescript",
-        "node",
-        "node.js",
-        "senior"
-      ],
-      "verdict": "review",
-      "fit": 40,
-      "reasons": [
-        "location unconfirmed — verify it's open to Africa"
-      ]
-    },
-    {
-      "title": "Software development Frontend Developer",
-      "company": "defdone",
-      "location": "PoznaÅ,",
-      "url": "https://remoteOK.com/remote-jobs/remote-software-developmentfrontend-developer-defdone-1134928",
-      "source": "RemoteOK",
-      "description": "Software development Back Frontend Developer Youâll work with international team on development and maintenance of the apps. We built most of our stuff using React + Redux and Node.js + Express. We prefer to use TypeScript when possible, but we believe if youâre good JavaScript developer there is nothing better than learn on the real project. We provide you time and materials to learn. Salary and seniority Junior 1+ years of experience 10-15k PLN NET Middle 3+ years of experience 15-25k PLN NET Senior 5+ years of experience 25-35k PLN NET Conditions Contract (permanent): B2B Client: 100% r",
       "tags": [
         "mobile",
         "engineer",
@@ -1690,6 +1546,70 @@
       ]
     },
     {
+      "title": "Creative Strategist",
+      "company": "New Engen",
+      "location": "Los Angeles, Los Angeles, California, United States",
+      "url": "https://remoteOK.com/remote-jobs/remote-creative-strategist-new-engen-1134990",
+      "source": "RemoteOK",
+      "description": "WHY DONUT STUDIOS? At New Engen, we help brands grow, not just bigger, but smarter. Weâre a digital marketing agency that drives meaningful impact across the entire customer journey by integrating media, creative, analytics, influencer, and retail strategies into performance-driven campaigns. Donut Studios is our in-house creative studio, purpose-built to craft high-performing, platform-native, and digital content for the worldâs most ambitious brands. As a key part of New Engenâs suite of specialized solutions, alongside offerings like the Acorn Creator Suite - Donut Studios helps unloc",
+      "tags": [
+        "part time",
+        "hr",
+        "medical",
+        "exec",
+        "design",
+        "salesforce",
+        "customer support",
+        "dev",
+        "copywriting",
+        "testing",
+        "travel",
+        "speech",
+        "video",
+        "content writing",
+        "marketing",
+        "stats",
+        "sales",
+        "social media",
+        "digital nomad",
+        "recruiter",
+        "finance",
+        "microsoft",
+        "excel",
+        "education",
+        "art direction",
+        "ops",
+        "full time",
+        "sys admin",
+        "wordpress",
+        "teaching",
+        "web dev",
+        "javascript",
+        "c",
+        "css",
+        "html",
+        "drupal",
+        "seo",
+        "ads",
+        "mobile",
+        "legal",
+        "saas",
+        "amazon",
+        "infosec",
+        "music",
+        "consulting",
+        "technical",
+        "strategy",
+        "cloud",
+        "senior"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "United states-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
       "title": "Trabaja como canguro Ayuda con los deberes",
       "company": "TUS Media",
       "location": "MÃ¡laga, MÃ¡laga, AndalucÃ­a, EspaÃ±a",
@@ -1741,24 +1661,53 @@
       ]
     },
     {
-      "title": "Sales Executive",
-      "company": "Unilever",
-      "location": "Navi Mumbai, Navi Mumbai, Maharashtra, India",
-      "url": "https://remoteOK.com/remote-jobs/remote-sales-executive-unilever-1134845",
+      "title": "Department Supervisor SAANICH",
+      "company": "The Home Depot Canada",
+      "location": "Saanich,",
+      "url": "https://remoteOK.com/remote-jobs/remote-department-supervisor-saanich-the-home-depot-canada-1134992",
       "source": "RemoteOK",
-      "description": "Key Accounts Executive (HoReCa Sales) â West Region Position: Key Accounts Executive â HoReCa Sales Location: Mumbai (India HQ) Region: West India Reporting To: National Key Accounts Manager â HoReCa Role Purpose The Key Accounts Executive will be responsible for managing and growing strategic HoReCa (Hotels, Restaurants, CafÃ©s/Catering) accounts across the West region. The role focuses on driving sales, expanding product penetration, strengthening customer relationships, and ensuring profitable business growth with key hospitality customers. Key Responsibilities Manage and develop key ",
+      "description": "Pay Range: $23.60 - $25.85 Are you someone who thrives on helping others succeed, enjoys making an impact, and takes pride in guiding customers to the right solutions for their projects? If youâre also naturally curious and eager to keep learning, consider starting or growing your career with us at The Home Depot. Please mention the word **SATISIFIED** and tag RMTcyLjE4Mi4yMTEuMjA= when applying to show you read the job post completely (#RMTcyLjE4Mi4yMTEuMjA=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're ",
       "tags": [
-        "sys admin",
-        "marketing",
-        "travel",
-        "exec",
+        "infosec",
         "cloud",
-        "sales"
+        "supervisor"
       ],
       "verdict": "review",
       "fit": 36,
       "reasons": [
         "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
+      "title": "Sales Engineer (Application Security)",
+      "company": "Thales",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/146550-sales-engineer-application-security",
+      "source": "Jobicy",
+      "description": "Location: Texas, United States of AmericaThales people architect identity management and data protection solutions at the heart of digital security. Business and governments rely on us to bring trust to the billions of digital interactions they have with people. Our technologies and services help banks exchange funds, people cross borders, energy become smarter and much&hellip;",
+      "tags": [
+        "business development"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "Salesforce Developer",
+      "company": "dentsu",
+      "location": "Spain",
+      "url": "https://jobicy.com/jobs/146848-salesforce-developer-2",
+      "source": "Jobicy",
+      "description": "Job Description:Omega CRM is a Merkle &amp; Dentsu company, leader in development of Customer Experience services, with +20 years of experience in the use of Technology applied to Marketing and providing a unique Customer Relationship with mainly focus on Innovation is looking for a Salesforce Developer.Main responsabilities:Develop software according to user requirements, functional and technical&hellip;",
+      "tags": [
+        "software engineering"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "Spain-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -1842,22 +1791,6 @@
       ]
     },
     {
-      "title": "Customer Success Engineer",
-      "company": "Tailscale",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/149066-customer-success-engineer-3",
-      "source": "Jobicy",
-      "description": "About Tailscale Tailscale is building the new Internet by delivering software that makes it easy to securely interconnect people and their devices, no matter where they are. From hobbyists to multinational corporations, teams of every size use Tailscale each day to protect their networks, share access to internal tools, and more. We're building a future&hellip;",
-      "tags": [
-        "customer success"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
       "title": "Software Development Engineer in Test",
       "company": "Sporty Group",
       "location": "EMEA",
@@ -1922,22 +1855,6 @@
       ]
     },
     {
-      "title": "Professional Services Engagement Manager",
-      "company": "Harness",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/147874-professional-services-engagement-manager",
-      "source": "Jobicy",
-      "description": "Harness is the AI Software Delivery Platform company, led by technologist and entrepreneur Jyoti Bansal (founder of AppDynamics, acquired by Cisco for $3.7B). Harness has raised approximately $570M in funding and is valued at $5.5B, backed by leading investors including Goldman Sachs, Menlo Ventures, IVP, Unusual Ventures, Citi Ventures, and more. As AI accelerates code&hellip;",
-      "tags": [
-        "business development"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
       "title": "Sr. Machine Learning Solutions Architect",
       "company": "phData",
       "location": "LATAM",
@@ -1951,6 +1868,46 @@
       "fit": 34,
       "reasons": [
         "Latam-tagged — verify it's open to Africa first",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Senior Independent AI Engineer / Architect",
+      "company": "A.Team",
+      "location": "Americas, Europe, Israel",
+      "url": "https://remotive.com/remote-jobs/software-development/senior-independent-ai-engineer-architect-1919266",
+      "source": "Remotive",
+      "description": "Senior Independent AI Engineer / Architect Remote | Americas, Europe, or Israel Most AI engineers can find work. Finding work worth doing is harder. A.Team is an invite-only network of senior AI engineers, ML engineers, and AI architects building production AI systems for startups, enterprises, and global companies. Since 2020, builders in the network have earned more than $200M working with companies including Lyft, Google X, HCA, Unilever, Sightful, D-ID, and others. The Work You'll join small teams solving real problems. Not demos. Not proof-of-concepts that never ship. Not another thin wra",
+      "tags": [
+        "go",
+        "ui/ux",
+        "wordpress",
+        "chat",
+        "apple",
+        "testing",
+        "catalyst"
+      ],
+      "verdict": "review",
+      "fit": 30,
+      "reasons": [
+        "Europe-tagged — verify it's open to Africa first",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Senior QA Automation Engineer",
+      "company": "Zartis",
+      "location": "Europe",
+      "url": "https://jobicy.com/jobs/146790-senior-qa-automation-engineer-3",
+      "source": "Jobicy",
+      "description": "The company and our mission: Zartis is a global AI transformation and technology consulting partner where talented engineers and technologists work on cutting edge innovation. We partner with ambitious organizations to design, build, and scale technology solutions that deliver real impact. Our teams bring deep expertise in AI driven platforms, secure API architectures, and cloud&hellip;",
+      "tags": [
+        "qa &amp; testing"
+      ],
+      "verdict": "review",
+      "fit": 30,
+      "reasons": [
+        "Europe-tagged — verify it's open to Africa first",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -2074,20 +2031,38 @@
       ]
     },
     {
-      "title": "Senior Manager, Customer Success Management - Enterprise/EMEA",
-      "company": "Chainguard",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/144672-senior-manager-customer-success-management-enterprise-emea",
-      "source": "Jobicy",
-      "description": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. Our customers include Fortune 500 enterprises and global industry leaders, including Anduril, Canva, Fortinet, Hewlett Packard Enterprise, OpenAI, Snap&hellip;",
+      "title": "Senior Independent Software Developer",
+      "company": "A.Team",
+      "location": "Americas, Europe, Israel",
+      "url": "https://remotive.com/remote-jobs/software-development/senior-independent-software-developer-1919265",
+      "source": "Remotive",
+      "description": "You must be located in the Americas, Europe, or Israel to apply. A·Team is a VC-backed, stealth, application-only home on the internet for senior independent software builders to team up with hand-picked, high-growth companies on their next big thing. After talking with hundreds of independent engineers, designers, and product folks, we heard over and over that finding vetted, high-quality, consistent clients is hard, and projects are often too small to be rewarding. A·Team matches small teams of the most talented builders in the world with companies backed by a16z, YC, Softbank, General Catal",
       "tags": [
-        "customer success"
+        "go",
+        "wordpress",
+        "chat",
+        "apple",
+        "testing",
+        "catalyst"
       ],
-      "verdict": "review",
-      "fit": 30,
+      "verdict": "blocked",
+      "fit": 0,
       "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
+        "work-authorization wall (must be located in)"
+      ]
+    },
+    {
+      "title": "Head of Marketing & Communications",
+      "company": "garden3d",
+      "location": "Worldwide",
+      "url": "https://remotive.com/remote-jobs/marketing/head-of-marketing-communications-2091068",
+      "source": "Remotive",
+      "description": "We are hiring a Head of Marketing &amp; Communications to tell the garden3d story across the internet, from wherever in the world you happen to be. More details if you check our original job posting link About garden3d We are worker owned creative collective, innovating on everything from brands and IRL communities to IoT devices and cross platform apps. We share profit, open source everything, spin out new businesses, and invest in exciting ideas through financial and/or in-kind contributions. Our client roster includes Google , Stripe , Figma , Hinge , Black Socialists in America , ACLU , Pr",
+      "tags": [],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Head of-level — usually 5–10+ yrs, you have ~4"
       ]
     },
     {
