@@ -1,10 +1,10 @@
 {
-  "generated": "2026-07-18 07:25 UTC",
-  "count": 118,
+  "generated": "2026-07-19 07:56 UTC",
+  "count": 113,
   "summary": {
-    "scanned": 118,
-    "eligible": 25,
-    "review": 71,
+    "scanned": 113,
+    "eligible": 21,
+    "review": 70,
     "blocked": 22
   },
   "jobs": [
@@ -89,20 +89,6 @@
       ]
     },
     {
-      "title": "DevOps Engineer",
-      "company": "AssureSoft",
-      "location": "Anywhere in the World",
-      "url": "https://weworkremotely.com/remote-jobs/assuresoft-devops-engineer",
-      "source": "WeWorkRemotely",
-      "description": "Headquarters: LATAM URL: http://assuresoft.com The key to our success is simple; we deliver the highest quality, on time, with passion and commitment, and live every day by a set of great values. We've built a company that fosters long-term careers in an environment of continuous learning, with cutting-edge benefits, tools, and resources. In addition, certifications that endorse our company as a great place to work. &nbsp; Responsibilities Support cloud infrastructure initiatives with AWS as the primary platform.&nbsp; Work across multi-cloud environments, including GCP as a secondary priority",
-      "tags": [],
-      "verdict": "eligible",
-      "fit": 70,
-      "reasons": [
-        "remote — anywhere / global"
-      ]
-    },
-    {
       "title": "DevOps Engineer III",
       "company": "Avalon Administrative Services",
       "location": "Anywhere in the World",
@@ -137,34 +123,6 @@
       "url": "https://weworkremotely.com/remote-jobs/io-global-devops-engineer-midnight-foundation",
       "source": "WeWorkRemotely",
       "description": "Headquarters: India URL: http://iohk.io Description DevOps Engineer | Midnight Foundation Location: This is a full-time remote role for candidates based in Asia, with 1–2 hours of daily overlap required with US or EU time zones. Schedule: Flexible (Sunday–Thursday or Tuesday–Saturday) Work Schedule The Role You are ready to apply best practices for monitoring, observability, security, and infrastructure automation to expand the multi-cloud and bare metal platforms powering our Cardano and Midnight deployments. The ideal candidate is passionate about blockchain, privacy, and disrupting the stat",
-      "tags": [],
-      "verdict": "eligible",
-      "fit": 66,
-      "reasons": [
-        "remote — anywhere / global"
-      ]
-    },
-    {
-      "title": "DevOps Engineer",
-      "company": "Aura",
-      "location": "Anywhere in the World",
-      "url": "https://weworkremotely.com/remote-jobs/aura-devops-engineer",
-      "source": "WeWorkRemotely",
-      "description": "Headquarters: Remote Poland URL: http://aura.com Aura is on a mission to create a safer internet.&nbsp; In a world where our lives are increasingly online, Aura's category-defining suite of intelligent digital safety products help millions of customers protect themselves against digital threats, and that number is growing rapidly.&nbsp; This is an exciting phase at Aura, and our team of over 400 people worldwide is guided by a leadership slate that's successfully grown startups into multi-billion dollar organizations.&nbsp; Come build with us! DevOps Engineer About the Role: We are looking for",
-      "tags": [],
-      "verdict": "eligible",
-      "fit": 66,
-      "reasons": [
-        "remote — anywhere / global"
-      ]
-    },
-    {
-      "title": "DevOps Engineer Mobile",
-      "company": "Air Apps",
-      "location": "Amsterdam",
-      "url": "https://weworkremotely.com/remote-jobs/air-apps-devops-engineer-mobile",
-      "source": "WeWorkRemotely",
-      "description": "Headquarters: Amsterdam URL: http://airapps.com About Air Apps At Air Apps, we believe in thinking bigger and moving faster. We’re a family-founded company on a mission to create the world’s first AI-powered Personal &amp; Entrepreneurial Resource Planner (PRP), and we need your passion and ambition to help us change how people plan, work, and live. Born in Lisbon, Portugal in 2018 and now with offices in both Lisbon and San Francisco, we’ve remained self-funded while reaching over 100 million downloads worldwide. Our long-term focus drives us to challenge the status quo every day, pushing the",
       "tags": [],
       "verdict": "eligible",
       "fit": 66,
@@ -374,20 +332,6 @@
       ]
     },
     {
-      "title": "Sales Engineer (Remote, US Based)",
-      "company": "Liquibase",
-      "location": "Anywhere in the World",
-      "url": "https://weworkremotely.com/remote-jobs/liquibase-sales-engineer-remote-us-based",
-      "source": "WeWorkRemotely",
-      "description": "Headquarters: Remote URL: http://liquibase.com Overview Liquibase is the leader in the database release automation segment of the more broadly defined DevSecOps market. Downloaded more than 100 million times, the open-source software enables DevSecOps teams around the globe to accelerate the software delivery process by automating database updates.&nbsp; At Liquibase, you can expect to revel in high growth across the board — in the number of customers we support, in the experiments we run, in the scope and complexity of our technical projects, and the list goes on. Liquibase is hiring a Sales ",
-      "tags": [],
-      "verdict": "eligible",
-      "fit": 50,
-      "reasons": [
-        "remote — anywhere / global"
-      ]
-    },
-    {
       "title": "Mac MSP Help Desk Guru (work from home)",
       "company": "Ignition, Inc.",
       "location": "Anywhere in the World",
@@ -565,7 +509,7 @@
       "location": "Morristown,",
       "url": "https://remoteOK.com/remote-jobs/remote-publisher-newsletterjobs-io-1134898",
       "source": "RemoteOK",
-      "description": "Company Description Best Version Media provides small businesses with a multi-platform, micro-targeted approach to reaching a valuable audience through print and digital. We are hiring publishers across the US and Canada. I am focusing my efforts on Hunterdon, Morris, Sussex, Essex and Union counties in New Jersey. Please reach out if you're intrigued, or know someone else who might be! Please mention the word **RESPONSIVE** and tag RMTcyLjE4Mi4yMTEuMjA= when applying to show you read the job post completely (#RMTcyLjE4Mi4yMTEuMjA=). This is a beta feature to avoid spam applicants. Companies c",
+      "description": "Company Description Best Version Media provides small businesses with a multi-platform, micro-targeted approach to reaching a valuable audience through print and digital. We are hiring publishers across the US and Canada. I am focusing my efforts on Hunterdon, Morris, Sussex, Essex and Union counties in New Jersey. Please reach out if you're intrigued, or know someone else who might be! Please mention the word **RESPONSIVE** and tag RNjguMjIwLjU4LjE1MQ== when applying to show you read the job post completely (#RNjguMjIwLjU4LjE1MQ==). This is a beta feature to avoid spam applicants. Companies c",
       "tags": [
         "crypto",
         "dev",
@@ -614,20 +558,6 @@
       "url": "https://weworkremotely.com/remote-jobs/bright-vision-technologies-site-reliability-engineer-sre",
       "source": "WeWorkRemotely",
       "description": "Headquarters: Remote URL: http://bvteck.com Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions that help businesses automate and optimize their operations. We leverage cutting-edge technologies to create scalable, secure, and user-friendly applications. As we continue to grow, we’re looking for a skilled Site Reliability Engineer (SRE) to join our dynamic team and contribute to our mission of transforming business processes through technology. This is a fantastic opportunity to join an established and well-respected organiza",
-      "tags": [],
-      "verdict": "review",
-      "fit": 52,
-      "reasons": [
-        "location unconfirmed — verify it's open to Africa"
-      ]
-    },
-    {
-      "title": "581321 DevOps Engineer Testing (all genders)",
-      "company": "Philips Deutschland",
-      "location": "BADEN_WUERTTEMBERG",
-      "url": "https://weworkremotely.com/remote-jobs/philips-deutschland-581321-devops-engineer-testing-all-genders",
-      "source": "WeWorkRemotely",
-      "description": "Headquarters: Böblingen, BADEN_WUERTTEMBERG, 71034, Germany URL: http://philips.com **In dieser Rolle hast du die Chance**, die Software‑Verifikation der Philips Patientenmonitor‑Plattform aktiv mitzugestalten und kontinuierlich zu verbessern. Du arbeitest eng mit globalen Teams aus Software‑ und Hardware‑Verifikation, Softwareentwicklung, Systems Engineering und Quality Engineering zusammen und leistest damit einen direkten Beitrag zu Qualität, Patientensicherheit und regulatorischer Compliance. **Dein Job:** - Konzeption und Weiterentwicklung der Tool‑Landschaft für das Software‑Testengineer",
       "tags": [],
       "verdict": "review",
       "fit": 52,
@@ -1012,6 +942,43 @@
       ]
     },
     {
+      "title": "Senior Product Manager Platform",
+      "company": "Delinea",
+      "location": "Redwood City",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-product-manager-platform-delinea-1134961",
+      "source": "RemoteOK",
+      "description": "About Delinea: Delinea is a pioneer in securing human and machine identities through intelligent, centralized authorization, empowering organizations to seamlessly govern their interactions across the modern enterprise. Leveraging AI-powered intelligence, Delineaâs leading cloud-native Identity Security Platform applies context throughout the entire identity lifecycle â across cloud and traditional infrastructure, data, SaaS applications, and AI. It is the only platform that enables you to discover all identities â including workforce, IT administrator, developers, and machines â assig",
+      "tags": [
+        "product manager",
+        "exec",
+        "design",
+        "saas",
+        "infosec",
+        "vfx",
+        "customer support",
+        "dev",
+        "travel",
+        "scrum",
+        "education",
+        "finance",
+        "cloud",
+        "api",
+        "admin",
+        "senior",
+        "ops",
+        "marketing",
+        "medical",
+        "engineer",
+        "digital nomad"
+      ],
+      "verdict": "review",
+      "fit": 46,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
       "title": "Senior DevOps Engineer",
       "company": "ICF",
       "location": "Virginia",
@@ -1329,64 +1296,6 @@
       ]
     },
     {
-      "title": "TÃ©cnico De Estudos E Propostas",
-      "company": "Wikibuild S.A",
-      "location": "Lisboa,",
-      "url": "https://remoteOK.com/remote-jobs/remote-tecnico-de-estudos-e-propostas-wikibuild-s-a-1134929",
-      "source": "RemoteOK",
-      "description": "A Wikibuild S.A., Empresa De ReferÃªncia No Setor Da ConstruÃ§Ã£o Civil, Encontra-se a Recrutar Um (a) TÃ©cnico (a) De Estudos e Propostas.Responsabilidades â Elaborar propostas; â Elaborar documentaÃ§Ã£o tÃ©cnica; â Consultar fornecedores e subempreiteiros. Perfil ExperiÃªncia mÃ­nima de 5 anos na funÃ§Ã£o - preferencial; Perfil dinÃ¢micoe organizado; DomÃ­nio de ferramentas informÃ¡ticas: Microsoft Office, Project; CCS. Local De Trabalho Carnaxide â preferencial; Remoto â possibilidade. Se considera ter o perfil adequado para esta oportunidade envie, por favor, o seu CV atualizado ",
-      "tags": [
-        "mobile",
-        "engineer",
-        "exec",
-        "dev",
-        "junior",
-        "digital nomad",
-        "analyst",
-        "customer support",
-        "marketing",
-        "ops",
-        "excel",
-        "stats",
-        "sales",
-        "python",
-        "consulting",
-        "defi",
-        "react",
-        "react.js",
-        "technical",
-        "web dev",
-        "speech",
-        "javascript",
-        "finance",
-        "content writing",
-        "bus dev",
-        "medical",
-        "full time",
-        "part time",
-        "designer",
-        "design",
-        "amazon",
-        "cloud",
-        "git",
-        "microsoft",
-        "ecommerce",
-        "shopify",
-        "front end",
-        "docker",
-        "testing",
-        "typescript",
-        "node",
-        "node.js",
-        "senior"
-      ],
-      "verdict": "review",
-      "fit": 40,
-      "reasons": [
-        "location unconfirmed — verify it's open to Africa"
-      ]
-    },
-    {
       "title": "Enterprise Customer Success Manager",
       "company": "Datadog",
       "location": "Thailand",
@@ -1440,6 +1349,23 @@
       "reasons": [
         "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
         "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Patient Care Specialist",
+      "company": "STATLINX",
+      "location": "USA",
+      "url": "https://remotive.com/remote-jobs/medical/patient-care-specialist-2091069",
+      "source": "Remotive",
+      "description": "This position will involve answering inbound calls for large hospital networks during our daytime shifts in a remote call center setting. Our company provides telephone answering, messaging, and alert services to physicians and medical facilities across the United States. If you are a self-motivated team player looking to build a career from the comfort of your own home, we might be the team you are looking for! You must live within the continental United States (+ Hawaii) to apply. We currently have full-time opportunities available. ALL SHIFTS ARE IN EASTERN STANDARD TIME (EST) Shift Availab",
+      "tags": [
+        "research",
+        "insurance"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -1607,75 +1533,6 @@
       "fit": 36,
       "reasons": [
         "United states-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Trabaja como canguro Ayuda con los deberes",
-      "company": "TUS Media",
-      "location": "MÃ¡laga, MÃ¡laga, AndalucÃ­a, EspaÃ±a",
-      "url": "https://remoteOK.com/remote-jobs/remote-trabaja-como-canguro-ayuda-con-los-deberes-tus-media-1134927",
-      "source": "RemoteOK",
-      "description": "Â¿Buscas una buena oportunidad para ganar ingresos extra este curso escolar? Â¿Te llevas bien con los niÃ±os y te gusta ayudarles con sus estudios? En Tusclasesparticulares , empresa lÃ­der en el sector educativo, estamos buscando niÃ±eras/canguros extraescolares para acompaÃ±ar a los niÃ±os despuÃ©s del colegio, ayudarles con los deberes y aprender jugando. Tareas Ayudar a los niÃ±os con sus deberes y actividades escolares. Supervisar y jugar con ellos mediante actividades educativas y recreativas. Requisitos Experiencia trabajando con niÃ±os (no imprescindible, pero valorada). MÃ¡xima respon",
-      "tags": [
-        "mobile",
-        "engineer",
-        "exec",
-        "dev",
-        "junior",
-        "digital nomad",
-        "analyst",
-        "customer support",
-        "marketing",
-        "ops",
-        "excel",
-        "stats",
-        "sales",
-        "python",
-        "consulting",
-        "defi",
-        "react",
-        "react.js",
-        "technical",
-        "web dev",
-        "speech",
-        "javascript",
-        "finance",
-        "content writing",
-        "bus dev",
-        "medical",
-        "full time",
-        "part time",
-        "designer",
-        "design",
-        "amazon",
-        "cloud",
-        "git",
-        "microsoft",
-        "ecommerce",
-        "shopify"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "location unconfirmed — verify it's open to Africa"
-      ]
-    },
-    {
-      "title": "Department Supervisor SAANICH",
-      "company": "The Home Depot Canada",
-      "location": "Saanich,",
-      "url": "https://remoteOK.com/remote-jobs/remote-department-supervisor-saanich-the-home-depot-canada-1134992",
-      "source": "RemoteOK",
-      "description": "Pay Range: $23.60 - $25.85 Are you someone who thrives on helping others succeed, enjoys making an impact, and takes pride in guiding customers to the right solutions for their projects? If youâre also naturally curious and eager to keep learning, consider starting or growing your career with us at The Home Depot. Please mention the word **SATISIFIED** and tag RMTcyLjE4Mi4yMTEuMjA= when applying to show you read the job post completely (#RMTcyLjE4Mi4yMTEuMjA=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're ",
-      "tags": [
-        "infosec",
-        "cloud",
-        "supervisor"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "location unconfirmed — verify it's open to Africa"
       ]
     },
     {
@@ -2027,6 +1884,34 @@
       "fit": 30,
       "reasons": [
         "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Senior Software Engineer - Cloud Partner Integrations",
+      "company": "name",
+      "location": "Germany",
+      "url": "https://himalayas.app/companies/clickhouse/jobs/senior-software-engineer-cloud-partner-integrations-2275114102",
+      "source": "Himalayas",
+      "description": "About ClickHouse Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 3,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real-time analytics, data warehousing, observability, and AI workloads. The company’s sustained, accelerating momentum was recently validated by a $400M Series D financing round. Over the past three months, customers including Capital One, Lovable, Decagon, Polymarket, and Airwallex have adopted the platform or expanded existing deplo",
+      "tags": [
+        "integrations-engineering",
+        "backend-engineering",
+        "cloud-integration",
+        "software-engineering",
+        "partner-integration",
+        "senior-cloud-integration-engineer",
+        "senior-integrations-engineer",
+        "partner-integrations-engineer",
+        "senior-integration-software-engineer",
+        "senior-cloud-software-engineer",
+        "senior-integration-engineer",
+        "senior-cloud-platform-engineer"
+      ],
+      "verdict": "review",
+      "fit": 30,
+      "reasons": [
+        "Germany-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
