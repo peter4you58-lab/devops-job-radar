@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-19 07:56 UTC",
-  "count": 113,
+  "generated": "2026-07-20 08:36 UTC",
+  "count": 114,
   "summary": {
-    "scanned": 113,
-    "eligible": 21,
+    "scanned": 114,
+    "eligible": 22,
     "review": 70,
     "blocked": 22
   },
@@ -86,6 +86,30 @@
       "fit": 74,
       "reasons": [
         "remote — anywhere / global"
+      ]
+    },
+    {
+      "title": "DevOps Engineer",
+      "company": "name",
+      "location": "Kenya",
+      "url": "https://himalayas.app/companies/openfn/jobs/devops-engineer-8504092648",
+      "source": "Himalayas",
+      "description": "Type : Full-time contractor (hours negotiable) Location : Remote - Africa/Europe time zones (strong preference for candidates based in Africa) OpenFn is the digital public good for public service automation &amp; AI orchestration. Our platform automates data exchange and digital workflows so that governments and NGOs can deliver public services more efficiently, achieve interoperability across fragmented systems, and scale critical public services across health, humanitarian, and government programs. Our team, Open Function Group , the primary steward of this open-source platform, is a lean, f",
+      "tags": [
+        "devops-engineer",
+        "infrastructure-engineering",
+        "site-reliability-engineering",
+        "cloud-engineer",
+        "platform-engineering",
+        "devops-software-engineer",
+        "cloud-devops-engineer",
+        "devops-automation-engineer",
+        "lead-devops-engineer"
+      ],
+      "verdict": "eligible",
+      "fit": 68,
+      "reasons": [
+        "explicitly open to Africa/Nigeria"
       ]
     },
     {
@@ -484,46 +508,6 @@
       ]
     },
     {
-      "title": "Create Your Own Role",
-      "company": "NewsletterJobs.io",
-      "location": "Pittsburgh,",
-      "url": "https://remoteOK.com/remote-jobs/remote-create-your-own-role-newsletterjobs-io-1134897",
-      "source": "RemoteOK",
-      "description": "Who We Are ðProduct: TLDR is the largest network of tech newsletters in the world, with over 7M subscribers covering everything from startups and software engineering to AI, cybersecurity, product, and more. Every issue is written by builders in tech. Both TLDR Crypto writers both work at Coinbase, TLDR Dev is written by engineers from DeepMind and Meta, TLDR AI is written by researchers from Anthropic and Adobe. Thatâs why TLDR is the best way to stay current on what truly matters in tech. ðªTeam: Our 24-person full time team includes alumni of TikTok, Business Insider, Morning Brew, a",
-      "tags": [
-        "crypto",
-        "dev",
-        "cloud",
-        "engineer",
-        "digital nomad"
-      ],
-      "verdict": "review",
-      "fit": 52,
-      "reasons": [
-        "location unconfirmed — verify it's open to Africa"
-      ]
-    },
-    {
-      "title": "Publisher",
-      "company": "NewsletterJobs.io",
-      "location": "Morristown,",
-      "url": "https://remoteOK.com/remote-jobs/remote-publisher-newsletterjobs-io-1134898",
-      "source": "RemoteOK",
-      "description": "Company Description Best Version Media provides small businesses with a multi-platform, micro-targeted approach to reaching a valuable audience through print and digital. We are hiring publishers across the US and Canada. I am focusing my efforts on Hunterdon, Morris, Sussex, Essex and Union counties in New Jersey. Please reach out if you're intrigued, or know someone else who might be! Please mention the word **RESPONSIVE** and tag RNjguMjIwLjU4LjE1MQ== when applying to show you read the job post completely (#RNjguMjIwLjU4LjE1MQ==). This is a beta feature to avoid spam applicants. Companies c",
-      "tags": [
-        "crypto",
-        "dev",
-        "cloud",
-        "engineer",
-        "digital nomad"
-      ],
-      "verdict": "review",
-      "fit": 52,
-      "reasons": [
-        "location unconfirmed — verify it's open to Africa"
-      ]
-    },
-    {
       "title": "Site Reliability Engineer (SRE)",
       "company": "Bright Vision Technologies",
       "location": "New Jersey",
@@ -595,6 +579,31 @@
       "fit": 52,
       "reasons": [
         "Germany-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "Infrastructure Data Centre Design Engineer",
+      "company": "name",
+      "location": "United States",
+      "url": "https://himalayas.app/companies/astreya/jobs/infrastructure-data-centre-design-engineer",
+      "source": "Himalayas",
+      "description": "Annual compensation is approximately USD 120K. Key Responsibilities ● Develop and maintain medium-complexity data hall layouts and infrastructure designs. ● Perform rack elevations, cable routing designs, power and space planning activities. ● Conduct infrastructure assessments and recommend improvements for efficiency and scalability. ● Collaborate with cross-functional teams on implementation and deployment activities. ● Troubleshoot design conflicts and support issue resolution efforts. ● Ensure design documentation complies with company and industry standards. ● Support project delivery ti",
+      "tags": [
+        "data-center-design-and-engineering",
+        "infrastructure-design-engineer",
+        "data-center-engineering",
+        "design-engineering",
+        "infrastructure-engineering",
+        "data-center-infrastructure-designer",
+        "data-center-infrastructure-engineer",
+        "data-center-infrastructure-engineering",
+        "infrastructure-design-architect",
+        "data-centre-engineering"
+      ],
+      "verdict": "review",
+      "fit": 52,
+      "reasons": [
+        "United states-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -1260,23 +1269,6 @@
       ]
     },
     {
-      "title": "Senior Site Reliability Engineer",
-      "company": "Remote",
-      "location": "EMEA",
-      "url": "https://jobicy.com/jobs/148108-senior-site-reliability-engineer",
-      "source": "Jobicy",
-      "description": "About Remote Remote is solving modern organizations’ biggest challenge – navigating global employment compliantly with ease. We make it possible for businesses of all sizes to recruit, pay, and manage international teams. With our core values at heart and future focused work culture, our team works tirelessly on ambitious problems, asynchronously, around the world. You&hellip;",
-      "tags": [
-        "devops &amp; infrastructure"
-      ],
-      "verdict": "review",
-      "fit": 46,
-      "reasons": [
-        "EMEA-tagged — verify it's open to Africa first",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
       "title": "Communications Manager",
       "company": "Lemon.io",
       "location": "LATAM, Europe",
@@ -1309,6 +1301,32 @@
       "fit": 40,
       "reasons": [
         "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
+      "title": "Cloud Solutions Engineer",
+      "company": "name",
+      "location": "United States",
+      "url": "https://himalayas.app/companies/parsons-corporation/jobs/cloud-solutions-engineer-732704824",
+      "source": "Himalayas",
+      "description": "In a world of possibilities, pursue one with endless opportunities. Imagine Next!At Parsons, you can imagine a career where you thrive, work with exceptional people, and be yourself. Guided by our leadership vision of valuing people, embracing agility, and fostering growth, we cultivate an innovative culture that empowers you to achieve your full potential. Unleash your talent and redefine what’s possible. Job Description: Parsons is looking for an amazingly talented Cloud Solutions Engineer to join our team! In this role you will get to work on cloud data solutions for a DoD CBRN threat chara",
+      "tags": [
+        "cloud-solutions-engineering",
+        "cloud-architecture",
+        "aws-solutions-architecture",
+        "federal-cloud-engineering",
+        "devsecops-engineering",
+        "cloud-solutions-engineer",
+        "cloud-solutions-architect",
+        "cloud-solution-architect",
+        "cloud-services-engineer",
+        "cloud-systems-engineer",
+        "cloud-engineer"
+      ],
+      "verdict": "review",
+      "fit": 40,
+      "reasons": [
+        "United states-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -1472,6 +1490,24 @@
       ]
     },
     {
+      "title": "Pitch us a role",
+      "company": "Alloy",
+      "location": "Greater Sydney Area,",
+      "url": "https://remoteOK.com/remote-jobs/remote-pitch-us-a-role-alloy-1135062",
+      "source": "RemoteOK",
+      "description": "At Alloy, we're building the Cloud Playground for software teams â a collaborative workspace where anyone in a company can explore their ideas, build features, and ship improvements to the product. We're a small team that all believe in relentless focus, fast execution, and building products that help people work together with AI. We've raised over $7M USD from some of the best investors in Australia and the world. About The Role If youâre excited about Alloy but none of the open roles fit, still reach out. In early-stage startups, the highest-impact work isnât always neatly packaged int",
+      "tags": [
+        "dev",
+        "cloud",
+        "digital nomad"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
       "title": "Creative Strategist",
       "company": "New Engen",
       "location": "Los Angeles, Los Angeles, California, United States",
@@ -1533,6 +1569,22 @@
       "fit": 36,
       "reasons": [
         "United states-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "Golang Engineer",
+      "company": "Plain Concepts",
+      "location": "Brazil",
+      "url": "https://jobicy.com/jobs/144179-golang-engineer",
+      "source": "Jobicy",
+      "description": "We are seeking a Senior Golang Engineer with strong expertise in event-driven architectures, distributed systems, and modern AI-assisted software engineering practices. The ideal candidate has deep hands-on experience with Apache Kafka, high-performance backend engineering, and the ability to design resilient microservices at scale, while leveraging modern AI-powered development tools to improve productivity, code quality, and&hellip;",
+      "tags": [
+        "software engineering"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "Brazil-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -1752,6 +1804,23 @@
       ]
     },
     {
+      "title": "Senior AI Engineer",
+      "company": "eMerchantPay",
+      "location": "Bulgaria",
+      "url": "https://jobicy.com/jobs/144139-senior-ai-engineer-3",
+      "source": "Jobicy",
+      "description": "emerchantpay is a leading global payment service provider and acquirer for online, mobile, in-store and over the phone payments. Our global payments solution is available through a simple integration, offering a diverse range of features, including global acquiring, global and local payment methods, advanced fraud management and performance optimisation. We empower businesses to design seamless&hellip;",
+      "tags": [
+        "software engineering"
+      ],
+      "verdict": "review",
+      "fit": 30,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
       "title": "Senior QA Automation Engineer",
       "company": "Zartis",
       "location": "Europe",
@@ -1867,51 +1936,6 @@
       "fit": 30,
       "reasons": [
         "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Lead Billing Analyst",
-      "company": "Harness",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/144813-lead-billing-analyst",
-      "source": "Jobicy",
-      "description": "Harness is the AI Software Delivery Platform company, led by technologist and entrepreneur Jyoti Bansal (founder of AppDynamics, acquired by Cisco for $3.7B). Harness has raised approximately $570M in funding and is valued at $5.5B, backed by leading investors including Goldman Sachs, Menlo Ventures, IVP, Unusual Ventures, Citi Ventures, and more. As AI accelerates code&hellip;",
-      "tags": [
-        "finance &amp; accounting"
-      ],
-      "verdict": "review",
-      "fit": 30,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Senior Software Engineer - Cloud Partner Integrations",
-      "company": "name",
-      "location": "Germany",
-      "url": "https://himalayas.app/companies/clickhouse/jobs/senior-software-engineer-cloud-partner-integrations-2275114102",
-      "source": "Himalayas",
-      "description": "About ClickHouse Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 3,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real-time analytics, data warehousing, observability, and AI workloads. The company’s sustained, accelerating momentum was recently validated by a $400M Series D financing round. Over the past three months, customers including Capital One, Lovable, Decagon, Polymarket, and Airwallex have adopted the platform or expanded existing deplo",
-      "tags": [
-        "integrations-engineering",
-        "backend-engineering",
-        "cloud-integration",
-        "software-engineering",
-        "partner-integration",
-        "senior-cloud-integration-engineer",
-        "senior-integrations-engineer",
-        "partner-integrations-engineer",
-        "senior-integration-software-engineer",
-        "senior-cloud-software-engineer",
-        "senior-integration-engineer",
-        "senior-cloud-platform-engineer"
-      ],
-      "verdict": "review",
-      "fit": 30,
-      "reasons": [
-        "Germany-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -2371,6 +2395,22 @@
       ]
     },
     {
+      "title": "Principal DevOps Engineer",
+      "company": "Zartis",
+      "location": "Europe",
+      "url": "https://jobicy.com/jobs/146762-principal-devops-engineer",
+      "source": "Jobicy",
+      "description": "The company and our mission: Zartis is a global AI transformation and technology consulting partner where talented engineers and technologists work on cutting-edge innovation. We partner with ambitious organizations to design, build, and scale technology solutions that deliver real impact. Our teams bring deep expertise in AI-driven platforms, secure API architectures, and cloud-native engineering. You&hellip;",
+      "tags": [
+        "devops &amp; infrastructure"
+      ],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Principal-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
       "title": "Principal DevOps Engineer (Poland Remote)",
       "company": "Turnitin, LLC",
       "location": "Poland",
@@ -2475,22 +2515,6 @@
       "description": "Description About the TeamThe Enterprise Data &amp; Data Science organization provides centralized product, platform, and technology support for Data Science teams across Liberty Mutual. Our team focuses on enabling the development, deployment, and adoption of AI/ML solutions through shared platforms, reusable capabilities, and enterprise-scale data science practices. We partner closely with Data Scientists, Engineers, Architects,&hellip;",
       "tags": [
         "data science &amp; analytics"
-      ],
-      "verdict": "blocked",
-      "fit": 0,
-      "reasons": [
-        "Director-level — usually 5–10+ yrs, you have ~4"
-      ]
-    },
-    {
-      "title": "Director, Delivery (EMEA)",
-      "company": "Testlio",
-      "location": "EMEA",
-      "url": "https://jobicy.com/jobs/148107-director-delivery-emea",
-      "source": "Jobicy",
-      "description": "About the jobTestlio’s fully managed crowdsourced testing platform, powered by our proprietary intelligence technology - LeoAI EngineTM, integrates expert, on-demand testers directly into your release process. Ship faster and more confidently with global coverage across 600,000+ devices, 800+ payment methods, 150+ countries, and 100+ languages. To learn more, visit testlio.com.We are hiring a Director, Delivery (EMEA)&hellip;",
-      "tags": [
-        "project management"
       ],
       "verdict": "blocked",
       "fit": 0,
