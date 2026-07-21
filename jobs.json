@@ -1,11 +1,11 @@
 {
-  "generated": "2026-07-20 08:36 UTC",
-  "count": 114,
+  "generated": "2026-07-21 08:05 UTC",
+  "count": 111,
   "summary": {
-    "scanned": 114,
-    "eligible": 22,
-    "review": 70,
-    "blocked": 22
+    "scanned": 111,
+    "eligible": 21,
+    "review": 67,
+    "blocked": 23
   },
   "jobs": [
     {
@@ -86,30 +86,6 @@
       "fit": 74,
       "reasons": [
         "remote — anywhere / global"
-      ]
-    },
-    {
-      "title": "DevOps Engineer",
-      "company": "name",
-      "location": "Kenya",
-      "url": "https://himalayas.app/companies/openfn/jobs/devops-engineer-8504092648",
-      "source": "Himalayas",
-      "description": "Type : Full-time contractor (hours negotiable) Location : Remote - Africa/Europe time zones (strong preference for candidates based in Africa) OpenFn is the digital public good for public service automation &amp; AI orchestration. Our platform automates data exchange and digital workflows so that governments and NGOs can deliver public services more efficiently, achieve interoperability across fragmented systems, and scale critical public services across health, humanitarian, and government programs. Our team, Open Function Group , the primary steward of this open-source platform, is a lean, f",
-      "tags": [
-        "devops-engineer",
-        "infrastructure-engineering",
-        "site-reliability-engineering",
-        "cloud-engineer",
-        "platform-engineering",
-        "devops-software-engineer",
-        "cloud-devops-engineer",
-        "devops-automation-engineer",
-        "lead-devops-engineer"
-      ],
-      "verdict": "eligible",
-      "fit": 68,
-      "reasons": [
-        "explicitly open to Africa/Nigeria"
       ]
     },
     {
@@ -579,31 +555,6 @@
       "fit": 52,
       "reasons": [
         "Germany-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Infrastructure Data Centre Design Engineer",
-      "company": "name",
-      "location": "United States",
-      "url": "https://himalayas.app/companies/astreya/jobs/infrastructure-data-centre-design-engineer",
-      "source": "Himalayas",
-      "description": "Annual compensation is approximately USD 120K. Key Responsibilities ● Develop and maintain medium-complexity data hall layouts and infrastructure designs. ● Perform rack elevations, cable routing designs, power and space planning activities. ● Conduct infrastructure assessments and recommend improvements for efficiency and scalability. ● Collaborate with cross-functional teams on implementation and deployment activities. ● Troubleshoot design conflicts and support issue resolution efforts. ● Ensure design documentation complies with company and industry standards. ● Support project delivery ti",
-      "tags": [
-        "data-center-design-and-engineering",
-        "infrastructure-design-engineer",
-        "data-center-engineering",
-        "design-engineering",
-        "infrastructure-engineering",
-        "data-center-infrastructure-designer",
-        "data-center-infrastructure-engineer",
-        "data-center-infrastructure-engineering",
-        "infrastructure-design-architect",
-        "data-centre-engineering"
-      ],
-      "verdict": "review",
-      "fit": 52,
-      "reasons": [
-        "United states-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -1304,32 +1255,6 @@
       ]
     },
     {
-      "title": "Cloud Solutions Engineer",
-      "company": "name",
-      "location": "United States",
-      "url": "https://himalayas.app/companies/parsons-corporation/jobs/cloud-solutions-engineer-732704824",
-      "source": "Himalayas",
-      "description": "In a world of possibilities, pursue one with endless opportunities. Imagine Next!At Parsons, you can imagine a career where you thrive, work with exceptional people, and be yourself. Guided by our leadership vision of valuing people, embracing agility, and fostering growth, we cultivate an innovative culture that empowers you to achieve your full potential. Unleash your talent and redefine what’s possible. Job Description: Parsons is looking for an amazingly talented Cloud Solutions Engineer to join our team! In this role you will get to work on cloud data solutions for a DoD CBRN threat chara",
-      "tags": [
-        "cloud-solutions-engineering",
-        "cloud-architecture",
-        "aws-solutions-architecture",
-        "federal-cloud-engineering",
-        "devsecops-engineering",
-        "cloud-solutions-engineer",
-        "cloud-solutions-architect",
-        "cloud-solution-architect",
-        "cloud-services-engineer",
-        "cloud-systems-engineer",
-        "cloud-engineer"
-      ],
-      "verdict": "review",
-      "fit": 40,
-      "reasons": [
-        "United states-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
       "title": "Tech Lead Full-Stack Rails Engineer",
       "company": "Mitre Media",
       "location": "USA, Canada, USA timezones",
@@ -1923,23 +1848,6 @@
       ]
     },
     {
-      "title": "Senior Network Engineer",
-      "company": "Verra Mobility",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/143126-senior-network-engineer",
-      "source": "Jobicy",
-      "description": "Position Overview: The Senior Network Engineer (Load Balancing) will be responsible for the design, implementation, and optimization of enterprise-grade load balancing and traffic management solutions across on-prem and cloud environments. This role is critical to ensuring application availability, performance, and scalability. The ideal candidate brings strong hands-on experience with L4–L7 technologies, a performance-first mindset, and the ability to operate in&hellip;",
-      "tags": [
-        "software engineering"
-      ],
-      "verdict": "review",
-      "fit": 30,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
       "title": "Senior Independent Software Developer",
       "company": "A.Team",
       "location": "Americas, Europe, Israel",
@@ -2440,6 +2348,22 @@
       "fit": 0,
       "reasons": [
         "Principal-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
+      "title": "Head of Customer Marketing",
+      "company": "LaunchDarkly",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/149443-head-of-customer-marketing",
+      "source": "Jobicy",
+      "description": "About the Job:We are seeking a strategic, results-driven Head of Customer Marketing to lead our global customer marketing function. This role has significant influence on shaping brand messaging and positioning for LaunchDarkly as well as influencing customer health and retention. This individual will manage our customer advocacy and adoption programs. The ideal candidate will bring a&hellip;",
+      "tags": [
+        "marketing &amp; sales"
+      ],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Head of-level — usually 5–10+ yrs, you have ~4"
       ]
     },
     {
