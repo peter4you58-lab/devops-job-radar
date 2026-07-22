@@ -1,11 +1,11 @@
 {
-  "generated": "2026-07-21 08:05 UTC",
-  "count": 111,
+  "generated": "2026-07-22 08:06 UTC",
+  "count": 133,
   "summary": {
-    "scanned": 111,
-    "eligible": 21,
-    "review": 67,
-    "blocked": 23
+    "scanned": 133,
+    "eligible": 41,
+    "review": 66,
+    "blocked": 26
   },
   "jobs": [
     {
@@ -89,6 +89,48 @@
       ]
     },
     {
+      "title": "Global Sales Enablement Systems Administrator",
+      "company": "Stripe",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/stripe-global-sales-enablement-systems-administrator",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: US-Remote Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team The Global Sales Enablement team equips S",
+      "tags": [],
+      "verdict": "eligible",
+      "fit": 66,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
+    {
+      "title": "DevOps Engineer with Splunk",
+      "company": "Miratech",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/miratech-devops-engineer-with-splunk",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Ahmedabad, India URL: http://miratechgroup.com Company Description Miratech helps visionaries change the world. We are a global IT services and consulting company that brings together enterprise and start-up innovation. Today, we support digital transformation for some of the world's largest enterprises. By partnering with both large and small players, we stay at the leading edge of technology, remain nimble even as a global leader, and create technology that helps our clients further enhance their business. We are a valuesdriven organization and our culture of Relentless Perform",
+      "tags": [],
+      "verdict": "eligible",
+      "fit": 66,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
+    {
+      "title": "OCI DevOps Engineer",
+      "company": "Leidos",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/leidos-oci-devops-engineer",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: 6314 Remote/Teleworker US URL: http://leidos.com The Leidos Partnership for Defense Health is seeking an OCI DevOps Engineer to work remotely in support of its single-award DHMSM IDIQ contract, for the system known as MHS GENESIS.&nbsp; This highly visible program modernized Electronic Health Record (EHR) capabilities for the Department of War (DoW), supporting nearly 10 million service members and their families worldwide. While healthcare systems everywhere are challenged to improve quality, user experience, and cost, MHS GENESIS operates at DoW global scale and within a highly",
+      "tags": [],
+      "verdict": "eligible",
+      "fit": 66,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
+    {
       "title": "DevOps Engineer III",
       "company": "Avalon Administrative Services",
       "location": "Anywhere in the World",
@@ -128,6 +170,35 @@
       "fit": 66,
       "reasons": [
         "remote — anywhere / global"
+      ]
+    },
+    {
+      "title": "Technical Account Manager 2 - South Africa",
+      "company": "Datadog",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/datadog-technical-account-manager-2-south-africa",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: South Africa, Remote We are Datadog's in-house product experts. The technical solutions team enables Datadog's worldwide growth by educating potential clients and ensuring that existing customers are happy and successful. A Technical Account Manager (TAM) will continue to provide hands-on technical services to our largest customers by supporting, adopting and providing guidance over the comprehensive suite of products and features available at Datadog. A TAM is held in high regard as an expert and trusted advisor for how IT Operations translates to business value. At Datadog, we ",
+      "tags": [],
+      "verdict": "eligible",
+      "fit": 64,
+      "reasons": [
+        "explicitly open to Africa/Nigeria"
+      ]
+    },
+    {
+      "title": "Senior Manager, DevOps",
+      "company": "Modivcare",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/modivcare-senior-manager-devops",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Remote URL: http://modivcare.com Are you passionate about making a difference in people's lives? Do you enjoy working in a service-oriented industry? If so, this opportunity may be the right fit for you! Modivcare is looking for an experienced Senior Manager, DevOps &amp; Reliability to join our team. In this role, you will lead the Infrastructure team responsible for supporting cloud-based and on-premises infrastructure environments. You will oversee DevOps engineers, Site Reliability Engineers (SREs), and infrastructure engineers supporting Microsoft Azure platforms while guidi",
+      "tags": [],
+      "verdict": "eligible",
+      "fit": 60,
+      "reasons": [
+        "remote — anywhere / global",
+        "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
     {
@@ -173,6 +244,76 @@
       "reasons": [
         "remote — anywhere / global",
         "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Security Sales Engineer",
+      "company": "Datadog",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/datadog-security-sales-engineer",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Florida, USA, Remote; Massachusetts, USA, Remote; New York, USA, Remote Datadog is seeking a motivated and experienced Security Sales Engineer to join our dynamic enterprise sales engineering team. In this role, you will play a critical part in driving our security sales efforts by providing technical expertise and delivering compelling solutions to our customers. You will work closely with our enterprise sales engineers and sales team to identify customer needs, craft go to market strategy, demonstrate the value of Datadog's security solutions, and ensure customer satisfaction. ",
+      "tags": [],
+      "verdict": "eligible",
+      "fit": 54,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
+    {
+      "title": "Partner Manager - Channels",
+      "company": "Datadog",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/datadog-partner-manager-channels",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Illinois, USA, Remote; Michigan, USA, Remote; Minnesota, USA, Remote; Ohio, USA, Remote; Texas, USA, Remote Individual Contributor JD: We are looking for an experienced Channel &amp; Alliances sales professional to build and accelerate growth with our channel partners by identifying and recruiting new partners for long-term success as well as manage ongoing relationships with key strategic partners, including professional services partners and resellers. Our ultimate goal is developing alliances that drive both customer adoption and new revenue. This is a great opportunity for yo",
+      "tags": [],
+      "verdict": "eligible",
+      "fit": 54,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
+    {
+      "title": "Enterprise Sales Engineer - UK",
+      "company": "Datadog",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/datadog-enterprise-sales-engineer-uk",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: United Kingdom, Remote As an Enterprise Sales Engineer, you'll partner with Sales to help customers understand the value of Datadog and how it solves their most important technical and business challenges. You'll lead technical evaluations, deliver compelling demos, and guide customers through the journey from discovery to successful adoption. &nbsp; You'll act as a trusted advisor, bridging business goals with technical solutions, and play a key role in winning new business and expanding existing accounts. What You’ll Do: Own the sales process in partnership with Account Executi",
+      "tags": [],
+      "verdict": "eligible",
+      "fit": 54,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
+    {
+      "title": "Enterprise Sales Engineer - Rockies",
+      "company": "Datadog",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/datadog-enterprise-sales-engineer-rockies",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Colorado, USA, Remote As an Enterprise Sales Engineer, you'll partner with Sales to help customers understand the value of Datadog and how it solves their most important technical and business challenges. You'll lead technical evaluations, deliver compelling demos, and guide customers through the journey from discovery to successful adoption. &nbsp; You'll act as a trusted advisor, bridging business goals with technical solutions, and play a key role in winning new business and expanding existing accounts. &nbsp; At Datadog, we place value in our office culture - the relationship",
+      "tags": [],
+      "verdict": "eligible",
+      "fit": 54,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
+    {
+      "title": "Enterprise Sales Engineer - Mexico",
+      "company": "Datadog",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/datadog-enterprise-sales-engineer-mexico",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Mexico, Remote As an Enterprise Sales Engineer, you will provide technical expertise through sales presentations, product demonstrations, and supporting technical evaluations (POVs). Sales Engineers help qualify and close opportunities with customers and partners and have a voice with the product team to help prioritize features based on input from customers, competitors, and partners. What You’ll Do: Partner with the Sales team to articulate the overall Datadog value proposition, vision and strategy to customers Own technical engagement with customers during the trial phase. Com",
+      "tags": [],
+      "verdict": "eligible",
+      "fit": 54,
+      "reasons": [
+        "remote — anywhere / global"
       ]
     },
     {
@@ -332,6 +473,34 @@
       ]
     },
     {
+      "title": "Internal Audit IT Manager",
+      "company": "Coinbase",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/coinbase-internal-audit-it-manager",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Remote - USA Ready to do the most impactful work of your career? At&nbsp; Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.”&nbsp; l",
+      "tags": [],
+      "verdict": "eligible",
+      "fit": 50,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
+    {
+      "title": "Internal Audit IT Associate Manager",
+      "company": "Coinbase",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/coinbase-internal-audit-it-associate-manager",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Remote - USA Ready to do the most impactful work of your career? At&nbsp; Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.”&nbsp; l",
+      "tags": [],
+      "verdict": "eligible",
+      "fit": 50,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
+    {
       "title": "Mac MSP Help Desk Guru (work from home)",
       "company": "Ignition, Inc.",
       "location": "Anywhere in the World",
@@ -359,6 +528,141 @@
       "fit": 50,
       "reasons": [
         "remote — anywhere / global"
+      ]
+    },
+    {
+      "title": "Senior Sales Engineer - Ohio Valley",
+      "company": "Datadog",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/datadog-senior-sales-engineer-ohio-valley",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Ohio, USA, Remote As a Senior Enterprise Sales Engineer, you’ll serve as a trusted technical advisor and strategic partner to both customers and Sales. You’ll lead complex technical evaluations, align solutions to business outcomes, and help shape deal strategy in high-impact opportunities. This role goes beyond delivering demos - you’ll own the evaluation experience end-to-end, influence key stakeholders, and help drive successful outcomes across enterprise accounts. At Datadog, we place value in our office culture - the relationships and collaboration it builds and the creativi",
+      "tags": [],
+      "verdict": "eligible",
+      "fit": 48,
+      "reasons": [
+        "remote — anywhere / global",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Senior Sales Engineer - Majors (UK/Nordics/Netherlands)",
+      "company": "Datadog",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/datadog-senior-sales-engineer-majors-uk-nordics-netherlands",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Denmark, Remote; Sweden, Remote; The Netherlands, Remote; United Kingdom, Remote As an Enterprise Sales Engineer, you will provide technical expertise through sales presentations, product demonstrations, and supporting technical evaluations (POVs). Sales Engineers help qualify and close opportunities with customers and partners and have a voice with the product team to help prioritize features based on input from customers, competitors, and partners. At Datadog, we place value in our office culture - the relationships and collaboration it builds and the creativity it brings to th",
+      "tags": [],
+      "verdict": "eligible",
+      "fit": 48,
+      "reasons": [
+        "remote — anywhere / global",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Senior Sales Engineer - Majors (France)",
+      "company": "Datadog",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/datadog-senior-sales-engineer-majors-france",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: France, Remote As an Enterprise Sales Engineer, you will provide technical expertise through sales presentations, product demonstrations, and supporting technical evaluations (POVs). Sales Engineers help qualify and close opportunities with customers and partners and have a voice with the product team to help prioritize features based on input from customers, competitors, and partners. At Datadog, we place value in our office culture - the relationships and collaboration it builds and the creativity it brings to the table. We operate as a hybrid workplace to ensure our Datadogs c",
+      "tags": [],
+      "verdict": "eligible",
+      "fit": 48,
+      "reasons": [
+        "remote — anywhere / global",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Senior Sales Engineer - Majors (East)",
+      "company": "Datadog",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/datadog-senior-sales-engineer-majors-east",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: New York, USA, Remote As an Enterprise Sales Engineer, you will provide technical expertise through sales presentations, product demonstrations, and supporting technical evaluations (POVs). Sales Engineers help qualify and close opportunities with customers and partners and have a voice with the product team to help prioritize features based on input from customers, competitors, and partners. At Datadog, we place value in our office culture - the relationships and collaboration it builds and the creativity it brings to the table. We operate as a hybrid workplace to ensure our Dat",
+      "tags": [],
+      "verdict": "eligible",
+      "fit": 48,
+      "reasons": [
+        "remote — anywhere / global",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Senior Sales Engineer - Key Accounts (Central)",
+      "company": "Datadog",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/datadog-senior-sales-engineer-key-accounts-central",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Texas, USA, Remote As an Enterprise Sales Engineer, you will provide technical expertise through sales presentations, product demonstrations, and supporting technical evaluations (POVs). Sales Engineers help qualify and close opportunities with customers and partners and have a voice with the product team to help prioritize features based on input from customers, competitors, and partners. At Datadog, we place value in our office culture - the relationships and collaboration it builds and the creativity it brings to the table. We operate as a hybrid workplace to ensure our Datado",
+      "tags": [],
+      "verdict": "eligible",
+      "fit": 48,
+      "reasons": [
+        "remote — anywhere / global",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Senior Sales Engineer - Key Accounts",
+      "company": "Datadog",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/datadog-senior-sales-engineer-key-accounts",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: California, USA, Remote; Oregon, USA, Remote; Washington, USA, Remote As a Key Accounts Enterprise Sales Engineer, you will provide technical expertise through sales presentations, product demonstrations, and supporting technical evaluations (POVs). Sales Engineers help qualify and close opportunities with customers and partners and have a voice with the product team to help prioritize features based on input from customers, competitors, and partners. What You’ll Do: Partner with the Sales, Product/Engineering, Customer Success, Professional Services, and executive leadership to ",
+      "tags": [],
+      "verdict": "eligible",
+      "fit": 48,
+      "reasons": [
+        "remote — anywhere / global",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Partner Solutions Architect (Pan-EMEA GSI)",
+      "company": "Datadog",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/datadog-partner-solutions-architect-pan-emea-gsi",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Amsterdam, The Netherlands; Italy, Remote; Lisbon, Portugal; London, United Kingdom; Madrid, Spain; Stockholm, Sweden We are Datadog's in-house product experts. The technical solutions team enables Datadog's worldwide growth by educating potential clients and ensuring that existing customers are happy and successful. &nbsp; The Partner Solution Architect (PSA) is a Datadog expert who will work closely with Datadog’s Director of Partner Solutions Architects, and is aligned to our Channels &amp; Alliances business segment. The PSA is responsible for supporting a variety of technica",
+      "tags": [],
+      "verdict": "eligible",
+      "fit": 48,
+      "reasons": [
+        "remote — anywhere / global",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Partner Solutions Architect (GSI) - AMER West",
+      "company": "Datadog",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/datadog-partner-solutions-architect-gsi-amer-west",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: California, USA, Remote; Illinois, USA, Remote; Texas, USA, Remote; Washington, USA, Remote We are Datadog's in-house product experts. The technical solutions team enables Datadog's worldwide growth by educating potential clients and ensuring that existing customers are happy and successful. &nbsp; The Partner Solution Architect (PSA) is a Datadog expert who will work closely with Datadog’s Director of Partner Solutions Architects, and is aligned to our Channels &amp; Alliances business segment. The PSA is responsible for supporting a variety of technical initiatives and activiti",
+      "tags": [],
+      "verdict": "eligible",
+      "fit": 48,
+      "reasons": [
+        "remote — anywhere / global",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Partner Solutions Architect (Colombia)",
+      "company": "Datadog",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/datadog-partner-solutions-architect-colombia",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Colombia, Remote We are Datadog's in-house product experts. The technical solutions team enables Datadog's worldwide growth by educating potential clients and ensuring that existing customers are happy and successful. &nbsp; The Partner Solution Architect (PSA) is a Datadog expert who will work closely with Datadog’s Director of Partner Solutions Architects, and is aligned to our Channels &amp; Alliances business segment. The PSA is responsible for supporting a variety of technical initiatives and activities for our partners (for example: cloud migration, application modernizatio",
+      "tags": [],
+      "verdict": "eligible",
+      "fit": 48,
+      "reasons": [
+        "remote — anywhere / global",
+        "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
     {
@@ -427,29 +731,35 @@
       ]
     },
     {
-      "title": "Mid/Senior AI Cinematic Video Editor",
-      "company": "EverAI",
-      "location": "Worldwide",
-      "url": "https://remotive.com/remote-jobs/artificial-intelligence/mid-senior-ai-cinematic-video-editor-2090887",
-      "source": "Remotive",
-      "description": "Our Vision &amp; Products 🚀 EverAI — Building the Future of AI Companionship One of the Top 15 Largest &amp; Fastest-Growing AI Companies in the World 50 Million Users in 2 years — Help Us Reach 100M first, 500M next At EverAI , we’re shaping what it means to connect with AI. With 50 million users and counting , we're not just building products — we're creating entirely new categories. Our flagship product is the world’s largest AI companionship platform , redefining relationships for millions. It is governed by our proprietary moderation system, EverGuard — an internal AI designed to ensure e",
+      "title": "Site Reliability Engineer",
+      "company": "Canonical Ltd.",
+      "location": "Anywhere",
+      "url": "https://jobicy.com/jobs/149547-site-reliability-engineer",
+      "source": "Jobicy",
+      "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in&hellip;",
       "tags": [
-        "excel",
-        "video",
-        "ai/ml",
-        "customer acquisition",
-        "graphic design",
-        "video production",
-        "after effects",
-        "editing",
-        "solid",
-        "rest",
-        "insurance"
+        "devops &amp; infrastructure"
       ],
-      "verdict": "eligible",
-      "fit": 44,
+      "verdict": "review",
+      "fit": 64,
       "reasons": [
-        "remote — anywhere / global",
+        "Africa-friendly employer (Canonical) — role location unconfirmed"
+      ]
+    },
+    {
+      "title": "Senior Site Reliability Engineer",
+      "company": "Canonical Ltd.",
+      "location": "Anywhere",
+      "url": "https://jobicy.com/jobs/149557-senior-site-reliability-engineer-5",
+      "source": "Jobicy",
+      "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders&hellip;",
+      "tags": [
+        "devops &amp; infrastructure"
+      ],
+      "verdict": "review",
+      "fit": 58,
+      "reasons": [
+        "Africa-friendly employer (Canonical) — role location unconfirmed",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -526,6 +836,22 @@
       ]
     },
     {
+      "title": "Software Engineer - (Connect Platform)",
+      "company": "Enode",
+      "location": "Europe, Norway",
+      "url": "https://jobicy.com/jobs/149497-software-engineer-connect-platform",
+      "source": "Jobicy",
+      "description": "About EnodeThe grid was built for predictable, centralised power. Today it's absorbing intermittent supply from grid scale solar and wind, alongside dynamic demand from EVs, heat pumps, and home batteries. The missing piece is software that can connect and orchestrate these devices at scale.Enode provides the infrastructure layer that makes this possible. Our Connect API&hellip;",
+      "tags": [
+        "software engineering"
+      ],
+      "verdict": "review",
+      "fit": 52,
+      "reasons": [
+        "Europe-tagged — verify it's open to Africa first"
+      ]
+    },
+    {
       "title": "Atlassian Administrator 1726",
       "company": "Softgic",
       "location": "Anywhere",
@@ -539,22 +865,6 @@
       "fit": 52,
       "reasons": [
         "location unconfirmed — verify it's open to Africa"
-      ]
-    },
-    {
-      "title": "Software Engineer (.NET) (f/m/d)",
-      "company": "Apaleo",
-      "location": "Germany",
-      "url": "https://jobicy.com/jobs/145054-software-engineer-net-f-m-d",
-      "source": "Jobicy",
-      "description": "Join Apaleo and Shape the Future of Hospitality Tech!Apaleo is the world’s most open, API-first property management platform powering the next generation of hospitality operations. Its modular, AI-powered infrastructure enables hoteliers to customise their tech stack, automate routine work, and deliver seamless, personalised guest experiences, powered by best-in-class apps and autonomous AI agents that adapt&hellip;",
-      "tags": [
-        "software engineering"
-      ],
-      "verdict": "review",
-      "fit": 52,
-      "reasons": [
-        "Germany-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -572,6 +882,54 @@
       "reasons": [
         "Canada-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
         "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Software Engineer - Solutions Engineering",
+      "company": "Canonical Ltd.",
+      "location": "Anywhere",
+      "url": "https://jobicy.com/jobs/149560-software-engineer-solutions-engineering",
+      "source": "Jobicy",
+      "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders&hellip;",
+      "tags": [
+        "software engineering"
+      ],
+      "verdict": "review",
+      "fit": 48,
+      "reasons": [
+        "Africa-friendly employer (Canonical) — role location unconfirmed"
+      ]
+    },
+    {
+      "title": "Microservices Engineer",
+      "company": "Canonical Ltd.",
+      "location": "Anywhere",
+      "url": "https://jobicy.com/jobs/149558-microservices-engineer",
+      "source": "Jobicy",
+      "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders&hellip;",
+      "tags": [
+        "software engineering"
+      ],
+      "verdict": "review",
+      "fit": 48,
+      "reasons": [
+        "Africa-friendly employer (Canonical) — role location unconfirmed"
+      ]
+    },
+    {
+      "title": "Engineering Manager - Solutions Engineering",
+      "company": "Canonical Ltd.",
+      "location": "Anywhere",
+      "url": "https://jobicy.com/jobs/149556-engineering-manager-solutions-engineering",
+      "source": "Jobicy",
+      "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders&hellip;",
+      "tags": [
+        "product &amp; operations"
+      ],
+      "verdict": "review",
+      "fit": 48,
+      "reasons": [
+        "Africa-friendly employer (Canonical) — role location unconfirmed"
       ]
     },
     {
@@ -902,43 +1260,6 @@
       ]
     },
     {
-      "title": "Senior Product Manager Platform",
-      "company": "Delinea",
-      "location": "Redwood City",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-product-manager-platform-delinea-1134961",
-      "source": "RemoteOK",
-      "description": "About Delinea: Delinea is a pioneer in securing human and machine identities through intelligent, centralized authorization, empowering organizations to seamlessly govern their interactions across the modern enterprise. Leveraging AI-powered intelligence, Delineaâs leading cloud-native Identity Security Platform applies context throughout the entire identity lifecycle â across cloud and traditional infrastructure, data, SaaS applications, and AI. It is the only platform that enables you to discover all identities â including workforce, IT administrator, developers, and machines â assig",
-      "tags": [
-        "product manager",
-        "exec",
-        "design",
-        "saas",
-        "infosec",
-        "vfx",
-        "customer support",
-        "dev",
-        "travel",
-        "scrum",
-        "education",
-        "finance",
-        "cloud",
-        "api",
-        "admin",
-        "senior",
-        "ops",
-        "marketing",
-        "medical",
-        "engineer",
-        "digital nomad"
-      ],
-      "verdict": "review",
-      "fit": 46,
-      "reasons": [
-        "location unconfirmed — verify it's open to Africa",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
       "title": "Senior DevOps Engineer",
       "company": "ICF",
       "location": "Virginia",
@@ -1084,6 +1405,23 @@
       ]
     },
     {
+      "title": "Senior Software Engineer - (Connect Platform)",
+      "company": "Enode",
+      "location": "Europe, Norway",
+      "url": "https://jobicy.com/jobs/149498-senior-software-engineer-connect-platform",
+      "source": "Jobicy",
+      "description": "About EnodeThe grid was built for predictable, centralised power. Today it's absorbing intermittent supply from grid scale solar and wind, alongside dynamic demand from EVs, heat pumps, and home batteries. The missing piece is software that can connect and orchestrate these devices at scale.Enode provides the infrastructure layer that makes this possible. Our Connect API&hellip;",
+      "tags": [
+        "software engineering"
+      ],
+      "verdict": "review",
+      "fit": 46,
+      "reasons": [
+        "Europe-tagged — verify it's open to Africa first",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
       "title": "Senior Site Reliability Engineer (Remote Build)",
       "company": "Remote",
       "location": "EMEA",
@@ -1186,36 +1524,19 @@
       ]
     },
     {
-      "title": "Senior People Business Partner",
-      "company": "Platform.sh",
-      "location": "France",
-      "url": "https://jobicy.com/jobs/145296-senior-people-business-partner-2",
+      "title": "Community Engineer (multiple roles and seniority levels)",
+      "company": "Canonical Ltd.",
+      "location": "Anywhere",
+      "url": "https://jobicy.com/jobs/149577-community-engineer-multiple-roles-and-seniority-levels",
       "source": "Jobicy",
-      "description": "About Upsun (formerly Platform.sh) Upsun is the cloud application platform humans and robots love. It is built for today’s hybrid teams, where AI agents write and test code and humans focus on solving the problems that really matter. Developers, DevOps engineers, and platform teams use Upsun to build, ship, and scale confidently without wrestling with backend&hellip;",
+      "description": "Our ambition is to set a standard of excellence when it comes to serving the open source ecosystem. This is your chance to be a part of that as a Community Engineer at Canonical.We are building community management at scale. We have multiple positions available, at different seniority levels.All applications and candidates are handled through&hellip;",
       "tags": [
-        "hr &amp; recruiting"
+        "customer success"
       ],
       "verdict": "review",
-      "fit": 46,
+      "fit": 42,
       "reasons": [
-        "France-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "(Senior) Site Reliability Engineer (m/f/d) - Platform & Agentic Operations",
-      "company": "1KOMMA5°",
-      "location": "Germany",
-      "url": "https://jobicy.com/jobs/145278-senior-site-reliability-engineer-m-f-d-platform-agentic-operations",
-      "source": "Jobicy",
-      "description": "1KOMMA5°At 1KOMMA5°, we pursue a clear vision: Living on wind and sunlight forever for free. To make this a reality, we are building the energy system of the future with Heartbeat AI. Want to be part of it?We bring together regional craftsmanship and scalable software: We don't think of solar, batteries, heat pumps, and e-mobility as&hellip;",
-      "tags": [
-        "devops &amp; infrastructure"
-      ],
-      "verdict": "review",
-      "fit": 46,
-      "reasons": [
-        "Germany-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "Africa-friendly employer (Canonical) — role location unconfirmed",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -1433,70 +1754,6 @@
       ]
     },
     {
-      "title": "Creative Strategist",
-      "company": "New Engen",
-      "location": "Los Angeles, Los Angeles, California, United States",
-      "url": "https://remoteOK.com/remote-jobs/remote-creative-strategist-new-engen-1134990",
-      "source": "RemoteOK",
-      "description": "WHY DONUT STUDIOS? At New Engen, we help brands grow, not just bigger, but smarter. Weâre a digital marketing agency that drives meaningful impact across the entire customer journey by integrating media, creative, analytics, influencer, and retail strategies into performance-driven campaigns. Donut Studios is our in-house creative studio, purpose-built to craft high-performing, platform-native, and digital content for the worldâs most ambitious brands. As a key part of New Engenâs suite of specialized solutions, alongside offerings like the Acorn Creator Suite - Donut Studios helps unloc",
-      "tags": [
-        "part time",
-        "hr",
-        "medical",
-        "exec",
-        "design",
-        "salesforce",
-        "customer support",
-        "dev",
-        "copywriting",
-        "testing",
-        "travel",
-        "speech",
-        "video",
-        "content writing",
-        "marketing",
-        "stats",
-        "sales",
-        "social media",
-        "digital nomad",
-        "recruiter",
-        "finance",
-        "microsoft",
-        "excel",
-        "education",
-        "art direction",
-        "ops",
-        "full time",
-        "sys admin",
-        "wordpress",
-        "teaching",
-        "web dev",
-        "javascript",
-        "c",
-        "css",
-        "html",
-        "drupal",
-        "seo",
-        "ads",
-        "mobile",
-        "legal",
-        "saas",
-        "amazon",
-        "infosec",
-        "music",
-        "consulting",
-        "technical",
-        "strategy",
-        "cloud",
-        "senior"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "United states-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
       "title": "Golang Engineer",
       "company": "Plain Concepts",
       "location": "Brazil",
@@ -1641,54 +1898,6 @@
       ]
     },
     {
-      "title": "Scrum Master | NDA",
-      "company": "GT",
-      "location": "Europe, Poland",
-      "url": "https://jobicy.com/jobs/148662-scrum-master-nda",
-      "source": "Jobicy",
-      "description": "GT was founded in 2019 by a former Apple, Nest, and Google executive. GT’s mission is to connect the world’s best talent with product careers offered by high-growth companies in the UK, USA, Canada, Germany, and the Netherlands.Our clients operate in industries like healthcare, life sciences, fintech, retail, e-commerce, finance and many more, giving our&hellip;",
-      "tags": [
-        "project management"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Poland-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Cost Engineer",
-      "company": "Fortive",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/148327-cost-engineer",
-      "source": "Jobicy",
-      "description": "Location: Remote in USThe Cost Engineer is responsible for producing and validating construction cost data across multiple disciplines. This role involves applying engineering knowledge and construction experience to ensure accurate, reliable, and comprehensive cost data for Gordian’s products and consulting services. Responsibilities: Research and analyze construction material, equipment, and labor costs for assigned disciplines (civil, electrical, mechanical,&hellip;",
-      "tags": [
-        "software engineering"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Software Developer in Test (JavaScript)",
-      "company": "Veeam Software",
-      "location": "Poland",
-      "url": "https://jobicy.com/jobs/144087-software-developer-in-test-javascript-2",
-      "source": "Jobicy",
-      "description": "Veeam is the Data and AI Trust Company, specializing in helping organizations ensure their data and AI are fully understood, secured, and resilient to enable the acceleration of safe AI at scale. As the market leader in both data resilience and data security posture management, Veeam is built for the convergence of identity, data, security,&hellip;",
-      "tags": [
-        "programming"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Poland-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
       "title": "Sr. Machine Learning Solutions Architect",
       "company": "phData",
       "location": "LATAM",
@@ -1822,23 +2031,6 @@
       "description": "The QA Automation Team is the ultimate guardian of our platform’s reliability, scalability, and deployment velocity. In a complex, data-heavy ecosystem, manual testing is a bottleneck; continuous, intelligent, and bulletproof automation is the only way forward. We are looking for a QA Automation Lead who will architect, scale, and own our automated testing strategy end-to-end.&hellip;",
       "tags": [
         "qa &amp; testing"
-      ],
-      "verdict": "review",
-      "fit": 30,
-      "reasons": [
-        "Europe-tagged — verify it's open to Africa first",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Senior Data Engineer",
-      "company": "Zartis",
-      "location": "Europe",
-      "url": "https://jobicy.com/jobs/148223-senior-data-engineer-2",
-      "source": "Jobicy",
-      "description": "The company and our mission: Zartis is a global AI transformation and technology consulting partner where talented engineers and technologists work on cutting edge innovation. We partner with ambitious organizations to design, build, and scale technology solutions that deliver real impact. Our teams bring deep expertise in AI driven platforms, secure API architectures, and cloud&hellip;",
-      "tags": [
-        "data science &amp; analytics"
       ],
       "verdict": "review",
       "fit": 30,
@@ -2303,6 +2495,62 @@
       ]
     },
     {
+      "title": "Staff Site Reliability Engineer, Production Engineering",
+      "company": "Dropbox",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/dropbox-staff-site-reliability-engineer-production-engineering-1",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Remote - Canada: Select locations Role Description As a Site Reliability Engineer focused on company-wide reliability strategy, you will play a crucial role in advancing Dropbox’s stability, observability, incident response, and operational excellence as AI technologies reshape how software is built and operated. You will help define the reliability strategy for a new chapter of agentic development and AI-enabled software delivery, including preparing Dropbox for increases in pull request volume, service complexity, incident patterns, and demand for debugging and monitoring tools",
+      "tags": [],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Staff-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
+      "title": "Staff Site Reliability Engineer, Production Engineering",
+      "company": "Dropbox",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/dropbox-staff-site-reliability-engineer-production-engineering",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Remote - US: Select locations Role Description As a Site Reliability Engineer focused on company-wide reliability strategy, you will play a crucial role in advancing Dropbox’s stability, observability, incident response, and operational excellence as AI technologies reshape how software is built and operated. You will help define the reliability strategy for a new chapter of agentic development and AI-enabled software delivery, including preparing Dropbox for increases in pull request volume, service complexity, incident patterns, and demand for debugging and monitoring tools. Yo",
+      "tags": [],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Staff-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
+      "title": "DevOps Director",
+      "company": "Toparo",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/toparo-devops-director",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Montréal URL: http://toparo.ca Are you ready to take the lead in shaping the future of logistics technology in North America? Join our client tech team as the Director of DevOps and be a key player in their dynamic, rapidly growing team. Reporting to the Head of Engineering, you will guide a talented DevOps team through various projects focused on automating development processes. Key Responsibilities: Lead and inspire a DevOps team, driving excellence in project management, tool selection, mentoring, and developing cutting-edge DevOps practices. Manage complex tasks with minimal",
+      "tags": [],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Director-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
+      "title": "Director of Cloud Operations",
+      "company": "Firstup",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/firstup-director-of-cloud-operations",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Remote - US URL: http://firstup.io Who We Are At Firstup, our mission is to improve the employee experience at every moment that matters, large and small. As the communication pipeline for the world's workforce, we now serve 40 of the Fortune 100 companies, reaching and connecting more than 17 million employees daily. Our employees are experts in the employee experience, workforce communications and technology.&nbsp; Joining Firstup means joining a movement to make work better for every worker. As the world’s first intelligent communication platform, Firstup meaningfully engages ",
+      "tags": [],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Director-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
       "title": "Principal DevOps Engineer",
       "company": "Zartis",
       "location": "Europe",
@@ -2423,22 +2671,6 @@
       "description": "Who is Boulevard? Boulevard provides the first and only client experience platform for appointment-based, self-care businesses. We empower our customers to give their clients more of the magical moments that matter most. Before launching in 2016, our founders spent months interviewing salon managers and working behind front desks to understand their pain points so we&hellip;",
       "tags": [
         "software engineering"
-      ],
-      "verdict": "blocked",
-      "fit": 0,
-      "reasons": [
-        "Director-level — usually 5–10+ yrs, you have ~4"
-      ]
-    },
-    {
-      "title": "Director I, Data Science Product Management",
-      "company": "Liberty Mutual",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/148198-director-i-data-science-product-management",
-      "source": "Jobicy",
-      "description": "Description About the TeamThe Enterprise Data &amp; Data Science organization provides centralized product, platform, and technology support for Data Science teams across Liberty Mutual. Our team focuses on enabling the development, deployment, and adoption of AI/ML solutions through shared platforms, reusable capabilities, and enterprise-scale data science practices. We partner closely with Data Scientists, Engineers, Architects,&hellip;",
-      "tags": [
-        "data science &amp; analytics"
       ],
       "verdict": "blocked",
       "fit": 0,
