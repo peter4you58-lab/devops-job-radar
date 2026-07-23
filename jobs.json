@@ -1,13 +1,27 @@
 {
-  "generated": "2026-07-22 08:06 UTC",
-  "count": 133,
+  "generated": "2026-07-23 08:09 UTC",
+  "count": 164,
   "summary": {
-    "scanned": 133,
-    "eligible": 41,
-    "review": 66,
+    "scanned": 164,
+    "eligible": 58,
+    "review": 80,
     "blocked": 26
   },
   "jobs": [
+    {
+      "title": "Devops eng_roji",
+      "company": "Coders Brain Technology",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/coders-brain-technology-devops-eng_roji",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Remote URL: http://codersbrain.com Python (language) Helm Charts Terraform Puppet OpenStack JD: DevOps Engineer Required skills: Expert in Terraform, and Puppet. Expert in infrastructure as code technology. Experience with end to end infrastructure deployment automation. Expert in Kubernetes and Docker. Experience of deploying Kubernetes cluster with terraform and OpenStack. Very good at Helm charts. Coding: Good to have skills: Experienced with REST APIs What you will get: Exposure to state-of-the-art deep learning technology. Working with Top deep learning engineers in India. F",
+      "tags": [],
+      "verdict": "eligible",
+      "fit": 82,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
     {
       "title": "Senior DevOps Engineer",
       "company": "Lemon.io",
@@ -84,6 +98,104 @@
       "tags": [],
       "verdict": "eligible",
       "fit": 74,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
+    {
+      "title": "Full Stack Developer - DevOps & Cloud Systems",
+      "company": "BrightOrder",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/brightorder-full-stack-developer-devops-cloud-systems",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Canada URL: http://brightorder.com Description DevOps Developer (AWS) Fully Remote Opportunity About BrightOrder We build technology that keeps fleets safer, smarter, and more profitable. Our platform connects maintenance, telematics, and data to help operators make real-time decisions. We’re scaling fast across North America and we need exceptional builders who code, automate, and optimize systems end-to-end. The Role We’re looking for a Full Stack Developer with strong DevOps and AWS experience to help build, automate, and scale BrightOrder’s cloud-based platform. This role is ",
+      "tags": [],
+      "verdict": "eligible",
+      "fit": 70,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
+    {
+      "title": "IT Team Manager (DevOps) (m/f/x)",
+      "company": "PPG",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/ppg-it-team-manager-devops-m-f-x",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: POL - Wrocław URL: http://ppg.com As IT Manager, you will define and architect the deployment, automation, and management of our cloud applications portfolio and infrastructure. The DevOps team works closely with platform engineering teams, infrastructure architects, product owners, and stakeholders to establish and maintain efficient CI/CD pipelines, deployments. Supports the DevOps team with scripting and automating all environments, software deployments, and it's supporting infrastructure. This is a fully remote role with flexibility to be located in Poland, the Czech Republic",
+      "tags": [],
+      "verdict": "eligible",
+      "fit": 70,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
+    {
+      "title": "Software Engineer, Security Analytics Infrastructure",
+      "company": "Stripe",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/stripe-software-engineer-security-analytics-infrastructure",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: US - Remote Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team In this role, you'd join Stripe's Secur",
+      "tags": [],
+      "verdict": "eligible",
+      "fit": 66,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
+    {
+      "title": "Security Engineer",
+      "company": "Stripe",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/stripe-security-engineer",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: South San Francisco, CA and US-Remote Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. What you’ll do Responsib",
+      "tags": [],
+      "verdict": "eligible",
+      "fit": 66,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
+    {
+      "title": "Program Manager, Security Business Enablement",
+      "company": "Stripe",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/stripe-program-manager-security-business-enablement-1",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: US-REMOTE Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team The Stripe Security team is dedicated to ",
+      "tags": [],
+      "verdict": "eligible",
+      "fit": 66,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
+    {
+      "title": "Program Manager, Security Business Enablement",
+      "company": "Stripe",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/stripe-program-manager-security-business-enablement",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: US - Remote Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team The Stripe Security team is dedicated t",
+      "tags": [],
+      "verdict": "eligible",
+      "fit": 66,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
+    {
+      "title": "DevOps Engineer",
+      "company": "ProctorU",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/proctoru-devops-engineer",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Remote India, IN URL: http://meazurelearning.com &nbsp; At Meazure Learning, we believe in transforming learning and assessment experiences to unlock human potential. As a global leader in online testing and exam services, we support credentialing, licensure, workforce education, and higher education through purpose-built solutions that are secure, accessible, and deeply human-centered. With a global footprint across the U.S., Canada, India, and the U.K., our team is united by a passion for innovation and a commitment to integrity, quality, and learner success. &nbsp; About the R",
+      "tags": [],
+      "verdict": "eligible",
+      "fit": 66,
       "reasons": [
         "remote — anywhere / global"
       ]
@@ -184,6 +296,51 @@
       "fit": 64,
       "reasons": [
         "explicitly open to Africa/Nigeria"
+      ]
+    },
+    {
+      "title": "Senior Software Engineer, Infrastructure - Compute Platform",
+      "company": "Coinbase",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/coinbase-senior-software-engineer-infrastructure-compute-platform-1",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Remote - USA Ready to do the most impactful work of your career? At&nbsp; Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.”&nbsp; l",
+      "tags": [],
+      "verdict": "eligible",
+      "fit": 60,
+      "reasons": [
+        "remote — anywhere / global",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Senior Software Engineer, Infrastructure - Compute Platform",
+      "company": "Coinbase",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/coinbase-senior-software-engineer-infrastructure-compute-platform",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Remote - Canada Ready to do the most impactful work of your career? At&nbsp; Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.”&nbsp",
+      "tags": [],
+      "verdict": "eligible",
+      "fit": 60,
+      "reasons": [
+        "remote — anywhere / global",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Senior Site Reliability Engineer, Workforce Identity",
+      "company": "Coinbase",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/coinbase-senior-site-reliability-engineer-workforce-identity",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Remote - USA Ready to do the most impactful work of your career? At&nbsp; Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.”&nbsp; l",
+      "tags": [],
+      "verdict": "eligible",
+      "fit": 60,
+      "reasons": [
+        "remote — anywhere / global",
+        "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
     {
@@ -473,6 +630,34 @@
       ]
     },
     {
+      "title": "Security Engineer, Incident Response",
+      "company": "Twilio",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/twilio-security-engineer-incident-response",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Remote - Ireland Who we are&nbsp; At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to &nbsp;hundreds of thousands of businesses&nbsp; and empower millions of developers worldwide to craft personalized customer experiences. Our dedication to remote-first work , and strong culture of connection and global inclusion means that no matter your location, you’re part of a vibrant team with diverse experiences making a global impact each day. As we continue to revolutionize how the world interacts, we’re acquiring n",
+      "tags": [],
+      "verdict": "eligible",
+      "fit": 50,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
+    {
+      "title": "Security Compliance & Regulatory Affairs Analyst",
+      "company": "Twilio",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/twilio-security-compliance-regulatory-affairs-analyst",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Remote - US Who we are&nbsp; At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to &nbsp;hundreds of thousands of businesses&nbsp; and empower millions of developers worldwide to craft personalized customer experiences. Our dedication to remote-first work , and strong culture of connection and global inclusion means that no matter your location, you’re part of a vibrant team with diverse experiences making a global impact each day. As we continue to revolutionize how the world interacts, we’re acquiring new sk",
+      "tags": [],
+      "verdict": "eligible",
+      "fit": 50,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
+    {
       "title": "Internal Audit IT Manager",
       "company": "Coinbase",
       "location": "Anywhere in the World",
@@ -528,6 +713,21 @@
       "fit": 50,
       "reasons": [
         "remote — anywhere / global"
+      ]
+    },
+    {
+      "title": "Partner Solutions Architect (EMEA)",
+      "company": "Datadog",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/datadog-partner-solutions-architect-emea",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Italy, Remote; Lisbon, Portugal; Madrid, Spain; Paris, France The Team: We are Datadog's in-house product experts. The technical solutions team enables Datadog's worldwide growth by educating potential clients and ensuring that existing customers are happy and successful. We share our technical and product expertise with customers through demos, presentations, technical evaluations, and ongoing support. Technical solutions is a growing global team that collaborates constantly to share knowledge and continuously advance our technical skillset. &nbsp; The Opportunity: The Partner S",
+      "tags": [],
+      "verdict": "eligible",
+      "fit": 48,
+      "reasons": [
+        "remote — anywhere / global",
+        "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
     {
@@ -731,6 +931,51 @@
       ]
     },
     {
+      "title": "Senior Security Engineer, Incident Response",
+      "company": "Twilio",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/twilio-senior-security-engineer-incident-response",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Remote - US Who we are&nbsp; At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to &nbsp;hundreds of thousands of businesses&nbsp; and empower millions of developers worldwide to craft personalized customer experiences. Our dedication to remote-first work , and strong culture of connection and global inclusion means that no matter your location, you’re part of a vibrant team with diverse experiences making a global impact each day. As we continue to revolutionize how the world interacts, we’re acquiring new sk",
+      "tags": [],
+      "verdict": "eligible",
+      "fit": 44,
+      "reasons": [
+        "remote — anywhere / global",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Senior Software Engineer (EAA)",
+      "company": "Coinbase",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/coinbase-senior-software-engineer-eaa",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Remote - USA Ready to do the most impactful work of your career? At&nbsp; Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.”&nbsp; l",
+      "tags": [],
+      "verdict": "eligible",
+      "fit": 44,
+      "reasons": [
+        "remote — anywhere / global",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Senior Software Engineer",
+      "company": "Coinbase",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/coinbase-senior-software-engineer-1",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Remote - USA Ready to do the most impactful work of your career? At&nbsp; Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.”&nbsp; l",
+      "tags": [],
+      "verdict": "eligible",
+      "fit": 44,
+      "reasons": [
+        "remote — anywhere / global",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
       "title": "Site Reliability Engineer",
       "company": "Canonical Ltd.",
       "location": "Anywhere",
@@ -761,6 +1006,20 @@
       "reasons": [
         "Africa-friendly employer (Canonical) — role location unconfirmed",
         "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Manager, DevOps",
+      "company": "SailPoint",
+      "location": "Colorado",
+      "url": "https://weworkremotely.com/remote-jobs/sailpoint-manager-devops",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Remote (Colorado, USA) URL: http://sailpoint.com About the Team &nbsp; Our CI/CD team sets clear delivery and release standards, providing the necessary tools, systems, and hands-on developer support to safely and securely release software assets for SailPoint's SaaS business and supporting functionality. By managing platforms that enable developers to deliver secure code in an incremental fashion while maintaining compliance, our team plays a critical role in fostering a seamless developer experience and helping SailPoint deliver high-quality, resilient services to our customers",
+      "tags": [],
+      "verdict": "review",
+      "fit": 56,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa"
       ]
     },
     {
@@ -933,22 +1192,6 @@
       ]
     },
     {
-      "title": "Manager, Customer Success Managers, EMEA",
-      "company": "GitLab",
-      "location": "Austria, Germany",
-      "url": "https://jobicy.com/jobs/148783-manager-customer-success-managers-emea",
-      "source": "Jobicy",
-      "description": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster. The same principles built into&hellip;",
-      "tags": [
-        "customer success"
-      ],
-      "verdict": "review",
-      "fit": 48,
-      "reasons": [
-        "Germany-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
       "title": "Senior Product Engineer (Fullstack)",
       "company": "Clipster",
       "location": "Europe, UK, Germany, France, European timezones",
@@ -1096,166 +1339,6 @@
       "fit": 46,
       "reasons": [
         "Europe-tagged — verify it's open to Africa first",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Senior Quality Engineer (Florianópolis)",
-      "company": "LawnStarter",
-      "location": "Brazil",
-      "url": "https://remotive.com/remote-jobs/qa/senior-quality-engineer-florianopolis-2090994",
-      "source": "Remotive",
-      "description": "This is a remote role for candidates located in Florianópolis, Brazil About LawnStarter LawnStarter is the nation's leading on-demand marketplace for lawn care and outdoor services, with over $100M in annual bookings. We're expanding beyond lawn care to become the one-stop shop for all home services, operating across three brands (LawnStarter, Lawn Love, Home Gnome) on a single shared platform. About Engineering at LawnStarter We've spent the last two years rebuilding the platform from the ground up: new customer app, new Pro onboarding, job distribution engine, and data infrastructure. The fo",
-      "tags": [
-        "backend",
-        "php",
-        "react",
-        "sql",
-        "ai/ml",
-        "automation",
-        "react native",
-        "laravel",
-        "cypress",
-        "onboarding",
-        "solid",
-        "engineering management",
-        "manual testing",
-        "marketplace",
-        "testing",
-        "infrastructure"
-      ],
-      "verdict": "review",
-      "fit": 46,
-      "reasons": [
-        "Brazil-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Senior Quality Engineer (São Paulo)",
-      "company": "LawnStarter",
-      "location": "Brazil",
-      "url": "https://remotive.com/remote-jobs/qa/senior-quality-engineer-sao-paulo-2090995",
-      "source": "Remotive",
-      "description": "This is a remote role for candidates located in São Paulo , Brazil About LawnStarter LawnStarter is the nation's leading on-demand marketplace for lawn care and outdoor services, with over $100M in annual bookings. We're expanding beyond lawn care to become the one-stop shop for all home services, operating across three brands (LawnStarter, Lawn Love, Home Gnome) on a single shared platform. About Engineering at LawnStarter We've spent the last two years rebuilding the platform from the ground up: new customer app, new Pro onboarding, job distribution engine, and data infrastructure. The found",
-      "tags": [
-        "backend",
-        "php",
-        "react",
-        "sql",
-        "ai/ml",
-        "automation",
-        "react native",
-        "laravel",
-        "cypress",
-        "onboarding",
-        "solid",
-        "engineering management",
-        "manual testing",
-        "marketplace",
-        "testing",
-        "infrastructure"
-      ],
-      "verdict": "review",
-      "fit": 46,
-      "reasons": [
-        "Brazil-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Senior Quality Engineer (Belo Horizonte)",
-      "company": "LawnStarter",
-      "location": "Brazil",
-      "url": "https://remotive.com/remote-jobs/qa/senior-quality-engineer-belo-horizonte-2090996",
-      "source": "Remotive",
-      "description": "This is a remote role for candidates located in Belo Horizonte, Brazil About LawnStarter LawnStarter is the nation's leading on-demand marketplace for lawn care and outdoor services, with over $100M in annual bookings. We're expanding beyond lawn care to become the one-stop shop for all home services, operating across three brands (LawnStarter, Lawn Love, Home Gnome) on a single shared platform. About Engineering at LawnStarter We've spent the last two years rebuilding the platform from the ground up: new customer app, new Pro onboarding, job distribution engine, and data infrastructure. The f",
-      "tags": [
-        "backend",
-        "php",
-        "react",
-        "sql",
-        "ai/ml",
-        "automation",
-        "react native",
-        "laravel",
-        "cypress",
-        "onboarding",
-        "solid",
-        "engineering management",
-        "manual testing",
-        "marketplace",
-        "testing",
-        "infrastructure"
-      ],
-      "verdict": "review",
-      "fit": 46,
-      "reasons": [
-        "Brazil-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Senior Quality Engineer (Campinas)",
-      "company": "LawnStarter",
-      "location": "Brazil",
-      "url": "https://remotive.com/remote-jobs/qa/senior-quality-engineer-campinas-2090998",
-      "source": "Remotive",
-      "description": "This is a remote role for candidates located in Campinas, Brazil. About LawnStarter LawnStarter is the nation's leading on-demand marketplace for lawn care and outdoor services, with over $100M in annual bookings. We're expanding beyond lawn care to become the one-stop shop for all home services, operating across three brands (LawnStarter, Lawn Love, Home Gnome) on a single shared platform. About Engineering at LawnStarter We've spent the last two years rebuilding the platform from the ground up: new customer app, new Pro onboarding, job distribution engine, and data infrastructure. The founda",
-      "tags": [
-        "backend",
-        "php",
-        "react",
-        "sql",
-        "ai/ml",
-        "automation",
-        "react native",
-        "laravel",
-        "cypress",
-        "onboarding",
-        "solid",
-        "engineering management",
-        "manual testing",
-        "marketplace",
-        "testing",
-        "infrastructure"
-      ],
-      "verdict": "review",
-      "fit": 46,
-      "reasons": [
-        "Brazil-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Senior Quality Engineer (Porto Alegre)",
-      "company": "LawnStarter",
-      "location": "Brazil",
-      "url": "https://remotive.com/remote-jobs/qa/senior-quality-engineer-porto-alegre-2090997",
-      "source": "Remotive",
-      "description": "This is a remote role for candidates located in Porto Alegre, Brazil About LawnStarter LawnStarter is the nation's leading on-demand marketplace for lawn care and outdoor services, with over $100M in annual bookings. We're expanding beyond lawn care to become the one-stop shop for all home services, operating across three brands (LawnStarter, Lawn Love, Home Gnome) on a single shared platform. About Engineering at LawnStarter We've spent the last two years rebuilding the platform from the ground up: new customer app, new Pro onboarding, job distribution engine, and data infrastructure. The fou",
-      "tags": [
-        "backend",
-        "php",
-        "react",
-        "sql",
-        "ai/ml",
-        "automation",
-        "react native",
-        "laravel",
-        "cypress",
-        "onboarding",
-        "solid",
-        "engineering management",
-        "manual testing",
-        "marketplace",
-        "testing",
-        "infrastructure"
-      ],
-      "verdict": "review",
-      "fit": 46,
-      "reasons": [
-        "Brazil-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -1560,19 +1643,60 @@
       ]
     },
     {
-      "title": "Enterprise Customer Success Manager",
-      "company": "Datadog",
-      "location": "Thailand",
-      "url": "https://jobicy.com/jobs/148737-enterprise-customer-success-manager-2",
-      "source": "Jobicy",
-      "description": "As an Enterprise Customer Success Manager, you will proactively drive new product attachment and effective strong relationships across our largest and most strategic customers in Thailand. You’ll advocate for the customer internally and focus on a positive customer experience. Interactions are rooted in relationship-management, first and foremost, while also advocating for growth opportunities. Enterprise Customer&hellip;",
+      "title": "Human Resources Generalist",
+      "company": "Insight Global",
+      "location": "Washington, Washington, United States",
+      "url": "https://remoteOK.com/remote-jobs/remote-human-resources-generalist-insight-global-1135202",
+      "source": "RemoteOK",
+      "description": "Title: HR Generalist/Recruiter Location: Remote (Washington State preferred) 6 month contract to hire Pay: $30-32/hr Required Skills &amp; Experience Qualifications: - 3+ years of experience in Human Resources, Talent Acquisition, or a combined HR/Recruiting role. - Experience managing payroll, benefits administration, and employee lifecycle processes. - Proven full-cycle recruiting experience. - Strong knowledge of employment laws and HR best practices. - Experience with HRIS, payroll, and applicant tracking systems. - Excellent communication, organizational, and relationship-building skills.",
       "tags": [
-        "customer success"
+        "design",
+        "sys admin",
+        "recruiter",
+        "marketing",
+        "exec",
+        "senior",
+        "ops",
+        "stats",
+        "medical",
+        "full time",
+        "digital nomad",
+        "jira",
+        "saas",
+        "macos",
+        "python",
+        "technical",
+        "customer support",
+        "dev",
+        "travel",
+        "finance",
+        "video",
+        "cloud",
+        "mobile",
+        "excel",
+        "golang",
+        "junior",
+        "photoshop",
+        "illustrator",
+        "hr",
+        "consulting",
+        "speech",
+        "engineer",
+        "salesforce",
+        "education",
+        "microsoft",
+        "content writing",
+        "sales",
+        "designer",
+        "testing",
+        "ads",
+        "payroll",
+        "legal"
       ],
       "verdict": "review",
       "fit": 40,
       "reasons": [
-        "location unconfirmed — verify it's open to Africa"
+        "United states-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -1736,21 +1860,745 @@
       ]
     },
     {
-      "title": "Pitch us a role",
-      "company": "Alloy",
-      "location": "Greater Sydney Area,",
-      "url": "https://remoteOK.com/remote-jobs/remote-pitch-us-a-role-alloy-1135062",
+      "title": "DiseÃ±ador GrÃ¡fico Junior",
+      "company": "workLATAM",
+      "location": "Delaware,",
+      "url": "https://remoteOK.com/remote-jobs/remote-disenador-grafico-junior-worklatam-1135195",
       "source": "RemoteOK",
-      "description": "At Alloy, we're building the Cloud Playground for software teams â a collaborative workspace where anyone in a company can explore their ideas, build features, and ship improvements to the product. We're a small team that all believe in relentless focus, fast execution, and building products that help people work together with AI. We've raised over $7M USD from some of the best investors in Australia and the world. About The Role If youâre excited about Alloy but none of the open roles fit, still reach out. In early-stage startups, the highest-impact work isnât always neatly packaged int",
+      "description": "En Tribu Offline estamos buscando un(a) DiseÃ±ador(a) GrÃ¡fico(a) Junior creativo(a) para sumarse a nuestro equipo de manera remota. Â¿QuÃ© harÃ¡s? DiseÃ±ar piezas grÃ¡ficas para redes sociales (posts, stories y otros formatos digitales). Desarrollar recursos grÃ¡ficos para eventos presenciales (flyers, afiches, seÃ±alÃ©tica, credenciales, merchandising, entre otros). Adaptar y mantener la lÃ­nea grÃ¡fica de la marca en diferentes formatos. Apoyar en la conceptualizaciÃ³n visual de campaÃ±as y actividades. Preparar archivos finales para impresiÃ³n y publicaciÃ³n digital. Requisitos Dominio de ",
       "tags": [
+        "design",
+        "sys admin",
+        "recruiter",
+        "marketing",
+        "exec",
+        "senior",
+        "ops",
+        "stats",
+        "medical",
+        "full time",
+        "digital nomad",
+        "jira",
+        "saas",
+        "macos",
+        "python",
+        "technical",
+        "customer support",
         "dev",
+        "travel",
+        "finance",
+        "video",
         "cloud",
+        "mobile",
+        "excel",
+        "golang",
+        "junior",
+        "photoshop",
+        "illustrator"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
+      "title": "Marketing Associate",
+      "company": "Red Rover",
+      "location": "Exton, Exton, Pennsylvania, United States",
+      "url": "https://remoteOK.com/remote-jobs/remote-marketing-associate-red-rover-1135198",
+      "source": "RemoteOK",
+      "description": "Description Overview: Red Rover is seeking an organized, proactive, and eager-to-learn budding marketer or early-career marketing professional to support the execution, coordination, and day-to-day operations of our growing marketing organization as a Marketing Associate. The Marketing Associate plays an important role in helping ongoing campaigns, programs, and initiatives stay organized, execute successfully, and remain aligned across marketing and cross-functional teams. This role collaborates across teams, contributing to a wide variety of marketing initiatives and projects. Working alongs",
+      "tags": [
+        "design",
+        "sys admin",
+        "recruiter",
+        "marketing",
+        "exec",
+        "senior",
+        "ops",
+        "stats",
+        "medical",
+        "full time",
+        "digital nomad",
+        "jira",
+        "saas",
+        "macos",
+        "python",
+        "technical",
+        "customer support",
+        "dev",
+        "travel",
+        "finance",
+        "video",
+        "cloud",
+        "mobile",
+        "excel",
+        "golang",
+        "junior",
+        "photoshop",
+        "illustrator",
+        "hr",
+        "consulting",
+        "speech",
+        "engineer",
+        "salesforce",
+        "education",
+        "microsoft",
+        "content writing",
+        "sales"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "United states-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "Help Desk IT Support Specialist",
+      "company": "Umpisa Inc",
+      "location": "Pasig, Pasig, National Capital Region, Philippines",
+      "url": "https://remoteOK.com/remote-jobs/remote-help-desk-it-support-specialist-umpisa-inc-1135223",
+      "source": "RemoteOK",
+      "description": "At Umpisa Inc., our mission is to make the Philippines be known globally as a tech hub. Umpisa Inc. is a progressive technology services company that partners with select industries, clients and people to work on pioneering and industry-changing solutions via digital transformation, modern software development and venture building. We create a set of world-class and impactful products and solutions to help organizations and individuals live better lives. We offer demanding, challenging and rewarding careers in software development, product development, emerging technologies, and more for the r",
+      "tags": [
+        "virtual assistant",
+        "education",
+        "customer support",
+        "marketing",
+        "video",
+        "microsoft",
+        "exec",
+        "ops",
+        "excel",
+        "data entry",
+        "jira",
+        "hr",
+        "finance",
+        "cloud",
+        "admin",
+        "legal",
+        "sys admin",
+        "recruiter",
+        "macos",
+        "infosec",
+        "technical",
+        "dev",
+        "scrum",
         "digital nomad"
       ],
       "verdict": "review",
       "fit": 36,
       "reasons": [
         "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
+      "title": "Monitor PedagÃ³gico OAB",
+      "company": "VÃ­cio",
+      "location": "Fortaleza, Fortaleza, CearÃ¡, Brasil",
+      "url": "https://remoteOK.com/remote-jobs/remote-monitor-pedagogico-oab-vicio-1135254",
+      "source": "RemoteOK",
+      "description": "Se vocÃª Ã© apaixonado(a) por ensino jurÃ­dico, gosta de ajudar pessoas a aprender e domina Direito Penal e Processual Penal, essa oportunidade pode ser para vocÃª! O que vocÃª farÃ¡ no dia a dia? Responder dÃºvidas dos alunos na plataforma da VÃ­cio de uma Estudante; Apoiar professores durante as aulas ao vivo; Produzir, revisar e organizar materiais didÃ¡ticos; Contribuir para que a experiÃªncia de aprendizagem dos alunos seja cada vez melhor. O que buscamos? AprovaÃ§Ã£o na 2Âª fase da OAB em Direito Penal; Conhecimento sÃ³lido em Direito Penal e Processual Penal; Conhecimento em Google Work",
+      "tags": [
+        "dev",
+        "design",
+        "technical",
+        "testing",
+        "exec",
+        "quality assurance",
+        "finance",
+        "java",
+        "cloud",
+        "nosql",
+        "sql",
+        "mongo",
+        "senior",
+        "sys admin",
+        "golang",
+        "engineer",
+        "backend",
+        "digital nomad",
+        "web dev",
+        "c",
+        "excel",
+        "marketing",
+        "photoshop",
+        "illustrator"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
+      "title": "Interest Great Yellow",
+      "company": "Great Yellow",
+      "location": "London,",
+      "url": "https://remoteOK.com/remote-jobs/remote-interest-great-yellow-great-yellow-1135215",
+      "source": "RemoteOK",
+      "description": "Share your information with the Great Yellow Careers Team, and we can contact you about future opportunities that could be a match. Add your CV to our database. Please mention the word **LUSH** and tag RMTM1LjExOS4yMzkuMTMx when applying to show you read the job post completely (#RMTM1LjExOS4yMzkuMTMx). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "tags": [
+        "customer support",
+        "non tech",
+        "testing",
+        "cloud",
+        "ops",
+        "medical"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
+      "title": "Office Admin",
+      "company": "TruBlue of The Woodlands",
+      "location": "Delaware, Delaware, United States",
+      "url": "https://remoteOK.com/remote-jobs/remote-office-admin-trublue-of-the-woodlands-1135240",
+      "source": "RemoteOK",
+      "description": "Customer Care &amp; Administrative Coordinator (Remote) TruBlue of Delmarva is seeking an organized, energetic, and customer-focused Customer Care &amp; Administrative Coordinator to join our growing team. This position plays a vital role in ensuring every customer receives exceptional service from their first phone call through project completion. We're looking for someone who thrives in a fast-paced environment, enjoys helping people, and takes pride in staying organized. If you're a self-starter with excellent communication skills and a passion for providing outstanding customer service, we",
+      "tags": [
+        "exec",
+        "travel",
+        "full time",
+        "design",
+        "salesforce",
+        "hr",
+        "education",
+        "customer support",
+        "marketing",
+        "speech",
+        "quality assurance",
+        "finance",
+        "cloud",
+        "ops",
+        "legal",
+        "sales",
+        "medical",
+        "engineer",
+        "backend",
+        "digital nomad",
+        "coordinator",
+        "dev",
+        "web dev",
+        "admin",
+        "microsoft",
+        "content writing"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "United states-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "Retoucher",
+      "company": "Ryz Labs",
+      "location": "Buenos Aires, Buenos Aires, Provincia de Buenos Aires, Argentina",
+      "url": "https://remoteOK.com/remote-jobs/remote-retoucher-ryz-labs-1135191",
+      "source": "RemoteOK",
+      "description": "Remote position (only for professionals based in Argentina or Uruguay) RYZ Labs is looking for a Pre-Press Retoucher to join one of our clientâs teams, from the sports merchandising industry. The ideal candidate will translate card designs into beautiful, error-free, and quality-checked forms that are ready for the press. This professional will support imaging, color correction, and retouching of card images/designs in line with the Pre-Press teamâs commitment to excellence. The ideal candidate is design-savvy and organized, exhibits strong attention to detail, and brings deep experience i",
+      "tags": [
+        "design",
+        "customer support",
+        "dev",
+        "marketing",
+        "cloud",
+        "exec",
+        "ops",
+        "photoshop",
+        "digital nomad"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "Argentina-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "Enterprise IT Support Specialist",
+      "company": "Nymbus",
+      "location": "Jacksonville, Jacksonville, Florida, United States",
+      "url": "https://remoteOK.com/remote-jobs/remote-enterprise-it-support-specialist-nymbus-1135194",
+      "source": "RemoteOK",
+      "description": "Nymbus (https://nymbus.com/) isn't just a leader in fintech; we're a community of innovators passionate about reimagining banking. Our award-winning modern core platform and cloud-based technology serve as the backbone for financial institutions eager to modernize and excel. We operate with an AI-first mindset across our business, continuously improving how we work and the value we deliver to our clients. Our culture is grounded in collaboration, accountability, and a strong commitment to execution. WORK ENVIRONMENT: Nymbus is a remote-first company. Occasional travel may be required for clien",
+      "tags": [
+        "design",
+        "sys admin",
+        "recruiter",
+        "marketing",
+        "exec",
+        "senior",
+        "ops",
+        "stats",
+        "medical",
+        "full time",
+        "digital nomad",
+        "jira",
+        "saas",
+        "macos",
+        "python",
+        "technical",
+        "customer support",
+        "dev",
+        "travel",
+        "finance",
+        "video",
+        "cloud",
+        "mobile",
+        "excel",
+        "golang"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "United states-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "Graphic Designer",
+      "company": "Sezzle",
+      "location": "Ciudad de MÃ©xico, Ciudad de MÃ©xico, MÃ©xico",
+      "url": "https://remoteOK.com/remote-jobs/remote-graphic-designer-sezzle-1135192",
+      "source": "RemoteOK",
+      "description": "About Sezzle: With a mission to financially empower the next generation, Sezzle is revolutionizing the shopping experience beyond payments, blending cutting-edge tech with seamless, interest-free installment plans that make shopping smarter and more accessible. Weâre not just transforming payments; weâre redefining how people discover, interact with, and purchase the things they love while driving real impact on merchant sales through increased conversions and higher order values. As we continue to shape the future of fintech and retail, weâre building an innovative, dynamic team passion",
+      "tags": [
+        "design",
+        "customer support",
+        "dev",
+        "marketing",
+        "cloud",
+        "exec",
+        "ops",
+        "photoshop",
+        "digital nomad",
+        "jira",
+        "game dev",
+        "designer",
+        "finance",
+        "education",
+        "ads",
+        "sales",
+        "illustrator"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
+      "title": "Nurse Manager",
+      "company": "Call 4 Health",
+      "location": "Florida,",
+      "url": "https://remoteOK.com/remote-jobs/remote-nurse-manager-call-4-health-1135204",
+      "source": "RemoteOK",
+      "description": "Job Details Description Job Summary The Nurse Manager at Call 4 Health will oversee the daily operations of the Nurse Triage team, ensuring the highest quality of patient care, compliance with healthcare regulations, and optimal staff performance. This leadership role requires a licensed Registered Nurse (RN) with strong Operations and Triage expertise, managerial experience, and the ability to foster a supportive, high-performance work environment. This position will work closely with internal teams and directly with the customer to ensure seamless service delivery to patients. Key Responsibi",
+      "tags": [
+        "design",
+        "sys admin",
+        "recruiter",
+        "marketing",
+        "exec",
+        "senior",
+        "ops",
+        "stats",
+        "medical",
+        "full time",
+        "digital nomad",
+        "jira",
+        "saas",
+        "macos",
+        "python",
+        "technical",
+        "customer support",
+        "dev",
+        "travel",
+        "finance",
+        "video",
+        "cloud",
+        "mobile",
+        "excel",
+        "golang",
+        "junior",
+        "photoshop",
+        "illustrator",
+        "hr",
+        "consulting",
+        "speech",
+        "engineer",
+        "salesforce",
+        "education",
+        "microsoft",
+        "content writing",
+        "sales",
+        "designer",
+        "testing",
+        "ads",
+        "payroll",
+        "legal"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
+      "title": "Mortgage Loan Processor",
+      "company": "Granite Bank",
+      "location": "Minnesota, Minnesota, United States",
+      "url": "https://remoteOK.com/remote-jobs/remote-mortgage-loan-processor-granite-bank-1135196",
+      "source": "RemoteOK",
+      "description": "Job Title: Mortgage Loan Processor Location: Remote Reports To: Processing Manager Employment Type: Full-Time Pay Range: $24.00 - $28.00/hr About Granite Bank :Granite Bank is one of the fastest-growing banks in Minnesota! Weâre a locally owned community bank, and weâre growing our team of people on a mission to help as many people as possible achieve their financial and homeownership goals. We live by our core values: accessibility, agility, transparency, family feel, and empowerment. Whether itâs expanding our product line or having fun company events, weâre prepared to adapt to an e",
+      "tags": [
+        "design",
+        "sys admin",
+        "recruiter",
+        "marketing",
+        "exec",
+        "senior",
+        "ops",
+        "stats",
+        "medical",
+        "full time",
+        "digital nomad",
+        "jira",
+        "saas",
+        "macos",
+        "python",
+        "technical",
+        "customer support",
+        "dev",
+        "travel",
+        "finance",
+        "video",
+        "cloud",
+        "mobile",
+        "excel",
+        "golang",
+        "junior",
+        "photoshop",
+        "illustrator",
+        "hr",
+        "consulting",
+        "speech"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "United states-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "Freelance grabaciÃ³n de tareas cotidianas para proyecto de IA",
+      "company": "Mindrift Data Annotation Projects",
+      "location": "Guayaquil, Guayaquil, Guayas, Ecuador",
+      "url": "https://remoteOK.com/remote-jobs/remote-freelance-grabacion-de-tareas-cotidianas-para-proyecto-de-ia-mindrift-data-annotation-projects-1135257",
+      "source": "RemoteOK",
+      "description": "Gana dinero grabando actividades de tu vida diaria Buscamos personas para grabar actividades cotidianas desde una perspectiva en primera persona utilizando una aplicaciÃ³n mÃ³vil. Puedes grabar tareas que ya realizas normalmente, como: Cocinar Limpiar Doblar ropa Ordenar espacios Hacer jardinerÃ­a Pasear al perro Los videos ayudan a entrenar sistemas de IA y robÃ³tica para comprender cÃ³mo las personas interactÃºan con el mundo real. Lo que ofrecemos: Horarios flexibles Trabajo remoto por proyecto USD $6 por hora de contenido aprobado Bono adicional por la primera hora aprobada Requisitos: iPh",
+      "tags": [
+        "dev",
+        "design",
+        "technical",
+        "testing",
+        "exec",
+        "quality assurance",
+        "finance",
+        "java",
+        "cloud",
+        "nosql",
+        "sql",
+        "mongo",
+        "senior",
+        "sys admin",
+        "golang",
+        "engineer",
+        "backend",
+        "digital nomad",
+        "web dev",
+        "c",
+        "excel",
+        "marketing",
+        "photoshop",
+        "illustrator",
+        "consulting",
+        "data annotation"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
+      "title": "Freelance Designer",
+      "company": "Abamedia",
+      "location": "Allen County,",
+      "url": "https://remoteOK.com/remote-jobs/remote-freelance-designer-abamedia-1135201",
+      "source": "RemoteOK",
+      "description": "About Us We prioritize hiring individuals based on their core values rather than solely focusing on hard skills. Our approach is to empower exceptional candidates to excel in a role by leveraging their strengths, regardless of whether they precisely match a job description. As a result, we welcome applicants with varying levels of experience, both exceeding and falling short of the requirements outlined below. PixelPiew is a privately owned studio specializing in design, branding, and creative services. Our mission is to drive the evolution and prosperity of financial services, B2B, corporate,",
+      "tags": [
+        "design",
+        "sys admin",
+        "recruiter",
+        "marketing",
+        "exec",
+        "senior",
+        "ops",
+        "stats",
+        "medical",
+        "full time",
+        "digital nomad",
+        "jira",
+        "saas",
+        "macos",
+        "python",
+        "technical",
+        "customer support",
+        "dev",
+        "travel",
+        "finance",
+        "video",
+        "cloud",
+        "mobile",
+        "excel",
+        "golang",
+        "junior",
+        "photoshop",
+        "illustrator",
+        "hr",
+        "consulting",
+        "speech",
+        "engineer",
+        "salesforce",
+        "education",
+        "microsoft",
+        "content writing",
+        "sales",
+        "designer",
+        "testing",
+        "ads"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
+      "title": "Receptionist",
+      "company": "Evolve Psychiatry",
+      "location": "Massapequa, Massapequa, New York, United States",
+      "url": "https://remoteOK.com/remote-jobs/remote-receptionist-evolve-psychiatry-1135199",
+      "source": "RemoteOK",
+      "description": "Job Title: Remote Therapist Receptionist Location: Remote (EST) Employment Type: Full-Time About The Role Evolve Psychiatry is seeking a compassionate, organized, and customer-service-oriented Remote Therapist Receptionist to support our growing team of licensed therapists. This individual serves as the primary administrative point of contact for therapy patients, ensuring a seamless experience from initial inquiry through ongoing treatment. The ideal candidate is highly organized, empathetic, comfortable working in a fast-paced healthcare environment, and able to manage multiple priorities wh",
+      "tags": [
+        "design",
+        "sys admin",
+        "recruiter",
+        "marketing",
+        "exec",
+        "senior",
+        "ops",
+        "stats",
+        "medical",
+        "full time",
+        "digital nomad",
+        "jira",
+        "saas",
+        "macos",
+        "python",
+        "technical",
+        "customer support",
+        "dev",
+        "travel",
+        "finance",
+        "video",
+        "cloud",
+        "mobile",
+        "excel",
+        "golang",
+        "junior",
+        "photoshop",
+        "illustrator",
+        "hr",
+        "consulting",
+        "speech",
+        "engineer",
+        "salesforce",
+        "education",
+        "microsoft",
+        "content writing",
+        "sales"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "United states-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "AtenciÃ³n al cliente presencial y remota Montevideo",
+      "company": "AyM Santa Lucia",
+      "location": "Montevideo,",
+      "url": "https://remoteOK.com/remote-jobs/remote-atencion-al-cliente-presencial-y-remota-montevideo-aym-santa-lucia-1135249",
+      "source": "RemoteOK",
+      "description": "Puesto de AtenciÃ³n al cliente presencial, remota (chat, telÃ©fono) y web para organismo pÃºblico en la localidad de Montevideo InformaciÃ³n sobre el puesto Puesto: AtenciÃ³n al cliente presencial, remota (chat, telÃ©fono) y web (Tercerizado Ente PÃºblico por AyM Santa LucÃ­a Ltda.) Lugar: Montevideo Horario: 8 (ocho) horas diarias en ciclos semanales de 40 (cuarenta) horas Salario nominal: $48.048 pesos uruguayos Contrato: 12 meses Requisitos Curriculum vitae actualizado CÃ©dula y carnet de salud actualizados FormaciÃ³n curricular: Secundaria completa o bachillerato tecnolÃ³gico (UTU) complet",
+      "tags": [
+        "dev",
+        "design",
+        "technical",
+        "testing",
+        "exec",
+        "quality assurance",
+        "finance",
+        "java",
+        "cloud",
+        "nosql",
+        "sql",
+        "mongo",
+        "senior",
+        "sys admin",
+        "golang",
+        "engineer",
+        "backend",
+        "digital nomad",
+        "web dev",
+        "c",
+        "excel"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
+      "title": "Backend Developer",
+      "company": "albo",
+      "location": "Ciudad de MÃ©xico, Ciudad de MÃ©xico, MÃ©xico",
+      "url": "https://remoteOK.com/remote-jobs/remote-backend-developer-albo-1135248",
+      "source": "RemoteOK",
+      "description": "albo albo is a leading fintech company offering financial products to individuals and SMBs with the mission to bring financial freedom to everyone everywhere. About The Role As a Senior Backend Engineer you'll design, build, and operate the microservices that power albo's core financial products â from card issuing and authorization to credit lines, payments, and money movement. You'll own services end-to-end across our polyglot, event-driven platform, making pragmatic architectural decisions that keep money-critical flows correct, idempotent, and observable at scale. You'll work close to th",
+      "tags": [
+        "dev",
+        "design",
+        "technical",
+        "testing",
+        "exec",
+        "quality assurance",
+        "finance",
+        "java",
+        "cloud",
+        "nosql",
+        "sql",
+        "mongo",
+        "senior",
+        "sys admin",
+        "golang",
+        "engineer",
+        "backend",
+        "digital nomad"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
+      "title": "Diretor de Arte",
+      "company": "Digi",
+      "location": "SÃ£o Paulo e RegiÃ£o",
+      "url": "https://remoteOK.com/remote-jobs/remote-diretor-de-arte-digi-1135253",
+      "source": "RemoteOK",
+      "description": "Description: Buscamos um(a) Diretor(a) de Arte com perfil operacional, organizado(a) e detalhista(a) para atuar na produÃ§Ã£o e no desdobramento de materiais grÃ¡ficos e digitais. Esta posiÃ§Ã£o Ã© ideal para profissionais em nÃ­vel jÃºnior/pleno, com experiÃªncia em agÃªncias ou departamentos de criaÃ§Ã£o, que tenham domÃ­nio tÃ©cnico das ferramentas de design e capacidade de garantir qualidade e consistÃªncia visual nas entregas. Importante: esta vaga nÃ£o tem como foco a criaÃ§Ã£o de Key Visuals ou a concepÃ§Ã£o criativa de campanhas. O(a) profissional atuarÃ¡ principalmente na adaptaÃ§Ã£o,",
+      "tags": [
+        "dev",
+        "design",
+        "technical",
+        "testing",
+        "exec",
+        "quality assurance",
+        "finance",
+        "java",
+        "cloud",
+        "nosql",
+        "sql",
+        "mongo",
+        "senior",
+        "sys admin",
+        "golang",
+        "engineer",
+        "backend",
+        "digital nomad",
+        "web dev",
+        "c",
+        "excel",
+        "marketing",
+        "photoshop",
+        "illustrator"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
+      "title": "Ejecutivo a de Cuentas BBVA Seguros NEA",
+      "company": "BBVA en Argentina",
+      "location": "Buenos Aires, Buenos Aires, Provincia de Buenos Aires, Argentina",
+      "url": "https://remoteOK.com/remote-jobs/remote-ejecutivo-a-de-cuentas-bbva-seguros-nea-bbva-en-argentina-1135252",
+      "source": "RemoteOK",
+      "description": "Â¿Te entusiasma hacer crecer tu carrera? BBVA es una compaÃ±Ã­a global con mÃ¡s de 160 aÃ±os de historia que opera en mÃ¡s de 25 paÃ­ses donde damos servicio a mÃ¡s de 80 millones de clientes. Somos mÃ¡s de 121.000 profesionales trabajando en equipos multidisciplinares con perfiles tan diversos como financieros, expertos legales, cientÃ­ficos de datos, desarrolladores, ingenieros y diseÃ±adores Nos encontramos en la bÃºsqueda de un/a Ejecutivo/a de Cuentas para sumarse al equipo comercial de BBVA Seguros.La posiciÃ³n tiene un fuerte foco en el desarrollo comercial y la gestiÃ³n de relaciones c",
+      "tags": [
+        "dev",
+        "design",
+        "technical",
+        "testing",
+        "exec",
+        "quality assurance",
+        "finance",
+        "java",
+        "cloud",
+        "nosql",
+        "sql",
+        "mongo",
+        "senior",
+        "sys admin",
+        "golang",
+        "engineer",
+        "backend",
+        "digital nomad",
+        "web dev",
+        "c",
+        "excel"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "Argentina-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "Engineering Manager I, Applications",
+      "company": "StackAdapt",
+      "location": "Canada",
+      "url": "https://jobicy.com/jobs/149602-engineering-manager-i-applications",
+      "source": "Jobicy",
+      "description": "StackAdapt is the leading technology company that empowers marketers to reach, engage, and convert audiences with precision. With 465 billion automated optimizations per second, the AI-powered StackAdapt Marketing Platform seamlessly connects brand and performance marketing to drive measurable results across the entire customer journey. The most forward-thinking marketers choose StackAdapt to orchestrate high-impact campaigns across&hellip;",
+      "tags": [
+        "software engineering"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "Canada-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -1882,22 +2730,6 @@
       ]
     },
     {
-      "title": "Software Development Engineer in Test",
-      "company": "Sporty Group",
-      "location": "EMEA",
-      "url": "https://jobicy.com/jobs/145584-software-development-engineer-in-test",
-      "source": "Jobicy",
-      "description": "About the roleWe are looking for a Senior SDET (Software Development Engineer in Test) to improve software quality across the engineering organization through automation, testing platforms, quality standards and engineering enablement. This is not a feature-testing role. The focus is on building scalable quality solutions and helping teams own quality.Our Stack Programming language: Python DB:&hellip;",
-      "tags": [
-        "software engineering"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "EMEA-tagged — verify it's open to Africa first"
-      ]
-    },
-    {
       "title": "Sr. Machine Learning Solutions Architect",
       "company": "phData",
       "location": "LATAM",
@@ -1934,6 +2766,71 @@
       "fit": 30,
       "reasons": [
         "Europe-tagged — verify it's open to Africa first",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Strategy and Operations Lead",
+      "company": "PatientIQ",
+      "location": "Chicago, Chicago, Illinois, United States",
+      "url": "https://remoteOK.com/remote-jobs/remote-strategy-and-operations-lead-patientiq-1135197",
+      "source": "RemoteOK",
+      "description": "About PatientIQ PatientIQ is a fast-growing health tech company on a mission to improve patient outcomes. We partner with healthcare providers, medical device companies, and researchers to collect, analyze, and act on patient-reported outcomes data at scale â powering smarter clinical decisions and accelerating the future of value-based care. Headquartered in Chicago and backed by top-tier venture capital and major health system investors, PatientIQ is building the largest platform for healthcare providers, industry partners, and researchers to collaborate on what matters most: helping patie",
+      "tags": [
+        "design",
+        "sys admin",
+        "recruiter",
+        "marketing",
+        "exec",
+        "senior",
+        "ops",
+        "stats",
+        "medical",
+        "full time",
+        "digital nomad",
+        "jira",
+        "saas",
+        "macos",
+        "python",
+        "technical",
+        "customer support",
+        "dev",
+        "travel",
+        "finance",
+        "video",
+        "cloud",
+        "mobile",
+        "excel",
+        "golang",
+        "junior",
+        "photoshop",
+        "illustrator",
+        "hr",
+        "consulting",
+        "speech",
+        "engineer"
+      ],
+      "verdict": "review",
+      "fit": 30,
+      "reasons": [
+        "United states-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Senior Software Engineer",
+      "company": "Defense Unicorns",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/143685-senior-software-engineer-12",
+      "source": "Jobicy",
+      "description": "Role Description: Defense Unicorns is seeking a Senior Full-Stack Engineer to join our Fleet team, focused on building and evolving Fleet Management and Edge Management capabilities within the UDS platform.This role is centered on developing complex, data-driven interfaces that allow users to understand, manage, and operate distributed systems across edge and remote environments. These are not&hellip;",
+      "tags": [
+        "software engineering"
+      ],
+      "verdict": "review",
+      "fit": 30,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -2460,41 +3357,6 @@
       ]
     },
     {
-      "title": "Staff Product Engineer (São Paulo)",
-      "company": "LawnStarter",
-      "location": "Brazil",
-      "url": "https://remotive.com/remote-jobs/product/staff-product-engineer-sao-paulo-2091000",
-      "source": "Remotive",
-      "description": "This is a remote role for candidates located in São Paulo , Brazil. LawnStarter LawnStarter is the nation's leading on-demand marketplace for lawn care and outdoor services, with over $100M in annual bookings. We're expanding beyond lawn care to become the one-stop shop for all home services — operating across three brands (LawnStarter, Lawn Love, Home Gnome) on a single shared platform. About Engineering at LawnStarter We build in small, focused initiative teams: a Product Engineer working alongside a PM and a designer, supported by an Engineering Manager who helps you grow. You'll also work ",
-      "tags": [
-        "aws",
-        "backend",
-        "frontend",
-        "php",
-        "react",
-        "security",
-        "ui/ux",
-        "ai/ml",
-        "jira",
-        "react native",
-        "documentation",
-        "laravel",
-        "typescript",
-        "people management",
-        "prototyping",
-        "engineering management",
-        "marketplace",
-        "github",
-        "rest",
-        "datadog"
-      ],
-      "verdict": "blocked",
-      "fit": 0,
-      "reasons": [
-        "Staff-level — usually 5–10+ yrs, you have ~4"
-      ]
-    },
-    {
       "title": "Staff Site Reliability Engineer, Production Engineering",
       "company": "Dropbox",
       "location": "Anywhere in the World",
@@ -2596,6 +3458,22 @@
       "fit": 0,
       "reasons": [
         "Principal-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
+      "title": "Vice President, Software Engineering",
+      "company": "Experian",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/149597-vice-president-software-engineering",
+      "source": "Jobicy",
+      "description": "Company DescriptionExperian is a global data and technology company, powering opportunities for people and businesses around the world. We operate across a range of markets, from financial services to healthcare, automotive, agribusiness, insurance, and many more. Experian invests in people and new advanced technologies to unlock the power of data. We have an amazing team&hellip;",
+      "tags": [
+        "software engineering"
+      ],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Vice president-level — usually 5–10+ yrs, you have ~4"
       ]
     },
     {
