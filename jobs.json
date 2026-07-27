@@ -1,11 +1,11 @@
 {
-  "generated": "2026-07-26 08:04 UTC",
-  "count": 173,
+  "generated": "2026-07-27 09:26 UTC",
+  "count": 158,
   "summary": {
-    "scanned": 173,
-    "eligible": 64,
-    "review": 83,
-    "blocked": 26
+    "scanned": 158,
+    "eligible": 61,
+    "review": 75,
+    "blocked": 22
   },
   "jobs": [
     {
@@ -638,7 +638,7 @@
       "location": "Worldwide",
       "url": "https://remoteOK.com/remote-jobs/remote-executive-assistant-the-mom-project-1135306",
       "source": "RemoteOK",
-      "description": "Posted 5:00:38 PM. Founded in 2008, our Customer represents a global travel community that offers magical end-to-endâ¦See this and similar jobs on LinkedIn. Please mention the word **HARMONIOUSLY** and tag RNDguMjE0LjUzLjY5 when applying to show you read the job post completely (#RNDguMjE0LjUzLjY5). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Posted 5:00:38 PM. Founded in 2008, our Customer represents a global travel community that offers magical end-to-endâ¦See this and similar jobs on LinkedIn. Please mention the word **HARMONIOUSLY** and tag RMTcyLjE3Mi4yMDUuMjE2 when applying to show you read the job post completely (#RMTcyLjE3Mi4yMDUuMjE2). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "tags": [
         "design",
         "sys admin",
@@ -689,7 +689,7 @@
       "location": "Worldwide",
       "url": "https://remoteOK.com/remote-jobs/remote-business-development-manager-temu-1135291",
       "source": "RemoteOK",
-      "description": "Role Description: This is a full-time remote role for Business Development ManagerResponsibility:1.â¦ Please mention the word **THRILL** and tag RNDguMjE0LjUzLjY5 when applying to show you read the job post completely (#RNDguMjE0LjUzLjY5). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Role Description: This is a full-time remote role for Business Development ManagerResponsibility:1.â¦ Please mention the word **THRILL** and tag RMTcyLjE3Mi4yMDUuMjE2 when applying to show you read the job post completely (#RMTcyLjE3Mi4yMDUuMjE2). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "tags": [
         "react",
         "dev",
@@ -756,7 +756,7 @@
       "location": "Worldwide",
       "url": "https://remoteOK.com/remote-jobs/remote-business-development-executive-outsource-access-careers-1135287",
       "source": "RemoteOK",
-      "description": "This is a remote position.What We DoAt Outsource Access, we help HR professionals and businessâ¦ Please mention the word **CLEAN** and tag RNDguMjE0LjUzLjY5 when applying to show you read the job post completely (#RNDguMjE0LjUzLjY5). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "This is a remote position.What We DoAt Outsource Access, we help HR professionals and businessâ¦ Please mention the word **CLEAN** and tag RMTcyLjE3Mi4yMDUuMjE2 when applying to show you read the job post completely (#RMTcyLjE3Mi4yMDUuMjE2). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "tags": [
         "react",
         "dev",
@@ -795,74 +795,6 @@
         "ops",
         "hr",
         "bus dev"
-      ],
-      "verdict": "eligible",
-      "fit": 50,
-      "reasons": [
-        "remote — anywhere / global"
-      ]
-    },
-    {
-      "title": "UFC GYM Jurnior Graphic Designer",
-      "company": "UFC GYM",
-      "location": "Hollywood, Hollywood, Florida, United States",
-      "url": "https://remoteOK.com/remote-jobs/remote-ufc-gym-jurnior-graphic-designer-ufc-gym-1135299",
-      "source": "RemoteOK",
-      "description": "Benefits: Health insurance Opportunity for advancement Paid time off Vision insurance Wellness resources Employee discounts About UFC GYM UFC GYM is the first major brand extension of UFC, the world's premier mixed martial arts organization. As the pioneer of MMA-inspired fitness, UFC GYM offers members access to world-class training programs, group fitness classes, personal and small-group training, and youth programming across corporate and franchise locations worldwide. Our brand lives at the intersection of combat sports, fitness, and community and our marketing team brings that energy to ",
-      "tags": [
-        "design",
-        "sys admin",
-        "education",
-        "designer",
-        "customer support",
-        "marketing",
-        "web dev",
-        "video",
-        "cloud",
-        "exec",
-        "content writing",
-        "junior",
-        "golang",
-        "medical",
-        "ads",
-        "full time",
-        "digital nomad"
-      ],
-      "verdict": "eligible",
-      "fit": 50,
-      "reasons": [
-        "remote — anywhere / global"
-      ]
-    },
-    {
-      "title": "Programa de EstÃ¡gio Atendimento Remoto",
-      "company": "Nibo",
-      "location": "Worldwide",
-      "url": "https://remoteOK.com/remote-jobs/remote-programa-de-estagio-atendimento-remoto-nibo-1135250",
-      "source": "RemoteOK",
-      "description": "Nosso time de Atendimento Ã© essencial para garantir a satisfaÃ§Ã£o contÃ­nua e construirâ¦ Please mention the word **OVERTAKE** and tag RNDguMjE0LjUzLjY5 when applying to show you read the job post completely (#RNDguMjE0LjUzLjY5). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
-      "tags": [
-        "dev",
-        "design",
-        "technical",
-        "testing",
-        "exec",
-        "quality assurance",
-        "finance",
-        "java",
-        "cloud",
-        "nosql",
-        "sql",
-        "mongo",
-        "senior",
-        "sys admin",
-        "golang",
-        "engineer",
-        "backend",
-        "digital nomad",
-        "web dev",
-        "c",
-        "excel"
       ],
       "verdict": "eligible",
       "fit": 50,
@@ -962,22 +894,6 @@
       "source": "WeWorkRemotely",
       "description": "Headquarters: ignitionit.com URL: https://ignitionit.com APPLY HERE: https://go.cultureindex.com/p/bLvP56CvGHU Fully Remote · Work from home · Full-time (Eastern or Pacific time zones) · Apple-first&nbsp; TL;DR ignitionit.com is a seasoned, Apple-first MSP — in business for almost 30 years — and we're hiring a Help Desk Technician to be the friendly, capable first voice our clients reach when something isn't working. This position is a remote, work-from-home, full-time role. We've written this as a junior-to-mid-level job description because that's where most great people start on our team. Bu",
       "tags": [],
-      "verdict": "eligible",
-      "fit": 50,
-      "reasons": [
-        "remote — anywhere / global"
-      ]
-    },
-    {
-      "title": "GenAI Engineer",
-      "company": "NTT DATA",
-      "location": "LATAM",
-      "url": "https://jobicy.com/jobs/145940-genai-engineer",
-      "source": "Jobicy",
-      "description": "Job Title: GenAI EngineerLocation Preference: 100% remote in Mexico, Brasil, Peru, Chile working EST Time Zone OR onsite in Washington, D.C.Duration: 1-Year Assignment with possibility of extensionNTT DATA is a team of more than 139,000 diverse professionals operating in more than 50 countries worldwide. Our sectors of activity include telecommunications, finance, industry, utilities, energy, public&hellip;",
-      "tags": [
-        "software engineering"
-      ],
       "verdict": "eligible",
       "fit": 50,
       "reasons": [
@@ -1283,7 +1199,7 @@
       "location": "Brasil,",
       "url": "https://remoteOK.com/remote-jobs/remote-analista-de-infraestrutura-pleno-devops-melhor-envio-1135334",
       "source": "RemoteOK",
-      "description": "Anunciada 00:00:00. Com senso de dono e colaboraÃ§Ã£o, unimos forÃ§as para remover barreiras e impulsionarnegÃ³cios. NÃ£oâ¦ - veja esta vaga e outras semelhantes no LinkedIn. Please mention the word **REFORMING** and tag RNDguMjE0LjUzLjY5 when applying to show you read the job post completely (#RNDguMjE0LjUzLjY5). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Anunciada 00:00:00. Com senso de dono e colaboraÃ§Ã£o, unimos forÃ§as para remover barreiras e impulsionarnegÃ³cios. NÃ£oâ¦ - veja esta vaga e outras semelhantes no LinkedIn. Please mention the word **REFORMING** and tag RMTcyLjE3Mi4yMDUuMjE2 when applying to show you read the job post completely (#RMTcyLjE3Mi4yMDUuMjE2). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "tags": [
         "python",
         "docker",
@@ -1343,24 +1259,6 @@
       ]
     },
     {
-      "title": "Coordinator Infrastructure Design",
-      "company": "Town of Claremont",
-      "location": "Good Design,",
-      "url": "https://remoteOK.com/remote-jobs/remote-coordinator-infrastructure-design-town-of-claremont-1135355",
-      "source": "RemoteOK",
-      "description": "People and Safety Officer Closing Date: 12 August 2026 View the Information Pack View the Position Description Please mention the word **POLITENESS** and tag RNDguMjE0LjUzLjY5 when applying to show you read the job post completely (#RNDguMjE0LjUzLjY5). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
-      "tags": [
-        "design",
-        "coordinator",
-        "digital nomad"
-      ],
-      "verdict": "review",
-      "fit": 52,
-      "reasons": [
-        "location unconfirmed — verify it's open to Africa"
-      ]
-    },
-    {
       "title": "Site Reliability Engineer (SRE)",
       "company": "Bright Vision Technologies",
       "location": "New Jersey",
@@ -1389,6 +1287,22 @@
       ]
     },
     {
+      "title": "Customer Reliability Engineer - Infrastructure",
+      "company": "Astronomer",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/147812-customer-reliability-engineer-infrastructure",
+      "source": "Jobicy",
+      "description": "Astronomer empowers data teams to bring mission-critical software, analytics, and AI to life and is the company behind Astro, the industry-leading unified DataOps platform powered by Apache Airflow®. Astro accelerates building reliable data products that unlock insights, unleash AI value, and powers data-driven applications. Trusted by more than 800 of the world's leading enterprises, Astronomer&hellip;",
+      "tags": [
+        "technical support"
+      ],
+      "verdict": "review",
+      "fit": 52,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
       "title": "Atlassian Administrator 1726",
       "company": "Softgic",
       "location": "Anywhere",
@@ -1405,19 +1319,19 @@
       ]
     },
     {
-      "title": "Customer Solutions Architect, Amazon Connect",
-      "company": "Caylent",
-      "location": "Canada",
-      "url": "https://jobicy.com/jobs/149035-customer-solutions-architect-amazon-connect",
+      "title": "Senior Full-Stack Developer",
+      "company": "Automat-it",
+      "location": "Ukraine",
+      "url": "https://jobicy.com/jobs/143143-senior-full-stack-developer",
       "source": "Jobicy",
-      "description": "Caylent is a cloud native services company that helps organizations bring the best out of their people and technology using Amazon Web Services (AWS). We provide a full-range of AWS services including workload migrations and modernization, cloud native application development, DevOps, data engineering, security and compliance, and everything in between. At Caylent, our people always&hellip;",
+      "description": "DescriptionAutomat-it is an all-in AWS Premier Partner and Managed Services Provider specializing in the startup ecosystem. With over 800 customers and 500+ AWS certifications, Automat-it brings hands-on expertise in AI, DevOps, and FinOps to empower fast-paced startups to grow, deliver &amp; win. Our customers save significant time-to-market and optimize their cloud performance and costs.We work&hellip;",
       "tags": [
-        "customer success"
+        "software engineering"
       ],
       "verdict": "review",
       "fit": 50,
       "reasons": [
-        "Canada-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "Uk-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -1545,68 +1459,6 @@
         "data engineering",
         "site reliability",
         "solid",
-        "symfony",
-        "startup",
-        "marketplace",
-        "next.js",
-        "flutter"
-      ],
-      "verdict": "review",
-      "fit": 46,
-      "reasons": [
-        "Europe-tagged — verify it's open to Africa first",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Senior Product Manager",
-      "company": "Lemon.io",
-      "location": "Americas, Europe, Asia, Oceania",
-      "url": "https://remotive.com/remote-jobs/product/senior-product-manager-2090984",
-      "source": "Remotive",
-      "description": "Are you a talented Senior Product Manager looking for a remote job where you can showcase your skills and earn competitive compensation? Look no further than Lemon.io — a marketplace that connects you with hand-picked startups in the US and Europe. What we offer: Your rate will depend on your seniority level, skills, and experience. We've already paid out over $11M to our engineers and other specialists. No more hunting for clients or negotiating rates — we’ll handle the business side so you can focus on delivering successful projects. Choose a schedule that works best for you. Async communica",
-      "tags": [
-        ".net",
-        "android",
-        "azure",
-        "c",
-        "c#",
-        "c++",
-        "data science",
-        "golang",
-        "ios",
-        "java",
-        "javascript",
-        "node.js",
-        "php",
-        "python",
-        "react",
-        "ruby/rails",
-        "scala",
-        "shopify",
-        "ui/ux",
-        "wordpress",
-        "blockchain",
-        "ai/ml",
-        "figma",
-        "automation",
-        "project management",
-        "react native",
-        "product strategy",
-        "rust",
-        "product management",
-        "unity",
-        "electron",
-        "spring",
-        "laravel",
-        "ethereum",
-        "graphic design",
-        "mixpanel",
-        "typescript",
-        "angular",
-        "sdlc",
-        "data engineering",
-        "site reliability",
         "symfony",
         "startup",
         "marketplace",
@@ -1853,19 +1705,26 @@
       ]
     },
     {
-      "title": "Lead Platform Engineer",
-      "company": "Launchpad Technologies",
-      "location": "LATAM",
-      "url": "https://jobicy.com/jobs/149146-lead-platform-engineer",
-      "source": "Jobicy",
-      "description": "Who We Are Launchpad Technologies Inc. is a global technology partner connecting top talent with high-impact projects across North America and beyond. We specialize in Staff Augmentation and product development, helping companies scale with agility while empowering professionals to grow in meaningful, remote-first environments.About the Role - Lead Platform Engineer (Azure)Build the platform behind one&hellip;",
+      "title": "Senior Infrastructure Engineer",
+      "company": "Scrunch AI",
+      "location": "United States",
+      "url": "https://himalayas.app/companies/scrunch/jobs/senior-infrastructure-engineer",
+      "source": "Himalayas",
+      "description": "About Scrunch Scrunch , a Sitecore company, is on a mission to bring brands to an AI-first future—where people increasingly rely on LLMs to discover, understand, and act on information that matters to them. As AI search and conversational agents replace traditional web search and browsing, Scrunch helps marketing teams rethink how their products and services are discovered and surfaced on AI platforms like ChatGPT, Claude, Gemini, and more—working with AI platforms, not against them. This shift represents the biggest change to marketing since the dawn of the internet. Today, more than 500 payi",
       "tags": [
-        "software engineering"
+        "senior-infrastructure-engineer",
+        "senior-infrastructure-engineering",
+        "senior-it-infrastructure-engineer",
+        "senior-infrastructure-operations-engineer",
+        "senior-infrastructure-software-engineer",
+        "senior-network-infrastructure-engineer",
+        "senior-cloud-infrastructure-engineer",
+        "lead-infrastructure-engineer"
       ],
       "verdict": "review",
       "fit": 46,
       "reasons": [
-        "Latam-tagged — verify it's open to Africa first",
+        "United states-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -1877,7 +1736,7 @@
       "source": "Jobicy",
       "description": "Our ambition is to set a standard of excellence when it comes to serving the open source ecosystem. This is your chance to be a part of that as a Community Engineer at Canonical.We are building community management at scale. We have multiple positions available, at different seniority levels.All applications and candidates are handled through&hellip;",
       "tags": [
-        "customer success"
+        "customer support &amp; success"
       ],
       "verdict": "review",
       "fit": 42,
@@ -1903,29 +1762,6 @@
       "fit": 40,
       "reasons": [
         "Europe-tagged — verify it's open to Africa first"
-      ]
-    },
-    {
-      "title": "AI and Cloud Security Analyst",
-      "company": "name",
-      "location": "India",
-      "url": "https://himalayas.app/companies/td-synnex/jobs/ai-and-cloud-security-analyst",
-      "source": "Himalayas",
-      "description": "TD SYNNEX (NYSE: SNX) is the world's largest IT distributor, adopting AI at speed across Azure AI Foundry, AWS Bedrock, Copilot Studio, Databricks, and self-hosted agent environments. Our security model is runtime-first: instead of blocking AI adoption with slow approvals, we intercept, analyze, and enforce at the moment of execution — which means high-quality monitoring, triage, analytics, and reporting are what keep the system honest. As our AI and Cloud Security Analyst, you provide day-to-day L2 coverage of the AI security detection fabric — triaging and supporting investigation of AI-spec",
-      "tags": [
-        "ai-security-analyst",
-        "cloud-security-analyst",
-        "soc-analyst",
-        "security-operations-analyst",
-        "cybersecurity-analyst",
-        "ai-data-security-analyst",
-        "cybersecurity-ai-specialist",
-        "ai-security-specialist"
-      ],
-      "verdict": "review",
-      "fit": 40,
-      "reasons": [
-        "location unconfirmed — verify it's open to Africa"
       ]
     },
     {
@@ -2138,7 +1974,7 @@
       "location": "United States,",
       "url": "https://remoteOK.com/remote-jobs/remote-clinical-pharmacist-walrus-health-1135343",
       "source": "RemoteOK",
-      "description": "Posted 9:49:56 PM. Our Clinical Pharmacists then engage directly with members to build trust and develop tailored careâ¦See this and similar jobs on LinkedIn. Please mention the word **INTRIGUE** and tag RNDguMjE0LjUzLjY5 when applying to show you read the job post completely (#RNDguMjE0LjUzLjY5). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Posted 9:49:56 PM. Our Clinical Pharmacists then engage directly with members to build trust and develop tailored careâ¦See this and similar jobs on LinkedIn. Please mention the word **INTRIGUE** and tag RMTcyLjE3Mi4yMDUuMjE2 when applying to show you read the job post completely (#RMTcyLjE3Mi4yMDUuMjE2). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "tags": [
         "design",
         "education",
@@ -2256,7 +2092,7 @@
       "location": "EspaÃ±a,",
       "url": "https://remoteOK.com/remote-jobs/remote-junior-procurement-specialist-ubq-io-1135329",
       "source": "RemoteOK",
-      "description": "About UBQ.ioUBQ.io is a global technology service provider dedicated to building a moreâ¦ Please mention the word **PRICELESS** and tag RNDguMjE0LjUzLjY5 when applying to show you read the job post completely (#RNDguMjE0LjUzLjY5). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "About UBQ.ioUBQ.io is a global technology service provider dedicated to building a moreâ¦ Please mention the word **PRICELESS** and tag RMTcyLjE3Mi4yMDUuMjE2 when applying to show you read the job post completely (#RMTcyLjE3Mi4yMDUuMjE2). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "tags": [
         "design",
         "designer",
@@ -2317,7 +2153,7 @@
       "location": "United Kingdom,",
       "url": "https://remoteOK.com/remote-jobs/remote-compliance-administrator-work-force-nexus-1135325",
       "source": "RemoteOK",
-      "description": "Posted 11:58:25 AM. Job Type: Full-TimeWork Mode: Remote (United Kingdom)Experience: 0â2 YearsIndustry: Compliance |â¦See this and similar jobs on LinkedIn. Please mention the word **SMITTEN** and tag RNDguMjE0LjUzLjY5 when applying to show you read the job post completely (#RNDguMjE0LjUzLjY5). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Posted 11:58:25 AM. Job Type: Full-TimeWork Mode: Remote (United Kingdom)Experience: 0â2 YearsIndustry: Compliance |â¦See this and similar jobs on LinkedIn. Please mention the word **SMITTEN** and tag RMTcyLjE3Mi4yMDUuMjE2 when applying to show you read the job post completely (#RMTcyLjE3Mi4yMDUuMjE2). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "tags": [
         "design",
         "designer",
@@ -2579,317 +2415,35 @@
       ]
     },
     {
-      "title": "Concept Artist",
-      "company": "Youtooz",
-      "location": "Toronto, Toronto, Ontario, Canada",
-      "url": "https://remoteOK.com/remote-jobs/remote-concept-artist-youtooz-1135294",
-      "source": "RemoteOK",
-      "description": "Youtooz creates designer toys for the heroes and role models of the internet â Youtubers, Instagram influencers, celebrities, athletes, rappers, and more. Our mission is to bring the people you already love to watch and keep up with on the internet in real life, on your desk at work, your shelf in your bedroom or even in your living room for everyone to see. Youtooz are incredibly personal and unique to each creator and customer and comes with a variety of unique perks. Concept Artists at Youtooz will create the aesthetic and look for our product. They are responsible for taking a content cr",
+      "title": "Customer Success Manager II - West",
+      "company": "Tines",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/147811-customer-success-manager-ii-west",
+      "source": "Jobicy",
+      "description": "Founded in 2018 with co-headquarters in Dublin and Boston, Tines powers some of the world's most important workflows. Our intelligent workflow platform applies AI, automation, and integration with human ingenuity to drive real business results. Tines serves a diverse range of customers, from startups to public companies, including Canva, Databricks, Elastic, Kayak, Intercom, and McKesson.&hellip;",
       "tags": [
-        "front end",
-        "dev",
-        "design",
-        "web3",
-        "react",
-        "graphql",
-        "javascript",
-        "angular",
-        "exec",
-        "engineer",
-        "backend",
-        "full time",
-        "digital nomad",
-        "sys admin",
-        "teaching",
-        "education",
-        "testing",
-        "marketing",
-        "cloud",
-        "vfx",
-        "designer",
-        "video",
-        "content writing",
-        "photoshop",
-        "illustrator"
+        "customer support &amp; success"
       ],
       "verdict": "review",
       "fit": 36,
       "reasons": [
-        "Canada-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
-      "title": "Consultor para estrategia de SBC de Primera Infancia Programme Effectiveness Quito Ecuador Remoto 7 meses Nacional",
-      "company": "UNICEF Bangladesh",
-      "location": "Quito,",
-      "url": "https://remoteOK.com/remote-jobs/remote-consultor-para-estrategia-de-sbc-de-primera-infancia-programme-effectiveness-quito-ecuador-remoto-7-meses-nacional-unicef-bangladesh-1135260",
-      "source": "RemoteOK",
-      "description": "Publicado: 16:21:19. Apply now Job no: 594636Contract type: ConsultantDuty Station: QuitoLevel: ConsultancyLocation:â¦Ve este y otros empleos similares en LinkedIn. Please mention the word **ETHICAL** and tag RNDguMjE0LjUzLjY5 when applying to show you read the job post completely (#RNDguMjE0LjUzLjY5). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "title": "Customer Reliability Engineer, Airflow",
+      "company": "Astronomer",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/147810-customer-reliability-engineer-airflow",
+      "source": "Jobicy",
+      "description": "Astronomer empowers data teams to bring mission-critical software, analytics, and AI to life and is the company behind Astro, the industry-leading unified DataOps platform powered by Apache Airflow®. Astro accelerates building reliable data products that unlock insights, unleash AI value, and powers data-driven applications. Trusted by more than 800 of the world's leading enterprises, Astronomer&hellip;",
       "tags": [
-        "dev",
-        "design",
-        "technical",
-        "testing",
-        "exec",
-        "quality assurance",
-        "finance",
-        "java",
-        "cloud",
-        "nosql",
-        "sql",
-        "mongo",
-        "senior",
-        "sys admin",
-        "golang",
-        "engineer",
-        "backend",
-        "digital nomad",
-        "web dev",
-        "c",
-        "excel",
-        "marketing",
-        "photoshop",
-        "illustrator",
-        "consulting",
-        "data annotation"
+        "technical support"
       ],
       "verdict": "review",
       "fit": 36,
       "reasons": [
-        "location unconfirmed — verify it's open to Africa"
-      ]
-    },
-    {
-      "title": "CoordenaÃ§Ã£o de Tecnologia I CloudOps",
-      "company": "Aurum",
-      "location": "Brasil,",
-      "url": "https://remoteOK.com/remote-jobs/remote-coordenacao-de-tecnologia-i-cloudops-aurum-1135258",
-      "source": "RemoteOK",
-      "description": "Anunciada 10:40:23. Em primeiro lugar, queremos te contar um pouco mais sobre quem somos. Vamos lÃ¡?Muito prazer, nÃ³sâ¦ - veja esta vaga e outras semelhantes no LinkedIn. Please mention the word **BRILLIANCES** and tag RNDguMjE0LjUzLjY5 when applying to show you read the job post completely (#RNDguMjE0LjUzLjY5). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
-      "tags": [
-        "dev",
-        "design",
-        "technical",
-        "testing",
-        "exec",
-        "quality assurance",
-        "finance",
-        "java",
-        "cloud",
-        "nosql",
-        "sql",
-        "mongo",
-        "senior",
-        "sys admin",
-        "golang",
-        "engineer",
-        "backend",
-        "digital nomad",
-        "web dev",
-        "c",
-        "excel",
-        "marketing",
-        "photoshop",
-        "illustrator",
-        "consulting",
-        "data annotation"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "location unconfirmed — verify it's open to Africa"
-      ]
-    },
-    {
-      "title": "Appointment Setter",
-      "company": "Everlast Bathrooms",
-      "location": "Venezuela,",
-      "url": "https://remoteOK.com/remote-jobs/remote-appointment-setter-everlast-bathrooms-1135256",
-      "source": "RemoteOK",
-      "description": "Company DescriptionEverlast Bathrooms is South Floridaâs trusted name in bathroom remodelingâ¦ Please mention the word **SENSIBLE** and tag RNDguMjE0LjUzLjY5 when applying to show you read the job post completely (#RNDguMjE0LjUzLjY5). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
-      "tags": [
-        "dev",
-        "design",
-        "technical",
-        "testing",
-        "exec",
-        "quality assurance",
-        "finance",
-        "java",
-        "cloud",
-        "nosql",
-        "sql",
-        "mongo",
-        "senior",
-        "sys admin",
-        "golang",
-        "engineer",
-        "backend",
-        "digital nomad",
-        "web dev",
-        "c",
-        "excel",
-        "marketing",
-        "photoshop",
-        "illustrator",
-        "consulting"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "location unconfirmed — verify it's open to Africa"
-      ]
-    },
-    {
-      "title": "Analista de Atendimento TEMPORÃRIO Remoto",
-      "company": "Melhor Envio",
-      "location": "Brasil,",
-      "url": "https://remoteOK.com/remote-jobs/remote-analista-de-atendimento-temporario-remoto-melhor-envio-1135251",
-      "source": "RemoteOK",
-      "description": "Anunciada 00:00:00. Com senso de dono e colaboraÃ§Ã£o, unimos forÃ§as para remover barreiras e impulsionarnegÃ³cios. NÃ£oâ¦ - veja esta vaga e outras semelhantes no LinkedIn. Please mention the word **GENIAL** and tag RNDguMjE0LjUzLjY5 when applying to show you read the job post completely (#RNDguMjE0LjUzLjY5). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
-      "tags": [
-        "dev",
-        "design",
-        "technical",
-        "testing",
-        "exec",
-        "quality assurance",
-        "finance",
-        "java",
-        "cloud",
-        "nosql",
-        "sql",
-        "mongo",
-        "senior",
-        "sys admin",
-        "golang",
-        "engineer",
-        "backend",
-        "digital nomad",
-        "web dev",
-        "c",
-        "excel"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "location unconfirmed — verify it's open to Africa"
-      ]
-    },
-    {
-      "title": "Human Resources Business Partner",
-      "company": "Cardiovascular Associates of America - CVAUSA",
-      "location": "Orlando, Orlando, Florida, United States",
-      "url": "https://remoteOK.com/remote-jobs/remote-human-resources-business-partner-cardiovascular-associates-of-america-cvausa-1135300",
-      "source": "RemoteOK",
-      "description": "Human Business Partner â Remote Reports To: Senior Director of Human Resources Cardiovascular Services of America (CVAUSA) is the largest private and independent cardiology network in the United States. Our inclusive and diverse network brings together top cardiovascular specialists and thought leaders who offer regional perspectives and a broad strategic vision for the future of patient care. Who We are and what we do: Â Â Headquartered in Orlando area, Cardiovascular Associates of America aims to bring the best cardiovascular physicians in one network with the common mission of saving live",
-      "tags": [
-        "design",
-        "sys admin",
-        "education",
-        "designer",
-        "customer support",
-        "marketing",
-        "web dev",
-        "video",
-        "cloud",
-        "exec",
-        "content writing",
-        "junior",
-        "golang",
-        "medical",
-        "ads",
-        "full time",
-        "digital nomad",
-        "hr",
-        "travel",
-        "payroll",
-        "senior",
-        "ops",
-        "recruiter"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "United states-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Human Resources Generalist",
-      "company": "FIT Solutions, LLC",
-      "location": "Remote,",
-      "url": "https://remoteOK.com/remote-jobs/remote-human-resources-generalist-fit-solutions-llc-1135239",
-      "source": "RemoteOK",
-      "description": "HR GeneralistReports to: HR ManagerStatus: Regular, Full-Time, Non-ExemptLocation: Remote, Unitedâ¦See this and similar jobs on LinkedIn. Please mention the word **OUTPERFORMS** and tag RNDguMjE0LjUzLjY5 when applying to show you read the job post completely (#RNDguMjE0LjUzLjY5). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
-      "tags": [
-        "exec",
-        "travel",
-        "full time",
-        "design",
-        "salesforce",
-        "hr",
-        "education",
-        "customer support",
-        "marketing",
-        "speech",
-        "quality assurance",
-        "finance",
-        "cloud",
-        "ops",
-        "legal",
-        "sales",
-        "medical",
-        "engineer",
-        "backend",
-        "digital nomad"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "location unconfirmed — verify it's open to Africa"
-      ]
-    },
-    {
-      "title": "Chat Representative",
-      "company": "Barefoot Student",
-      "location": "Apopka,",
-      "url": "https://remoteOK.com/remote-jobs/remote-chat-representative-barefoot-student-1135302",
-      "source": "RemoteOK",
-      "description": "Source Funding Apopka, FL, USA 17 hours ago Full-time Remote Save Flag Share Apply Now We are seeking a customer-focused and detail-oriented Chat Representative to join our team. In this role, you will assist customers through live chat by answering questions, providing information about loan products and services, guiding applicants through the loan process, and delivering exceptional customer support. The ideal candidate has strong written communication skills, can multitask effectively, and is committed to providing accurate and timely assistance. Key Responsibilities Respond promptly and p",
-      "tags": [
-        "design",
-        "sys admin",
-        "education",
-        "designer",
-        "customer support",
-        "marketing",
-        "web dev",
-        "video",
-        "cloud",
-        "exec",
-        "content writing",
-        "junior",
-        "golang",
-        "medical",
-        "ads",
-        "full time",
-        "digital nomad",
-        "hr",
-        "travel",
-        "payroll",
-        "senior",
-        "ops",
-        "recruiter",
-        "technical",
-        "finance",
-        "stats",
-        "engineer",
-        "dev"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "location unconfirmed — verify it's open to Africa"
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -2900,7 +2454,7 @@
       "source": "Jobicy",
       "description": "DescriptionUpwind is a next-generation Cloud Security Platform that leverages runtime context to identify and prioritize critical risks, providing precise insights and efficient cloud security management. Unlike traditional tools, Upwind uses runtime data proactively for risk prioritization and posture insights, ensuring teams focus on what truly matters. With industry-leading efficiency and eBPF-powered sensors, Upwind delivers comprehensive&hellip;",
       "tags": [
-        "customer success"
+        "customer support &amp; success"
       ],
       "verdict": "review",
       "fit": 36,
@@ -2916,7 +2470,7 @@
       "source": "Jobicy",
       "description": "DescriptionAbout The PositionUpwind is a next-generation Cloud Security Platform that leverages runtime context to identify and prioritize critical risks, providing precise insights and efficient cloud security management. Unlike traditional tools, Upwind uses runtime data proactively for risk prioritization and posture insights, ensuring teams focus on what truly matters. With industry-leading efficiency and eBPF-powered sensors, Upwind&hellip;",
       "tags": [
-        "customer success"
+        "customer support &amp; success"
       ],
       "verdict": "review",
       "fit": 36,
@@ -3044,7 +2598,7 @@
       "source": "Jobicy",
       "description": "Sonatype is the software supply chain security company. We provide the world’s best end-to-end software supply chain security solution, combining the only proactive protection against malicious open source, the only enterprise grade SBOM management and the leading open source dependency management platform. This empowers enterprises to create and maintain secure, quality, and innovative software at&hellip;",
       "tags": [
-        "customer success"
+        "customer support &amp; success"
       ],
       "verdict": "review",
       "fit": 36,
@@ -3114,7 +2668,7 @@
       "location": "UK",
       "url": "https://remoteOK.com/remote-jobs/remote-performance-marketing-lead-get-in-good-nick-1135323",
       "source": "RemoteOK",
-      "description": "Posted 1:17:30 PM. Location: Remote (UK)Full-timeReports directly to the FounderAbout Get In Good NickWe're buildingâ¦See this and similar jobs on LinkedIn. Please mention the word **CREDIBLE** and tag RNDguMjE0LjUzLjY5 when applying to show you read the job post completely (#RNDguMjE0LjUzLjY5). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Posted 1:17:30 PM. Location: Remote (UK)Full-timeReports directly to the FounderAbout Get In Good NickWe're buildingâ¦See this and similar jobs on LinkedIn. Please mention the word **CREDIBLE** and tag RMTcyLjE3Mi4yMDUuMjE2 when applying to show you read the job post completely (#RMTcyLjE3Mi4yMDUuMjE2). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "tags": [
         "design",
         "designer",
@@ -3154,6 +2708,40 @@
       "fit": 30,
       "reasons": [
         "Uk-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Power BI Architect",
+      "company": "Tiger Analytics",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/143584-power-bi-architect",
+      "source": "Jobicy",
+      "description": "Tiger Analytics is a fast-growing advanced analytics consulting firm. Our consultants bring deep expertise in Data Science, Machine Learning and AI. We are the trusted analytics partner for several Fortune 100 companies, enabling them to generate business value from data. Our business value and leadership has been recognized by various market research firms, including Forrester&hellip;",
+      "tags": [
+        "data science &amp; analytics"
+      ],
+      "verdict": "review",
+      "fit": 30,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Senior Engineering Manager, Platform Delivery",
+      "company": "Upstart",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/142530-senior-engineering-manager-platform-delivery",
+      "source": "Jobicy",
+      "description": "About UpstartAt Upstart, we’re united by a mission that matters: to radically reduce the cost and complexity of borrowing for all Americans. Every day, we bring creativity, experimentation, and advanced AI to reshape access to credit, helping millions move forward financially with clarity and confidence.As the leading AI lending marketplace, we partner with banks and&hellip;",
+      "tags": [
+        "product &amp; operations"
+      ],
+      "verdict": "review",
+      "fit": 30,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -3239,40 +2827,6 @@
       "fit": 30,
       "reasons": [
         "Canada-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Senior Software Architect (C# / AI First) - GovTech SaaS company",
-      "company": "Truelogic",
-      "location": "LATAM",
-      "url": "https://jobicy.com/jobs/149164-senior-software-architect-c-ai-first-govtech-saas-company",
-      "source": "Jobicy",
-      "description": "About TruelogicAt Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of all sizes, from innovative startups to industry leaders, helping them achieve their digital transformation goals.Our team of 600+ highly skilled tech professionals, based in Latin&hellip;",
-      "tags": [
-        "software engineering"
-      ],
-      "verdict": "review",
-      "fit": 30,
-      "reasons": [
-        "Latam-tagged — verify it's open to Africa first",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "QA Automation Lead [gn] Data Intelligence",
-      "company": "Actian",
-      "location": "Europe",
-      "url": "https://jobicy.com/jobs/149048-qa-automation-lead-gn-data-intelligence",
-      "source": "Jobicy",
-      "description": "The QA Automation Team is the ultimate guardian of our platform’s reliability, scalability, and deployment velocity. In a complex, data-heavy ecosystem, manual testing is a bottleneck; continuous, intelligent, and bulletproof automation is the only way forward. We are looking for a QA Automation Lead who will architect, scale, and own our automated testing strategy end-to-end.&hellip;",
-      "tags": [
-        "qa &amp; testing"
-      ],
-      "verdict": "review",
-      "fit": 30,
-      "reasons": [
-        "Europe-tagged — verify it's open to Africa first",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -3697,135 +3251,6 @@
       ]
     },
     {
-      "title": "Vice President Field Services",
-      "company": "Verra Mobility",
-      "location": "Texas City, Texas City, Texas, United States",
-      "url": "https://remoteOK.com/remote-jobs/remote-vice-president-field-services-verra-mobility-1135301",
-      "source": "RemoteOK",
-      "description": "Who we areâ¦ Verra Mobility is a global leader in smart mobility. We develop technology-enabled solutions that help the world move safely and easily. We are fostering the development of safe cities, working with police departments and municipalities to install over 10,000 red-light, speed, and school bus stop arm safety cameras across North America. We are also creating smart roadways, serving the world's largest commercial fleets and rental car companies to manage tolling transactions and violations for over 8.5 million vehicles. And we are a leading provider of connected systems, processing",
-      "tags": [
-        "design",
-        "sys admin",
-        "education",
-        "designer",
-        "customer support",
-        "marketing",
-        "web dev",
-        "video",
-        "cloud",
-        "exec",
-        "content writing",
-        "junior",
-        "golang",
-        "medical",
-        "ads",
-        "full time",
-        "digital nomad",
-        "hr",
-        "travel",
-        "payroll",
-        "senior",
-        "ops",
-        "recruiter",
-        "technical",
-        "finance",
-        "stats",
-        "engineer"
-      ],
-      "verdict": "blocked",
-      "fit": 0,
-      "reasons": [
-        "Vice president-level — usually 5–10+ yrs, you have ~4"
-      ]
-    },
-    {
-      "title": "VP Strategic Finance",
-      "company": "Emergence (Automotive Group)",
-      "location": "Remote,",
-      "url": "https://remoteOK.com/remote-jobs/remote-vp-strategic-finance-emergence-automotive-group-1135243",
-      "source": "RemoteOK",
-      "description": "Posted 5:13:22 PM. VP, Strategic Finance Emergence (Automotive Group) Location Remote, U.S. and Canadaâ¦See this and similar jobs on LinkedIn. Please mention the word **GLORIOUS** and tag RNDguMjE0LjUzLjY5 when applying to show you read the job post completely (#RNDguMjE0LjUzLjY5). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
-      "tags": [
-        "exec",
-        "travel",
-        "full time",
-        "design",
-        "salesforce",
-        "hr",
-        "education",
-        "customer support",
-        "marketing",
-        "speech",
-        "quality assurance",
-        "finance",
-        "cloud",
-        "ops",
-        "legal",
-        "sales",
-        "medical",
-        "engineer",
-        "backend",
-        "digital nomad",
-        "coordinator",
-        "dev",
-        "web dev",
-        "admin",
-        "microsoft",
-        "content writing",
-        "virtual assistant",
-        "teaching",
-        "seo",
-        "stats",
-        "golang"
-      ],
-      "verdict": "blocked",
-      "fit": 0,
-      "reasons": [
-        "Vp-level — usually 5–10+ yrs, you have ~4"
-      ]
-    },
-    {
-      "title": "Director of IT",
-      "company": "Emergence",
-      "location": "Remote,",
-      "url": "https://remoteOK.com/remote-jobs/remote-director-of-it-emergence-1135241",
-      "source": "RemoteOK",
-      "description": "Emergence Director of IT, Emergence | Remote, U.S.-based | Full-Time About the roleEmergence isâ¦ Please mention the word **REVEL** and tag RNDguMjE0LjUzLjY5 when applying to show you read the job post completely (#RNDguMjE0LjUzLjY5). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
-      "tags": [
-        "exec",
-        "travel",
-        "full time",
-        "design",
-        "salesforce",
-        "hr",
-        "education",
-        "customer support",
-        "marketing",
-        "speech",
-        "quality assurance",
-        "finance",
-        "cloud",
-        "ops",
-        "legal",
-        "sales",
-        "medical",
-        "engineer",
-        "backend",
-        "digital nomad",
-        "coordinator",
-        "dev",
-        "web dev",
-        "admin",
-        "microsoft",
-        "content writing"
-      ],
-      "verdict": "blocked",
-      "fit": 0,
-      "reasons": [
-        "Director-level — usually 5–10+ yrs, you have ~4"
-      ]
-    },
-    {
       "title": "DevOps Director",
       "company": "Toparo",
       "location": "Anywhere in the World",
@@ -3956,22 +3381,6 @@
       "url": "https://jobicy.com/jobs/149237-principal-cloud-application-engineer",
       "source": "Jobicy",
       "description": "Principal Cloud Application Engineer - 40285 University Staff Description Join Our Team and Make a Difference in Higher Education! At the System Administration office at the University of Colorado, we are dedicated to building a workplace where everyone feels valued, supported, and empowered to thrive. Our office is committed to fostering a culture where employees find community, a sense of belonging,&hellip;",
-      "tags": [
-        "software engineering"
-      ],
-      "verdict": "blocked",
-      "fit": 0,
-      "reasons": [
-        "Principal-level — usually 5–10+ yrs, you have ~4"
-      ]
-    },
-    {
-      "title": "Principal Full-Stack Engineer (.NET/Angular) (AI-First Development) - Software",
-      "company": "Truelogic",
-      "location": "LATAM",
-      "url": "https://jobicy.com/jobs/149155-principal-full-stack-engineer-net-angular-ai-first-development-software",
-      "source": "Jobicy",
-      "description": "About TruelogicAt Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of all sizes, from innovative startups to industry leaders, helping them achieve their digital transformation goals.Our team of 600+ highly skilled tech professionals, based in Latin&hellip;",
       "tags": [
         "software engineering"
       ],
