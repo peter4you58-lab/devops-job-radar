@@ -1,11 +1,11 @@
 {
-  "generated": "2026-07-28 08:12 UTC",
-  "count": 142,
+  "generated": "2026-07-29 08:16 UTC",
+  "count": 148,
   "summary": {
-    "scanned": 142,
-    "eligible": 54,
-    "review": 65,
-    "blocked": 23
+    "scanned": 148,
+    "eligible": 56,
+    "review": 70,
+    "blocked": 22
   },
   "jobs": [
     {
@@ -564,6 +564,20 @@
       ]
     },
     {
+      "title": "Account Manager",
+      "company": "Keeper Security",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/keeper-security-account-manager",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Remote, US Description Keeper is hiring a driven Account Manager to join a high producing team within our B2B sales division. This is a 100% remote position with an opportunity to work a hybrid schedule for candidates who live near our global headquarters in Chicago. Keeper’s cybersecurity software is trusted by millions of people and thousands of organizations, globally. Keeper is published in 23 languages and is sold in over 150 countries. Join one of the fastest-growing cybersecurity companies and gain valuable skills while expanding and developing client relationships in this",
+      "tags": [],
+      "verdict": "eligible",
+      "fit": 50,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
+    {
       "title": "Contract IT Specialist",
       "company": "Customer.io",
       "location": "Anywhere in the World",
@@ -922,6 +936,23 @@
       ]
     },
     {
+      "title": "Senior Cloud Software Engineer",
+      "company": "Twilio",
+      "location": "Spain",
+      "url": "https://jobicy.com/jobs/142478-senior-cloud-software-engineer",
+      "source": "Jobicy",
+      "description": "Who we are At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to hundreds of thousands of businesses and empower millions of developers worldwide to craft personalized customer experiences.Our dedication to remote-first work, and strong culture of connection and global inclusion means that no matter your location, you’re&hellip;",
+      "tags": [
+        "software engineering"
+      ],
+      "verdict": "eligible",
+      "fit": 44,
+      "reasons": [
+        "remote — anywhere / global",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
       "title": "Site Reliability Engineer",
       "company": "Canonical Ltd.",
       "location": "Anywhere",
@@ -996,6 +1027,72 @@
       "fit": 56,
       "reasons": [
         "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "AI Intern",
+      "company": "CertifyOS",
+      "location": "Pune",
+      "url": "https://remoteOK.com/remote-jobs/remote-ai-intern-certifyos-1135555",
+      "source": "RemoteOK",
+      "description": "About CertifyOS CertifyOS is building the data infrastructure that powers modern healthcare. Today, healthcare organizations rely on fragmented and outdated provider data. This creates unnecessary administrative work, regulatory risk, and higher costs across the system. Weâre solving that problem. Our API-first platform automates provider licensing, enrollment, credentialing, and network monitoring by connecting directly to hundreds of primary data sources. We help healthcare organizations maintain accurate, compliant, and reliable provider networks at scale. Our vision is simple: One API. O",
+      "tags": [
+        "design",
+        "sys admin",
+        "python",
+        "technical",
+        "dev",
+        "testing",
+        "java",
+        "cloud",
+        "git",
+        "api",
+        "ops",
+        "medical",
+        "recruiter",
+        "engineer",
+        "digital nomad"
+      ],
+      "verdict": "review",
+      "fit": 52,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
+      "title": "Maintenance",
+      "company": "Road Ranger",
+      "location": "Vidor,",
+      "url": "https://remoteOK.com/remote-jobs/remote-maintenance-road-ranger-1135589",
+      "source": "RemoteOK",
+      "description": "Road Ranger is looking for maintenance to join the team at our Vidor, TX location! Competitive wages based upon experience.Â Road Ranger is GROWING!! Â We are Hiring Immediately!! Are you looking for Full Time or Part Time work? We have positions available!Â We offer benefits for our FULL and PART-TIME employees. We are hiring immediately. Join the Road Ranger family and see how far your drive can take you!Â At Road Ranger, we aim to provide drivers with the warm hospitality, top tier fuel, quality food, and essential products they need along their journey. We owe our success to our friendly, ",
+      "tags": [
+        "design",
+        "dev",
+        "copywriting",
+        "testing",
+        "analyst",
+        "accounting",
+        "payroll",
+        "virtual assistant",
+        "devops",
+        "finance",
+        "exec",
+        "marketing",
+        "legal",
+        "sales",
+        "recruiter",
+        "engineer",
+        "digital nomad",
+        "customer support",
+        "ops",
+        "medical",
+        "part time"
+      ],
+      "verdict": "review",
+      "fit": 52,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa"
       ]
     },
     {
@@ -1292,23 +1389,6 @@
       ]
     },
     {
-      "title": "Senior Cloud Engineer / DevOps (GCP) - Marketing",
-      "company": "Truelogic",
-      "location": "LATAM",
-      "url": "https://jobicy.com/jobs/149150-senior-cloud-engineer-devops-gcp-marketing",
-      "source": "Jobicy",
-      "description": "About TruelogicAt Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of all sizes, from innovative startups to industry leaders, helping them achieve their digital transformation goals.Our team of 600+ highly skilled tech professionals, based in Latin&hellip;",
-      "tags": [
-        "devops &amp; infrastructure"
-      ],
-      "verdict": "review",
-      "fit": 46,
-      "reasons": [
-        "Latam-tagged — verify it's open to Africa first",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
       "title": "Senior DevOps Engineer",
       "company": "Zartis",
       "location": "Europe",
@@ -1339,6 +1419,23 @@
       "fit": 46,
       "reasons": [
         "Costa rica-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Senior Site Reliability Engineer",
+      "company": "Akamai Technologies",
+      "location": "Poland",
+      "url": "https://jobicy.com/jobs/143565-senior-site-reliability-engineer-3",
+      "source": "Jobicy",
+      "description": "Are you passionate about cutting edge technology?Do solving some of the Internet's most difficult content delivery challenges interest you?Join our highly skilled Site Reliability teamOur team designs, develops, and manages applications and infrastructure that support Akamai's Compute products and services. We do this while maintaining Akamai's mission at the forefront of what we do. Make&hellip;",
+      "tags": [
+        "devops &amp; infrastructure"
+      ],
+      "verdict": "review",
+      "fit": 46,
+      "reasons": [
+        "Poland-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -1504,6 +1601,24 @@
       ]
     },
     {
+      "title": "Data Labeling Specialists",
+      "company": "Workada",
+      "location": "USA",
+      "url": "https://remotive.com/remote-jobs/data/data-labeling-specialists-2090903",
+      "source": "Remotive",
+      "description": "Who We Are Workada creates high-quality labeled data for advanced technology systems. Our team reviews, organizes, categorizes, evaluates, and quality-checks digital content so those systems can better understand information and perform real-world tasks. We believe careful data work matters. Every reviewed item, categorized example, and quality-checked task helps improve how technology interprets information, follows instructions, and responds in practical settings. About You We're hiring detail-oriented individuals who are comfortable working on a computer and interested in careful, focused d",
+      "tags": [
+        "research",
+        "digital content",
+        "spreadsheets"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
       "title": "Business Development Representative",
       "company": "Outsite",
       "location": "Northern America, Europe, UK, France, European timezones",
@@ -1630,23 +1745,141 @@
       ]
     },
     {
-      "title": "Sales Assistant",
-      "company": "Endureed by Global Innovation",
-      "location": "USA",
-      "url": "https://remotive.com/remote-jobs/sales/sales-assistant-2091038",
-      "source": "Remotive",
-      "description": "This role may require you to be on site at times - please check with the employer first. Job Title: Sales Assistant Company: Endureed Location: Lake City, FL / Remote eligible Reports to: VP of Global Sales ABOUT THE ROLE The Sales Assistant is the operational backbone of the US sales team. You'll provide hands-on administrative, coordination, and customer support to the VP of Global Sales — keeping the department running smoothly, accurately, and on time across residential and Strategic Partner (SP) channels. This isn't a role for someone who wants to wing it, work independently without struc",
+      "title": "The Atlas Project",
+      "company": "Blue Rock Technology Group",
+      "location": "æ¸,",
+      "url": "https://remoteOK.com/remote-jobs/remote-the-atlas-project-blue-rock-technology-group-1135497",
+      "source": "RemoteOK",
+      "description": "It all begins with an idea. Maybe you want to launch a business. Maybe you want to turn a hobby into something more. Please mention the word **COMELY** and tag RMTA0LjIwOS4xMS4yMDk= when applying to show you read the job post completely (#RMTA0LjIwOS4xMS4yMDk=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "tags": [
-        "research",
-        "crm",
-        "onboarding",
-        "data entry",
-        "travel"
+        "design",
+        "ads",
+        "exec",
+        "digital nomad",
+        "technical",
+        "senior",
+        "engineer",
+        "supervisor",
+        "consulting",
+        "customer support",
+        "ops",
+        "sales",
+        "medical",
+        "hr",
+        "sys admin",
+        "dev",
+        "finance",
+        "cloud",
+        "math"
       ],
       "verdict": "review",
       "fit": 36,
       "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+        "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
+      "title": "SCALE PLAN",
+      "company": "Carexroads.com, Inc.",
+      "location": "Golmuri Cum Jugsalai,",
+      "url": "https://remoteOK.com/remote-jobs/remote-scale-plan-carexroads-com-inc-1135498",
+      "source": "RemoteOK",
+      "description": "For providers establishing visibility, confirming legitimacy, and making it easy for families to find the basics. Please mention the word **ECSTATIC** and tag RMTA0LjIwOS4xMS4yMDk= when applying to show you read the job post completely (#RMTA0LjIwOS4xMS4yMDk=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "tags": [
+        "design",
+        "ads",
+        "exec",
+        "digital nomad",
+        "technical",
+        "senior",
+        "engineer",
+        "supervisor",
+        "consulting",
+        "customer support",
+        "ops",
+        "sales",
+        "medical",
+        "hr",
+        "sys admin",
+        "dev",
+        "finance",
+        "cloud",
+        "math"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
+      "title": "Master Plan",
+      "company": "US Gove",
+      "location": "Raghurajnagar,",
+      "url": "https://remoteOK.com/remote-jobs/remote-master-plan-us-gove-1135496",
+      "source": "RemoteOK",
+      "description": "This website uses cookies to enhance usability and provide you with a more personal experience. By using this website, you agree to our use of cookies as explained in our Privacy Policy. Please mention the word **PRUDENTLY** and tag RMTA0LjIwOS4xMS4yMDk= when applying to show you read the job post completely (#RMTA0LjIwOS4xMS4yMDk=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "tags": [
+        "design",
+        "ads",
+        "exec",
+        "digital nomad",
+        "technical",
+        "senior",
+        "engineer",
+        "supervisor",
+        "consulting",
+        "customer support",
+        "ops",
+        "sales",
+        "medical",
+        "hr",
+        "sys admin",
+        "dev",
+        "finance",
+        "cloud",
+        "math"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
+      "title": "Entry Level Administrative Assistant",
+      "company": "Re Cruit Lytics HR",
+      "location": "Ø§ÙÙ Ø¯ÙÙØ©, Ø§ÙÙ Ø¯ÙÙØ© Ø§ÙÙ Ø¯ÙÙØ© Ø§ÙØ³Ø¹ÙØ¯ÙØ©",
+      "url": "https://remoteOK.com/remote-jobs/remote-entry-level-administrative-assistant-re-cruit-lytics-hr-1135572",
+      "source": "RemoteOK",
+      "description": "Our fast-growing company is seeking a dedicated Entry-Level Administrative Assistant to support the smooth operation of our daily business activities. In this role, you will assist with organizing, updating, and maintaining accurate company records and databases while ensuring information is handled efficiently and correctly. You will also provide general administrative support across teams, helping to improve workflow and streamline internal processes. Strong computer skills, a willingness to learn, and a keen eye for detail are essential for success in this position. This remote opportunity ",
+      "tags": [
+        "consulting",
+        "technical",
+        "strategy",
+        "virtual assistant",
+        "cloud",
+        "exec",
+        "saas",
+        "salesforce",
+        "hr",
+        "ops",
+        "c",
+        "data entry",
+        "infosec",
+        "education",
+        "customer support",
+        "marketing",
+        "admin",
+        "microsoft",
+        "excel",
+        "sys admin",
+        "video"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa"
       ]
     },
     {
@@ -1655,7 +1888,7 @@
       "location": "Vilattikulam,",
       "url": "https://remoteOK.com/remote-jobs/remote-v-norsk-senter-for-cern-relatert-forskning-norcc-1135499",
       "source": "RemoteOK",
-      "description": "Facebook Log In Log In Forgot Account? This page isn't available right now This may be because of a technical error that we're working to get fixed. Try reloading this page. Reload page See more from CERN | Meyrin See more from CERN | Meyrin Email or phone number Password Log In Forgot password? or Create new account Please mention the word **ENDORSED** and tag RMTA0LjIwOS4xMS4yMTA= when applying to show you read the job post completely (#RMTA0LjIwOS4xMS4yMTA=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're h",
+      "description": "Facebook Log In Log In Forgot Account? This page isn't available right now This may be because of a technical error that we're working to get fixed. Try reloading this page. Reload page See more from CERN | Meyrin See more from CERN | Meyrin Email or phone number Password Log In Forgot password? or Create new account Please mention the word **ENDORSED** and tag RMTA0LjIwOS4xMS4yMDk= when applying to show you read the job post completely (#RMTA0LjIwOS4xMS4yMDk=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're h",
       "tags": [
         "design",
         "ads",
@@ -1689,7 +1922,7 @@
       "location": "Behat,",
       "url": "https://remoteOK.com/remote-jobs/remote-candidate-requirements-the-vets-1135500",
       "source": "RemoteOK",
-      "description": "Candidates must be over 18 years of age Must be committed to providing the highest level of customer service Candidates must be flexible â able to work weekends, evenings, and holidays, when needed Please mention the word **AGILELY** and tag RMTA0LjIwOS4xMS4yMTA= when applying to show you read the job post completely (#RMTA0LjIwOS4xMS4yMTA=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Candidates must be over 18 years of age Must be committed to providing the highest level of customer service Candidates must be flexible â able to work weekends, evenings, and holidays, when needed Please mention the word **AGILELY** and tag RMTA0LjIwOS4xMS4yMDk= when applying to show you read the job post completely (#RMTA0LjIwOS4xMS4yMDk=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "tags": [
         "design",
         "ads",
@@ -1744,41 +1977,6 @@
         "finance",
         "cloud",
         "math"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "location unconfirmed — verify it's open to Africa"
-      ]
-    },
-    {
-      "title": "System kolejkowy KolejkoBot",
-      "company": "WidNet",
-      "location": "Jhalida,",
-      "url": "https://remoteOK.com/remote-jobs/remote-system-kolejkowy-kolejkobot-widnet-1135502",
-      "source": "RemoteOK",
-      "description": "System kolejkowy dla sklepÃ³w System kolejkowy dla szpitali i przychodni System kolejkowy dla aptek System kolejkowy dla urzÄdÃ³w Please mention the word **EASE** and tag RMTA0LjIwOS4xMS4yMTA= when applying to show you read the job post completely (#RMTA0LjIwOS4xMS4yMTA=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
-      "tags": [
-        "design",
-        "ads",
-        "exec",
-        "digital nomad",
-        "technical",
-        "senior",
-        "engineer",
-        "supervisor",
-        "consulting",
-        "customer support",
-        "ops",
-        "sales",
-        "medical",
-        "hr",
-        "sys admin",
-        "dev",
-        "finance",
-        "cloud",
-        "math",
-        "project manager"
       ],
       "verdict": "review",
       "fit": 36,
@@ -2590,6 +2788,32 @@
       ]
     },
     {
+      "title": "Chief of Staffåè£ï½CEOç´ä¸ã§æ¦ç¥ã¨å®è¡ãæ©æ¸¡ãããå³è",
+      "company": "ONE CAREER PLUS",
+      "location": "Lembang,",
+      "url": "https://remoteOK.com/remote-jobs/",
+      "source": "RemoteOK",
+      "description": "#ããããã³ã¿ã¼æ±äºº #SaaS #DXæ¨é² #AI #ããããã³ã¿ã¼æ±äºº #SaaS#DXæ¨é²#AI VARIETAS éç¨å½¢æ ï¼æ­£ç¤¾å¡ è·ç¨®ï¼çµå¶ä¼ç»ã»çµå¶æ¦ç¥ å¹´åï¼1,000ä¸åã2,000ä¸å ãã¤ã³ãï¼ãã³ãã£ã¼ä¼æ¥­,1ååä»¥ä¸è³éèª¿éæ¸,ãã¬ãã¯ã¹å¤å æ¦è¦ CEOç´ä¸ã®å³è ã¨ãã¦ãçµç¹å ¨ä½ã®æ°å¤ç®¡çã»é²è¡çµ±å¶ã»ç¹å½æ¡ä»¶ã®å®è¡ãæ ããçµå¶ã®æææ±ºå®ãå®ç¾ã¸ã¨ã¤ãªãæåç·ã«ç«ã£ã¦ããã ãã¾ããæ¦ç¥ãæãã ãã§ãªããç¾å ´ãåããææãåºããã¨ãæ¬è³ªã§ããCEOã®æ§æ³ãçµ",
+      "tags": [
+        "consulting",
+        "technical",
+        "strategy",
+        "virtual assistant",
+        "cloud",
+        "exec",
+        "saas",
+        "salesforce",
+        "hr",
+        "ops",
+        "c"
+      ],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Staff-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
       "title": "DevOps Director",
       "company": "Toparo",
       "location": "Anywhere in the World",
@@ -2706,48 +2930,6 @@
       "description": "Principal Cloud Application Engineer(Job Number: 40285)Description Join Our Team and Make a Difference in Higher Education! At the System Administration office at the University of Colorado, we are dedicated to building a workplace where everyone feels valued, supported, and empowered to thrive. Our office is committed to fostering a culture where employees find community, a sense of belonging,&hellip;",
       "tags": [
         "software engineering"
-      ],
-      "verdict": "blocked",
-      "fit": 0,
-      "reasons": [
-        "Principal-level — usually 5–10+ yrs, you have ~4"
-      ]
-    },
-    {
-      "title": "Principal Cloud Application Engineer",
-      "company": "University of Colorado",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/149237-principal-cloud-application-engineer",
-      "source": "Jobicy",
-      "description": "Principal Cloud Application Engineer - 40285 University Staff Description Join Our Team and Make a Difference in Higher Education! At the System Administration office at the University of Colorado, we are dedicated to building a workplace where everyone feels valued, supported, and empowered to thrive. Our office is committed to fostering a culture where employees find community, a sense of belonging,&hellip;",
-      "tags": [
-        "software engineering"
-      ],
-      "verdict": "blocked",
-      "fit": 0,
-      "reasons": [
-        "Principal-level — usually 5–10+ yrs, you have ~4"
-      ]
-    },
-    {
-      "title": "Principal Technical Product Owner - DoiT Partner Platform",
-      "company": "DoiT International",
-      "location": "Ireland",
-      "url": "https://himalayas.app/companies/doit-international/jobs/principal-technical-product-owner-doit-partner-platform-1426349218",
-      "source": "Himalayas",
-      "description": "LocationOur Principal Technical Product Owner - DoiT PartnerOps will be an integral part of our Product Management team. This role is based remotely in the East US, Canada, the UK or Ireland. Who We Are DoiT is a global technology company that works with cloud-driven organizations to leverage the cloud to drive business growth and innovation. We combine data, technology, and human expertise to ensure our customers operate in a well-architected and scalable state - from planning to production. Delivering DoiT Cloud Intelligence, the only solution that integrates advanced technology with human i",
-      "tags": [
-        "platform-product-owner",
-        "technical-product-owner",
-        "principal-technical-product-manager---api",
-        "it-product-owner",
-        "principal-product-technologist",
-        "principal-product-manager",
-        "product-management",
-        "technical-product-management",
-        "product-owner",
-        "cloud-product-management",
-        "partnership-management"
       ],
       "verdict": "blocked",
       "fit": 0,
