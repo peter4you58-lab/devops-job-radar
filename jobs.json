@@ -1,11 +1,11 @@
 {
-  "generated": "2026-07-29 08:16 UTC",
+  "generated": "2026-07-30 08:04 UTC",
   "count": 148,
   "summary": {
     "scanned": 148,
     "eligible": 56,
-    "review": 70,
-    "blocked": 22
+    "review": 71,
+    "blocked": 21
   },
   "jobs": [
     {
@@ -85,6 +85,34 @@
       "fit": 74,
       "reasons": [
         "explicitly open to Africa/Nigeria",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Senior DevOps Engineer",
+      "company": "Lemon.io",
+      "location": "Worldwide",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-devops-engineer-lemon-io-1135562",
+      "source": "RemoteOK",
+      "description": "Are you a talented Senior DevOps looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io â the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The rate depends on your seniority level, skills and experience. We've already paid out over $11M to our engineers. No more hunting for clients or negotiating rates â let us handle the business side of things so you can focus on what you do best. We'll manually find the best project for you according to your skills and preferences. Choose a schedu",
+      "tags": [
+        "dev",
+        "engineer",
+        "senior",
+        "full time",
+        "devops",
+        "python",
+        "golang",
+        "aws",
+        "gcp",
+        "kubernetes",
+        "ansible",
+        "sql"
+      ],
+      "verdict": "eligible",
+      "fit": 72,
+      "reasons": [
+        "remote — anywhere / global",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -386,29 +414,6 @@
       "fit": 54,
       "reasons": [
         "remote — anywhere / global"
-      ]
-    },
-    {
-      "title": "Client Success Coach (CSM)",
-      "company": "Impact Clients",
-      "location": "Northern America, Europe, South Africa",
-      "url": "https://remotive.com/remote-jobs/customer-service/client-success-coach-csm-2091039",
-      "source": "Remotive",
-      "description": "We’re looking for a full-time Client Success Coach to join our fast-growing team at Richard Yu’s online education company. Our mission is simple: help everyday people launch impactful online digital arbitrage businesses that transform lives—starting with their own. If you’re someone who loves mentorship, thrives in a high-performance environment, and wants to make a real difference in people’s lives, keep reading. About Us: Richard Yu is an online business coach with: 100K+ subscribers on YouTube → youtube.com/richardyu1 A growing personal brand on Instagram → instagram.com/richardyuzee Our co",
-      "tags": [
-        "backend",
-        "video",
-        "crm",
-        "youtube",
-        "organic marketing",
-        "onboarding",
-        "spreadsheets",
-        "gsuite"
-      ],
-      "verdict": "eligible",
-      "fit": 52,
-      "reasons": [
-        "explicitly open to Africa/Nigeria"
       ]
     },
     {
@@ -1030,6 +1035,38 @@
       ]
     },
     {
+      "title": "Not Finding Your Fit Apply Here",
+      "company": "The Buckle, Inc.",
+      "location": "Kearney,",
+      "url": "https://remoteOK.com/remote-jobs/remote-not-finding-your-fit-apply-here-the-buckle-inc-1135588",
+      "source": "RemoteOK",
+      "description": "Summary Interested in Buckle but not seeing a current opening thatâs the right fit? We are always looking for talented people to join our team. If you're positive, passionate, and looking to join a winning team, send us your resume! Buckle recognizes that timing can be a challenge when considering a career change. We donât want to miss out on the opportunity to connect with you. The Buckle, Inc is headquartered in Kearney, NE, and employs over 700 teammates locally. Founded in Kearney, Buckle grew from a single store front to a billion-dollar retailer while staying true to its mission: to ",
+      "tags": [
+        "design",
+        "dev",
+        "copywriting",
+        "testing",
+        "analyst",
+        "accounting",
+        "payroll",
+        "virtual assistant",
+        "devops",
+        "finance",
+        "exec",
+        "marketing",
+        "legal",
+        "sales",
+        "recruiter",
+        "engineer",
+        "digital nomad"
+      ],
+      "verdict": "review",
+      "fit": 52,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
       "title": "AI Intern",
       "company": "CertifyOS",
       "location": "Pune",
@@ -1169,6 +1206,35 @@
       "fit": 50,
       "reasons": [
         "Uk-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Senior Network Engineer - DGX Cloud",
+      "company": "NVIDIA",
+      "location": "Canada, United States",
+      "url": "https://himalayas.app/companies/nvidia/jobs/senior-network-engineer-dgx-cloud-3394809120",
+      "source": "Himalayas",
+      "description": "NVIDIA is looking for a Senior Network Engineer to develop a cloud network infrastructure. The goal is to craft a reliable, scalable and efficient network to support NVIDIA software development workflows and tools, including CI/CD pipelines, compute resource management flow and developer productivity tools. The network is serving the needs across the whole software stack for NVIDIA from Graphics Drivers to Autonomous Vehicles to Deep Learning frameworks. To achieve this goal, we are looking for an engineer who has a deep understanding of L3 underlay networks, outstanding design skills and a tr",
+      "tags": [
+        "senior-network-engineer",
+        "cloud-infrastructure-networking",
+        "data-center-networking",
+        "network-architecture",
+        "network-engineer",
+        "layer-3",
+        "wan-engineering",
+        "senior-network-engineering",
+        "cloud-network-engineer",
+        "cloud-networking-engineer",
+        "senior-network-infrastructure-engineer",
+        "senior-network-architect",
+        "senior-cloud-infrastructure-engineer"
+      ],
+      "verdict": "review",
+      "fit": 50,
+      "reasons": [
+        "United states-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -1745,12 +1811,144 @@
       ]
     },
     {
+      "title": "Graphic Designer",
+      "company": "Miranda Creative, Inc.",
+      "location": "Norwich, Norwich, Connecticut, United States",
+      "url": "https://remoteOK.com/remote-jobs/remote-graphic-designer-miranda-creative-inc-1135610",
+      "source": "RemoteOK",
+      "description": "We are looking for a talented and detail-oriented Graphic Designer to join our creative team part-time (25 hours per week), with the potential to grow into a full-time opportunity. Since 1988, Miranda Creative has partnered with more than 6,000 clients across finance, hospitality, healthcare, manufacturing, tourism, and government. We're a full-service, award-winning, New England-based creative and strategic agency. We pride ourselves on being a highly inclusive, collaborative community built on creativity, trust, and joy. We welcome you to Miranda Creative and look forward to learning more ab",
+      "tags": [
+        "design",
+        "music",
+        "technical",
+        "travel",
+        "speech",
+        "video",
+        "exec",
+        "content writing",
+        "medical",
+        "engineer",
+        "digital nomad",
+        "sys admin",
+        "consulting",
+        "testing",
+        "virtual assistant",
+        "finance",
+        "senior",
+        "ops",
+        "customer support",
+        "dev",
+        "microsoft",
+        "excel",
+        "legal",
+        "designer",
+        "web dev",
+        "cloud",
+        "marketing",
+        "photoshop",
+        "illustrator",
+        "full time",
+        "part time"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "United states-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "Area Sales Manager",
+      "company": "ROAR Organic",
+      "location": "New York City Metropolitan Area",
+      "url": "https://remoteOK.com/remote-jobs/remote-area-sales-manager-roar-organic-1135611",
+      "source": "RemoteOK",
+      "description": "Job Title: Area Sales Manager Reports to: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Director of Sales- East Location: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Remote- New York Metro Status:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; FT/Exempt Compensation: $70,000 â $80,000 annual base salary, plus a competitive bonus opportunity. Final compensation will be commensurate with experience, skills, and qualifications. ABOUT THE COMPANY ROAR is redefining hydration for a new generation. In a category that has become overly serious and hardco",
+      "tags": [
+        "design",
+        "music",
+        "technical",
+        "travel",
+        "speech",
+        "video",
+        "exec",
+        "content writing",
+        "medical",
+        "engineer",
+        "digital nomad",
+        "sys admin",
+        "consulting",
+        "testing",
+        "virtual assistant",
+        "finance",
+        "senior",
+        "ops",
+        "customer support",
+        "dev",
+        "microsoft",
+        "excel",
+        "legal",
+        "designer",
+        "web dev",
+        "cloud",
+        "marketing",
+        "photoshop",
+        "illustrator",
+        "full time",
+        "part time",
+        "sales"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
+      "title": "Moderator of Orders Feed",
+      "company": "inDrive",
+      "location": "Jakarta, Jakarta, Jakarta Raya, Indonesia",
+      "url": "https://remoteOK.com/remote-jobs/remote-moderator-of-orders-feed-indrive-1135573",
+      "source": "RemoteOK",
+      "description": "Department: Safety Support Operations Location: Indonesia Description We are searching Moderator of Orders Feed to join our team in Indonesia. Key Responsibilities Moderation system monitoring Blocking users who violate the rules of the service Removing inappropriate content (Adult Nudity, Illegal Goods, Bullying, Harassment, Hate Speech, etc.) Keeping track of inappropriate orders in Google Sheets as required Compiling a list of words for censorship Conducting labeling of various datasets Other relevant tasks as required Skills, Knowledge and Expertise Bahasa ( Indonesian) Language: Native En",
+      "tags": [
+        "consulting",
+        "technical",
+        "strategy",
+        "virtual assistant",
+        "cloud",
+        "exec",
+        "saas",
+        "salesforce",
+        "hr",
+        "ops",
+        "c",
+        "data entry",
+        "infosec",
+        "education",
+        "customer support",
+        "marketing",
+        "admin",
+        "microsoft",
+        "excel",
+        "sys admin",
+        "video",
+        "speech",
+        "adult",
+        "content writing"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
       "title": "The Atlas Project",
       "company": "Blue Rock Technology Group",
       "location": "æ¸,",
       "url": "https://remoteOK.com/remote-jobs/remote-the-atlas-project-blue-rock-technology-group-1135497",
       "source": "RemoteOK",
-      "description": "It all begins with an idea. Maybe you want to launch a business. Maybe you want to turn a hobby into something more. Please mention the word **COMELY** and tag RMTA0LjIwOS4xMS4yMDk= when applying to show you read the job post completely (#RMTA0LjIwOS4xMS4yMDk=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "It all begins with an idea. Maybe you want to launch a business. Maybe you want to turn a hobby into something more. Please mention the word **COMELY** and tag RMTQ1LjEzMi4xMDEuMTc2 when applying to show you read the job post completely (#RMTQ1LjEzMi4xMDEuMTc2). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "tags": [
         "design",
         "ads",
@@ -1784,179 +1982,7 @@
       "location": "Golmuri Cum Jugsalai,",
       "url": "https://remoteOK.com/remote-jobs/remote-scale-plan-carexroads-com-inc-1135498",
       "source": "RemoteOK",
-      "description": "For providers establishing visibility, confirming legitimacy, and making it easy for families to find the basics. Please mention the word **ECSTATIC** and tag RMTA0LjIwOS4xMS4yMDk= when applying to show you read the job post completely (#RMTA0LjIwOS4xMS4yMDk=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
-      "tags": [
-        "design",
-        "ads",
-        "exec",
-        "digital nomad",
-        "technical",
-        "senior",
-        "engineer",
-        "supervisor",
-        "consulting",
-        "customer support",
-        "ops",
-        "sales",
-        "medical",
-        "hr",
-        "sys admin",
-        "dev",
-        "finance",
-        "cloud",
-        "math"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "location unconfirmed — verify it's open to Africa"
-      ]
-    },
-    {
-      "title": "Master Plan",
-      "company": "US Gove",
-      "location": "Raghurajnagar,",
-      "url": "https://remoteOK.com/remote-jobs/remote-master-plan-us-gove-1135496",
-      "source": "RemoteOK",
-      "description": "This website uses cookies to enhance usability and provide you with a more personal experience. By using this website, you agree to our use of cookies as explained in our Privacy Policy. Please mention the word **PRUDENTLY** and tag RMTA0LjIwOS4xMS4yMDk= when applying to show you read the job post completely (#RMTA0LjIwOS4xMS4yMDk=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
-      "tags": [
-        "design",
-        "ads",
-        "exec",
-        "digital nomad",
-        "technical",
-        "senior",
-        "engineer",
-        "supervisor",
-        "consulting",
-        "customer support",
-        "ops",
-        "sales",
-        "medical",
-        "hr",
-        "sys admin",
-        "dev",
-        "finance",
-        "cloud",
-        "math"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "location unconfirmed — verify it's open to Africa"
-      ]
-    },
-    {
-      "title": "Entry Level Administrative Assistant",
-      "company": "Re Cruit Lytics HR",
-      "location": "Ø§ÙÙ Ø¯ÙÙØ©, Ø§ÙÙ Ø¯ÙÙØ© Ø§ÙÙ Ø¯ÙÙØ© Ø§ÙØ³Ø¹ÙØ¯ÙØ©",
-      "url": "https://remoteOK.com/remote-jobs/remote-entry-level-administrative-assistant-re-cruit-lytics-hr-1135572",
-      "source": "RemoteOK",
-      "description": "Our fast-growing company is seeking a dedicated Entry-Level Administrative Assistant to support the smooth operation of our daily business activities. In this role, you will assist with organizing, updating, and maintaining accurate company records and databases while ensuring information is handled efficiently and correctly. You will also provide general administrative support across teams, helping to improve workflow and streamline internal processes. Strong computer skills, a willingness to learn, and a keen eye for detail are essential for success in this position. This remote opportunity ",
-      "tags": [
-        "consulting",
-        "technical",
-        "strategy",
-        "virtual assistant",
-        "cloud",
-        "exec",
-        "saas",
-        "salesforce",
-        "hr",
-        "ops",
-        "c",
-        "data entry",
-        "infosec",
-        "education",
-        "customer support",
-        "marketing",
-        "admin",
-        "microsoft",
-        "excel",
-        "sys admin",
-        "video"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "location unconfirmed — verify it's open to Africa"
-      ]
-    },
-    {
-      "title": "v",
-      "company": "Norsk senter for CERN-relatert forskning (NorCC)",
-      "location": "Vilattikulam,",
-      "url": "https://remoteOK.com/remote-jobs/remote-v-norsk-senter-for-cern-relatert-forskning-norcc-1135499",
-      "source": "RemoteOK",
-      "description": "Facebook Log In Log In Forgot Account? This page isn't available right now This may be because of a technical error that we're working to get fixed. Try reloading this page. Reload page See more from CERN | Meyrin See more from CERN | Meyrin Email or phone number Password Log In Forgot password? or Create new account Please mention the word **ENDORSED** and tag RMTA0LjIwOS4xMS4yMDk= when applying to show you read the job post completely (#RMTA0LjIwOS4xMS4yMDk=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're h",
-      "tags": [
-        "design",
-        "ads",
-        "exec",
-        "digital nomad",
-        "technical",
-        "senior",
-        "engineer",
-        "supervisor",
-        "consulting",
-        "customer support",
-        "ops",
-        "sales",
-        "medical",
-        "hr",
-        "sys admin",
-        "dev",
-        "finance",
-        "cloud",
-        "math"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "location unconfirmed — verify it's open to Africa"
-      ]
-    },
-    {
-      "title": "Candidate Requirements",
-      "company": "The VETS",
-      "location": "Behat,",
-      "url": "https://remoteOK.com/remote-jobs/remote-candidate-requirements-the-vets-1135500",
-      "source": "RemoteOK",
-      "description": "Candidates must be over 18 years of age Must be committed to providing the highest level of customer service Candidates must be flexible â able to work weekends, evenings, and holidays, when needed Please mention the word **AGILELY** and tag RMTA0LjIwOS4xMS4yMDk= when applying to show you read the job post completely (#RMTA0LjIwOS4xMS4yMDk=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
-      "tags": [
-        "design",
-        "ads",
-        "exec",
-        "digital nomad",
-        "technical",
-        "senior",
-        "engineer",
-        "supervisor",
-        "consulting",
-        "customer support",
-        "ops",
-        "sales",
-        "medical",
-        "hr",
-        "sys admin",
-        "dev",
-        "finance",
-        "cloud",
-        "math"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "location unconfirmed — verify it's open to Africa"
-      ]
-    },
-    {
-      "title": "Expertise Path and Manager Path",
-      "company": "nidup",
-      "location": "Dooru,",
-      "url": "https://remoteOK.com/remote-jobs/remote-expertise-path-and-manager-path-nidup-1135495",
-      "source": "RemoteOK",
-      "description": "30+ Engineering Career Ladders Before jumping into the list, let's quickly discuss software engineering career ladders. We can extract common traits from those career ladders; understanding those characteristics allows us to connect the dots more easily and compare different career ladders efficiently. What Is a Career Ladder? A career ladder, or career path, is a progression framework. It allows an organization to describe the different job levels and the expectations for a given position. It enables the assessment of a software engineer's skills and to work on her career progression. It prov",
+      "description": "For providers establishing visibility, confirming legitimacy, and making it easy for families to find the basics. Please mention the word **ECSTATIC** and tag RMTQ1LjEzMi4xMDEuMTc2 when applying to show you read the job post completely (#RMTQ1LjEzMi4xMDEuMTc2). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "tags": [
         "design",
         "ads",
@@ -2206,6 +2232,32 @@
       "fit": 36,
       "reasons": [
         "APAC-tagged — verify it's open to Africa first"
+      ]
+    },
+    {
+      "title": "Arquiteto de Dados (Google Cloud Platform (GCP) e Databricks) Sênior",
+      "company": "Leega Consultoria",
+      "location": "Brazil",
+      "url": "https://himalayas.app/companies/leega-consultoria/jobs/arquiteto-de-dados-google-cloud-platform-gcp-e-databricks-senior",
+      "source": "Himalayas",
+      "description": "A Leega é uma empresa focada no atendimento eficiente e inovador em seus clientes. Isso não poderia ser diferente com o nosso principal combustível: as pessoas! Nossa cultura é inspiradora e nossos valores estão presentes no dia a dia: ética e transparência, excelência de qualidade, trabalho em equipe, responsabilidade econômica, social e ambiental, relações humanas e credibilidade. Buscamos profissionais inovadores que sejam movidos por desafios e focados em resultados. Se você busca uma empresa dinâmica e parceira e que investe em seus colaboradores através de capacitação constante, a Leega ",
+      "tags": [
+        "data-architecture",
+        "data-engineering",
+        "cloud-data-platforms",
+        "gcp-databricks-engineer",
+        "data-migration",
+        "senior-databricks-architect",
+        "senior-databricks-engineer",
+        "senior-cloud-data-platform-engineer",
+        "senior-cloud-data-engineer",
+        "databricks-architect",
+        "gcp-data-engineer"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "Brazil-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -2780,32 +2832,6 @@
         "github",
         "rest",
         "datadog"
-      ],
-      "verdict": "blocked",
-      "fit": 0,
-      "reasons": [
-        "Staff-level — usually 5–10+ yrs, you have ~4"
-      ]
-    },
-    {
-      "title": "Chief of Staffåè£ï½CEOç´ä¸ã§æ¦ç¥ã¨å®è¡ãæ©æ¸¡ãããå³è",
-      "company": "ONE CAREER PLUS",
-      "location": "Lembang,",
-      "url": "https://remoteOK.com/remote-jobs/",
-      "source": "RemoteOK",
-      "description": "#ããããã³ã¿ã¼æ±äºº #SaaS #DXæ¨é² #AI #ããããã³ã¿ã¼æ±äºº #SaaS#DXæ¨é²#AI VARIETAS éç¨å½¢æ ï¼æ­£ç¤¾å¡ è·ç¨®ï¼çµå¶ä¼ç»ã»çµå¶æ¦ç¥ å¹´åï¼1,000ä¸åã2,000ä¸å ãã¤ã³ãï¼ãã³ãã£ã¼ä¼æ¥­,1ååä»¥ä¸è³éèª¿éæ¸,ãã¬ãã¯ã¹å¤å æ¦è¦ CEOç´ä¸ã®å³è ã¨ãã¦ãçµç¹å ¨ä½ã®æ°å¤ç®¡çã»é²è¡çµ±å¶ã»ç¹å½æ¡ä»¶ã®å®è¡ãæ ããçµå¶ã®æææ±ºå®ãå®ç¾ã¸ã¨ã¤ãªãæåç·ã«ç«ã£ã¦ããã ãã¾ããæ¦ç¥ãæãã ãã§ãªããç¾å ´ãåããææãåºããã¨ãæ¬è³ªã§ããCEOã®æ§æ³ãçµ",
-      "tags": [
-        "consulting",
-        "technical",
-        "strategy",
-        "virtual assistant",
-        "cloud",
-        "exec",
-        "saas",
-        "salesforce",
-        "hr",
-        "ops",
-        "c"
       ],
       "verdict": "blocked",
       "fit": 0,
