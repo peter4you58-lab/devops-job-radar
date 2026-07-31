@@ -1,10 +1,10 @@
 {
-  "generated": "2026-07-30 08:04 UTC",
-  "count": 148,
+  "generated": "2026-07-31 08:30 UTC",
+  "count": 145,
   "summary": {
-    "scanned": 148,
-    "eligible": 56,
-    "review": 71,
+    "scanned": 145,
+    "eligible": 55,
+    "review": 69,
     "blocked": 21
   },
   "jobs": [
@@ -271,6 +271,66 @@
       ]
     },
     {
+      "title": "Senior Graphic Designer",
+      "company": "Lemon.io",
+      "location": "Americas, Europe, Asia, Africa, Oceania",
+      "url": "https://remotive.com/remote-jobs/design/senior-graphic-designer-2091081",
+      "source": "Remotive",
+      "description": "Are you a talented Senior Designer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The rate depends on your skills and experience. We've already paid out over $11M to our engineers &amp; designers . No more hunting for clients or negotiating rates — let us handle the business side of things so you can focus on what you do best. Choose a schedule that works best for you. It’s possible to communicate async or minimally overlap withi",
+      "tags": [
+        ".net",
+        "android",
+        "c",
+        "c#",
+        "c++",
+        "data science",
+        "golang",
+        "illustrator",
+        "ios",
+        "java",
+        "javascript",
+        "node.js",
+        "php",
+        "python",
+        "react",
+        "ruby/rails",
+        "scala",
+        "shopify",
+        "swift",
+        "wordpress",
+        "blockchain",
+        "ai/ml",
+        "automation",
+        "project management",
+        "adobe creative suite",
+        "react native",
+        "rust",
+        "unity",
+        "electron",
+        "spring",
+        "laravel",
+        "ethereum",
+        "graphic design",
+        "typescript",
+        "angular",
+        "data engineering",
+        "site reliability",
+        "solid",
+        "symfony",
+        "startup",
+        "marketplace",
+        "next.js",
+        "adobe illustrator",
+        "flutter"
+      ],
+      "verdict": "eligible",
+      "fit": 62,
+      "reasons": [
+        "explicitly open to Africa/Nigeria",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
       "title": "Senior Software Engineer, Infrastructure - Compute Platform",
       "company": "Coinbase",
       "location": "Anywhere in the World",
@@ -337,21 +397,6 @@
       "url": "https://weworkremotely.com/remote-jobs/five9-senior-devops-engineer",
       "source": "WeWorkRemotely",
       "description": "Headquarters: United States (Remote) URL: http://five9.com Join us in bringing joy to customer experience. &nbsp;Five9 is a leading provider of cloud contact center software, bringing the power of cloud innovation to customers worldwide. &nbsp;&nbsp; Living our values everyday results in our team-first culture and enables us to innovate, grow, and thrive while enjoying the journey together. We celebrate diversity and foster an inclusive environment, empowering our employees to be their authentic selves.&nbsp; As part of the Product Engineering organization, the Senior DevOps Engineer will play",
-      "tags": [],
-      "verdict": "eligible",
-      "fit": 60,
-      "reasons": [
-        "remote — anywhere / global",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Senior DevOps Engineer",
-      "company": "Qualifyze",
-      "location": "Anywhere in the World",
-      "url": "https://weworkremotely.com/remote-jobs/qualifyze-senior-devops-engineer",
-      "source": "WeWorkRemotely",
-      "description": "Headquarters: Passeig de Gràcia 19 Barcelona, Connecticut, 08007 Spain &nbsp; Job description About Qualifyze, &nbsp; Founded in 2019, Qualifyze is a leading company in supply chain compliance management in the Life Sciences industry, trusted by over 1,500 pharmaceutical and healthcare companies globally. Our digital suite of solutions connects manufacturers, suppliers, and a global network of more than 250 auditors and quality experts. With a track record of over 4,500 audits across 85+ countries and the largest and most accurate supplier network and data analytics tools, Qualifyze stands as ",
       "tags": [],
       "verdict": "eligible",
       "fit": 60,
@@ -848,33 +893,6 @@
       ]
     },
     {
-      "title": "Mid/Senior AI Cinematic Video Editor",
-      "company": "EverAI",
-      "location": "Worldwide",
-      "url": "https://remotive.com/remote-jobs/artificial-intelligence/mid-senior-ai-cinematic-video-editor-2091035",
-      "source": "Remotive",
-      "description": "Our Vision &amp; Products 🚀 EverAI — Building the Future of AI Companionship One of the Top 15 Largest &amp; Fastest-Growing AI Companies in the World 50 Million Users in 2 years — Help Us Reach 100M first, 500M next At EverAI , we’re shaping what it means to connect with AI. With 50 million users and counting , we're not just building products — we're creating entirely new categories. Our flagship product is the world’s largest AI companionship platform , redefining relationships for millions. It is governed by our proprietary moderation system, EverGuard — an internal AI designed to ensure e",
-      "tags": [
-        "excel",
-        "video",
-        "ai/ml",
-        "customer acquisition",
-        "graphic design",
-        "video production",
-        "after effects",
-        "editing",
-        "solid",
-        "rest",
-        "insurance"
-      ],
-      "verdict": "eligible",
-      "fit": 44,
-      "reasons": [
-        "remote — anywhere / global",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
       "title": "High-Ticket Financial Sales Specialist & Team Lead Track",
       "company": "FSE LLC",
       "location": "Worldwide",
@@ -1097,42 +1115,6 @@
       ]
     },
     {
-      "title": "Maintenance",
-      "company": "Road Ranger",
-      "location": "Vidor,",
-      "url": "https://remoteOK.com/remote-jobs/remote-maintenance-road-ranger-1135589",
-      "source": "RemoteOK",
-      "description": "Road Ranger is looking for maintenance to join the team at our Vidor, TX location! Competitive wages based upon experience.Â Road Ranger is GROWING!! Â We are Hiring Immediately!! Are you looking for Full Time or Part Time work? We have positions available!Â We offer benefits for our FULL and PART-TIME employees. We are hiring immediately. Join the Road Ranger family and see how far your drive can take you!Â At Road Ranger, we aim to provide drivers with the warm hospitality, top tier fuel, quality food, and essential products they need along their journey. We owe our success to our friendly, ",
-      "tags": [
-        "design",
-        "dev",
-        "copywriting",
-        "testing",
-        "analyst",
-        "accounting",
-        "payroll",
-        "virtual assistant",
-        "devops",
-        "finance",
-        "exec",
-        "marketing",
-        "legal",
-        "sales",
-        "recruiter",
-        "engineer",
-        "digital nomad",
-        "customer support",
-        "ops",
-        "medical",
-        "part time"
-      ],
-      "verdict": "review",
-      "fit": 52,
-      "reasons": [
-        "location unconfirmed — verify it's open to Africa"
-      ]
-    },
-    {
       "title": "Site Reliability Engineer (SRE)",
       "company": "Bright Vision Technologies",
       "location": "New Jersey",
@@ -1158,6 +1140,22 @@
       "fit": 52,
       "reasons": [
         "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
+      "title": "Software Engineer - (Connect Platform)",
+      "company": "Enode",
+      "location": "Europe, Norway",
+      "url": "https://jobicy.com/jobs/149876-software-engineer-connect-platform-2",
+      "source": "Jobicy",
+      "description": "About EnodeThe grid was built for predictable, centralised power. Today it's absorbing intermittent supply from grid scale solar and wind, alongside dynamic demand from EVs, heat pumps, and home batteries. The missing piece is software that can connect and orchestrate these devices at scale.Enode provides the infrastructure layer that makes this possible. Our Connect API&hellip;",
+      "tags": [
+        "software engineering"
+      ],
+      "verdict": "review",
+      "fit": 52,
+      "reasons": [
+        "Europe-tagged — verify it's open to Africa first"
       ]
     },
     {
@@ -1206,35 +1204,6 @@
       "fit": 50,
       "reasons": [
         "Uk-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Senior Network Engineer - DGX Cloud",
-      "company": "NVIDIA",
-      "location": "Canada, United States",
-      "url": "https://himalayas.app/companies/nvidia/jobs/senior-network-engineer-dgx-cloud-3394809120",
-      "source": "Himalayas",
-      "description": "NVIDIA is looking for a Senior Network Engineer to develop a cloud network infrastructure. The goal is to craft a reliable, scalable and efficient network to support NVIDIA software development workflows and tools, including CI/CD pipelines, compute resource management flow and developer productivity tools. The network is serving the needs across the whole software stack for NVIDIA from Graphics Drivers to Autonomous Vehicles to Deep Learning frameworks. To achieve this goal, we are looking for an engineer who has a deep understanding of L3 underlay networks, outstanding design skills and a tr",
-      "tags": [
-        "senior-network-engineer",
-        "cloud-infrastructure-networking",
-        "data-center-networking",
-        "network-architecture",
-        "network-engineer",
-        "layer-3",
-        "wan-engineering",
-        "senior-network-engineering",
-        "cloud-network-engineer",
-        "cloud-networking-engineer",
-        "senior-network-infrastructure-engineer",
-        "senior-network-architect",
-        "senior-cloud-infrastructure-engineer"
-      ],
-      "verdict": "review",
-      "fit": 50,
-      "reasons": [
-        "United states-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -1455,23 +1424,6 @@
       ]
     },
     {
-      "title": "Senior DevOps Engineer",
-      "company": "Zartis",
-      "location": "Europe",
-      "url": "https://jobicy.com/jobs/148666-senior-devops-engineer-2",
-      "source": "Jobicy",
-      "description": "The company and our mission: Zartis is a global AI transformation and technology consulting partner where talented engineers and technologists work on cutting edge innovation. We partner with ambitious organizations to design, build, and scale technology solutions that deliver real impact. Our teams bring deep expertise in AI driven platforms, secure API architectures, and cloud&hellip;",
-      "tags": [
-        "devops &amp; infrastructure"
-      ],
-      "verdict": "review",
-      "fit": 46,
-      "reasons": [
-        "Europe-tagged — verify it's open to Africa first",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
       "title": "DevOps Senior Engineer",
       "company": "Experian",
       "location": "Costa Rica",
@@ -1563,23 +1515,6 @@
       "url": "https://jobicy.com/jobs/149240-lead-cloud-platform-dev-ops-engineer-2",
       "source": "Jobicy",
       "description": "Lead Cloud Platform &amp; Dev Ops Engineer(Job Number: 40286)Description Join Our Team and Make a Difference in Higher Education! At the System Administration office at the University of Colorado, we are dedicated to building a workplace where everyone feels valued, supported, and empowered to thrive. Our office is committed to fostering a culture where employees find community, a&hellip;",
-      "tags": [
-        "devops &amp; infrastructure"
-      ],
-      "verdict": "review",
-      "fit": 46,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Lead Cloud Platform & Dev Ops Engineer",
-      "company": "University of Colorado",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/149238-lead-cloud-platform-dev-ops-engineer",
-      "source": "Jobicy",
-      "description": "Lead Cloud Platform &amp; Dev Ops Engineer - 40286 University Staff Description Join Our Team and Make a Difference in Higher Education! At the System Administration office at the University of Colorado, we are dedicated to building a workplace where everyone feels valued, supported, and empowered to thrive. Our office is committed to fostering a culture where employees find community, a&hellip;",
       "tags": [
         "devops &amp; infrastructure"
       ],
@@ -1811,6 +1746,64 @@
       ]
     },
     {
+      "title": "Healthcare Virtual Assistant Athena EMR Experience",
+      "company": "Snapscale Philippines",
+      "location": "Davao,",
+      "url": "https://remoteOK.com/remote-jobs/remote-healthcare-virtual-assistant-athena-emr-experience-snapscale-philippines-1135688",
+      "source": "RemoteOK",
+      "description": "Overview Snapscale is seeking a highly skilled Healthcare Virtual Assistant to support day-to-day U.S. clinic operations in a remote setup and ensure a seamless patient experience. This role requires strong communication skills, attention to detail, and hands-on experience in U.S. healthcare processes. The ideal candidate must have proven expertise in EMR systems, specifically Athena EMR , and the ability to manage multiple clinical and administrative tasks efficiently while working remotely. Key Responsibilities Verify patient benefits and insurance coverage accurately and efficiently Reactiv",
+      "tags": [
+        "virtual assistant",
+        "coordinator",
+        "customer support",
+        "marketing",
+        "ops",
+        "medical",
+        "non tech",
+        "dev",
+        "video",
+        "cloud",
+        "microsoft",
+        "exec",
+        "digital nomad",
+        "design",
+        "education",
+        "content writing",
+        "sales",
+        "full time",
+        "part time",
+        "c sharp",
+        "react",
+        "hr",
+        "sys admin",
+        "infosec",
+        "python",
+        "teaching",
+        "technical",
+        "testing",
+        "web dev",
+        "scrum",
+        "javascript",
+        "java",
+        "c",
+        "c plus plus",
+        "css",
+        "html",
+        "git",
+        "angular",
+        "node",
+        "node.js",
+        "senior",
+        "engineer",
+        "internship"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
       "title": "Graphic Designer",
       "company": "Miranda Creative, Inc.",
       "location": "Norwich, Norwich, Connecticut, United States",
@@ -1854,6 +1847,73 @@
       "fit": 36,
       "reasons": [
         "United states-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "Project Management Coordinator",
+      "company": "Arabian Private Holdings",
+      "location": "Ø¯Ø¨Ù, Ø¯Ø¨Ù Ø¯Ø¨Ù Ø§ÙØ¥Ù Ø§Ø±Ø§Øª Ø§ÙØ¹Ø±Ø¨ÙØ© Ø§ÙÙ ØªØ­Ø¯Ø©",
+      "url": "https://remoteOK.com/remote-jobs/remote-project-management-coordinator-arabian-private-holdings-1135692",
+      "source": "RemoteOK",
+      "description": "About the role The Project Management Coordinator role is essential for maintaining the structure and rhythm of our high level advisory work. In this position, you will support our principals as we assist a major regional logistics and transportation group through a complex transition of their operating model. You will provide the organizational support needed to ensure that our strategic recommendations are tracked, documented, and moved toward a final decision. About Arabian Private Holdings Arabian Private Holdings was founded on the principle that many critical business problems do not fit",
+      "tags": [
+        "virtual assistant",
+        "coordinator",
+        "customer support",
+        "marketing",
+        "ops",
+        "medical",
+        "non tech",
+        "dev",
+        "video",
+        "cloud",
+        "microsoft",
+        "exec",
+        "digital nomad",
+        "design",
+        "education",
+        "content writing",
+        "sales",
+        "full time",
+        "part time",
+        "c sharp",
+        "react",
+        "hr",
+        "sys admin",
+        "infosec",
+        "python",
+        "teaching",
+        "technical",
+        "testing",
+        "web dev",
+        "scrum",
+        "javascript",
+        "java",
+        "c",
+        "c plus plus",
+        "css",
+        "html",
+        "git",
+        "angular",
+        "node",
+        "node.js",
+        "senior",
+        "engineer",
+        "internship",
+        "excel",
+        "stats",
+        "recruiter",
+        "finance",
+        "game dev",
+        "golang",
+        "ecommerce",
+        "project manager",
+        "consulting"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa"
       ]
     },
     {
@@ -1904,6 +1964,34 @@
       ]
     },
     {
+      "title": "Virtual Assistant",
+      "company": "RippedBoxStation",
+      "location": "Manila, Manila, National Capital Region, Philippines",
+      "url": "https://remoteOK.com/remote-jobs/remote-virtual-assistant-rippedboxstation-1135685",
+      "source": "RemoteOK",
+      "description": "Key Responsibilities Provide comprehensive administrative support by managing calendars, emails, appointments, and daily schedules for clients or executives. Organize and maintain digital files, documents, spreadsheets, and databases to ensure information is accurate and easily accessible. Conduct online research and compile relevant information to support business operations and decision-making. Prepare reports, presentations, business correspondence, and other administrative documents with a high level of accuracy. Coordinate virtual meetings by scheduling appointments, sending invitations, ",
+      "tags": [
+        "virtual assistant",
+        "coordinator",
+        "customer support",
+        "marketing",
+        "ops",
+        "medical",
+        "non tech",
+        "dev",
+        "video",
+        "cloud",
+        "microsoft",
+        "exec",
+        "digital nomad"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
       "title": "Moderator of Orders Feed",
       "company": "inDrive",
       "location": "Jakarta, Jakarta, Jakarta Raya, Indonesia",
@@ -1935,74 +2023,6 @@
         "speech",
         "adult",
         "content writing"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "location unconfirmed — verify it's open to Africa"
-      ]
-    },
-    {
-      "title": "The Atlas Project",
-      "company": "Blue Rock Technology Group",
-      "location": "æ¸,",
-      "url": "https://remoteOK.com/remote-jobs/remote-the-atlas-project-blue-rock-technology-group-1135497",
-      "source": "RemoteOK",
-      "description": "It all begins with an idea. Maybe you want to launch a business. Maybe you want to turn a hobby into something more. Please mention the word **COMELY** and tag RMTQ1LjEzMi4xMDEuMTc2 when applying to show you read the job post completely (#RMTQ1LjEzMi4xMDEuMTc2). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
-      "tags": [
-        "design",
-        "ads",
-        "exec",
-        "digital nomad",
-        "technical",
-        "senior",
-        "engineer",
-        "supervisor",
-        "consulting",
-        "customer support",
-        "ops",
-        "sales",
-        "medical",
-        "hr",
-        "sys admin",
-        "dev",
-        "finance",
-        "cloud",
-        "math"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "location unconfirmed — verify it's open to Africa"
-      ]
-    },
-    {
-      "title": "SCALE PLAN",
-      "company": "Carexroads.com, Inc.",
-      "location": "Golmuri Cum Jugsalai,",
-      "url": "https://remoteOK.com/remote-jobs/remote-scale-plan-carexroads-com-inc-1135498",
-      "source": "RemoteOK",
-      "description": "For providers establishing visibility, confirming legitimacy, and making it easy for families to find the basics. Please mention the word **ECSTATIC** and tag RMTQ1LjEzMi4xMDEuMTc2 when applying to show you read the job post completely (#RMTQ1LjEzMi4xMDEuMTc2). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
-      "tags": [
-        "design",
-        "ads",
-        "exec",
-        "digital nomad",
-        "technical",
-        "senior",
-        "engineer",
-        "supervisor",
-        "consulting",
-        "customer support",
-        "ops",
-        "sales",
-        "medical",
-        "hr",
-        "sys admin",
-        "dev",
-        "finance",
-        "cloud",
-        "math"
       ],
       "verdict": "review",
       "fit": 36,
@@ -2051,22 +2071,6 @@
       "description": "Founded in 2018 with co-headquarters in Dublin and Boston, Tines powers some of the world's most important workflows. Our intelligent workflow platform applies AI, automation, and integration with human ingenuity to drive real business results. Tines serves a diverse range of customers, from startups to public companies, including Canva, Databricks, Elastic, Kayak, Intercom, and McKesson.&hellip;",
       "tags": [
         "customer support &amp; success"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Customer Reliability Engineer, Airflow",
-      "company": "Astronomer",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/147810-customer-reliability-engineer-airflow",
-      "source": "Jobicy",
-      "description": "Astronomer empowers data teams to bring mission-critical software, analytics, and AI to life and is the company behind Astro, the industry-leading unified DataOps platform powered by Apache Airflow®. Astro accelerates building reliable data products that unlock insights, unleash AI value, and powers data-driven applications. Trusted by more than 800 of the world's leading enterprises, Astronomer&hellip;",
-      "tags": [
-        "technical support"
       ],
       "verdict": "review",
       "fit": 36,
@@ -2235,32 +2239,6 @@
       ]
     },
     {
-      "title": "Arquiteto de Dados (Google Cloud Platform (GCP) e Databricks) Sênior",
-      "company": "Leega Consultoria",
-      "location": "Brazil",
-      "url": "https://himalayas.app/companies/leega-consultoria/jobs/arquiteto-de-dados-google-cloud-platform-gcp-e-databricks-senior",
-      "source": "Himalayas",
-      "description": "A Leega é uma empresa focada no atendimento eficiente e inovador em seus clientes. Isso não poderia ser diferente com o nosso principal combustível: as pessoas! Nossa cultura é inspiradora e nossos valores estão presentes no dia a dia: ética e transparência, excelência de qualidade, trabalho em equipe, responsabilidade econômica, social e ambiental, relações humanas e credibilidade. Buscamos profissionais inovadores que sejam movidos por desafios e focados em resultados. Se você busca uma empresa dinâmica e parceira e que investe em seus colaboradores através de capacitação constante, a Leega ",
-      "tags": [
-        "data-architecture",
-        "data-engineering",
-        "cloud-data-platforms",
-        "gcp-databricks-engineer",
-        "data-migration",
-        "senior-databricks-architect",
-        "senior-databricks-engineer",
-        "senior-cloud-data-platform-engineer",
-        "senior-cloud-data-engineer",
-        "databricks-architect",
-        "gcp-data-engineer"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Brazil-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
       "title": "Sr. Machine Learning Solutions Architect",
       "company": "phData",
       "location": "LATAM",
@@ -2297,6 +2275,40 @@
       "fit": 30,
       "reasons": [
         "Europe-tagged — verify it's open to Africa first",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Frontend Engineering Team Lead - MarTech",
+      "company": "Sporty Group",
+      "location": "Europe",
+      "url": "https://jobicy.com/jobs/149869-frontend-engineering-team-lead-martech",
+      "source": "Jobicy",
+      "description": "About the roleAs the Team Lead for our Frontend development team, you will play a key role in driving the architecture, development, and delivery of high-quality software solutions. You will lead a group of talented developers, ensuring smooth collaboration, technical innovation, and strong delivery results. Your responsibilities will encompass both hands-on coding and line management,&hellip;",
+      "tags": [
+        "software engineering"
+      ],
+      "verdict": "review",
+      "fit": 30,
+      "reasons": [
+        "Europe-tagged — verify it's open to Africa first",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Senior Customer Success Manager - East/Public Sector",
+      "company": "Tines",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/149843-senior-customer-success-manager-east-public-sector",
+      "source": "Jobicy",
+      "description": "Founded in 2018 with co-headquarters in Dublin and Boston, Tines powers some of the world's most important workflows. Our intelligent workflow platform applies AI, automation, and integration with human ingenuity to drive real business results. Tines serves a diverse range of customers, from startups to public companies, including Canva, Databricks, Elastic, Kayak, Intercom, and McKesson.&hellip;",
+      "tags": [
+        "customer support &amp; success"
+      ],
+      "verdict": "review",
+      "fit": 30,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
