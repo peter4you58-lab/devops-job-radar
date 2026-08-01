@@ -1,11 +1,11 @@
 {
-  "generated": "2026-07-31 08:30 UTC",
-  "count": 145,
+  "generated": "2026-08-01 08:00 UTC",
+  "count": 139,
   "summary": {
-    "scanned": 145,
-    "eligible": 55,
-    "review": 69,
-    "blocked": 21
+    "scanned": 139,
+    "eligible": 52,
+    "review": 67,
+    "blocked": 20
   },
   "jobs": [
     {
@@ -89,34 +89,6 @@
       ]
     },
     {
-      "title": "Senior DevOps Engineer",
-      "company": "Lemon.io",
-      "location": "Worldwide",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-devops-engineer-lemon-io-1135562",
-      "source": "RemoteOK",
-      "description": "Are you a talented Senior DevOps looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io â the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The rate depends on your seniority level, skills and experience. We've already paid out over $11M to our engineers. No more hunting for clients or negotiating rates â let us handle the business side of things so you can focus on what you do best. We'll manually find the best project for you according to your skills and preferences. Choose a schedu",
-      "tags": [
-        "dev",
-        "engineer",
-        "senior",
-        "full time",
-        "devops",
-        "python",
-        "golang",
-        "aws",
-        "gcp",
-        "kubernetes",
-        "ansible",
-        "sql"
-      ],
-      "verdict": "eligible",
-      "fit": 72,
-      "reasons": [
-        "remote — anywhere / global",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
       "title": "Full Stack Developer - DevOps & Cloud Systems",
       "company": "BrightOrder",
       "location": "Anywhere in the World",
@@ -140,20 +112,6 @@
       "tags": [],
       "verdict": "eligible",
       "fit": 70,
-      "reasons": [
-        "remote — anywhere / global"
-      ]
-    },
-    {
-      "title": "Software Engineer, Security Analytics Infrastructure",
-      "company": "Stripe",
-      "location": "Anywhere in the World",
-      "url": "https://weworkremotely.com/remote-jobs/stripe-software-engineer-security-analytics-infrastructure",
-      "source": "WeWorkRemotely",
-      "description": "Headquarters: US - Remote Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team In this role, you'd join Stripe's Secur",
-      "tags": [],
-      "verdict": "eligible",
-      "fit": 66,
       "reasons": [
         "remote — anywhere / global"
       ]
@@ -876,23 +834,6 @@
       ]
     },
     {
-      "title": "Software Developer Sr. - AI-Native .NET/ Azure (Cloud Platform)",
-      "company": "Dayforce",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/146260-software-developer-sr-ai-native-net-azure-cloud-platform",
-      "source": "Jobicy",
-      "description": "Dayforce is a global human capital management (HCM) company headquartered in Toronto, Ontario, and Minneapolis, Minnesota, with operations across North America, Europe, Middle East, Africa (EMEA), and the Asia Pacific Japan (APJ) region.Our award-winning Cloud HCM platform offers a unified solution database and continuous calculation engine, driving efficiency, productivity and compliance for the global workforce.Our&hellip;",
-      "tags": [
-        "software engineering"
-      ],
-      "verdict": "eligible",
-      "fit": 46,
-      "reasons": [
-        "explicitly open to Africa/Nigeria",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
       "title": "High-Ticket Financial Sales Specialist & Team Lead Track",
       "company": "FSE LLC",
       "location": "Worldwide",
@@ -976,6 +917,38 @@
       ]
     },
     {
+      "title": "GitOps Engineering Manager",
+      "company": "Canonical Ltd.",
+      "location": "APAC, EMEA",
+      "url": "https://jobicy.com/jobs/149939-gitops-engineering-manager",
+      "source": "Jobicy",
+      "description": "Canonical is a leading provider of open-source software and operating systems for global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in many&hellip;",
+      "tags": [
+        "devops &amp; infrastructure"
+      ],
+      "verdict": "review",
+      "fit": 68,
+      "reasons": [
+        "EMEA-tagged — verify it's open to Africa first"
+      ]
+    },
+    {
+      "title": "Site Reliability Engineering Manager",
+      "company": "Canonical Ltd.",
+      "location": "APAC, EMEA",
+      "url": "https://jobicy.com/jobs/149986-site-reliability-engineering-manager",
+      "source": "Jobicy",
+      "description": "Canonical is a leading provider of open-source software and operating systems for global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in many&hellip;",
+      "tags": [
+        "devops &amp; infrastructure"
+      ],
+      "verdict": "review",
+      "fit": 64,
+      "reasons": [
+        "EMEA-tagged — verify it's open to Africa first"
+      ]
+    },
+    {
       "title": "Site Reliability Engineer",
       "company": "Canonical Ltd.",
       "location": "Anywhere",
@@ -989,6 +962,23 @@
       "fit": 64,
       "reasons": [
         "Africa-friendly employer (Canonical) — role location unconfirmed"
+      ]
+    },
+    {
+      "title": "Information Systems - Open Source Technical Architect",
+      "company": "Canonical Ltd.",
+      "location": "EMEA",
+      "url": "https://jobicy.com/jobs/149979-information-systems-open-source-technical-architect",
+      "source": "Jobicy",
+      "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders&hellip;",
+      "tags": [
+        "devops &amp; infrastructure"
+      ],
+      "verdict": "review",
+      "fit": 58,
+      "reasons": [
+        "EMEA-tagged — verify it's open to Africa first",
+        "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
     {
@@ -1074,36 +1064,6 @@
         "marketing",
         "legal",
         "sales",
-        "recruiter",
-        "engineer",
-        "digital nomad"
-      ],
-      "verdict": "review",
-      "fit": 52,
-      "reasons": [
-        "location unconfirmed — verify it's open to Africa"
-      ]
-    },
-    {
-      "title": "AI Intern",
-      "company": "CertifyOS",
-      "location": "Pune",
-      "url": "https://remoteOK.com/remote-jobs/remote-ai-intern-certifyos-1135555",
-      "source": "RemoteOK",
-      "description": "About CertifyOS CertifyOS is building the data infrastructure that powers modern healthcare. Today, healthcare organizations rely on fragmented and outdated provider data. This creates unnecessary administrative work, regulatory risk, and higher costs across the system. Weâre solving that problem. Our API-first platform automates provider licensing, enrollment, credentialing, and network monitoring by connecting directly to hundreds of primary data sources. We help healthcare organizations maintain accurate, compliant, and reliable provider networks at scale. Our vision is simple: One API. O",
-      "tags": [
-        "design",
-        "sys admin",
-        "python",
-        "technical",
-        "dev",
-        "testing",
-        "java",
-        "cloud",
-        "git",
-        "api",
-        "ops",
-        "medical",
         "recruiter",
         "engineer",
         "digital nomad"
@@ -1205,6 +1165,22 @@
       "reasons": [
         "Uk-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
         "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Software Engineer - Cloud Images",
+      "company": "Canonical Ltd.",
+      "location": "EMEA, LATAM, Canada, USA",
+      "url": "https://jobicy.com/jobs/149978-software-engineer-cloud-images",
+      "source": "Jobicy",
+      "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders&hellip;",
+      "tags": [
+        "software engineering"
+      ],
+      "verdict": "review",
+      "fit": 48,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -1390,6 +1366,23 @@
       ]
     },
     {
+      "title": "Senior DevOps / DevEx Engineer",
+      "company": "RevenueCat",
+      "location": "APAC, EMEA, Canada, USA",
+      "url": "https://jobicy.com/jobs/149932-senior-devops-devex-engineer",
+      "source": "Jobicy",
+      "description": "RevenueCat removes the headaches of building and scaling in‑app subscriptions. Since graduating from YC’s S18 batch we’ve grown into the default monetization platform for mobile: we’re in &gt;40% of newly shipped subscription apps, we process $12B+ in annual purchase volume, and we help everyone from a solo dev in Brazil to the OpenAI mobile team&hellip;",
+      "tags": [
+        "devops &amp; infrastructure"
+      ],
+      "verdict": "review",
+      "fit": 46,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
       "title": "Senior DevOps Engineer",
       "company": "Experian",
       "location": "Costa Rica",
@@ -1437,6 +1430,23 @@
       "fit": 46,
       "reasons": [
         "Costa rica-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Senior Site Reliability Engineer",
+      "company": "Remote",
+      "location": "EMEA",
+      "url": "https://jobicy.com/jobs/148108-senior-site-reliability-engineer",
+      "source": "Jobicy",
+      "description": "About Remote Remote is solving modern organizations’ biggest challenge – navigating global employment compliantly with ease. We make it possible for businesses of all sizes to recruit, pay, and manage international teams. With our core values at heart and future focused work culture, our team works tirelessly on ambitious problems, asynchronously, around the world. You&hellip;",
+      "tags": [
+        "devops &amp; infrastructure"
+      ],
+      "verdict": "review",
+      "fit": 46,
+      "reasons": [
+        "EMEA-tagged — verify it's open to Africa first",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -1509,23 +1519,6 @@
       ]
     },
     {
-      "title": "Lead Cloud Platform & Dev Ops Engineer",
-      "company": "University of Colorado Anschutz Medical Campus",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/149240-lead-cloud-platform-dev-ops-engineer-2",
-      "source": "Jobicy",
-      "description": "Lead Cloud Platform &amp; Dev Ops Engineer(Job Number: 40286)Description Join Our Team and Make a Difference in Higher Education! At the System Administration office at the University of Colorado, we are dedicated to building a workplace where everyone feels valued, supported, and empowered to thrive. Our office is committed to fostering a culture where employees find community, a&hellip;",
-      "tags": [
-        "devops &amp; infrastructure"
-      ],
-      "verdict": "review",
-      "fit": 46,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
       "title": "Community Engineer (multiple roles and seniority levels)",
       "company": "Canonical Ltd.",
       "location": "Anywhere",
@@ -1540,25 +1533,6 @@
       "reasons": [
         "Africa-friendly employer (Canonical) — role location unconfirmed",
         "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Communications Manager",
-      "company": "Lemon.io",
-      "location": "LATAM, Europe",
-      "url": "https://remotive.com/remote-jobs/communications/communications-manager-2090985",
-      "source": "Remotive",
-      "description": "About Lemon.io Lemon.io is building the autopilot for hiring. We've replaced the slow, expensive recruiting agency with a platform that delivers vetted, responsive candidates, ready for a final interview. In days, not weeks. Hundreds of fast-growing companies use Lemon to build their engineering teams, from early-stage startups to enterprises. We're profitable, bootstrapped, and growing at a moment when the legacy recruiting industry is being rewritten in real time. Here's why this role exists. We have a great story and almost no one telling it. A profitable company helping rewrite a huge indu",
-      "tags": [
-        "go",
-        "ai/ml",
-        "automation",
-        "responsive"
-      ],
-      "verdict": "review",
-      "fit": 40,
-      "reasons": [
-        "Europe-tagged — verify it's open to Africa first"
       ]
     },
     {
@@ -1746,6 +1720,71 @@
       ]
     },
     {
+      "title": "Supply Chain &amp; Operations Specialist",
+      "company": "Miss Amara",
+      "location": "Metro Manila",
+      "url": "https://remoteOK.com/remote-jobs/remote-supply-chain-amp-operations-specialist-miss-amara-1135691",
+      "source": "RemoteOK",
+      "description": "Supply Chain &amp; Operations Specialist - Join Us at Miss Amara! If youâre a natural problem-solver who loves keeping things moving in a fast-paced e-commerce world, this role is for you. As our Supply Chain &amp; Operations Specialist, youâll be the driving force ensuring our DTC and B2B orders are delivered smoothly and on time. By tackling fulfillment bottlenecks with your amazing attention to detail, you'll directly protect our brand trust and keep our customers smiling! About The Role Youâll be the heart of our daily outbound operations! You will coordinate dispatch, manage invento",
+      "tags": [
+        "virtual assistant",
+        "coordinator",
+        "customer support",
+        "marketing",
+        "ops",
+        "medical",
+        "non tech",
+        "dev",
+        "video",
+        "cloud",
+        "microsoft",
+        "exec",
+        "digital nomad",
+        "design",
+        "education",
+        "content writing",
+        "sales",
+        "full time",
+        "part time",
+        "c sharp",
+        "react",
+        "hr",
+        "sys admin",
+        "infosec",
+        "python",
+        "teaching",
+        "technical",
+        "testing",
+        "web dev",
+        "scrum",
+        "javascript",
+        "java",
+        "c",
+        "c plus plus",
+        "css",
+        "html",
+        "git",
+        "angular",
+        "node",
+        "node.js",
+        "senior",
+        "engineer",
+        "internship",
+        "excel",
+        "stats",
+        "recruiter",
+        "finance",
+        "game dev",
+        "golang",
+        "ecommerce"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
       "title": "Healthcare Virtual Assistant Athena EMR Experience",
       "company": "Snapscale Philippines",
       "location": "Davao,",
@@ -1917,117 +1956,19 @@
       ]
     },
     {
-      "title": "Area Sales Manager",
-      "company": "ROAR Organic",
-      "location": "New York City Metropolitan Area",
-      "url": "https://remoteOK.com/remote-jobs/remote-area-sales-manager-roar-organic-1135611",
-      "source": "RemoteOK",
-      "description": "Job Title: Area Sales Manager Reports to: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Director of Sales- East Location: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Remote- New York Metro Status:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; FT/Exempt Compensation: $70,000 â $80,000 annual base salary, plus a competitive bonus opportunity. Final compensation will be commensurate with experience, skills, and qualifications. ABOUT THE COMPANY ROAR is redefining hydration for a new generation. In a category that has become overly serious and hardco",
+      "title": "Software Developer in Test (JavaScript)",
+      "company": "Veeam Software",
+      "location": "Poland",
+      "url": "https://jobicy.com/jobs/144087-software-developer-in-test-javascript-2",
+      "source": "Jobicy",
+      "description": "Veeam is the Data and AI Trust Company, specializing in helping organizations ensure their data and AI are fully understood, secured, and resilient to enable the acceleration of safe AI at scale. As the market leader in both data resilience and data security posture management, Veeam is built for the convergence of identity, data, security,&hellip;",
       "tags": [
-        "design",
-        "music",
-        "technical",
-        "travel",
-        "speech",
-        "video",
-        "exec",
-        "content writing",
-        "medical",
-        "engineer",
-        "digital nomad",
-        "sys admin",
-        "consulting",
-        "testing",
-        "virtual assistant",
-        "finance",
-        "senior",
-        "ops",
-        "customer support",
-        "dev",
-        "microsoft",
-        "excel",
-        "legal",
-        "designer",
-        "web dev",
-        "cloud",
-        "marketing",
-        "photoshop",
-        "illustrator",
-        "full time",
-        "part time",
-        "sales"
+        "software engineering"
       ],
       "verdict": "review",
       "fit": 36,
       "reasons": [
-        "location unconfirmed — verify it's open to Africa"
-      ]
-    },
-    {
-      "title": "Virtual Assistant",
-      "company": "RippedBoxStation",
-      "location": "Manila, Manila, National Capital Region, Philippines",
-      "url": "https://remoteOK.com/remote-jobs/remote-virtual-assistant-rippedboxstation-1135685",
-      "source": "RemoteOK",
-      "description": "Key Responsibilities Provide comprehensive administrative support by managing calendars, emails, appointments, and daily schedules for clients or executives. Organize and maintain digital files, documents, spreadsheets, and databases to ensure information is accurate and easily accessible. Conduct online research and compile relevant information to support business operations and decision-making. Prepare reports, presentations, business correspondence, and other administrative documents with a high level of accuracy. Coordinate virtual meetings by scheduling appointments, sending invitations, ",
-      "tags": [
-        "virtual assistant",
-        "coordinator",
-        "customer support",
-        "marketing",
-        "ops",
-        "medical",
-        "non tech",
-        "dev",
-        "video",
-        "cloud",
-        "microsoft",
-        "exec",
-        "digital nomad"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "location unconfirmed — verify it's open to Africa"
-      ]
-    },
-    {
-      "title": "Moderator of Orders Feed",
-      "company": "inDrive",
-      "location": "Jakarta, Jakarta, Jakarta Raya, Indonesia",
-      "url": "https://remoteOK.com/remote-jobs/remote-moderator-of-orders-feed-indrive-1135573",
-      "source": "RemoteOK",
-      "description": "Department: Safety Support Operations Location: Indonesia Description We are searching Moderator of Orders Feed to join our team in Indonesia. Key Responsibilities Moderation system monitoring Blocking users who violate the rules of the service Removing inappropriate content (Adult Nudity, Illegal Goods, Bullying, Harassment, Hate Speech, etc.) Keeping track of inappropriate orders in Google Sheets as required Compiling a list of words for censorship Conducting labeling of various datasets Other relevant tasks as required Skills, Knowledge and Expertise Bahasa ( Indonesian) Language: Native En",
-      "tags": [
-        "consulting",
-        "technical",
-        "strategy",
-        "virtual assistant",
-        "cloud",
-        "exec",
-        "saas",
-        "salesforce",
-        "hr",
-        "ops",
-        "c",
-        "data entry",
-        "infosec",
-        "education",
-        "customer support",
-        "marketing",
-        "admin",
-        "microsoft",
-        "excel",
-        "sys admin",
-        "video",
-        "speech",
-        "adult",
-        "content writing"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "location unconfirmed — verify it's open to Africa"
+        "Poland-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -2191,71 +2132,6 @@
       ]
     },
     {
-      "title": ".NET Developer",
-      "company": "INNOCV Solutions",
-      "location": "Spain",
-      "url": "https://jobicy.com/jobs/146259-net-developer",
-      "source": "Jobicy",
-      "description": "Who are we?We are part of the Alkemy Group, specializing in driving growth through our technological expertise, tackling complex challenges, and fostering operational excellence.We are digital natives and technology-neutral thanks to our rapid adaptation capabilities and problem-solving skills in any business situation.We are passionate about technology challenges that have a significant impact on business. To&hellip;",
-      "tags": [
-        "software engineering"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Spain-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Customer Success Manager",
-      "company": "Sonatype",
-      "location": "UK",
-      "url": "https://jobicy.com/jobs/146325-customer-success-manager-35",
-      "source": "Jobicy",
-      "description": "Sonatype is the software supply chain security company. We provide the world’s best end-to-end software supply chain security solution, combining the only proactive protection against malicious open source, the only enterprise grade SBOM management and the leading open source dependency management platform. This empowers enterprises to create and maintain secure, quality, and innovative software at&hellip;",
-      "tags": [
-        "customer support &amp; success"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Uk-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Support Engineering Manager (APAC)",
-      "company": "Supabase",
-      "location": "APAC",
-      "url": "https://jobicy.com/jobs/149306-support-engineering-manager-apac-2",
-      "source": "Jobicy",
-      "description": "About SupabaseSupabase is the Postgres development platform: Database, Auth, Storage, Edge Functions, Realtime, and Vector, deeply integrated and built for teams that need their backend to grow with them. We're open source, we move fast, and our users are developers who notice when things are off.About this roleWe're hiring a Support Manager on our global&hellip;",
-      "tags": [
-        "technical support"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "APAC-tagged — verify it's open to Africa first"
-      ]
-    },
-    {
-      "title": "Sr. Machine Learning Solutions Architect",
-      "company": "phData",
-      "location": "LATAM",
-      "url": "https://jobicy.com/jobs/146291-sr-machine-learning-solutions-architect",
-      "source": "Jobicy",
-      "description": "Join phData, a dynamic and innovative leader in the modern data stack. We partner with major cloud data platforms like Snowflake, AWS, Azure, GCP, Fivetran, Pinecone, Glean, and dbt to deliver cutting-edge services and solutions.We're committed to helping global enterprises overcome their toughest data challenges. phData is a remote-first global company with employees based in&hellip;",
-      "tags": [
-        "data science &amp; analytics"
-      ],
-      "verdict": "review",
-      "fit": 34,
-      "reasons": [
-        "Latam-tagged — verify it's open to Africa first",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
       "title": "Senior Independent AI Engineer / Architect",
       "company": "A.Team",
       "location": "Americas, Europe, Israel",
@@ -2270,6 +2146,23 @@
         "apple",
         "testing",
         "catalyst"
+      ],
+      "verdict": "review",
+      "fit": 30,
+      "reasons": [
+        "Europe-tagged — verify it's open to Africa first",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Senior Software Engineer (Golang)",
+      "company": "Zartis",
+      "location": "Europe",
+      "url": "https://jobicy.com/jobs/149948-senior-software-engineer-golang",
+      "source": "Jobicy",
+      "description": "The company and our mission: Zartis is a digital solutions provider working across technology strategy, software engineering, and product development. We partner with firms across financial services, MedTech, media, logistics technology, renewable energy, EdTech, e-commerce, and more. Our engineering hubs in EMEA and LATAM are full of talented professionals delivering business success and digital improvement&hellip;",
+      "tags": [
+        "software engineering"
       ],
       "verdict": "review",
       "fit": 30,
@@ -2411,23 +2304,6 @@
       "fit": 30,
       "reasons": [
         "Europe-tagged — verify it's open to Africa first",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Canada- Sr Application Engineer (Salesforce-Agentforce Ai)",
-      "company": "PointClickCare",
-      "location": "Canada",
-      "url": "https://jobicy.com/jobs/149241-canada-sr-application-engineer-salesforce-agentforce-ai",
-      "source": "Jobicy",
-      "description": "At PointClickCare our mission is simple: to help providers deliver exceptional care. And that starts with our people. As a leading health tech company that’s founder-led and privately held, we empower our employees to push boundaries, innovate, and shape the future of healthcare. With the largest long-term and post-acute care dataset and a Marketplace of&hellip;",
-      "tags": [
-        "software engineering"
-      ],
-      "verdict": "review",
-      "fit": 30,
-      "reasons": [
-        "Canada-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -2896,22 +2772,6 @@
       ]
     },
     {
-      "title": "Principal DevOps Engineer (Poland Remote)",
-      "company": "Turnitin, LLC",
-      "location": "Poland",
-      "url": "https://jobicy.com/jobs/145949-principal-devops-engineer-poland-remote",
-      "source": "Jobicy",
-      "description": "Company DescriptionWhen you join Turnitin, you'll be welcomed into a company that is a recognized innovator in global education. For over 25 years, Turnitin has partnered with educators and institutions to develop learning integrity solutions that recognize the enduring value of critical thinking in a rapidly changing world. Over 16,000 academic institutions, publishers, and corporations&hellip;",
-      "tags": [
-        "devops &amp; infrastructure"
-      ],
-      "verdict": "blocked",
-      "fit": 0,
-      "reasons": [
-        "Principal-level — usually 5–10+ yrs, you have ~4"
-      ]
-    },
-    {
       "title": "Principal DevOps Engineer",
       "company": "NBCUniversal",
       "location": "USA",
@@ -2925,6 +2785,22 @@
       "fit": 0,
       "reasons": [
         "Principal-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
+      "title": "Director, Delivery (EMEA)",
+      "company": "Testlio",
+      "location": "EMEA",
+      "url": "https://jobicy.com/jobs/148107-director-delivery-emea",
+      "source": "Jobicy",
+      "description": "About the jobTestlio’s fully managed crowdsourced testing platform, powered by our proprietary intelligence technology - LeoAI EngineTM, integrates expert, on-demand testers directly into your release process. Ship faster and more confidently with global coverage across 600,000+ devices, 800+ payment methods, 150+ countries, and 100+ languages. To learn more, visit testlio.com.We are hiring a Director, Delivery (EMEA)&hellip;",
+      "tags": [
+        "project &amp; program management"
+      ],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Director-level — usually 5–10+ yrs, you have ~4"
       ]
     },
     {
@@ -2957,22 +2833,6 @@
       "fit": 0,
       "reasons": [
         "Head of-level — usually 5–10+ yrs, you have ~4"
-      ]
-    },
-    {
-      "title": "Principal Cloud Application Engineer",
-      "company": "University of Colorado Anschutz Medical Campus",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/149239-principal-cloud-application-engineer-2",
-      "source": "Jobicy",
-      "description": "Principal Cloud Application Engineer(Job Number: 40285)Description Join Our Team and Make a Difference in Higher Education! At the System Administration office at the University of Colorado, we are dedicated to building a workplace where everyone feels valued, supported, and empowered to thrive. Our office is committed to fostering a culture where employees find community, a sense of belonging,&hellip;",
-      "tags": [
-        "software engineering"
-      ],
-      "verdict": "blocked",
-      "fit": 0,
-      "reasons": [
-        "Principal-level — usually 5–10+ yrs, you have ~4"
       ]
     }
   ]
