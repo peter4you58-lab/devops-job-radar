@@ -1,11 +1,11 @@
 {
-  "generated": "2026-08-01 08:00 UTC",
-  "count": 139,
+  "generated": "2026-08-02 08:02 UTC",
+  "count": 138,
   "summary": {
-    "scanned": 139,
-    "eligible": 52,
-    "review": 67,
-    "blocked": 20
+    "scanned": 138,
+    "eligible": 53,
+    "review": 66,
+    "blocked": 19
   },
   "jobs": [
     {
@@ -834,6 +834,23 @@
       ]
     },
     {
+      "title": "Software Developer Sr. - AI-Native .NET/ Azure (Cloud Platform)",
+      "company": "Dayforce",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/146260-software-developer-sr-ai-native-net-azure-cloud-platform",
+      "source": "Jobicy",
+      "description": "Dayforce is a global human capital management (HCM) company headquartered in Toronto, Ontario, and Minneapolis, Minnesota, with operations across North America, Europe, Middle East, Africa (EMEA), and the Asia Pacific Japan (APJ) region.Our award-winning Cloud HCM platform offers a unified solution database and continuous calculation engine, driving efficiency, productivity and compliance for the global workforce.Our&hellip;",
+      "tags": [
+        "software engineering"
+      ],
+      "verdict": "eligible",
+      "fit": 46,
+      "reasons": [
+        "explicitly open to Africa/Nigeria",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
       "title": "High-Ticket Financial Sales Specialist & Team Lead Track",
       "company": "FSE LLC",
       "location": "Worldwide",
@@ -1043,30 +1060,100 @@
       ]
     },
     {
-      "title": "Not Finding Your Fit Apply Here",
-      "company": "The Buckle, Inc.",
-      "location": "Kearney,",
-      "url": "https://remoteOK.com/remote-jobs/remote-not-finding-your-fit-apply-here-the-buckle-inc-1135588",
+      "title": "Accounts Assistant",
+      "company": "CUBE Construction Group Ltd.",
+      "location": "Bridgetown,",
+      "url": "https://remoteOK.com/remote-jobs/remote-accounts-assistant-cube-construction-group-ltd-1135829",
       "source": "RemoteOK",
-      "description": "Summary Interested in Buckle but not seeing a current opening thatâs the right fit? We are always looking for talented people to join our team. If you're positive, passionate, and looking to join a winning team, send us your resume! Buckle recognizes that timing can be a challenge when considering a career change. We donât want to miss out on the opportunity to connect with you. The Buckle, Inc is headquartered in Kearney, NE, and employs over 700 teammates locally. Founded in Kearney, Buckle grew from a single store front to a billion-dollar retailer while staying true to its mission: to ",
+      "description": "About the Role CUBE Construction Group Ltd is seeking a detail-oriented and reliable Accounts Assistant to support the day to day financial operations of our growing construction business. This role is critical to ensuring that our accounting processes remain accurate, organized, and efficient, supporting multiple projects running simultaneously. We are looking for someone who is structured, proactive, and takes ownership of their work. Key Responsibilities â¢ process and verify supplier invoices â¢ assist with accounts payable and receivable â¢ prepare and issue client invoices â¢ record ",
       "tags": [
-        "design",
-        "dev",
-        "copywriting",
-        "testing",
-        "analyst",
-        "accounting",
-        "payroll",
-        "virtual assistant",
-        "devops",
-        "finance",
         "exec",
-        "marketing",
+        "customer support",
         "legal",
-        "sales",
-        "recruiter",
+        "accounting",
+        "sys admin",
+        "finance",
+        "microsoft",
+        "ops",
+        "excel",
+        "product manager",
+        "music",
+        "game dev",
+        "technical",
+        "dev",
+        "marketing",
+        "devops",
         "engineer",
-        "digital nomad"
+        "digital nomad",
+        "supervisor",
+        "c",
+        "speech",
+        "video",
+        "seo",
+        "content writing",
+        "design",
+        "education",
+        "golang",
+        "testing",
+        "admin",
+        "full time",
+        "full stack",
+        "architecture",
+        "cloud",
+        "backend",
+        "coordinator",
+        "sales",
+        "salesforce",
+        "python",
+        "sql",
+        "postgres",
+        "senior",
+        "junior",
+        "recruiter",
+        "virtual assistant",
+        "payroll"
+      ],
+      "verdict": "review",
+      "fit": 52,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
+      "title": "Pedreiro Cristalina Cristalina Novas Vagas Hoje",
+      "company": "UP Consultorias",
+      "location": "Cristalina,",
+      "url": "https://remoteOK.com/remote-jobs/remote-pedreiro-cristalina-cristalina-novas-vagas-hoje-up-consultorias-1135807",
+      "source": "RemoteOK",
+      "description": "UP Consultorias Cristalina-GO Presencial Ãrea: ConstruÃ§Ã£o 2235,20 Requisitos ExperiÃªncia na Ã¡rea. Atividades Assentar tijolos, ladrilhos, alvenarias e materiais afins. Construir alicerces, levantar paredes, muros e construÃ§Ãµes similares. Rebocar estruturas construÃ­das. Realizar trabalhos de manutenÃ§Ã£o corretiva de prÃ©dios, calÃ§adas e estruturas semelhantes. â° 44 | â SalÃ¡rio R$ 2.235,20 + Vale RefeiÃ§Ã£o Confira mais vagas em divulgavagas.com.br Please mention the word **STATUESQUE** and tag RMjAuNjQuMTgyLjE3 when applying to show you read the job post completely (#RMjAuNjQuMTgy",
+      "tags": [
+        "exec",
+        "customer support",
+        "legal",
+        "accounting",
+        "sys admin",
+        "finance",
+        "microsoft",
+        "ops",
+        "excel",
+        "product manager",
+        "music",
+        "game dev",
+        "technical",
+        "dev",
+        "marketing",
+        "devops",
+        "engineer",
+        "digital nomad",
+        "supervisor",
+        "c",
+        "speech",
+        "video",
+        "seo",
+        "content writing",
+        "design",
+        "education",
+        "golang"
       ],
       "verdict": "review",
       "fit": 52,
@@ -1321,6 +1408,56 @@
       ]
     },
     {
+      "title": "lead Generator",
+      "company": "Representaciones del caribe",
+      "location": "Punta Cana,",
+      "url": "https://remoteOK.com/remote-jobs/remote-lead-generator-representaciones-del-caribe-1135815",
+      "source": "RemoteOK",
+      "description": "DescripciÃ³n de la empresa Representaciones del Caribe es una empresa especializada en convertir la intenciÃ³n de expansiÃ³n de marcas globales en una presencia real en el mercado del Caribe. Nos enfocamos en marcas internacionales de footwear, outdoor y lifestyle, ofreciendo una operaciÃ³n integrada con mÃ¡s de 15 marcas en distribuciÃ³n contractual. Gestionamos la infraestructura comercial, logÃ­stica y de activaciÃ³n en retail que a una marca le llevarÃ­a aÃ±os construir por su cuenta. Contamos con logÃ­stica multi-hub y almacenamiento estratÃ©gico en PanamÃ¡, y RepÃºblica Dominicana, lo qu",
+      "tags": [
+        "exec",
+        "customer support",
+        "legal",
+        "accounting",
+        "sys admin",
+        "finance",
+        "microsoft",
+        "ops",
+        "excel",
+        "product manager",
+        "music",
+        "game dev",
+        "technical",
+        "dev",
+        "marketing",
+        "devops",
+        "engineer",
+        "digital nomad",
+        "supervisor",
+        "c",
+        "speech",
+        "video",
+        "seo",
+        "content writing",
+        "design",
+        "education",
+        "golang",
+        "testing",
+        "admin",
+        "full time",
+        "full stack",
+        "architecture",
+        "cloud",
+        "backend"
+      ],
+      "verdict": "review",
+      "fit": 46,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
       "title": "Senior DevOps Engineer",
       "company": "ICF",
       "location": "Virginia",
@@ -1413,23 +1550,6 @@
       "fit": 46,
       "reasons": [
         "Latam-tagged — verify it's open to Africa first",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "DevOps Senior Engineer",
-      "company": "Experian",
-      "location": "Costa Rica",
-      "url": "https://jobicy.com/jobs/148202-devops-senior-engineer",
-      "source": "Jobicy",
-      "description": "Company DescriptionExperian is a global data and technology company, powering opportunities for people and businesses around the world. We help to redefine lending practices, uncover and prevent fraud, simplify healthcare, create marketing solutions, and gain deeper insights into the automotive market, all using our unique combination of data, analytics and software. We also assist millions&hellip;",
-      "tags": [
-        "devops &amp; infrastructure"
-      ],
-      "verdict": "review",
-      "fit": 46,
-      "reasons": [
-        "Costa rica-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -1785,177 +1905,6 @@
       ]
     },
     {
-      "title": "Healthcare Virtual Assistant Athena EMR Experience",
-      "company": "Snapscale Philippines",
-      "location": "Davao,",
-      "url": "https://remoteOK.com/remote-jobs/remote-healthcare-virtual-assistant-athena-emr-experience-snapscale-philippines-1135688",
-      "source": "RemoteOK",
-      "description": "Overview Snapscale is seeking a highly skilled Healthcare Virtual Assistant to support day-to-day U.S. clinic operations in a remote setup and ensure a seamless patient experience. This role requires strong communication skills, attention to detail, and hands-on experience in U.S. healthcare processes. The ideal candidate must have proven expertise in EMR systems, specifically Athena EMR , and the ability to manage multiple clinical and administrative tasks efficiently while working remotely. Key Responsibilities Verify patient benefits and insurance coverage accurately and efficiently Reactiv",
-      "tags": [
-        "virtual assistant",
-        "coordinator",
-        "customer support",
-        "marketing",
-        "ops",
-        "medical",
-        "non tech",
-        "dev",
-        "video",
-        "cloud",
-        "microsoft",
-        "exec",
-        "digital nomad",
-        "design",
-        "education",
-        "content writing",
-        "sales",
-        "full time",
-        "part time",
-        "c sharp",
-        "react",
-        "hr",
-        "sys admin",
-        "infosec",
-        "python",
-        "teaching",
-        "technical",
-        "testing",
-        "web dev",
-        "scrum",
-        "javascript",
-        "java",
-        "c",
-        "c plus plus",
-        "css",
-        "html",
-        "git",
-        "angular",
-        "node",
-        "node.js",
-        "senior",
-        "engineer",
-        "internship"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "location unconfirmed — verify it's open to Africa"
-      ]
-    },
-    {
-      "title": "Graphic Designer",
-      "company": "Miranda Creative, Inc.",
-      "location": "Norwich, Norwich, Connecticut, United States",
-      "url": "https://remoteOK.com/remote-jobs/remote-graphic-designer-miranda-creative-inc-1135610",
-      "source": "RemoteOK",
-      "description": "We are looking for a talented and detail-oriented Graphic Designer to join our creative team part-time (25 hours per week), with the potential to grow into a full-time opportunity. Since 1988, Miranda Creative has partnered with more than 6,000 clients across finance, hospitality, healthcare, manufacturing, tourism, and government. We're a full-service, award-winning, New England-based creative and strategic agency. We pride ourselves on being a highly inclusive, collaborative community built on creativity, trust, and joy. We welcome you to Miranda Creative and look forward to learning more ab",
-      "tags": [
-        "design",
-        "music",
-        "technical",
-        "travel",
-        "speech",
-        "video",
-        "exec",
-        "content writing",
-        "medical",
-        "engineer",
-        "digital nomad",
-        "sys admin",
-        "consulting",
-        "testing",
-        "virtual assistant",
-        "finance",
-        "senior",
-        "ops",
-        "customer support",
-        "dev",
-        "microsoft",
-        "excel",
-        "legal",
-        "designer",
-        "web dev",
-        "cloud",
-        "marketing",
-        "photoshop",
-        "illustrator",
-        "full time",
-        "part time"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "United states-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Project Management Coordinator",
-      "company": "Arabian Private Holdings",
-      "location": "Ø¯Ø¨Ù, Ø¯Ø¨Ù Ø¯Ø¨Ù Ø§ÙØ¥Ù Ø§Ø±Ø§Øª Ø§ÙØ¹Ø±Ø¨ÙØ© Ø§ÙÙ ØªØ­Ø¯Ø©",
-      "url": "https://remoteOK.com/remote-jobs/remote-project-management-coordinator-arabian-private-holdings-1135692",
-      "source": "RemoteOK",
-      "description": "About the role The Project Management Coordinator role is essential for maintaining the structure and rhythm of our high level advisory work. In this position, you will support our principals as we assist a major regional logistics and transportation group through a complex transition of their operating model. You will provide the organizational support needed to ensure that our strategic recommendations are tracked, documented, and moved toward a final decision. About Arabian Private Holdings Arabian Private Holdings was founded on the principle that many critical business problems do not fit",
-      "tags": [
-        "virtual assistant",
-        "coordinator",
-        "customer support",
-        "marketing",
-        "ops",
-        "medical",
-        "non tech",
-        "dev",
-        "video",
-        "cloud",
-        "microsoft",
-        "exec",
-        "digital nomad",
-        "design",
-        "education",
-        "content writing",
-        "sales",
-        "full time",
-        "part time",
-        "c sharp",
-        "react",
-        "hr",
-        "sys admin",
-        "infosec",
-        "python",
-        "teaching",
-        "technical",
-        "testing",
-        "web dev",
-        "scrum",
-        "javascript",
-        "java",
-        "c",
-        "c plus plus",
-        "css",
-        "html",
-        "git",
-        "angular",
-        "node",
-        "node.js",
-        "senior",
-        "engineer",
-        "internship",
-        "excel",
-        "stats",
-        "recruiter",
-        "finance",
-        "game dev",
-        "golang",
-        "ecommerce",
-        "project manager",
-        "consulting"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "location unconfirmed — verify it's open to Africa"
-      ]
-    },
-    {
       "title": "Software Developer in Test (JavaScript)",
       "company": "Veeam Software",
       "location": "Poland",
@@ -2010,22 +1959,6 @@
       "url": "https://jobicy.com/jobs/147811-customer-success-manager-ii-west",
       "source": "Jobicy",
       "description": "Founded in 2018 with co-headquarters in Dublin and Boston, Tines powers some of the world's most important workflows. Our intelligent workflow platform applies AI, automation, and integration with human ingenuity to drive real business results. Tines serves a diverse range of customers, from startups to public companies, including Canva, Databricks, Elastic, Kayak, Intercom, and McKesson.&hellip;",
-      "tags": [
-        "customer support &amp; success"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Customer Success Manager (US Remote)",
-      "company": "Upwind Security",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/147501-customer-success-manager-us-remote",
-      "source": "Jobicy",
-      "description": "DescriptionAbout The PositionUpwind is a next-generation Cloud Security Platform that leverages runtime context to identify and prioritize critical risks, providing precise insights and efficient cloud security management. Unlike traditional tools, Upwind uses runtime data proactively for risk prioritization and posture insights, ensuring teams focus on what truly matters. With industry-leading efficiency and eBPF-powered sensors, Upwind&hellip;",
       "tags": [
         "customer support &amp; success"
       ],
@@ -2129,6 +2062,55 @@
       "fit": 36,
       "reasons": [
         "APAC-tagged — verify it's open to Africa first"
+      ]
+    },
+    {
+      "title": ".NET Developer",
+      "company": "INNOCV Solutions",
+      "location": "Spain",
+      "url": "https://jobicy.com/jobs/146259-net-developer",
+      "source": "Jobicy",
+      "description": "Who are we?We are part of the Alkemy Group, specializing in driving growth through our technological expertise, tackling complex challenges, and fostering operational excellence.We are digital natives and technology-neutral thanks to our rapid adaptation capabilities and problem-solving skills in any business situation.We are passionate about technology challenges that have a significant impact on business. To&hellip;",
+      "tags": [
+        "software engineering"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "Spain-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "Customer Success Manager",
+      "company": "Sonatype",
+      "location": "UK",
+      "url": "https://jobicy.com/jobs/146325-customer-success-manager-35",
+      "source": "Jobicy",
+      "description": "Sonatype is the software supply chain security company. We provide the world’s best end-to-end software supply chain security solution, combining the only proactive protection against malicious open source, the only enterprise grade SBOM management and the leading open source dependency management platform. This empowers enterprises to create and maintain secure, quality, and innovative software at&hellip;",
+      "tags": [
+        "customer support &amp; success"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "Uk-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "Sr. Machine Learning Solutions Architect",
+      "company": "phData",
+      "location": "LATAM",
+      "url": "https://jobicy.com/jobs/146291-sr-machine-learning-solutions-architect",
+      "source": "Jobicy",
+      "description": "Join phData, a dynamic and innovative leader in the modern data stack. We partner with major cloud data platforms like Snowflake, AWS, Azure, GCP, Fivetran, Pinecone, Glean, and dbt to deliver cutting-edge services and solutions.We're committed to helping global enterprises overcome their toughest data challenges. phData is a remote-first global company with employees based in&hellip;",
+      "tags": [
+        "data science &amp; analytics"
+      ],
+      "verdict": "review",
+      "fit": 34,
+      "reasons": [
+        "Latam-tagged — verify it's open to Africa first",
+        "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
     {
@@ -2287,23 +2269,6 @@
       "fit": 30,
       "reasons": [
         "location unconfirmed — verify it's open to Africa",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Senior QA Automation Engineer",
-      "company": "Zartis",
-      "location": "Europe",
-      "url": "https://jobicy.com/jobs/146790-senior-qa-automation-engineer-3",
-      "source": "Jobicy",
-      "description": "The company and our mission: Zartis is a global AI transformation and technology consulting partner where talented engineers and technologists work on cutting edge innovation. We partner with ambitious organizations to design, build, and scale technology solutions that deliver real impact. Our teams bring deep expertise in AI driven platforms, secure API architectures, and cloud&hellip;",
-      "tags": [
-        "qa &amp; testing"
-      ],
-      "verdict": "review",
-      "fit": 30,
-      "reasons": [
-        "Europe-tagged — verify it's open to Africa first",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -2762,22 +2727,6 @@
       "url": "https://jobicy.com/jobs/146762-principal-devops-engineer",
       "source": "Jobicy",
       "description": "The company and our mission: Zartis is a global AI transformation and technology consulting partner where talented engineers and technologists work on cutting-edge innovation. We partner with ambitious organizations to design, build, and scale technology solutions that deliver real impact. Our teams bring deep expertise in AI-driven platforms, secure API architectures, and cloud-native engineering. You&hellip;",
-      "tags": [
-        "devops &amp; infrastructure"
-      ],
-      "verdict": "blocked",
-      "fit": 0,
-      "reasons": [
-        "Principal-level — usually 5–10+ yrs, you have ~4"
-      ]
-    },
-    {
-      "title": "Principal DevOps Engineer",
-      "company": "NBCUniversal",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/148200-principal-devops-engineer-2",
-      "source": "Jobicy",
-      "description": "Company DescriptionNBCUniversal is one of the world's leading media and entertainment companies. We create world-class content, which we distribute across our portfolio of film, television, and streaming, and bring to life through our global theme park destinations, consumer products, and experiences. We own and operate leading entertainment and news brands, including NBC, NBC News, NBC&hellip;",
       "tags": [
         "devops &amp; infrastructure"
       ],
