@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-02 08:02 UTC",
+  "generated": "2026-08-03 08:59 UTC",
   "count": 138,
   "summary": {
     "scanned": 138,
@@ -112,6 +112,20 @@
       "tags": [],
       "verdict": "eligible",
       "fit": 70,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
+    {
+      "title": "IT Systems Engineer",
+      "company": "Platform.sh",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/platform-sh-it-systems-engineer",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Remote • Canada, France, Spain, Germany, UK About Upsun (formerly Platform.sh)&nbsp; Upsun is the cloud application platform humans and robots love. It is built for today’s hybrid teams, where AI agents write and test code and humans focus on solving the problems that really matter. Developers, DevOps engineers, and platform teams use Upsun to build, ship, and scale confidently without wrestling with backend infrastructure. We give you your time back. You get: Predictable performance, even at scale Secure, compliant environments by default&nbsp; Real-time observability and profil",
+      "tags": [],
+      "verdict": "eligible",
+      "fit": 66,
       "reasons": [
         "remote — anywhere / global"
       ]
@@ -545,25 +559,6 @@
         "data entry",
         "insurance",
         "g suite"
-      ],
-      "verdict": "eligible",
-      "fit": 50,
-      "reasons": [
-        "remote — anywhere / global"
-      ]
-    },
-    {
-      "title": "Customer Operations & Writing Specialist",
-      "company": "Clerky, Inc.",
-      "location": "Worldwide",
-      "url": "https://remotive.com/remote-jobs/customer-service/customer-operations-writing-specialist-2090942",
-      "source": "Remotive",
-      "description": "Here at Clerky, we build software to make legal paperwork easier for startups and their attorneys. We're profitable and growing sustainably. We're the most popular way for high-growth technology startups to form, and are also used by many top-tier startups for hiring and fundraising. As a Customer Operations &amp; Writing Specialist at Clerky, you will be the voice of the company to thousands of startup founders, investors, and attorneys. These customers use Clerky to get critical legal paperwork done, often on a tight timeline. Our success is based on word-of-mouth, so we have a strong cultur",
-      "tags": [
-        "ai/ml",
-        "startup",
-        "fundraising",
-        "testing"
       ],
       "verdict": "eligible",
       "fit": 50,
@@ -1125,7 +1120,7 @@
       "location": "Cristalina,",
       "url": "https://remoteOK.com/remote-jobs/remote-pedreiro-cristalina-cristalina-novas-vagas-hoje-up-consultorias-1135807",
       "source": "RemoteOK",
-      "description": "UP Consultorias Cristalina-GO Presencial Ãrea: ConstruÃ§Ã£o 2235,20 Requisitos ExperiÃªncia na Ã¡rea. Atividades Assentar tijolos, ladrilhos, alvenarias e materiais afins. Construir alicerces, levantar paredes, muros e construÃ§Ãµes similares. Rebocar estruturas construÃ­das. Realizar trabalhos de manutenÃ§Ã£o corretiva de prÃ©dios, calÃ§adas e estruturas semelhantes. â° 44 | â SalÃ¡rio R$ 2.235,20 + Vale RefeiÃ§Ã£o Confira mais vagas em divulgavagas.com.br Please mention the word **STATUESQUE** and tag RMjAuNjQuMTgyLjE3 when applying to show you read the job post completely (#RMjAuNjQuMTgy",
+      "description": "UP Consultorias Cristalina-GO Presencial Ãrea: ConstruÃ§Ã£o 2235,20 Requisitos ExperiÃªncia na Ã¡rea. Atividades Assentar tijolos, ladrilhos, alvenarias e materiais afins. Construir alicerces, levantar paredes, muros e construÃ§Ãµes similares. Rebocar estruturas construÃ­das. Realizar trabalhos de manutenÃ§Ã£o corretiva de prÃ©dios, calÃ§adas e estruturas semelhantes. â° 44 | â SalÃ¡rio R$ 2.235,20 + Vale RefeiÃ§Ã£o Confira mais vagas em divulgavagas.com.br Please mention the word **STATUESQUE** and tag RMTMwLjEzMS4yMDIuNA== when applying to show you read the job post completely (#RMTMwLjEz",
       "tags": [
         "exec",
         "customer support",
@@ -1639,6 +1634,23 @@
       ]
     },
     {
+      "title": "Senior Customer Success Architect - Singapore",
+      "company": "GitLab",
+      "location": "Singapore",
+      "url": "https://jobicy.com/jobs/150102-senior-customer-success-architect-singapore",
+      "source": "Jobicy",
+      "description": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster. The same principles built into&hellip;",
+      "tags": [
+        "customer support &amp; success"
+      ],
+      "verdict": "review",
+      "fit": 42,
+      "reasons": [
+        "Singapore-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
       "title": "Community Engineer (multiple roles and seniority levels)",
       "company": "Canonical Ltd.",
       "location": "Anywhere",
@@ -2078,22 +2090,6 @@
       "fit": 36,
       "reasons": [
         "Spain-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Customer Success Manager",
-      "company": "Sonatype",
-      "location": "UK",
-      "url": "https://jobicy.com/jobs/146325-customer-success-manager-35",
-      "source": "Jobicy",
-      "description": "Sonatype is the software supply chain security company. We provide the world’s best end-to-end software supply chain security solution, combining the only proactive protection against malicious open source, the only enterprise grade SBOM management and the leading open source dependency management platform. This empowers enterprises to create and maintain secure, quality, and innovative software at&hellip;",
-      "tags": [
-        "customer support &amp; success"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Uk-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
