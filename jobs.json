@@ -1,11 +1,11 @@
 {
-  "generated": "2026-08-05 08:13 UTC",
-  "count": 143,
+  "generated": "2026-08-06 08:12 UTC",
+  "count": 170,
   "summary": {
-    "scanned": 143,
-    "eligible": 50,
-    "review": 73,
-    "blocked": 20
+    "scanned": 170,
+    "eligible": 53,
+    "review": 93,
+    "blocked": 24
   },
   "jobs": [
     {
@@ -112,6 +112,20 @@
       "tags": [],
       "verdict": "eligible",
       "fit": 70,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
+    {
+      "title": "DevOps Engineer IV (Obs)",
+      "company": "Jumio",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/jumio-devops-engineer-iv-obs",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: India (remote) Role Purpose As a DevOps Engineer IV at Jumio, you are expected to be strong in both the “Dev” and “Ops” aspects of DevOps. We are seeking someone with a deep understanding of systems architecture and core computer science concepts, who can reason about system behavior rather than simply working with current toolsets. This is a high-bar role with significant rewards. As one of our hires in our Bengaluru office, you will help shape the team and culture, collaborate with energetic peers who will challenge and inspire you, and gain considerable international exposure ",
+      "tags": [],
+      "verdict": "eligible",
+      "fit": 66,
       "reasons": [
         "remote — anywhere / global"
       ]
@@ -280,6 +294,34 @@
         "next.js",
         "adobe illustrator",
         "flutter"
+      ],
+      "verdict": "eligible",
+      "fit": 62,
+      "reasons": [
+        "explicitly open to Africa/Nigeria",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Lead DevOps Engineer",
+      "company": "CloudSmiths",
+      "location": "South Africa",
+      "url": "https://himalayas.app/companies/cloudsmiths-co/jobs/lead-devops-engineer",
+      "source": "Himalayas",
+      "description": "CloudSmiths is looking for a proactive and deeply technical, Lead DevOps Engineer (GCP) to join our platform engineering practice. In this role, you won't just maintain environments—you will architect, scale, and lead the charge in ensuring the reliability, performance, and security of production ecosystems for our diverse range of enterprise clients. This includes designing and deploying secure, scalable GCP Landing Zones that serve as the foundational blueprint for our clients' cloud journeys. You will bridge the gap between development and operations by championing advanced automation, robu",
+      "tags": [
+        "lead-devops-engineer",
+        "site-reliability-engineering",
+        "cloud-engineer",
+        "platform-engineering",
+        "devops-engineer",
+        "lead-devops-engineering",
+        "devops-lead",
+        "lead-devops",
+        "devops-team-lead",
+        "lead-devsecops-engineer",
+        "principal-devops-engineer",
+        "director-of-devops-engineering"
       ],
       "verdict": "eligible",
       "fit": 62,
@@ -537,14 +579,54 @@
       ]
     },
     {
-      "title": "Freelance Writer",
-      "company": "IAPWE",
-      "location": "Worldwide",
-      "url": "https://remotive.com/remote-jobs/writing/freelance-writer-1185979",
-      "source": "Remotive",
-      "description": "Our organization is seeking content writers to create articles and blog posts on a variety of topics. The rate of pay is $20 per 100 words (this comes out to approximately $100 per article or $50 per hour). Some topics you may be asked to write about include the following (you can always turn down a topic if you do not feel comfortable writing about it, however if you have experience or expertise in a specific area, please let us know): Health &amp; beauty Fitness Home Decor Fashion Sports Do it yourself Finance Legal Medical Family/Parenting Relationships Real Estate Restaurants Contracting (",
+      "title": "Speculative application",
+      "company": "Amann Girrbach MEA &amp; Turkey",
+      "location": "No. 67 Village,",
+      "url": "https://remoteOK.com/remote-jobs/remote-speculative-application-amann-girrbach-mea-amp-turkey-1136132",
+      "source": "RemoteOK",
+      "description": "In order to provide you with the best possible service and to facilitate the use of certain functions, we use cookies. By using this site, you agree to the use of cookies. For more information about which data is stored, click here. Allow Customize cookiesDecline Deutsch English Vacancies ABOUT US Added Value AG WORLDWIDE Empfehlung Please take your time to submit your complete application. Please notice that the marked ones * are required for acceptance of your resume. CV-Upload 0 % CV_UPLOAD_INFO Apply with finest jobs profile Personal data Salutation --- Mr. Ms. --- Title --- Prof. Dr. BA B",
       "tags": [
-        "rest"
+        "design",
+        "dev",
+        "digital nomad",
+        "infosec",
+        "cloud",
+        "sys admin",
+        "web dev",
+        "content writing"
+      ],
+      "verdict": "eligible",
+      "fit": 50,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
+    {
+      "title": "Marketing Specialist",
+      "company": "INNERGY",
+      "location": "Austin, Austin, Texas, United States",
+      "url": "https://remoteOK.com/remote-jobs/remote-marketing-specialist-innergy-1136094",
+      "source": "RemoteOK",
+      "description": "INNERGY is transforming the woodworking industry with purpose built, cloud based ERP software designed exclusively for custom manufacturers. Our platform helps businesses operate smarter, faster, and more efficiently while seamlessly connecting design, production, and delivery for teams creating architectural millwork, cabinetry, and casework. What truly sets INNERGY apart is our people. Founded in 2016, we are a globally distributed team of 200 plus professionals united by deep software expertise and a shared passion for solving meaningful, real world problems. We value collaboration, creativ",
+      "tags": [
+        "design",
+        "saas",
+        "salesforce",
+        "wordpress",
+        "customer support",
+        "dev",
+        "testing",
+        "marketing",
+        "web dev",
+        "travel",
+        "cloud",
+        "ads",
+        "exec",
+        "content writing",
+        "stats",
+        "sales",
+        "recruiter",
+        "digital nomad"
       ],
       "verdict": "eligible",
       "fit": 50,
@@ -1007,6 +1089,166 @@
       ]
     },
     {
+      "title": "ScrapeWire",
+      "company": "HDGForge",
+      "location": "Bristol,",
+      "url": "https://remoteOK.com/remote-jobs/remote-scrapewire-hdgforge-1136120",
+      "source": "RemoteOK",
+      "description": "ReliAgent intercepts and validates AI agent tool-call responses, running nine independent detectors against each call: sycophantic gap-filling, hallucination, context degradation, repetition loops, confidence collapse, parameter drift, timeout, schema violation, and response-contract integrity. When a supplied schema relies on a JSON Schema keyword outside the supported subset, ReliAgent returns an honest partial-validation finding instead of a silent pass. Returns a structured reliability report with per-detector confidence scores and remediation guidance. Please mention the word **RICH** and",
+      "tags": [
+        "cloud",
+        "engineer",
+        "admin",
+        "ops",
+        "finance",
+        "exec",
+        "sys admin"
+      ],
+      "verdict": "review",
+      "fit": 52,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
+      "title": "The AI Optimization Playbook",
+      "company": "InBrief.ai",
+      "location": "Guide Post,",
+      "url": "https://remoteOK.com/remote-jobs/remote-the-ai-optimization-playbook-inbrief-ai-1136119",
+      "source": "RemoteOK",
+      "description": "Three layers that turn random prompts into systematic workflows, why most people waste the time they think they're saving, and how gains compound. Please mention the word **PEPS** and tag RNjQuMjM2LjE0MC4yMTI= when applying to show you read the job post completely (#RNjQuMjM2LjE0MC4yMTI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "tags": [
+        "cloud",
+        "engineer",
+        "admin",
+        "ops",
+        "finance",
+        "exec"
+      ],
+      "verdict": "review",
+      "fit": 52,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
+      "title": "Send us your CV",
+      "company": "NibraSec",
+      "location": "Atherstone On Stour,",
+      "url": "https://remoteOK.com/remote-jobs/remote-send-us-your-cv-nibrasec-1136114",
+      "source": "RemoteOK",
+      "description": "01 Equity that actually compounds First hires get founding-engineer-sized grants. We'd rather give up percentage points than dilute on talent later. 02 Ownership, not OKR theatre You own a surface end to end. No layers of product managers between you and the work, and no week-long debates about how to write a spec. 03 A problem that genuinely matters Compliance is the soft underbelly of every AI rollout. The companies that fail their first AI audit will be replaced by the ones that didn't. We're building for the ones that won't. Please mention the word **FREE** and tag RNjQuMjM2LjE0MC4yMTI= wh",
+      "tags": [
+        "cloud",
+        "engineer"
+      ],
+      "verdict": "review",
+      "fit": 52,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
+      "title": "Information",
+      "company": "LDT (Latham Direct Timber)",
+      "location": "Gateshead,",
+      "url": "https://remoteOK.com/remote-jobs/remote-information-ldt-latham-direct-timber-1136116",
+      "source": "RemoteOK",
+      "description": "Job Ref: GH1637255GatSEI Location: Gateshead Postcode: NE100LU Type of contract: Permanent Salary: Posted Date: Tuesday, July 28, 2026 Closing Date: Tuesday, September 1, 2026 Documents: Share: Send email Apply Please mention the word **SUPURBLY** and tag RNjQuMjM2LjE0MC4yMTI= when applying to show you read the job post completely (#RNjQuMjM2LjE0MC4yMTI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "tags": [
+        "cloud",
+        "engineer"
+      ],
+      "verdict": "review",
+      "fit": 52,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
+      "title": "Shutlify",
+      "company": "Twitan.com",
+      "location": "Little Badminton,",
+      "url": "https://remoteOK.com/remote-jobs/remote-shutlify-twitan-com-1136117",
+      "source": "RemoteOK",
+      "description": "Live now Shutlify Tournament operations for organisers, academies, clubs, and everyday badminton workflows. Shutlify is the most mature Twitan product today. It already covers tournament setup, scoring, brackets, academy operations, live workflows, and the practical admin tasks that event teams need during real operations. Please mention the word **CIVILITY** and tag RNjQuMjM2LjE0MC4yMTI= when applying to show you read the job post completely (#RNjQuMjM2LjE0MC4yMTI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see the",
+      "tags": [
+        "cloud",
+        "engineer",
+        "admin",
+        "ops"
+      ],
+      "verdict": "review",
+      "fit": 52,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
+      "title": "Business &amp; Management",
+      "company": "Quizzly.ai",
+      "location": "Bideford,",
+      "url": "https://remoteOK.com/remote-jobs/remote-business-amp-management-quizzly-ai-1136118",
+      "source": "RemoteOK",
+      "description": "Needs vs Wants in Personal Finance, Income, Expenses, and Budgeting Basics, What Is Money and Currency? Please mention the word **VIRTUOUSLY** and tag RNjQuMjM2LjE0MC4yMTI= when applying to show you read the job post completely (#RNjQuMjM2LjE0MC4yMTI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "tags": [
+        "cloud",
+        "engineer",
+        "admin",
+        "ops",
+        "finance",
+        "exec"
+      ],
+      "verdict": "review",
+      "fit": 52,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
+      "title": "Iâm a Mac",
+      "company": "MacSweeney LLC",
+      "location": "Nendaz,",
+      "url": "https://remoteOK.com/remote-jobs/remote-im-a-mac-macsweeney-llc-1136115",
+      "source": "RemoteOK",
+      "description": "1985: the Amiga 1000 ships and Steve Jobs leaves Apple to found NeXT â two paths that meet a decade later as OS X. My first computer was an Amiga; I went deep on it doing Army reconnaissance in Europe, where it was a phenomenon. The Amiga multitasked before the Mac and out-rendered every PC. It still lost. Riding a superior platform into irrelevance teaches what no CS class does: merit and survival are separate arguments. Please mention the word **FONDLY** and tag RNjQuMjM2LjE0MC4yMTI= when applying to show you read the job post completely (#RNjQuMjM2LjE0MC4yMTI=). This is a beta feature to ",
+      "tags": [
+        "cloud",
+        "engineer"
+      ],
+      "verdict": "review",
+      "fit": 52,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
+      "title": "Mark Lefebvre",
+      "company": "SC AI Impact Alliance",
+      "location": "Karjat,",
+      "url": "https://remoteOK.com/remote-jobs/remote-mark-lefebvre-sc-ai-impact-alliance-1136145",
+      "source": "RemoteOK",
+      "description": "20+ years building the automation systems and AI workflows that most people only talk about â from enterprise cloud infrastructure to cutting-edge data security startups. Please mention the word **APPRECIATIVE** and tag RNjQuMjM2LjE0MC4yMTI= when applying to show you read the job post completely (#RNjQuMjM2LjE0MC4yMTI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "tags": [
+        "dev",
+        "digital nomad",
+        "customer support",
+        "non tech",
+        "quality assurance",
+        "math",
+        "ops",
+        "golang",
+        "web dev",
+        "infosec",
+        "cloud"
+      ],
+      "verdict": "review",
+      "fit": 52,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
       "title": "Site Reliability Engineer (SRE)",
       "company": "Bright Vision Technologies",
       "location": "New Jersey",
@@ -1032,6 +1274,22 @@
       "fit": 52,
       "reasons": [
         "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
+      "title": "Software Engineer (.NET) (f/m/d)",
+      "company": "Apaleo",
+      "location": "Germany",
+      "url": "https://jobicy.com/jobs/145054-software-engineer-net-f-m-d",
+      "source": "Jobicy",
+      "description": "Join Apaleo and Shape the Future of Hospitality Tech!Apaleo is the world’s most open, API-first property management platform powering the next generation of hospitality operations. Its modular, AI-powered infrastructure enables hoteliers to customise their tech stack, automate routine work, and deliver seamless, personalised guest experiences, powered by best-in-class apps and autonomous AI agents that adapt&hellip;",
+      "tags": [
+        "software engineering"
+      ],
+      "verdict": "review",
+      "fit": 52,
+      "reasons": [
+        "Germany-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -1080,22 +1338,6 @@
       "fit": 52,
       "reasons": [
         "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Atlassian Administrator 1726",
-      "company": "Softgic",
-      "location": "Anywhere",
-      "url": "https://jobicy.com/jobs/146254-atlassian-administrator-1726",
-      "source": "Jobicy",
-      "description": "This is a remote position. We are seeking an experienced Atlassian Administrator to manage, optimize, and continuously improve our Atlassian Cloud ecosystem. This role will be responsible for the administration, configuration, customization, and support of Jira Software, Confluence, and Jira Service Management (JSM) , ensuring these platforms effectively support business processes and operational goals across&hellip;",
-      "tags": [
-        "devops &amp; infrastructure"
-      ],
-      "verdict": "review",
-      "fit": 52,
-      "reasons": [
-        "location unconfirmed — verify it's open to Africa"
       ]
     },
     {
@@ -1273,6 +1515,23 @@
       ]
     },
     {
+      "title": "DevOps Senior Engineer",
+      "company": "Experian",
+      "location": "Costa Rica",
+      "url": "https://jobicy.com/jobs/148202-devops-senior-engineer",
+      "source": "Jobicy",
+      "description": "Company DescriptionExperian is a global data and technology company, powering opportunities for people and businesses around the world. We help to redefine lending practices, uncover and prevent fraud, simplify healthcare, create marketing solutions, and gain deeper insights into the automotive market, all using our unique combination of data, analytics and software. We also assist millions&hellip;",
+      "tags": [
+        "devops &amp; infrastructure"
+      ],
+      "verdict": "review",
+      "fit": 46,
+      "reasons": [
+        "Costa rica-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
       "title": "Senior DevOps / DevEx Engineer",
       "company": "RevenueCat",
       "location": "APAC, EMEA, Canada, USA",
@@ -1392,40 +1651,6 @@
       ]
     },
     {
-      "title": "Senior Site Reliability Engineer (Remote Build)",
-      "company": "Remote",
-      "location": "EMEA",
-      "url": "https://jobicy.com/jobs/146979-senior-site-reliability-engineer-remote-build",
-      "source": "Jobicy",
-      "description": "About Remote Remote is solving modern organizations’ biggest challenge – navigating global employment compliantly with ease. We make it possible for businesses of all sizes to recruit, pay, and manage international teams. With our core values at heart and future focused work culture, our team works tirelessly on ambitious problems, asynchronously, around the world. You&hellip;",
-      "tags": [
-        "devops &amp; infrastructure"
-      ],
-      "verdict": "review",
-      "fit": 46,
-      "reasons": [
-        "EMEA-tagged — verify it's open to Africa first",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Senior Technical Product Manager, Token Factory",
-      "company": "Nebius",
-      "location": "Europe, Netherlands, UK",
-      "url": "https://jobicy.com/jobs/149361-senior-technical-product-manager-token-factory",
-      "source": "Jobicy",
-      "description": "About Nebius: Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-house AI/ML infrastructure. Built by engineers, for engineers. From&hellip;",
-      "tags": [
-        "product &amp; operations"
-      ],
-      "verdict": "review",
-      "fit": 46,
-      "reasons": [
-        "Uk-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
       "title": "Senior Customer Success Architect - Singapore",
       "company": "GitLab",
       "location": "Singapore",
@@ -1457,6 +1682,22 @@
       "reasons": [
         "Africa-friendly employer (Canonical) — role location unconfirmed",
         "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Enterprise Customer Success Manager",
+      "company": "Datadog",
+      "location": "Thailand",
+      "url": "https://jobicy.com/jobs/148737-enterprise-customer-success-manager-2",
+      "source": "Jobicy",
+      "description": "As an Enterprise Customer Success Manager, you will proactively drive new product attachment and effective strong relationships across our largest and most strategic customers in Thailand. You’ll advocate for the customer internally and focus on a positive customer experience. Interactions are rooted in relationship-management, first and foremost, while also advocating for growth opportunities. Enterprise Customer&hellip;",
+      "tags": [
+        "customer support &amp; success"
+      ],
+      "verdict": "review",
+      "fit": 40,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa"
       ]
     },
     {
@@ -1644,6 +1885,634 @@
       ]
     },
     {
+      "title": "Supply Chain Transparency",
+      "company": "Ark Intelligence",
+      "location": "Standard,",
+      "url": "https://remoteOK.com/remote-jobs/remote-supply-chain-transparency-ark-intelligence-1136235",
+      "source": "RemoteOK",
+      "description": "Cloud Migration &amp; Optimization Automatically pinpoint the best path, make required code changes, and refactor 2x faster. Please mention the word **BARGAIN** and tag RNjQuMjM2LjE0MC4yMTI= when applying to show you read the job post completely (#RNjQuMjM2LjE0MC4yMTI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "tags": [
+        "education",
+        "non tech",
+        "design",
+        "speech",
+        "admin",
+        "exec",
+        "digital nomad",
+        "ops",
+        "architecture",
+        "dev",
+        "cloud"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
+      "title": "Join Our Team",
+      "company": "HapScale",
+      "location": "å©å³¶,",
+      "url": "https://remoteOK.com/remote-jobs/remote-join-our-team-hapscale-1136151",
+      "source": "RemoteOK",
+      "description": "with your Google Account to continue to Google Forms. This account will be available to other Google apps in the browser. Please mention the word **UNCONDITIONAL** and tag RNjQuMjM2LjE0MC4yMTI= when applying to show you read the job post completely (#RNjQuMjM2LjE0MC4yMTI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "tags": [
+        "dev",
+        "digital nomad",
+        "customer support",
+        "non tech",
+        "quality assurance",
+        "math",
+        "ops",
+        "golang",
+        "web dev",
+        "infosec",
+        "cloud",
+        "finance"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
+      "title": "Product Manager",
+      "company": "OpenSkills",
+      "location": "Good Design,",
+      "url": "https://remoteOK.com/remote-jobs/remote-product-manager-openskills-1136133",
+      "source": "RemoteOK",
+      "description": "â All career guides Product and design Product Manager Defines what to build and why, aligning user needs, business goals, and engineering effort into a product direction. Find relevant jobsâPrint learning guideOpen Hitchhiker's guideâ Skill coverage 63% 5 of 8 skills Course coverage 38% 6 of 16 courses Skill coverage shows how much of the role's capability map already has a published course. Course coverage shows how much of the mapped course pipeline for this role has shipped. Role skills 8 Published coverage 5 Relevant courses 6 Capability map Skills Importance describes how central e",
+      "tags": [
+        "design",
+        "dev",
+        "digital nomad",
+        "infosec",
+        "cloud",
+        "sys admin",
+        "web dev",
+        "content writing",
+        "product manager",
+        "exec",
+        "technical",
+        "writer",
+        "scrum",
+        "stats",
+        "medical",
+        "engineer"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
+      "title": "Resource Manager",
+      "company": "The Story Shack",
+      "location": "New York City Metropolitan Area",
+      "url": "https://remoteOK.com/remote-jobs/remote-resource-manager-the-story-shack-1136212",
+      "source": "RemoteOK",
+      "description": "Company Description The Story Shack is a modern, low-overhead creative studio built to scale a brand's story. We give brands the power of an in-house creative team â without the headaches and high costs that plague the industry. We address the broken creative model by offering flexible, budget-friendly, scalable, and specialized solutions for brands. Role Description We're on the hunt for a sharp and dependable operator to join our scrappy, fast-growing creative studio and work directly alongside our Head of Community. As our Resource Manager, you'll be the engine behind the scenes â runni",
+      "tags": [
+        "exec",
+        "design",
+        "architecture",
+        "recruiter",
+        "customer support",
+        "marketing",
+        "content writing",
+        "ops",
+        "golang",
+        "full time",
+        "digital nomad",
+        "dev",
+        "senior",
+        "medical",
+        "engineer",
+        "infosec",
+        "react",
+        "embedded",
+        "technical",
+        "finance",
+        "cloud",
+        "postgres",
+        "typescript",
+        "ruby",
+        "stats",
+        "accounting"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
+      "title": "House Cleaning",
+      "company": "feef.in",
+      "location": "Malappuram,",
+      "url": "https://remoteOK.com/remote-jobs/remote-house-cleaning-feef-in-1136161",
+      "source": "RemoteOK",
+      "description": "Full Time House Cleaning nothing Location Tirur, Malappuram Openings 5 Employer digislotss Please mention the word **IMPARTIAL** and tag RNjQuMjM2LjE0MC4yMTI= when applying to show you read the job post completely (#RNjQuMjM2LjE0MC4yMTI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "tags": [
+        "dev",
+        "digital nomad",
+        "customer support",
+        "non tech",
+        "quality assurance",
+        "math",
+        "ops",
+        "golang",
+        "web dev",
+        "infosec",
+        "cloud",
+        "finance",
+        "microsoft",
+        "medical",
+        "education"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
+      "title": "VISUAL INSPECTION",
+      "company": "Tyrell Solar",
+      "location": "Ludhiana,",
+      "url": "https://remoteOK.com/remote-jobs/remote-visual-inspection-tyrell-solar-1136157",
+      "source": "RemoteOK",
+      "description": "Deionised-water, soft-brush cleaning. Zero abrasion, zero detergent residue, panel by panel. Soiling is the single largest recoverable loss on most systems; coastal dust, pollen and droppings routinely cost double-digit percentages of output. Please mention the word **IMPECCABLY** and tag RNjQuMjM2LjE0MC4yMTI= when applying to show you read the job post completely (#RNjQuMjM2LjE0MC4yMTI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "tags": [
+        "dev",
+        "digital nomad",
+        "customer support",
+        "non tech",
+        "quality assurance",
+        "math",
+        "ops",
+        "golang",
+        "web dev",
+        "infosec",
+        "cloud",
+        "finance",
+        "microsoft",
+        "medical"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
+      "title": "Krish Gupta",
+      "company": "Eddy",
+      "location": "Nashik,",
+      "url": "https://remoteOK.com/remote-jobs/remote-krish-gupta-eddy-1136146",
+      "source": "RemoteOK",
+      "description": "Lived experience of dyslexia shaped Eddyâs core idea: clearer schoolwork without doing the work for learners. Ellen leads the company and sets priorities across product, brand and partnerships. Please mention the word **HONORED** and tag RNjQuMjM2LjE0MC4yMTI= when applying to show you read the job post completely (#RNjQuMjM2LjE0MC4yMTI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "tags": [
+        "dev",
+        "digital nomad",
+        "customer support",
+        "non tech",
+        "quality assurance",
+        "math",
+        "ops",
+        "golang",
+        "web dev",
+        "infosec",
+        "cloud"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
+      "title": "ZAP",
+      "company": "CliAvalia",
+      "location": "Anupgarh,",
+      "url": "https://remoteOK.com/remote-jobs/remote-zap-cliavalia-1136159",
+      "source": "RemoteOK",
+      "description": "A melhor de Angola, fazem um excelente trabalho, possuem a melhor rede de Wi-Fi usando a fibra Ã³ptica e possuem bons serviÃ§os de televisÃ£o. Please mention the word **FINELY** and tag RNjQuMjM2LjE0MC4yMTI= when applying to show you read the job post completely (#RNjQuMjM2LjE0MC4yMTI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "tags": [
+        "dev",
+        "digital nomad",
+        "customer support",
+        "non tech",
+        "quality assurance",
+        "math",
+        "ops",
+        "golang",
+        "web dev",
+        "infosec",
+        "cloud",
+        "finance",
+        "microsoft",
+        "medical",
+        "education"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
+      "title": "Company Name",
+      "company": "Jalandhar Local",
+      "location": "Jalandhar I,",
+      "url": "https://remoteOK.com/remote-jobs/remote-company-name-jalandhar-local-1136160",
+      "source": "RemoteOK",
+      "description": "Address: Model Town, JalandharA short description related to your listing will be added here, up to 160 characters. Address: Model Town, JalandharA short description related to your listing will be added here, up to 160 characters. Address: Model Town, JalandharA short description related to your listing will be added here, up to 160 characters. Address: Model Town, JalandharA short description related to your listing will be added here, up to 160 characters. Address: Model Town, JalandharA short description related to your listing will be added here, up to 160 characters. Address: Model Town,",
+      "tags": [
+        "dev",
+        "digital nomad",
+        "customer support",
+        "non tech",
+        "quality assurance",
+        "math",
+        "ops",
+        "golang",
+        "web dev",
+        "infosec",
+        "cloud",
+        "finance",
+        "microsoft",
+        "medical",
+        "education"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
+      "title": "Optimize",
+      "company": "Yemma",
+      "location": "Read,",
+      "url": "https://remoteOK.com/remote-jobs/remote-optimize-yemma-1136111",
+      "source": "RemoteOK",
+      "description": "Storage Yemma is a secure and easy-to-use cloud service for storing, sharing and using all types of data files. Read more Please mention the word **INSIGHTFUL** and tag RNjQuMjM2LjE0MC4yMTI= when applying to show you read the job post completely (#RNjQuMjM2LjE0MC4yMTI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "tags": [
+        "cloud"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
+      "title": "Share",
+      "company": "Yemma",
+      "location": "Read,",
+      "url": "https://remoteOK.com/remote-jobs/remote-share-yemma-1136112",
+      "source": "RemoteOK",
+      "description": "Storage Yemma is a secure and easy-to-use cloud service for storing, sharing and using all types of data files. Read more Please mention the word **WHOOOA** and tag RNjQuMjM2LjE0MC4yMTI= when applying to show you read the job post completely (#RNjQuMjM2LjE0MC4yMTI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "tags": [
+        "cloud"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
+      "title": "Creative Professions",
+      "company": "Quizzly.ai",
+      "location": "Nellore,",
+      "url": "https://remoteOK.com/remote-jobs/remote-creative-professions-quizzly-ai-1136149",
+      "source": "RemoteOK",
+      "description": "Needs vs Wants in Personal Finance, Income, Expenses, and Budgeting Basics, What Is Money and Currency? Please mention the word **MERRILY** and tag RNjQuMjM2LjE0MC4yMTI= when applying to show you read the job post completely (#RNjQuMjM2LjE0MC4yMTI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "tags": [
+        "dev",
+        "digital nomad",
+        "customer support",
+        "non tech",
+        "quality assurance",
+        "math",
+        "ops",
+        "golang",
+        "web dev",
+        "infosec",
+        "cloud",
+        "finance"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
+      "title": "Seatdo",
+      "company": "Qorsi",
+      "location": "Salon,",
+      "url": "https://remoteOK.com/remote-jobs/remote-seatdo-qorsi-1136158",
+      "source": "RemoteOK",
+      "description": "A fitness app for data-driven lifters. Track workouts, log body measurements, analyse training patterns, and get insights that help you progress â all without the noise. Please mention the word **IDOLIZED** and tag RNjQuMjM2LjE0MC4yMTI= when applying to show you read the job post completely (#RNjQuMjM2LjE0MC4yMTI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "tags": [
+        "dev",
+        "digital nomad",
+        "customer support",
+        "non tech",
+        "quality assurance",
+        "math",
+        "ops",
+        "golang",
+        "web dev",
+        "infosec",
+        "cloud",
+        "finance",
+        "microsoft",
+        "medical",
+        "education"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
+      "title": "Learning Intelligence",
+      "company": "MacSweeney LLC",
+      "location": "Norge,",
+      "url": "https://remoteOK.com/remote-jobs/remote-learning-intelligence-macsweeney-llc-1136113",
+      "source": "RemoteOK",
+      "description": "1985: the Amiga 1000 ships and Steve Jobs leaves Apple to found NeXT â two paths that meet a decade later as OS X. My first computer was an Amiga; I went deep on it doing Army reconnaissance in Europe, where it was a phenomenon. The Amiga multitasked before the Mac and out-rendered every PC. It still lost. Riding a superior platform into irrelevance teaches what no CS class does: merit and survival are separate arguments. Please mention the word **PRECISELY** and tag RNjQuMjM2LjE0MC4yMTI= when applying to show you read the job post completely (#RNjQuMjM2LjE0MC4yMTI=). This is a beta feature ",
+      "tags": [
+        "cloud"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
+      "title": "Boston Flight",
+      "company": "MacSweeney LLC",
+      "location": "Strovolos,",
+      "url": "https://remoteOK.com/remote-jobs/remote-boston-flight-macsweeney-llc-1136147",
+      "source": "RemoteOK",
+      "description": "1985: the Amiga 1000 ships and Steve Jobs leaves Apple to found NeXT â two paths that meet a decade later as OS X. My first computer was an Amiga; I went deep on it doing Army reconnaissance in Europe, where it was a phenomenon. The Amiga multitasked before the Mac and out-rendered every PC. It still lost. Riding a superior platform into irrelevance teaches what no CS class does: merit and survival are separate arguments. Please mention the word **SOLICITOUSLY** and tag RNjQuMjM2LjE0MC4yMTI= when applying to show you read the job post completely (#RNjQuMjM2LjE0MC4yMTI=). This is a beta featu",
+      "tags": [
+        "dev",
+        "digital nomad",
+        "customer support",
+        "non tech",
+        "quality assurance",
+        "math",
+        "ops",
+        "golang",
+        "web dev",
+        "infosec",
+        "cloud"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
+      "title": "Julius AI",
+      "company": "Spore N Sprouts",
+      "location": "Ajmer,",
+      "url": "https://remoteOK.com/remote-jobs/remote-julius-ai-spore-n-sprouts-1136150",
+      "source": "RemoteOK",
+      "description": "JuliusEarly stage AI lab based in San Francisco with a mission to build the most powerful AI tools for knowledge workers.SOC 2 Type 2 CertifiedÂ© 2026 Caesar Labs, Inc. All rights reserved. Please mention the word **GENEROSITY** and tag RNjQuMjM2LjE0MC4yMTI= when applying to show you read the job post completely (#RNjQuMjM2LjE0MC4yMTI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "tags": [
+        "dev",
+        "digital nomad",
+        "customer support",
+        "non tech",
+        "quality assurance",
+        "math",
+        "ops",
+        "golang",
+        "web dev",
+        "infosec",
+        "cloud",
+        "finance"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
+      "title": "The CRM updates itself the moment a call ends",
+      "company": "Apex Local",
+      "location": "Golconda,",
+      "url": "https://remoteOK.com/remote-jobs/remote-the-crm-updates-itself-the-moment-a-call-ends-apex-local-1136154",
+      "source": "RemoteOK",
+      "description": "Problem Peak-summer HVAC shops miss 15â20 calls a day after 5pm. People without cool air don't wait â they call the next contractor. Outcome AI answers 24/7, qualifies the job, dispatches the tech. Often recovers $30â50K a month in after-hours revenue that used to disappear. Please mention the word **INVIGORATING** and tag RNjQuMjM2LjE0MC4yMTI= when applying to show you read the job post completely (#RNjQuMjM2LjE0MC4yMTI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "tags": [
+        "dev",
+        "digital nomad",
+        "customer support",
+        "non tech",
+        "quality assurance",
+        "math",
+        "ops",
+        "golang",
+        "web dev",
+        "infosec",
+        "cloud",
+        "finance",
+        "microsoft",
+        "medical"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
+      "title": "15 15",
+      "company": "Paul B",
+      "location": "Anupgarh,",
+      "url": "https://remoteOK.com/remote-jobs/remote-15-15-paul-b-1136153",
+      "source": "RemoteOK",
+      "description": "Ce duo montpelliÃ©rain dÃ©gage une Ã©nergie mordante et nous embarque dans un trip hallucinÃ©, poÃ©tique autant que politique, sur fond de productions Ã©lectro qui tapent et de textes rappÃ©s et chantÃ©s, le tout servi avec une forme dâÃ©nergie punk. Ou quand le dancefloor se fait rigolard et lucide, dÃ©sabusÃ© mais pas cyniqueâ¦ GOLIMAR - PENSER LE MONDE Album : BientÃ´t dÃ©voilÃ© x fermer x lire la suite Please mention the word **COMPREHENSIVE** and tag RNjQuMjM2LjE0MC4yMTI= when applying to show you read the job post completely (#RNjQuMjM2LjE0MC4yMTI=). This is a beta feature to avoid sp",
+      "tags": [
+        "dev",
+        "digital nomad",
+        "customer support",
+        "non tech",
+        "quality assurance",
+        "math",
+        "ops",
+        "golang",
+        "web dev",
+        "infosec",
+        "cloud",
+        "finance",
+        "microsoft",
+        "medical"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
+      "title": "Application for Payment Template",
+      "company": "The Site Office",
+      "location": "Ranaghat,",
+      "url": "https://remoteOK.com/remote-jobs/remote-application-for-payment-template-the-site-office-1136148",
+      "source": "RemoteOK",
+      "description": "Full method statement and risk assessment for groundworks. 12 hazards assessed, colour-coded risk ratings, PPE schedule, operative sign-off. Please mention the word **BRISK** and tag RNjQuMjM2LjE0MC4yMTI= when applying to show you read the job post completely (#RNjQuMjM2LjE0MC4yMTI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "tags": [
+        "dev",
+        "digital nomad",
+        "customer support",
+        "non tech",
+        "quality assurance",
+        "math",
+        "ops",
+        "golang",
+        "web dev",
+        "infosec",
+        "cloud"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
+      "title": "Clinical Coordination Manager",
+      "company": "Enable Dental",
+      "location": "Austin, Austin, Texas, United States",
+      "url": "https://remoteOK.com/remote-jobs/remote-clinical-coordination-manager-enable-dental-1136096",
+      "source": "RemoteOK",
+      "description": "Department: Support Operations Reports To: Director, Support Operations Location: Remote (U.S.) Position Type: Full-Time, Exempt Position Summary The Clinical Coordinator Department Manager oversees the Clinical Coordination team responsible for maintaining accurate, appropriately filled provider schedules across all markets. This role provides leadership, operational oversight, training, workload management, process improvement, and cross-department collaboration to support consistent scheduling performance. This leader sets daily and weekly priorities, delegates work, holds the team accounta",
+      "tags": [
+        "design",
+        "saas",
+        "salesforce",
+        "wordpress",
+        "customer support",
+        "dev",
+        "testing",
+        "marketing",
+        "web dev",
+        "travel",
+        "cloud",
+        "ads",
+        "exec",
+        "content writing",
+        "stats",
+        "sales",
+        "recruiter",
+        "digital nomad",
+        "embedded",
+        "hr",
+        "sys admin",
+        "game dev",
+        "technical",
+        "payroll",
+        "finance",
+        "api",
+        "ops",
+        "engineer",
+        "education",
+        "coordinator",
+        "medical",
+        "full time"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "United states-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "Risk &amp; Compliance Specialist",
+      "company": "Polar",
+      "location": "New York, New York, United States",
+      "url": "https://remoteOK.com/remote-jobs/remote-risk-amp-compliance-specialist-polar-1136211",
+      "source": "RemoteOK",
+      "description": "Why Polar? It's never been easier to build, ship and scale software. But it's never been harder to monetize it. Modern startups look fundamentally different than prior generations: Smaller teams Exponential revenue growth relative to headcount Higher variability in costs (LLMs) requiring more frequent pricing iterations Laser focused on product development and distribution Delegating and automating everything that is boilerplate â be it in their codebase or business operations. Exceptional billing primitives, APIs and SDKs are essential, but delightful integration is not enough. Startups nee",
+      "tags": [
+        "exec",
+        "design",
+        "architecture",
+        "recruiter",
+        "customer support",
+        "marketing",
+        "content writing",
+        "ops",
+        "golang",
+        "full time",
+        "digital nomad",
+        "dev",
+        "senior",
+        "medical",
+        "engineer",
+        "infosec",
+        "react",
+        "embedded",
+        "technical",
+        "finance",
+        "cloud",
+        "postgres",
+        "typescript",
+        "ruby",
+        "stats"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "United states-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "Employment Status",
+      "company": "Best in Britain",
+      "location": "Mandsaur,",
+      "url": "https://remoteOK.com/remote-jobs/remote-employment-status-best-in-britain-1136155",
+      "source": "RemoteOK",
+      "description": "The percentage of residents aged 16 to 64 who were in employment. Annual Population Survey estimates are subject to sampling uncertainty. Please mention the word **VIBRANT** and tag RNjQuMjM2LjE0MC4yMTI= when applying to show you read the job post completely (#RNjQuMjM2LjE0MC4yMTI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "tags": [
+        "dev",
+        "digital nomad",
+        "customer support",
+        "non tech",
+        "quality assurance",
+        "math",
+        "ops",
+        "golang",
+        "web dev",
+        "infosec",
+        "cloud",
+        "finance",
+        "microsoft",
+        "medical"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
       "title": "Partner Support Associate",
       "company": "Check",
       "location": "New York City Metropolitan Area",
@@ -1761,340 +2630,6 @@
       ]
     },
     {
-      "title": "BHASKAR BHARAT SAWANT",
-      "company": "Beer City Code",
-      "location": "Lead,",
-      "url": "https://remoteOK.com/remote-jobs/remote-bhaskar-bharat-sawant-beer-city-code-1136098",
-      "source": "RemoteOK",
-      "description": "BAM Global Chair @ Microsoft | Virtualization Specialist, Health and Life Sciences | Public Motivational Speaker Please mention the word **SMARTEST** and tag RMTcyLjIxNC40NS4yNDI= when applying to show you read the job post completely (#RMTcyLjIxNC40NS4yNDI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
-      "tags": [
-        "design",
-        "saas",
-        "salesforce",
-        "wordpress",
-        "customer support",
-        "dev",
-        "testing",
-        "marketing",
-        "web dev",
-        "travel",
-        "cloud",
-        "ads",
-        "exec",
-        "content writing",
-        "stats",
-        "sales",
-        "recruiter",
-        "digital nomad",
-        "embedded",
-        "hr",
-        "sys admin",
-        "game dev",
-        "technical",
-        "payroll",
-        "finance",
-        "api",
-        "ops",
-        "engineer",
-        "education",
-        "coordinator",
-        "medical",
-        "full time",
-        "microsoft",
-        "excel"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "location unconfirmed — verify it's open to Africa"
-      ]
-    },
-    {
-      "title": "Test Job 3",
-      "company": "PinPoint Middleware Test Company",
-      "location": "London,",
-      "url": "https://remoteOK.com/remote-jobs/remote-test-job-3-pinpoint-middleware-test-company-1136043",
-      "source": "RemoteOK",
-      "description": "Application Deadline: 7 August 2026 Department: Operations Location: London Description Letterpress everyday carry pork belly street art chillwave, man bun jianbing. Ramps wolf small batch snackwave skateboard. You probably haven't heard of them pitchfork blue bottle salvia snackwave pug. Marfa neutra 8-bit hashtag tbh tilde. Polaroid chambray sustainable viral banjo, brooklyn tacos hot chicken aesthetic man braid food truck actually snackwave. Prism ethical polaroid ramps, shabby chic flannel hoodie VHS williamsburg organic copper mug gluten-free la croix XOXO. Taiyaki raclette lyft affogato.",
-      "tags": [
-        "testing",
-        "cloud",
-        "ops",
-        "medical",
-        "non tech"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "location unconfirmed — verify it's open to Africa"
-      ]
-    },
-    {
-      "title": "Program Delivery Officer Level 1",
-      "company": "Queensland Corrective Services",
-      "location": "Townsville,",
-      "url": "https://remoteOK.com/remote-jobs/remote-program-delivery-officer-level-1-queensland-corrective-services-1135996",
-      "source": "RemoteOK",
-      "description": "In this role you will ensure a high level of community safety through the delivery of approved general and /or sexual offending programs to those offenders assessed as requiring offender intervention programs. Mandatory Requirements The following mandatory requirements apply to this role: The possession of a tertiary qualification in preferably in psychology, social work, education or behavioural sciences, however, other Bachelor degrees may be considered at the discretion of the recruitment panel in consultation with Offender Rehabilitation and Management Services. Membership or affiliation w",
-      "tags": [
-        "design",
-        "technical",
-        "customer support",
-        "dev",
-        "microsoft",
-        "senior",
-        "ops",
-        "engineer",
-        "digital nomad",
-        "sys admin",
-        "education",
-        "testing",
-        "exec",
-        "excel",
-        "payroll",
-        "medical",
-        "video",
-        "marketing",
-        "travel",
-        "finance",
-        "mobile",
-        "hr",
-        "recruiter",
-        "supervisor",
-        "consulting",
-        "assembly",
-        "saas",
-        "golang",
-        "coordinator",
-        "product manager",
-        "bus dev",
-        "sales",
-        "amazon",
-        "salesforce",
-        "infosec",
-        "embedded",
-        "java",
-        "c",
-        "c plus plus",
-        "cloud",
-        "linux"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "location unconfirmed — verify it's open to Africa"
-      ]
-    },
-    {
-      "title": "Join Our Team",
-      "company": "Bay Plumbing &amp; Drainage",
-      "location": "South Geelong,",
-      "url": "https://remoteOK.com/remote-jobs/remote-join-our-team-bay-plumbing-amp-drainage-1136024",
-      "source": "RemoteOK",
-      "description": "Qualified Plumbers Wanted in Geelong â $1,000 Sign-On + Above Award Pay Bay Plumbing &amp; Drainage is expanding. Weâre hiring experienced plumbers who want consistent work, a company that actually backs them, and a career worth showing up for. Apply Now â Takes 2 Minutes Or call us for a confidential chat Join Our Team Bay Plumbing &amp; Drainage is expanding. Weâre hiring experienced plumbers who want consistent work, a company that actually backs them, and a career worth showing up for. If youâre a qualified plumber with 4+ years on the tools and youâre done working for a compan",
-      "tags": [
-        "design",
-        "technical",
-        "customer support",
-        "dev",
-        "microsoft",
-        "senior",
-        "ops",
-        "engineer",
-        "digital nomad",
-        "sys admin",
-        "education",
-        "testing",
-        "exec",
-        "excel",
-        "payroll",
-        "medical",
-        "video",
-        "marketing",
-        "travel",
-        "finance",
-        "mobile",
-        "hr",
-        "recruiter",
-        "supervisor",
-        "consulting",
-        "assembly",
-        "saas",
-        "golang",
-        "coordinator",
-        "product manager",
-        "bus dev",
-        "sales",
-        "amazon",
-        "salesforce",
-        "infosec",
-        "embedded",
-        "java",
-        "c",
-        "c plus plus",
-        "cloud",
-        "linux",
-        "speech",
-        "adult",
-        "junior",
-        "admin",
-        "full time",
-        "strategy",
-        "seo",
-        "content writing",
-        "ecommerce",
-        "stats",
-        "legal",
-        "part time",
-        "react",
-        "api",
-        "teaching"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "location unconfirmed — verify it's open to Africa"
-      ]
-    },
-    {
-      "title": "Next Up",
-      "company": "eCare-Software LLC",
-      "location": "Upottery,",
-      "url": "https://remoteOK.com/remote-jobs/remote-next-up-ecare-software-llc-1136044",
-      "source": "RemoteOK",
-      "description": "Mentor Global is a groundbreaking initiative poised to revolutionize student success across multiple universities. Focused on supporting first-generation students, our platform fosters a culture of mentorship, creating a connected community that enhances academic outcomes and personal growth. The platform, driven by cutting-edge technology, streamlines mentorship processes, ensuring that students receive tailored guidance for a successful academic journey Please mention the word **ENRICH** and tag RMTcyLjIxNC40NS4yNDI= when applying to show you read the job post completely (#RMTcyLjIxNC40NS4yN",
-      "tags": [
-        "testing",
-        "cloud",
-        "ops",
-        "medical",
-        "non tech",
-        "dev",
-        "teaching",
-        "marketing",
-        "digital nomad"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "location unconfirmed — verify it's open to Africa"
-      ]
-    },
-    {
-      "title": "Compatibility",
-      "company": "DanielTems",
-      "location": "How,",
-      "url": "https://remoteOK.com/remote-jobs/remote-compatibility-danieltems-1135929",
-      "source": "RemoteOK",
-      "description": "CompatibilityWorking at Stripe is not for everyone Not everyone finds success at Stripe. Those who do tend to share a few things in common. The right people donât always think theyâre right Successful Stripes are rigorous thinkers who appreciate that things worth doing are rarely simple. We want people who are not afraid to be wrong, who can enthusiastically back proposals they initially opposed, and who know how to support decisions with numbers and narrative. We operate in situations of substantial uncertainty and cannot afford either timidity or recklessness. The global financial system",
-      "tags": [
-        "education",
-        "marketing",
-        "speech",
-        "exec",
-        "golang",
-        "part time",
-        "infosec",
-        "cloud",
-        "medical",
-        "design",
-        "embedded",
-        "sys admin",
-        "customer support",
-        "finance",
-        "ops",
-        "digital nomad"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "location unconfirmed — verify it's open to Africa"
-      ]
-    },
-    {
-      "title": "Fire Technician",
-      "company": "Chubb Fire &amp; Security",
-      "location": "Woolner,",
-      "url": "https://remoteOK.com/remote-jobs/remote-fire-technician-chubb-fire-amp-security-1136000",
-      "source": "RemoteOK",
-      "description": "FIFO Fire Technician â Groote Eylandt (1 Week On / 1 Week Off) Chubb Fire &amp; Security â Darwin Based FIFO Opportunity Are you a skilled Fire Technician looking for an exciting FIFO role with incredible lifestyle balance? This is an opportunity to join Chubb Fire &amp; Security, working one week on / one week off to support our major client on Groote Eylandt - GEMCO Sth32, while enjoying stability, training, and progression with a national market leader. The Role Based out of our Darwin Fire Division, you will fly from Darwin to Groote Eylandt on a 7/7 FIFO roster. You will be responsibl",
-      "tags": [
-        "design",
-        "technical",
-        "customer support",
-        "dev",
-        "microsoft",
-        "senior",
-        "ops",
-        "engineer",
-        "digital nomad",
-        "sys admin",
-        "education",
-        "testing",
-        "exec",
-        "excel",
-        "payroll",
-        "medical",
-        "video",
-        "marketing",
-        "travel",
-        "finance",
-        "mobile",
-        "hr",
-        "recruiter",
-        "supervisor",
-        "consulting",
-        "assembly",
-        "saas",
-        "golang",
-        "coordinator",
-        "product manager",
-        "bus dev",
-        "sales",
-        "amazon",
-        "salesforce",
-        "infosec",
-        "embedded",
-        "java",
-        "c",
-        "c plus plus",
-        "cloud",
-        "linux",
-        "speech",
-        "adult",
-        "junior"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "location unconfirmed — verify it's open to Africa"
-      ]
-    },
-    {
-      "title": "Noa Technologies",
-      "company": "No Quarter",
-      "location": "Fleet,",
-      "url": "https://remoteOK.com/remote-jobs/remote-noa-technologies-no-quarter-1135928",
-      "source": "RemoteOK",
-      "description": "Noa was founded to serve as a vehicle of change in the conservation of our planet, by enabling corporations to use their assets more efficiently. In our vision, business objectives and positive environmental impact can coexist, rather than be polar opposites. Excess pollution, the destruction of our environment and the depletion of essential natural resources are serious but solvable challenges we have made our mission to tackle together with our partners. As we reduce our customers' costs we also reduce their CO2 footprint. A win for business, as well as the environment. Noaâs real-time IoT",
-      "tags": [
-        "education",
-        "marketing",
-        "speech",
-        "exec",
-        "golang",
-        "part time",
-        "infosec",
-        "cloud",
-        "medical"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "location unconfirmed — verify it's open to Africa"
-      ]
-    },
-    {
       "title": "Software Developer in Test (JavaScript)",
       "company": "Veeam Software",
       "location": "Poland",
@@ -2191,54 +2726,6 @@
       ]
     },
     {
-      "title": "Sales Engineer (Application Security)",
-      "company": "Thales",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/146550-sales-engineer-application-security",
-      "source": "Jobicy",
-      "description": "Location: Texas, United States of AmericaThales people architect identity management and data protection solutions at the heart of digital security. Business and governments rely on us to bring trust to the billions of digital interactions they have with people. Our technologies and services help banks exchange funds, people cross borders, energy become smarter and much&hellip;",
-      "tags": [
-        "business development"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Salesforce Developer",
-      "company": "dentsu",
-      "location": "Spain",
-      "url": "https://jobicy.com/jobs/146848-salesforce-developer-2",
-      "source": "Jobicy",
-      "description": "Job Description:Omega CRM is a Merkle &amp; Dentsu company, leader in development of Customer Experience services, with +20 years of experience in the use of Technology applied to Marketing and providing a unique Customer Relationship with mainly focus on Innovation is looking for a Salesforce Developer.Main responsabilities:Develop software according to user requirements, functional and technical&hellip;",
-      "tags": [
-        "software engineering"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Spain-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Engineering Manager, Internal Developer Platform",
-      "company": "Chainguard",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/148144-engineering-manager-internal-developer-platform",
-      "source": "Jobicy",
-      "description": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. Our customers include Fortune 500 enterprises and global industry leaders, including Anduril, Canva, Fortinet, Hewlett Packard Enterprise, OpenAI, Snap&hellip;",
-      "tags": [
-        "software engineering"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
       "title": "Senior Business Analyst, AI & Data",
       "company": "phData",
       "location": "LATAM",
@@ -2270,6 +2757,23 @@
         "apple",
         "testing",
         "catalyst"
+      ],
+      "verdict": "review",
+      "fit": 30,
+      "reasons": [
+        "Europe-tagged — verify it's open to Africa first",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Senior Data Engineer",
+      "company": "Zartis",
+      "location": "Europe",
+      "url": "https://jobicy.com/jobs/148223-senior-data-engineer-2",
+      "source": "Jobicy",
+      "description": "The company and our mission: Zartis is a global AI transformation and technology consulting partner where talented engineers and technologists work on cutting edge innovation. We partner with ambitious organizations to design, build, and scale technology solutions that deliver real impact. Our teams bring deep expertise in AI driven platforms, secure API architectures, and cloud&hellip;",
+      "tags": [
+        "data science &amp; analytics"
       ],
       "verdict": "review",
       "fit": 30,
@@ -2835,6 +3339,45 @@
       ]
     },
     {
+      "title": "Head of Security",
+      "company": "Tremendous",
+      "location": "New York, New York, New York, United States",
+      "url": "https://remoteOK.com/remote-jobs/remote-head-of-security-tremendous-1136210",
+      "source": "RemoteOK",
+      "description": "Tremendous is the global platform built for businesses to send payoutsâgift cards and moneyâto anyone, anywhere, instantly. We're trusted by 20,000+ organizations, from startups to giants like Atlassian, MIT, and United Way, to reach millions of recipients worldwide. We're profitable and growing without outside investors. We're fully remote, with a high-documentation, low-meeting culture that leaves more time for the work that mattersâand for your life outside it. Our employee NPS sits in the high 80s. We move billions of dollars through our systems. That makes security existential, and ",
+      "tags": [
+        "exec",
+        "design",
+        "architecture",
+        "recruiter",
+        "customer support",
+        "marketing",
+        "content writing",
+        "ops",
+        "golang",
+        "full time",
+        "digital nomad",
+        "dev",
+        "senior",
+        "medical",
+        "engineer",
+        "infosec",
+        "react",
+        "embedded",
+        "technical",
+        "finance",
+        "cloud",
+        "postgres",
+        "typescript",
+        "ruby"
+      ],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Head of-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
       "title": "DevOps Director",
       "company": "Toparo",
       "location": "Anywhere in the World",
@@ -2864,6 +3407,22 @@
     },
     {
       "title": "Principal DevOps Engineer",
+      "company": "NBCUniversal",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/148200-principal-devops-engineer-2",
+      "source": "Jobicy",
+      "description": "Company DescriptionNBCUniversal is one of the world's leading media and entertainment companies. We create world-class content, which we distribute across our portfolio of film, television, and streaming, and bring to life through our global theme park destinations, consumer products, and experiences. We own and operate leading entertainment and news brands, including NBC, NBC News, NBC&hellip;",
+      "tags": [
+        "devops &amp; infrastructure"
+      ],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Principal-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
+      "title": "Principal DevOps Engineer",
       "company": "Zartis",
       "location": "Europe",
       "url": "https://jobicy.com/jobs/146762-principal-devops-engineer",
@@ -2876,6 +3435,22 @@
       "fit": 0,
       "reasons": [
         "Principal-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
+      "title": "Director I, Data Science Product Management",
+      "company": "Liberty Mutual",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/148198-director-i-data-science-product-management",
+      "source": "Jobicy",
+      "description": "Description About the TeamThe Enterprise Data &amp; Data Science organization provides centralized product, platform, and technology support for Data Science teams across Liberty Mutual. Our team focuses on enabling the development, deployment, and adoption of AI/ML solutions through shared platforms, reusable capabilities, and enterprise-scale data science practices. We partner closely with Data Scientists, Engineers, Architects,&hellip;",
+      "tags": [
+        "data science &amp; analytics"
+      ],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Director-level — usually 5–10+ yrs, you have ~4"
       ]
     },
     {
@@ -2940,6 +3515,33 @@
       "fit": 0,
       "reasons": [
         "Head of-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
+      "title": "Oracle Cloud Integration Engineer",
+      "company": "Bright Vision Technologies",
+      "location": "United States",
+      "url": "https://himalayas.app/companies/bright-vision-technologies/jobs/oracle-cloud-integration-engineer-9973518704",
+      "source": "Himalayas",
+      "description": "Oracle Cloud Integration Engineer - Remote Bright Vision Technologies is a technology consulting and software development company delivering cloud, AI, data, and enterprise solutions across the United States. This is a fantastic opportunity to join an established and well-respected organization offering tremendous career growth potential. Job Title: Oracle Cloud Integration Engineer Location: 100% Remote (U.S.) Position Type: Full-time, Direct W2 Salary Range: $100,000–$150,000 Annually Experience Required: 6+ years Sponsorship: U.S. Citizens, Green Card Holders, EAD Holders, and H-1B transfer",
+      "tags": [
+        "oracle-integration-cloud-developer",
+        "cloud-integration-engineer",
+        "oracle-developer",
+        "integration-architect",
+        "oracle-cloud-consultant",
+        "oracle-cloud-integration-engineer",
+        "oracle-integration-applications-engineer",
+        "oracle-integration-architect",
+        "oracle-integration-developer",
+        "oracle-integration-cloud-specialist",
+        "oracle-integration-specialist",
+        "oracle-integration-lead"
+      ],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "work-authorization wall (green card)"
       ]
     }
   ]
