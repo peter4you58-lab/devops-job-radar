@@ -1,11 +1,11 @@
 {
-  "generated": "2026-08-08 06:32 UTC",
-  "count": 145,
+  "generated": "2026-08-09 06:35 UTC",
+  "count": 128,
   "summary": {
-    "scanned": 145,
-    "eligible": 53,
-    "review": 71,
-    "blocked": 21
+    "scanned": 128,
+    "eligible": 52,
+    "review": 66,
+    "blocked": 10
   },
   "jobs": [
     {
@@ -588,29 +588,6 @@
       ]
     },
     {
-      "title": "Speculative application",
-      "company": "Amann Girrbach MEA &amp; Turkey",
-      "location": "No. 67 Village,",
-      "url": "https://remoteOK.com/remote-jobs/remote-speculative-application-amann-girrbach-mea-amp-turkey-1136132",
-      "source": "RemoteOK",
-      "description": "In order to provide you with the best possible service and to facilitate the use of certain functions, we use cookies. By using this site, you agree to the use of cookies. For more information about which data is stored, click here. Allow Customize cookiesDecline Deutsch English Vacancies ABOUT US Added Value AG WORLDWIDE Empfehlung Please take your time to submit your complete application. Please notice that the marked ones * are required for acceptance of your resume. CV-Upload 0 % CV_UPLOAD_INFO Apply with finest jobs profile Personal data Salutation --- Mr. Ms. --- Title --- Prof. Dr. BA B",
-      "tags": [
-        "design",
-        "dev",
-        "digital nomad",
-        "infosec",
-        "cloud",
-        "sys admin",
-        "web dev",
-        "content writing"
-      ],
-      "verdict": "eligible",
-      "fit": 50,
-      "reasons": [
-        "remote — anywhere / global"
-      ]
-    },
-    {
       "title": "Account Manager",
       "company": "Keeper Security",
       "location": "Anywhere in the World",
@@ -1093,50 +1070,6 @@
       ]
     },
     {
-      "title": "Small batches better results",
-      "company": "COLDOUTREACH.BLOG",
-      "location": "Laredo,",
-      "url": "https://remoteOK.com/remote-jobs/remote-small-batches-better-results-coldoutreach-blog-1136172",
-      "source": "RemoteOK",
-      "description": "If your message promises one thing and your profile implies another, youâve added friction before the conversation starts. Please mention the word **PROTECTIVE** and tag RNjQuMjM2LjE0NS44Ng== when applying to show you read the job post completely (#RNjQuMjM2LjE0NS44Ng==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
-      "tags": [
-        "recruiter",
-        "dev",
-        "non tech",
-        "digital nomad",
-        "customer support",
-        "design",
-        "sys admin",
-        "music",
-        "vfx",
-        "education",
-        "consulting",
-        "web dev",
-        "accounting",
-        "virtual assistant",
-        "devops",
-        "video",
-        "finance",
-        "cloud",
-        "mobile",
-        "exec",
-        "content writing",
-        "ops",
-        "marketing",
-        "legal",
-        "sales",
-        "medical",
-        "engineer",
-        "ecommerce",
-        "internship"
-      ],
-      "verdict": "review",
-      "fit": 52,
-      "reasons": [
-        "location unconfirmed — verify it's open to Africa"
-      ]
-    },
-    {
       "title": "Site Reliability Engineer (SRE)",
       "company": "Bright Vision Technologies",
       "location": "New Jersey",
@@ -1539,30 +1472,6 @@
       ]
     },
     {
-      "title": "Solution Architect (w/m/d) – Cloud & Hybrid IT - intern",
-      "company": "SPIRIT/21",
-      "location": "Germany",
-      "url": "https://himalayas.app/companies/spirit-21/jobs/solution-architect-w-m-d-cloud-hybrid-it-intern-4125922837",
-      "source": "Himalayas",
-      "description": "deine aufgaben Du entwickelst Architekturen und Lösungskonzepte für komplexe IT-Systeme mit Fokus auf hybride Szenarien (On-Prem &amp; Cloud) Analyse bestehender Systemlandschaften sowie Ableitung von Migrations-, Integrations- und Optimierungsstrategien Verantwortung für die Anforderungsanalyse und Abstimmung mit technischen und fachlichen Stakeholdern Du erstellst technische Konzepte, Entscheidungsvorlagen und Architekturdokumentationen Bewertung von Risiken sowie Entwicklung geeigneter Gegenmaßnahmen unter Berücksichtigung wirtschaftlicher Aspekte Du präsentierst Lösungen beim Kunden und un",
-      "tags": [
-        "solutions-architect",
-        "cloud-architecture",
-        "it-consulting",
-        "hybrid-it-infrastructure",
-        "enterprise-architecture",
-        "intern-solutions-architect",
-        "cloud-solutions-intern",
-        "cloud-architecture-intern"
-      ],
-      "verdict": "review",
-      "fit": 46,
-      "reasons": [
-        "Germany-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
       "title": "Senior Customer Success Architect - Singapore",
       "company": "GitLab",
       "location": "Singapore",
@@ -1650,6 +1559,33 @@
       "reasons": [
         "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
         "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Tier III Service Desk Engineer",
+      "company": "Unio Digital",
+      "location": "USA",
+      "url": "https://remotive.com/remote-jobs/information-technology/tier-iii-service-desk-engineer-2091045",
+      "source": "Remotive",
+      "description": "Unió Digital is an Arizona-based managed service provider (MSP) delivering Managed IT Services, Low Voltage Cabling, Access Control, Video Surveillance, and Intrusion Services. We believe technology should be intuitive, not intimidating. We are looking for an experienced Tier 3 Service Desk Technician with exceptional problem-solving skills. You will serve as the escalation point within the team, resolving complex technical issues while also leading client onboarding and project initiatives. You are expected to be involved in direct end-user support when required. If you have a passion for ens",
+      "tags": [
+        "azure",
+        "cisco",
+        "security",
+        "video",
+        "documentation",
+        "hardware",
+        "helpdesk",
+        "onboarding",
+        "msp",
+        "ticketing",
+        "microsoft 365",
+        "it systems"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -1851,7 +1787,7 @@
       "location": "Full Sutton,",
       "url": "https://remoteOK.com/remote-jobs/remote-covalflow-covaltech-1136207",
       "source": "RemoteOK",
-      "description": "Management SaaS for event rental companies: quotes, invoices, inventory and client follow-up in one tool. Please mention the word **SATISFY** and tag RNjQuMjM2LjE0NS44Ng== when applying to show you read the job post completely (#RNjQuMjM2LjE0NS44Ng==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Management SaaS for event rental companies: quotes, invoices, inventory and client follow-up in one tool. Please mention the word **SATISFY** and tag RNjQuMjM2LjIwMC45OQ== when applying to show you read the job post completely (#RNjQuMjM2LjIwMC45OQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "tags": [
         "education",
         "non tech",
@@ -1939,135 +1875,6 @@
       "fit": 36,
       "reasons": [
         "United states-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Freelance Designer",
-      "company": "Control Shift Video",
-      "location": "Texas,",
-      "url": "https://remoteOK.com/remote-jobs/remote-freelance-designer-control-shift-video-1136213",
-      "source": "RemoteOK",
-      "description": "Job Description And Requirements Project-based | Remote | United States | Contract Pay based on freelancer's rate Control Shift Video is looking for a freelance designer to collaborate with our creative team on project-based work across video, motion graphics, web visuals, and brand content. Our projects span technology, healthcare, energy, consumer brands, nonprofits, and passion projects. What Youâll Do Design visual systems, frames, and assets for video and motion projects Support branding, layout, and visual storytelling needs Translate concepts into clean, purposeful designs Prepare fil",
-      "tags": [
-        "exec",
-        "design",
-        "architecture",
-        "recruiter",
-        "customer support",
-        "marketing",
-        "content writing",
-        "ops",
-        "golang",
-        "full time",
-        "digital nomad",
-        "dev",
-        "senior",
-        "medical",
-        "engineer",
-        "infosec",
-        "react",
-        "embedded",
-        "technical",
-        "finance",
-        "cloud",
-        "postgres",
-        "typescript",
-        "ruby",
-        "stats",
-        "accounting",
-        "designer",
-        "web dev",
-        "video",
-        "ads"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "location unconfirmed — verify it's open to Africa"
-      ]
-    },
-    {
-      "title": "Supply Chain Transparency",
-      "company": "Ark Intelligence",
-      "location": "Standard,",
-      "url": "https://remoteOK.com/remote-jobs/remote-supply-chain-transparency-ark-intelligence-1136235",
-      "source": "RemoteOK",
-      "description": "Cloud Migration &amp; Optimization Automatically pinpoint the best path, make required code changes, and refactor 2x faster. Please mention the word **BARGAIN** and tag RNjQuMjM2LjE0NS44Ng== when applying to show you read the job post completely (#RNjQuMjM2LjE0NS44Ng==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
-      "tags": [
-        "education",
-        "non tech",
-        "design",
-        "speech",
-        "admin",
-        "exec",
-        "digital nomad",
-        "ops",
-        "architecture",
-        "dev",
-        "cloud"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "location unconfirmed — verify it's open to Africa"
-      ]
-    },
-    {
-      "title": "Join Our Team",
-      "company": "HapScale",
-      "location": "å©å³¶,",
-      "url": "https://remoteOK.com/remote-jobs/remote-join-our-team-hapscale-1136151",
-      "source": "RemoteOK",
-      "description": "with your Google Account to continue to Google Forms. This account will be available to other Google apps in the browser. Please mention the word **UNCONDITIONAL** and tag RNjQuMjM2LjE0NS44Ng== when applying to show you read the job post completely (#RNjQuMjM2LjE0NS44Ng==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
-      "tags": [
-        "dev",
-        "digital nomad",
-        "customer support",
-        "non tech",
-        "quality assurance",
-        "math",
-        "ops",
-        "golang",
-        "web dev",
-        "infosec",
-        "cloud",
-        "finance"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "location unconfirmed — verify it's open to Africa"
-      ]
-    },
-    {
-      "title": "Product Manager",
-      "company": "OpenSkills",
-      "location": "Good Design,",
-      "url": "https://remoteOK.com/remote-jobs/remote-product-manager-openskills-1136133",
-      "source": "RemoteOK",
-      "description": "â All career guides Product and design Product Manager Defines what to build and why, aligning user needs, business goals, and engineering effort into a product direction. Find relevant jobsâPrint learning guideOpen Hitchhiker's guideâ Skill coverage 63% 5 of 8 skills Course coverage 38% 6 of 16 courses Skill coverage shows how much of the role's capability map already has a published course. Course coverage shows how much of the mapped course pipeline for this role has shipped. Role skills 8 Published coverage 5 Relevant courses 6 Capability map Skills Importance describes how central e",
-      "tags": [
-        "design",
-        "dev",
-        "digital nomad",
-        "infosec",
-        "cloud",
-        "sys admin",
-        "web dev",
-        "content writing",
-        "product manager",
-        "exec",
-        "technical",
-        "writer",
-        "scrum",
-        "stats",
-        "medical",
-        "engineer"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "location unconfirmed — verify it's open to Africa"
       ]
     },
     {
@@ -2408,391 +2215,6 @@
       "fit": 0,
       "reasons": [
         "Head of-level — usually 5–10+ yrs, you have ~4"
-      ]
-    },
-    {
-      "title": "Staff Software Engineer, Product (Belo Horizonte)",
-      "company": "LawnStarter",
-      "location": "Brazil",
-      "url": "https://remotive.com/remote-jobs/software-development/staff-software-engineer-product-belo-horizonte-2091056",
-      "source": "Remotive",
-      "description": "This is a remote role for candidates located in Belo Horizonte, Brazil. About LawnStarter LawnStarter is the nation's leading on-demand marketplace for lawn care and outdoor services, with over $100M in annual bookings. We're expanding beyond lawn care to become the one-stop shop for all home services — operating across three brands (LawnStarter, Lawn Love, Home Gnome) on a single shared platform. About Engineering at LawnStarter We build in small, focused initiative teams: a Product Engineer working alongside a PM and a designer, supported by an Engineering Manager who helps you grow. You'll ",
-      "tags": [
-        "aws",
-        "backend",
-        "frontend",
-        "php",
-        "react",
-        "security",
-        "ui/ux",
-        "ai/ml",
-        "jira",
-        "react native",
-        "documentation",
-        "laravel",
-        "typescript",
-        "people management",
-        "prototyping",
-        "engineering management",
-        "marketplace",
-        "github",
-        "rest",
-        "datadog"
-      ],
-      "verdict": "blocked",
-      "fit": 0,
-      "reasons": [
-        "Staff-level — usually 5–10+ yrs, you have ~4"
-      ]
-    },
-    {
-      "title": "Staff Software Engineer, Product (Montevideo)",
-      "company": "LawnStarter",
-      "location": "Uruguay",
-      "url": "https://remotive.com/remote-jobs/software-development/staff-software-engineer-product-montevideo-2091058",
-      "source": "Remotive",
-      "description": "This is a remote role for candidates located in Montevideo, Uruguay. About LawnStarter LawnStarter is the nation's leading on-demand marketplace for lawn care and outdoor services, with over $100M in annual bookings. We're expanding beyond lawn care to become the one-stop shop for all home services — operating across three brands (LawnStarter, Lawn Love, Home Gnome) on a single shared platform. About Engineering at LawnStarter We build in small, focused initiative teams: a Product Engineer working alongside a PM and a designer, supported by an Engineering Manager who helps you grow. You'll als",
-      "tags": [
-        "aws",
-        "backend",
-        "frontend",
-        "php",
-        "react",
-        "security",
-        "ui/ux",
-        "ai/ml",
-        "jira",
-        "react native",
-        "documentation",
-        "laravel",
-        "typescript",
-        "people management",
-        "prototyping",
-        "engineering management",
-        "marketplace",
-        "github",
-        "rest",
-        "datadog"
-      ],
-      "verdict": "blocked",
-      "fit": 0,
-      "reasons": [
-        "Staff-level — usually 5–10+ yrs, you have ~4"
-      ]
-    },
-    {
-      "title": "Staff Software Engineer, Product (São Paulo)",
-      "company": "LawnStarter",
-      "location": "Brazil",
-      "url": "https://remotive.com/remote-jobs/software-development/staff-software-engineer-product-sao-paulo-2091055",
-      "source": "Remotive",
-      "description": "This is a remote role for candidates located in São Paulo, Brazil. About LawnStarter LawnStarter is the nation's leading on-demand marketplace for lawn care and outdoor services, with over $100M in annual bookings. We're expanding beyond lawn care to become the one-stop shop for all home services — operating across three brands (LawnStarter, Lawn Love, Home Gnome) on a single shared platform. About Engineering at LawnStarter We build in small, focused initiative teams: a Product Engineer working alongside a PM and a designer, supported by an Engineering Manager who helps you grow. You'll also ",
-      "tags": [
-        "aws",
-        "backend",
-        "frontend",
-        "php",
-        "react",
-        "security",
-        "ui/ux",
-        "ai/ml",
-        "jira",
-        "react native",
-        "documentation",
-        "laravel",
-        "typescript",
-        "people management",
-        "prototyping",
-        "engineering management",
-        "marketplace",
-        "github",
-        "rest",
-        "datadog"
-      ],
-      "verdict": "blocked",
-      "fit": 0,
-      "reasons": [
-        "Staff-level — usually 5–10+ yrs, you have ~4"
-      ]
-    },
-    {
-      "title": "Staff Software Engineer, Product (Mexico City)",
-      "company": "LawnStarter",
-      "location": "Mexico",
-      "url": "https://remotive.com/remote-jobs/software-development/staff-software-engineer-product-mexico-city-2091050",
-      "source": "Remotive",
-      "description": "This is a remote role for candidates located in Mexico City, Mexico. About LawnStarter LawnStarter is the nation's leading on-demand marketplace for lawn care and outdoor services, with over $100M in annual bookings. We're expanding beyond lawn care to become the one-stop shop for all home services — operating across three brands (LawnStarter, Lawn Love, Home Gnome) on a single shared platform. About Engineering at LawnStarter We build in small, focused initiative teams: a Product Engineer working alongside a PM and a designer, supported by an Engineering Manager who helps you grow. You'll als",
-      "tags": [
-        "aws",
-        "backend",
-        "frontend",
-        "php",
-        "react",
-        "security",
-        "ui/ux",
-        "ai/ml",
-        "jira",
-        "react native",
-        "documentation",
-        "laravel",
-        "typescript",
-        "people management",
-        "prototyping",
-        "engineering management",
-        "marketplace",
-        "github",
-        "rest",
-        "datadog"
-      ],
-      "verdict": "blocked",
-      "fit": 0,
-      "reasons": [
-        "Staff-level — usually 5–10+ yrs, you have ~4"
-      ]
-    },
-    {
-      "title": "Staff Software Engineer, Product (Campinas)",
-      "company": "LawnStarter",
-      "location": "Brazil",
-      "url": "https://remotive.com/remote-jobs/software-development/staff-software-engineer-product-campinas-2091049",
-      "source": "Remotive",
-      "description": "This is a remote role for candidates located in Campinas, Brazil. About LawnStarter LawnStarter is the nation's leading on-demand marketplace for lawn care and outdoor services, with over $100M in annual bookings. We're expanding beyond lawn care to become the one-stop shop for all home services — operating across three brands (LawnStarter, Lawn Love, Home Gnome) on a single shared platform. About Engineering at LawnStarter We build in small, focused initiative teams: a Product Engineer working alongside a PM and a designer, supported by an Engineering Manager who helps you grow. You'll also w",
-      "tags": [
-        "aws",
-        "backend",
-        "frontend",
-        "php",
-        "react",
-        "security",
-        "ui/ux",
-        "ai/ml",
-        "jira",
-        "react native",
-        "documentation",
-        "laravel",
-        "typescript",
-        "people management",
-        "prototyping",
-        "engineering management",
-        "marketplace",
-        "github",
-        "rest",
-        "datadog"
-      ],
-      "verdict": "blocked",
-      "fit": 0,
-      "reasons": [
-        "Staff-level — usually 5–10+ yrs, you have ~4"
-      ]
-    },
-    {
-      "title": "Staff Software Engineer, Product (Florianópolis)",
-      "company": "LawnStarter",
-      "location": "Brazil",
-      "url": "https://remotive.com/remote-jobs/software-development/staff-software-engineer-product-florianopolis-2091059",
-      "source": "Remotive",
-      "description": "This is a remote role for candidates located in Florianópolis, Brazil. About LawnStarter LawnStarter is the nation's leading on-demand marketplace for lawn care and outdoor services, with over $100M in annual bookings. We're expanding beyond lawn care to become the one-stop shop for all home services — operating across three brands (LawnStarter, Lawn Love, Home Gnome) on a single shared platform. About Engineering at LawnStarter We build in small, focused initiative teams: a Product Engineer working alongside a PM and a designer, supported by an Engineering Manager who helps you grow. You'll a",
-      "tags": [
-        "aws",
-        "backend",
-        "frontend",
-        "php",
-        "react",
-        "security",
-        "ui/ux",
-        "ai/ml",
-        "jira",
-        "react native",
-        "documentation",
-        "laravel",
-        "typescript",
-        "people management",
-        "prototyping",
-        "engineering management",
-        "marketplace",
-        "github",
-        "rest",
-        "datadog"
-      ],
-      "verdict": "blocked",
-      "fit": 0,
-      "reasons": [
-        "Staff-level — usually 5–10+ yrs, you have ~4"
-      ]
-    },
-    {
-      "title": "Staff Product Engineer (Mexico City)",
-      "company": "LawnStarter",
-      "location": "Mexico",
-      "url": "https://remotive.com/remote-jobs/product/staff-product-engineer-mexico-city-2091057",
-      "source": "Remotive",
-      "description": "This is a remote role for candidates located in Mexico City, Mexico. About LawnStarter LawnStarter is the nation's leading on-demand marketplace for lawn care and outdoor services, with over $100M in annual bookings. We're expanding beyond lawn care to become the one-stop shop for all home services — operating across three brands (LawnStarter, Lawn Love, Home Gnome) on a single shared platform. About Engineering at LawnStarter We build in small, focused initiative teams: a Product Engineer working alongside a PM and a designer, supported by an Engineering Manager who helps you grow. You'll als",
-      "tags": [
-        "aws",
-        "backend",
-        "frontend",
-        "php",
-        "react",
-        "security",
-        "ui/ux",
-        "ai/ml",
-        "jira",
-        "react native",
-        "documentation",
-        "laravel",
-        "typescript",
-        "people management",
-        "prototyping",
-        "engineering management",
-        "marketplace",
-        "github",
-        "rest",
-        "datadog"
-      ],
-      "verdict": "blocked",
-      "fit": 0,
-      "reasons": [
-        "Staff-level — usually 5–10+ yrs, you have ~4"
-      ]
-    },
-    {
-      "title": "Staff Product Engineer (Montevideo)",
-      "company": "LawnStarter",
-      "location": "Uruguay",
-      "url": "https://remotive.com/remote-jobs/product/staff-product-engineer-montevideo-2091054",
-      "source": "Remotive",
-      "description": "This is a remote role for candidates located in Montevideo, Uruguay. About LawnStarter LawnStarter is the nation's leading on-demand marketplace for lawn care and outdoor services, with over $100M in annual bookings. We're expanding beyond lawn care to become the one-stop shop for all home services — operating across three brands (LawnStarter, Lawn Love, Home Gnome) on a single shared platform. About Engineering at LawnStarter We build in small, focused initiative teams: a Product Engineer working alongside a PM and a designer, supported by an Engineering Manager who helps you grow. You'll als",
-      "tags": [
-        "aws",
-        "backend",
-        "frontend",
-        "php",
-        "react",
-        "security",
-        "ui/ux",
-        "ai/ml",
-        "jira",
-        "react native",
-        "documentation",
-        "laravel",
-        "typescript",
-        "people management",
-        "prototyping",
-        "engineering management",
-        "marketplace",
-        "github",
-        "rest",
-        "datadog"
-      ],
-      "verdict": "blocked",
-      "fit": 0,
-      "reasons": [
-        "Staff-level — usually 5–10+ yrs, you have ~4"
-      ]
-    },
-    {
-      "title": "Staff Product Engineer (Campinas)",
-      "company": "LawnStarter",
-      "location": "Brazil",
-      "url": "https://remotive.com/remote-jobs/product/staff-product-engineer-campinas-2091053",
-      "source": "Remotive",
-      "description": "This is a remote role for candidates located in Campinas, Brazil. About LawnStarter LawnStarter is the nation's leading on-demand marketplace for lawn care and outdoor services, with over $100M in annual bookings. We're expanding beyond lawn care to become the one-stop shop for all home services — operating across three brands (LawnStarter, Lawn Love, Home Gnome) on a single shared platform. About Engineering at LawnStarter We build in small, focused initiative teams: a Product Engineer working alongside a PM and a designer, supported by an Engineering Manager who helps you grow. You'll also w",
-      "tags": [
-        "aws",
-        "backend",
-        "frontend",
-        "php",
-        "react",
-        "security",
-        "ui/ux",
-        "ai/ml",
-        "jira",
-        "react native",
-        "documentation",
-        "laravel",
-        "typescript",
-        "people management",
-        "prototyping",
-        "engineering management",
-        "marketplace",
-        "github",
-        "rest",
-        "datadog"
-      ],
-      "verdict": "blocked",
-      "fit": 0,
-      "reasons": [
-        "Staff-level — usually 5–10+ yrs, you have ~4"
-      ]
-    },
-    {
-      "title": "Staff Product Engineer (Belo Horizonte)",
-      "company": "LawnStarter",
-      "location": "Brazil",
-      "url": "https://remotive.com/remote-jobs/product/staff-product-engineer-belo-horizonte-2091052",
-      "source": "Remotive",
-      "description": "This is a remote role for candidates located in Belo Horizonte, Brazil. About LawnStarter LawnStarter is the nation's leading on-demand marketplace for lawn care and outdoor services, with over $100M in annual bookings. We're expanding beyond lawn care to become the one-stop shop for all home services — operating across three brands (LawnStarter, Lawn Love, Home Gnome) on a single shared platform. About Engineering at LawnStarter We build in small, focused initiative teams: a Product Engineer working alongside a PM and a designer, supported by an Engineering Manager who helps you grow. You'll ",
-      "tags": [
-        "aws",
-        "backend",
-        "frontend",
-        "php",
-        "react",
-        "security",
-        "ui/ux",
-        "ai/ml",
-        "jira",
-        "react native",
-        "documentation",
-        "laravel",
-        "typescript",
-        "people management",
-        "prototyping",
-        "engineering management",
-        "marketplace",
-        "github",
-        "rest",
-        "datadog"
-      ],
-      "verdict": "blocked",
-      "fit": 0,
-      "reasons": [
-        "Staff-level — usually 5–10+ yrs, you have ~4"
-      ]
-    },
-    {
-      "title": "Staff Product Engineer (Florianópolis)",
-      "company": "LawnStarter",
-      "location": "Brazil",
-      "url": "https://remotive.com/remote-jobs/product/staff-product-engineer-florianopolis-2091051",
-      "source": "Remotive",
-      "description": "This is a remote role for candidates located in Florianópolis, Brazil About LawnStarter LawnStarter is the nation's leading on-demand marketplace for lawn care and outdoor services, with over $100M in annual bookings. We're expanding beyond lawn care to become the one-stop shop for all home services — operating across three brands (LawnStarter, Lawn Love, Home Gnome) on a single shared platform. About Engineering at LawnStarter We build in small, focused initiative teams: a Product Engineer working alongside a PM and a designer, supported by an Engineering Manager who helps you grow. You'll al",
-      "tags": [
-        "aws",
-        "backend",
-        "frontend",
-        "php",
-        "react",
-        "security",
-        "ui/ux",
-        "ai/ml",
-        "jira",
-        "react native",
-        "documentation",
-        "laravel",
-        "typescript",
-        "people management",
-        "prototyping",
-        "engineering management",
-        "marketplace",
-        "github",
-        "rest",
-        "datadog"
-      ],
-      "verdict": "blocked",
-      "fit": 0,
-      "reasons": [
-        "Staff-level — usually 5–10+ yrs, you have ~4"
       ]
     },
     {
