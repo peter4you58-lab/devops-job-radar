@@ -1,11 +1,11 @@
 {
-  "generated": "2026-08-10 07:07 UTC",
-  "count": 124,
+  "generated": "2026-08-11 06:44 UTC",
+  "count": 125,
   "summary": {
-    "scanned": 124,
-    "eligible": 49,
-    "review": 65,
-    "blocked": 10
+    "scanned": 125,
+    "eligible": 50,
+    "review": 66,
+    "blocked": 9
   },
   "jobs": [
     {
@@ -429,6 +429,25 @@
       "tags": [],
       "verdict": "eligible",
       "fit": 54,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
+    {
+      "title": "Inside Sales Contractor",
+      "company": "Credit Wellness, LLC",
+      "location": "Worldwide",
+      "url": "https://remotive.com/remote-jobs/sales/inside-sales-contractor-2086540",
+      "source": "Remotive",
+      "description": "About Us We are a financial services start up focusing on helping to improve consumer credit profiles. We are currently seeking KPI driven sales representatives looking to earn up to 45K in their first year while working remotely. We offer comprehensive training and continuous sales coaching to help you meet your financial goals. During our training period we offer a guaranteed training stipend while our trainees are acclimating to the position (*see weekly pay below). If you are a seasoned sales professional looking for the autonomy of a remote position combined with great compensation, we wa",
+      "tags": [
+        "crm",
+        "google sheets",
+        "financial services",
+        "inside sales"
+      ],
+      "verdict": "eligible",
+      "fit": 50,
       "reasons": [
         "remote — anywhere / global"
       ]
@@ -1741,7 +1760,7 @@
       "location": "Full Sutton,",
       "url": "https://remoteOK.com/remote-jobs/remote-covalflow-covaltech-1136207",
       "source": "RemoteOK",
-      "description": "Management SaaS for event rental companies: quotes, invoices, inventory and client follow-up in one tool. Please mention the word **SATISFY** and tag RMTcyLjE3Mi4xMTkuMTAx when applying to show you read the job post completely (#RMTcyLjE3Mi4xMTkuMTAx). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Management SaaS for event rental companies: quotes, invoices, inventory and client follow-up in one tool. Please mention the word **SATISFY** and tag RMTM1LjIzMi4yMDEuNTc= when applying to show you read the job post completely (#RMTM1LjIzMi4yMDEuNTc=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "tags": [
         "education",
         "non tech",
@@ -1959,6 +1978,23 @@
         "apple",
         "testing",
         "catalyst"
+      ],
+      "verdict": "review",
+      "fit": 30,
+      "reasons": [
+        "Europe-tagged — verify it's open to Africa first",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "QA Automation Lead [gn] Data Intelligence",
+      "company": "Actian",
+      "location": "Europe",
+      "url": "https://jobicy.com/jobs/149048-qa-automation-lead-gn-data-intelligence",
+      "source": "Jobicy",
+      "description": "The QA Automation Team is the ultimate guardian of our platform’s reliability, scalability, and deployment velocity. In a complex, data-heavy ecosystem, manual testing is a bottleneck; continuous, intelligent, and bulletproof automation is the only way forward. We are looking for a QA Automation Lead who will architect, scale, and own our automated testing strategy end-to-end.&hellip;",
+      "tags": [
+        "qa &amp; testing"
       ],
       "verdict": "review",
       "fit": 30,
@@ -2244,22 +2280,6 @@
       "fit": 0,
       "reasons": [
         "Director-level — usually 5–10+ yrs, you have ~4"
-      ]
-    },
-    {
-      "title": "Head of Customer Marketing",
-      "company": "LaunchDarkly",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/149443-head-of-customer-marketing",
-      "source": "Jobicy",
-      "description": "About the Job:We are seeking a strategic, results-driven Head of Customer Marketing to lead our global customer marketing function. This role has significant influence on shaping brand messaging and positioning for LaunchDarkly as well as influencing customer health and retention. This individual will manage our customer advocacy and adoption programs. The ideal candidate will bring a&hellip;",
-      "tags": [
-        "marketing &amp; sales"
-      ],
-      "verdict": "blocked",
-      "fit": 0,
-      "reasons": [
-        "Head of-level — usually 5–10+ yrs, you have ~4"
       ]
     }
   ]
