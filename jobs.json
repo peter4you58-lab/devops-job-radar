@@ -1,11 +1,11 @@
 {
-  "generated": "2026-08-11 06:44 UTC",
-  "count": 125,
+  "generated": "2026-08-12 07:05 UTC",
+  "count": 121,
   "summary": {
-    "scanned": 125,
+    "scanned": 121,
     "eligible": 50,
-    "review": 66,
-    "blocked": 9
+    "review": 61,
+    "blocked": 10
   },
   "jobs": [
     {
@@ -453,6 +453,33 @@
       ]
     },
     {
+      "title": "Tier III Service Desk Engineer",
+      "company": "Unio Digital",
+      "location": "Worldwide",
+      "url": "https://remotive.com/remote-jobs/information-technology/tier-iii-service-desk-engineer-2091045",
+      "source": "Remotive",
+      "description": "Unió Digital is an Arizona-based managed service provider (MSP) delivering Managed IT Services, Low Voltage Cabling, Access Control, Video Surveillance, and Intrusion Services. We believe technology should be intuitive, not intimidating. We are looking for an experienced Tier 3 Service Desk Technician with exceptional problem-solving skills. You will serve as the escalation point within the team, resolving complex technical issues while also leading client onboarding and project initiatives. You are expected to be involved in direct end-user support when required. If you have a passion for ens",
+      "tags": [
+        "azure",
+        "cisco",
+        "security",
+        "video",
+        "documentation",
+        "hardware",
+        "helpdesk",
+        "onboarding",
+        "msp",
+        "ticketing",
+        "microsoft 365",
+        "it systems"
+      ],
+      "verdict": "eligible",
+      "fit": 50,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
+    {
       "title": "Sales Jedi",
       "company": "Creative Force",
       "location": "Europe",
@@ -588,20 +615,6 @@
       "url": "https://weworkremotely.com/remote-jobs/customer-io-contract-it-specialist",
       "source": "WeWorkRemotely",
       "description": "Headquarters: Americas Remote About&nbsp; Customer.io Over 9,000 companies — from scrappy startups to global brands — use our platform to send billions of emails, push notifications, in-app messages, and SMS every day.&nbsp; Customer.io &nbsp;powers automated communication that people actually want to receive. We help teams send smarter, more relevant messages using real-time behavioral data. Overview Hi, I'm Al Shvarts, Senior Manager, IT, and I'm looking for a part-time Sr. IT Specialist contractor to join our globally distributed IT team as we scale. This is a hands-on role focused on keepi",
-      "tags": [],
-      "verdict": "eligible",
-      "fit": 50,
-      "reasons": [
-        "remote — anywhere / global"
-      ]
-    },
-    {
-      "title": "Content Strategist",
-      "company": "Abnormal",
-      "location": "Anywhere in the World",
-      "url": "https://weworkremotely.com/remote-jobs/abnormal-content-strategist",
-      "source": "WeWorkRemotely",
-      "description": "Headquarters: Remote - USA About the Role Abnormal AI is looking for a Content Strategist to join our Content Marketing team and help connect messaging to activation across the business. This role sits at the intersection of campaign strategy, content development, and amplification: you’ll partner with Integrated Marketing and Content Marketing leadership to support campaign messaging, contribute to downstream execution, and help ensure content across channels is cohesive and ready for market. This is an individual contributor role for someone who is excited to operate in an AI-native environm",
       "tags": [],
       "verdict": "eligible",
       "fit": 50,
@@ -920,34 +933,6 @@
       "fit": 64,
       "reasons": [
         "Africa-friendly employer (Canonical) — role location unconfirmed"
-      ]
-    },
-    {
-      "title": "Java Developer",
-      "company": "Clera",
-      "location": "Los Angeles",
-      "url": "https://remoteOK.com/remote-jobs/remote-java-developer-clera-1136188",
-      "source": "RemoteOK",
-      "description": "About the Role We are an early-stage, venture-backed AI infrastructure company building production-ready Kubernetes-based systems for GPU-intensive workloads. Our platform helps companies go from bare metal to fully operational AI clusters in days, and we're looking for a Java Developer to join our small, high-impact engineering team. What You'll Do Understand customer requirements and translate them into robust, scalable Java-based solutions. Design, develop, and maintain backend services and infrastructure tooling that supports our distributed systems platform. Collaborate closely with produ",
-      "tags": [
-        "dev",
-        "design",
-        "education",
-        "docker",
-        "java",
-        "cloud",
-        "ops",
-        "sys admin",
-        "golang",
-        "engineer",
-        "backend",
-        "full time",
-        "digital nomad"
-      ],
-      "verdict": "review",
-      "fit": 60,
-      "reasons": [
-        "location unconfirmed — verify it's open to Africa"
       ]
     },
     {
@@ -1554,33 +1539,6 @@
       ]
     },
     {
-      "title": "Tier III Service Desk Engineer",
-      "company": "Unio Digital",
-      "location": "USA",
-      "url": "https://remotive.com/remote-jobs/information-technology/tier-iii-service-desk-engineer-2091045",
-      "source": "Remotive",
-      "description": "Unió Digital is an Arizona-based managed service provider (MSP) delivering Managed IT Services, Low Voltage Cabling, Access Control, Video Surveillance, and Intrusion Services. We believe technology should be intuitive, not intimidating. We are looking for an experienced Tier 3 Service Desk Technician with exceptional problem-solving skills. You will serve as the escalation point within the team, resolving complex technical issues while also leading client onboarding and project initiatives. You are expected to be involved in direct end-user support when required. If you have a passion for ens",
-      "tags": [
-        "azure",
-        "cisco",
-        "security",
-        "video",
-        "documentation",
-        "hardware",
-        "helpdesk",
-        "onboarding",
-        "msp",
-        "ticketing",
-        "microsoft 365",
-        "it systems"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
       "title": "SaaS Product Support Jedi",
       "company": "Creative Force",
       "location": "Europe, EMEA, UK, Germany, France, European timezones",
@@ -1707,150 +1665,6 @@
       ]
     },
     {
-      "title": "owlette",
-      "company": "Tridant",
-      "location": "Fleet,",
-      "url": "https://remoteOK.com/remote-jobs/remote-owlette-tridant-1136206",
-      "source": "RemoteOK",
-      "description": "attention is all you need monitormonitor all of your computerscomputers svg]:px-4 text-background font-semibold px-8 h-12 text-base\" href=\"/register\"&gt;get startedsvg]:px-4 border-border/50 hover:bg-accent-warm/10 hover:border-accent-warm/30 h-12 text-base text-muted-foreground\" href=\"/demo\"&gt;see the live demo windows only free during beta FSL-1.1 source on github explore the live demo one dashboard for every screen, every machine, everywhere. owlette lets you monitor, control, and update all of your computers remotely â so you always know they're running, even when you're not there. live",
-      "tags": [
-        "education",
-        "non tech",
-        "finance",
-        "exec",
-        "saas",
-        "sys admin",
-        "vfx",
-        "c",
-        "embedded",
-        "infosec",
-        "technical",
-        "customer support",
-        "web dev",
-        "travel",
-        "html",
-        "ads",
-        "content writing",
-        "marketing",
-        "stats",
-        "golang",
-        "recruiter",
-        "engineer",
-        "consulting",
-        "dev",
-        "virtual assistant",
-        "firebase",
-        "cloud",
-        "typescript",
-        "node",
-        "api",
-        "apache",
-        "backend",
-        "digital nomad"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "location unconfirmed — verify it's open to Africa"
-      ]
-    },
-    {
-      "title": "CovalFlow",
-      "company": "CovalTech",
-      "location": "Full Sutton,",
-      "url": "https://remoteOK.com/remote-jobs/remote-covalflow-covaltech-1136207",
-      "source": "RemoteOK",
-      "description": "Management SaaS for event rental companies: quotes, invoices, inventory and client follow-up in one tool. Please mention the word **SATISFY** and tag RMTM1LjIzMi4yMDEuNTc= when applying to show you read the job post completely (#RMTM1LjIzMi4yMDEuNTc=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
-      "tags": [
-        "education",
-        "non tech",
-        "finance",
-        "exec",
-        "saas",
-        "sys admin",
-        "vfx",
-        "c",
-        "embedded",
-        "infosec",
-        "technical",
-        "customer support",
-        "web dev",
-        "travel",
-        "html",
-        "ads",
-        "content writing",
-        "marketing",
-        "stats",
-        "golang",
-        "recruiter",
-        "engineer",
-        "consulting",
-        "dev",
-        "virtual assistant",
-        "firebase",
-        "cloud",
-        "typescript",
-        "node",
-        "api",
-        "apache",
-        "backend",
-        "digital nomad"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "location unconfirmed — verify it's open to Africa"
-      ]
-    },
-    {
-      "title": "Procurement Specialist",
-      "company": "Robert Half",
-      "location": "New York, New York, New York, United States",
-      "url": "https://remoteOK.com/remote-jobs/remote-procurement-specialist-robert-half-1136214",
-      "source": "RemoteOK",
-      "description": "We are looking for a detail-oriented Procurement Specialist to join our team in New York, New York in a contract capacity with the potential for a permanent role. This position will play an important role in supporting day-to-day purchasing operations, maintaining strong vendor documentation, and helping ensure procurement activities run smoothly across the business. The ideal candidate brings sound judgment, strong organizational skills, and the ability to coordinate effectively with suppliers, finance partners, and internal stakeholders in a fast-moving environment. Responsibilities: â¢ Man",
-      "tags": [
-        "exec",
-        "design",
-        "architecture",
-        "recruiter",
-        "customer support",
-        "marketing",
-        "content writing",
-        "ops",
-        "golang",
-        "full time",
-        "digital nomad",
-        "dev",
-        "senior",
-        "medical",
-        "engineer",
-        "infosec",
-        "react",
-        "embedded",
-        "technical",
-        "finance",
-        "cloud",
-        "postgres",
-        "typescript",
-        "ruby",
-        "stats",
-        "accounting",
-        "designer",
-        "web dev",
-        "video",
-        "ads",
-        "education",
-        "excel",
-        "legal"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "United states-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
       "title": "Software Development Engineer in Test",
       "company": "Sporty Group",
       "location": "EMEA",
@@ -1864,38 +1678,6 @@
       "fit": 36,
       "reasons": [
         "EMEA-tagged — verify it's open to Africa first"
-      ]
-    },
-    {
-      "title": "Software Developer in Test (JavaScript)",
-      "company": "Veeam Software",
-      "location": "Poland",
-      "url": "https://jobicy.com/jobs/144087-software-developer-in-test-javascript-2",
-      "source": "Jobicy",
-      "description": "Veeam is the Data and AI Trust Company, specializing in helping organizations ensure their data and AI are fully understood, secured, and resilient to enable the acceleration of safe AI at scale. As the market leader in both data resilience and data security posture management, Veeam is built for the convergence of identity, data, security,&hellip;",
-      "tags": [
-        "software engineering"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Poland-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Technical Support Engineer (Blockchain & Backend Development)",
-      "company": "Binance",
-      "location": "APAC, UAE",
-      "url": "https://jobicy.com/jobs/142500-technical-support-engineer-blockchain-backend-development",
-      "source": "Jobicy",
-      "description": "Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. We are trusted by 300+ million people in 100+ countries for our industry-leading security, user fund transparency, trading engine speed, deep liquidity, and an unmatched portfolio of digital-asset products. Binance offerings range from trading and finance&hellip;",
-      "tags": [
-        "technical support"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "APAC-tagged — verify it's open to Africa first"
       ]
     },
     {
@@ -1944,6 +1726,44 @@
       "fit": 36,
       "reasons": [
         "Canada-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "Golang Engineer",
+      "company": "Plain Concepts",
+      "location": "Brazil",
+      "url": "https://jobicy.com/jobs/144179-golang-engineer",
+      "source": "Jobicy",
+      "description": "We are seeking a Senior Golang Engineer with strong expertise in event-driven architectures, distributed systems, and modern AI-assisted software engineering practices. The ideal candidate has deep hands-on experience with Apache Kafka, high-performance backend engineering, and the ability to design resilient microservices at scale, while leveraging modern AI-powered development tools to improve productivity, code quality, and&hellip;",
+      "tags": [
+        "software engineering"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "Brazil-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "Genesys Platform Adoption Specialist",
+      "company": "TTEC Digital",
+      "location": "Philippines",
+      "url": "https://himalayas.app/companies/ttec-digital/jobs/genesys-platform-adoption-specialist-5774332226",
+      "source": "Himalayas",
+      "description": "At TTEC Digital , we coach clients to ensure their employees feel valued, and fully supported, because an amazing customer experience is an employee first process. Our vision is the same, a place where employees know they can thrive. The TTEC Digital Genesys Partner Practice of customer experience (CX) designers, consultants, engineers, and data scientists, has been awarded Genesys' Partner of the Year award 15 times, hold over 400 certifications, and possess the expertise and relationships to seamlessly integrate the Genesys platform, applications and components into complex, multi-platform e",
+      "tags": [
+        "genesys-cloud-administration",
+        "platform-adoption-specialist",
+        "cx-configuration-specialist",
+        "managed-services",
+        "genesys",
+        "customer-adoption-specialist",
+        "user-adoption-specialist"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa"
       ]
     },
     {
@@ -2280,6 +2100,22 @@
       "fit": 0,
       "reasons": [
         "Director-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
+      "title": "Head of Customer Marketing",
+      "company": "LaunchDarkly",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/149443-head-of-customer-marketing",
+      "source": "Jobicy",
+      "description": "About the Job:We are seeking a strategic, results-driven Head of Customer Marketing to lead our global customer marketing function. This role has significant influence on shaping brand messaging and positioning for LaunchDarkly as well as influencing customer health and retention. This individual will manage our customer advocacy and adoption programs. The ideal candidate will bring a&hellip;",
+      "tags": [
+        "marketing &amp; sales"
+      ],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Head of-level — usually 5–10+ yrs, you have ~4"
       ]
     }
   ]
