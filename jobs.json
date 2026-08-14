@@ -1,10 +1,10 @@
 {
-  "generated": "2026-08-13 07:09 UTC",
-  "count": 127,
+  "generated": "2026-08-14 07:05 UTC",
+  "count": 130,
   "summary": {
-    "scanned": 127,
-    "eligible": 47,
-    "review": 69,
+    "scanned": 130,
+    "eligible": 48,
+    "review": 71,
     "blocked": 11
   },
   "jobs": [
@@ -434,6 +434,40 @@
       ]
     },
     {
+      "title": "Remote Office Assistant",
+      "company": "Coalition Technologies",
+      "location": "Worldwide",
+      "url": "https://remotive.com/remote-jobs/marketing/remote-office-assistant-1680495",
+      "source": "Remotive",
+      "description": "Coalition Technologies is seeking a reliable, detail-oriented, and highly organized Remote Office Assistant to support administrative, bookkeeping, billing, reporting, data entry, and internal operations tasks. This role is ideal for someone with strong communication skills, discretion, attention to detail, and a willingness to learn and grow within a fast-paced remote work environment. As an Office Assistant, you will help support daily administrative operations, assist with entry-level bookkeeping, organize client documents, support internal reporting, and help maintain accurate company reco",
+      "tags": [
+        "css",
+        "excel",
+        "frontend",
+        "git",
+        "html",
+        "illustrator",
+        "magento",
+        "photoshop",
+        "php",
+        "shopify",
+        "wordpress",
+        "mysql",
+        "startup",
+        "responsive",
+        "themes",
+        "bootstrap",
+        "insurance",
+        "jquery",
+        "ajax"
+      ],
+      "verdict": "eligible",
+      "fit": 50,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
+    {
       "title": "Inside Sales Contractor",
       "company": "Credit Wellness, LLC",
       "location": "Worldwide",
@@ -584,20 +618,6 @@
       ]
     },
     {
-      "title": "Security Compliance & Regulatory Affairs Analyst",
-      "company": "Twilio",
-      "location": "Anywhere in the World",
-      "url": "https://weworkremotely.com/remote-jobs/twilio-security-compliance-regulatory-affairs-analyst",
-      "source": "WeWorkRemotely",
-      "description": "Headquarters: Remote - US Who we are&nbsp; At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to &nbsp;hundreds of thousands of businesses&nbsp; and empower millions of developers worldwide to craft personalized customer experiences. Our dedication to remote-first work , and strong culture of connection and global inclusion means that no matter your location, you’re part of a vibrant team with diverse experiences making a global impact each day. As we continue to revolutionize how the world interacts, we’re acquiring new sk",
-      "tags": [],
-      "verdict": "eligible",
-      "fit": 50,
-      "reasons": [
-        "remote — anywhere / global"
-      ]
-    },
-    {
       "title": "Internal Audit IT Manager",
       "company": "Coinbase",
       "location": "Anywhere in the World",
@@ -633,6 +653,22 @@
       "source": "WeWorkRemotely",
       "description": "Headquarters: ignitionit.com URL: https://ignitionit.com APPLY HERE: https://go.cultureindex.com/p/bLvP56CvGHU Fully Remote · Work from home · Full-time (Eastern or Pacific time zones) · Apple-first&nbsp; TL;DR ignitionit.com is a seasoned, Apple-first MSP — in business for almost 30 years — and we're hiring a Help Desk Technician to be the friendly, capable first voice our clients reach when something isn't working. This position is a remote, work-from-home, full-time role. We've written this as a junior-to-mid-level job description because that's where most great people start on our team. Bu",
       "tags": [],
+      "verdict": "eligible",
+      "fit": 50,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
+    {
+      "title": "GenAI Engineer",
+      "company": "NTT DATA",
+      "location": "LATAM",
+      "url": "https://jobicy.com/jobs/145940-genai-engineer",
+      "source": "Jobicy",
+      "description": "Job Title: GenAI EngineerLocation Preference: 100% remote in Mexico, Brasil, Peru, Chile working EST Time Zone OR onsite in Washington, D.C.Duration: 1-Year Assignment with possibility of extensionNTT DATA is a team of more than 139,000 diverse professionals operating in more than 50 countries worldwide. Our sectors of activity include telecommunications, finance, industry, utilities, energy, public&hellip;",
+      "tags": [
+        "software engineering"
+      ],
       "verdict": "eligible",
       "fit": 50,
       "reasons": [
@@ -930,6 +966,33 @@
       ]
     },
     {
+      "title": "Senior Platform Engineer (Remote US)",
+      "company": "name",
+      "location": "United States",
+      "url": "https://himalayas.app/companies/rew-technology/jobs/senior-platform-engineer-remote-us",
+      "source": "Himalayas",
+      "description": "We are seeking a Senior Platform Engineer to provide US-hours production support and platform engineering for the Product Catalog application. This role focuses on diagnosing and resolving connection, latency, and stability issues across the AWS-based Product Catalog stack, including Apigee, Rancher/Kubernetes, and the C# services. The engineer will work closely with existing offshore resources and key stakeholders to ensure application reliability and performance during US business hours. Requirements AWS Cloud Hands-on experience troubleshooting production workloads in AWS Familiarity with c",
+      "tags": [
+        "platform-engineering",
+        "site-reliability-engineering",
+        "production-support",
+        "cloud-engineer",
+        "devops",
+        "senior-platform-engineer",
+        "senior-platform-engineering",
+        "senior-devops-platform-engineer",
+        "senior-developer-platform-engineer",
+        "senior-cloud-platform-engineer",
+        "platform-engineer"
+      ],
+      "verdict": "review",
+      "fit": 54,
+      "reasons": [
+        "United states-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
       "title": "Site Reliability Engineer (SRE)",
       "company": "Bright Vision Technologies",
       "location": "New Jersey",
@@ -1169,37 +1232,6 @@
       ]
     },
     {
-      "title": "Senior Product Engineer (Fullstack)",
-      "company": "Clipster",
-      "location": "Europe, UK, Germany, France, European timezones",
-      "url": "https://remotive.com/remote-jobs/software-development/senior-product-engineer-fullstack-2091062",
-      "source": "Remotive",
-      "description": "About Clipster Clipster is where brands and creators connect to turn views into profits. Clippers (Creators) clip, remix, and post branded content on TikTok, YouTube, Instagram, X, and beyond — earning money for every view they deliver. Brands get a significantly better influencer marketing experience thanks to scale, simplicity, and reliable performance tracking. We started as an influencer marketing agency. While clients loved our results, delivering them was a pain. So we started automating everything we did — and it paid off. 2025 was a great year for us: We launched our platform in early ",
-      "tags": [
-        "backend",
-        "frontend",
-        "fullstack",
-        "golang",
-        "postgresql",
-        "react",
-        "ai/ml",
-        "documentation",
-        "youtube",
-        "redis",
-        "distributed systems",
-        "gcp",
-        "chat",
-        "next.js",
-        "infrastructure"
-      ],
-      "verdict": "review",
-      "fit": 46,
-      "reasons": [
-        "Uk-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
       "title": "Senior DevOps Engineer",
       "company": "ICF",
       "location": "Virginia",
@@ -1241,23 +1273,6 @@
       "fit": 46,
       "reasons": [
         "location unconfirmed — verify it's open to Africa",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Senior DevOps Engineer",
-      "company": "Zartis",
-      "location": "Europe",
-      "url": "https://jobicy.com/jobs/150572-senior-devops-engineer-3",
-      "source": "Jobicy",
-      "description": "The company and our mission: Zartis is a global AI transformation and technology consulting partner where talented engineers and technologists work on cutting edge innovation. We partner with ambitious organizations to design, build, and scale technology solutions that deliver real impact. Our teams bring deep expertise in AI driven platforms, secure API architectures, and cloud&hellip;",
-      "tags": [
-        "devops &amp; infrastructure"
-      ],
-      "verdict": "review",
-      "fit": 46,
-      "reasons": [
-        "Europe-tagged — verify it's open to Africa first",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -1313,6 +1328,23 @@
       ]
     },
     {
+      "title": "Senior Full Stack Engineer",
+      "company": "infisical",
+      "location": "Brazil, Canada, France, UK, USA",
+      "url": "https://jobicy.com/jobs/145861-senior-full-stack-engineer-5",
+      "source": "Jobicy",
+      "description": "Infisical is looking to hire exceptional talent to join our teams in building the open source security infrastructure stack for the AI era.We're building a generational company with a world-class team. This isn’t a place to coast — but if you want to grow fast, take ownership, and solve tough problems, you’ll be challenged like&hellip;",
+      "tags": [
+        "software engineering"
+      ],
+      "verdict": "review",
+      "fit": 46,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
       "title": "Senior Platform Engineer",
       "company": "saas.group",
       "location": "Europe",
@@ -1343,23 +1375,6 @@
       "fit": 46,
       "reasons": [
         "Poland-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Senior Software Engineer - (Connect Platform)",
-      "company": "Enode",
-      "location": "Europe, Norway",
-      "url": "https://jobicy.com/jobs/149498-senior-software-engineer-connect-platform",
-      "source": "Jobicy",
-      "description": "About EnodeThe grid was built for predictable, centralised power. Today it's absorbing intermittent supply from grid scale solar and wind, alongside dynamic demand from EVs, heat pumps, and home batteries. The missing piece is software that can connect and orchestrate these devices at scale.Enode provides the infrastructure layer that makes this possible. Our Connect API&hellip;",
-      "tags": [
-        "software engineering"
-      ],
-      "verdict": "review",
-      "fit": 46,
-      "reasons": [
-        "Europe-tagged — verify it's open to Africa first",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -1451,6 +1466,25 @@
       "reasons": [
         "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
         "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Assistant Account Payable",
+      "company": "The Obesity Society",
+      "location": "USA",
+      "url": "https://remotive.com/remote-jobs/medical/assistant-account-payable-2090989",
+      "source": "Remotive",
+      "description": "This role may require you to be on site at times - please check with the employer first. The Accounts Payable Assistant performs accounting and c lerical tasks that are related to accounts payable transactions including receiving and logging invoices, maintaining and updating an accounts payable ledger, generating financial statements and reports, and other financial matters as assigned by the Director of Finance &amp; Operations. The ideal candidate will possess a basic understanding of accounting fundamentals as well as excellent office support skills. Key Responsibilities of the Accounts Pa",
+      "tags": [
+        "accounting",
+        "excel",
+        "data entry",
+        "outlook"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -1566,7 +1600,7 @@
       "location": "Ranchi,",
       "url": "https://remoteOK.com/remote-jobs/remote-artificial-intelligence-specialist-modis-boutique-1136555",
       "source": "RemoteOK",
-      "description": "We need a Sincere, Dedicated &amp; Hardworking &nbsp;Employee Who can handle Back End Desk Job and is well versed with Artificial intelligence Kindly W hatsapp or Call on 88769-5073 for further details. Only serious candidates Looking for long time Job For a minimum 2 to 5 years apply, who are Sincere, Dedicated and Willing To work hard. Happy working. Please mention the word **BULLISH** and tag RMjAuNDAuMjE0LjI0NQ== when applying to show you read the job post completely (#RMjAuNDAuMjE0LjI0NQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applican",
+      "description": "We need a Sincere, Dedicated &amp; Hardworking &nbsp;Employee Who can handle Back End Desk Job and is well versed with Artificial intelligence Kindly W hatsapp or Call on 88769-5073 for further details. Only serious candidates Looking for long time Job For a minimum 2 to 5 years apply, who are Sincere, Dedicated and Willing To work hard. Happy working. Please mention the word **BULLISH** and tag RMjAuMy4yMTUuNDA= when applying to show you read the job post completely (#RMjAuMy4yMTUuNDA=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that ",
       "tags": [
         "wordpress",
         "vfx",
@@ -1634,6 +1668,47 @@
         "golang",
         "non tech",
         "digital nomad"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
+      "title": "Jenni AI",
+      "company": "AI Supermarket",
+      "location": "Research,",
+      "url": "https://remoteOK.com/remote-jobs/remote-jenni-ai-ai-supermarket-1136602",
+      "source": "RemoteOK",
+      "description": "Professional forex trading simulator that replays historical market data so traders can practise strategies risk-free. Test and backtest trading systems across years of tick-level data at any speed, then review statistics on win rate, drawdown and risk-reward. Used by aspiring and experienced traders to build discipline and refine their edge.Text-to-3D and image-to-3D AI platform that generates game-ready 3D models and textures in minutes. Simply describe what you want or upload a reference image and Meshy produces a fully textured, exportable 3D asset. Used by game developers, product designe",
+      "tags": [
+        "dev",
+        "digital nomad",
+        "medical",
+        "wordpress",
+        "vfx",
+        "teaching",
+        "education",
+        "game dev",
+        "full stack",
+        "writer",
+        "transcribing",
+        "testing",
+        "marketing",
+        "web dev",
+        "speech",
+        "virtual assistant",
+        "video",
+        "serverless",
+        "cloud",
+        "git",
+        "seo",
+        "content writing",
+        "stats",
+        "sales",
+        "golang",
+        "non tech"
       ],
       "verdict": "review",
       "fit": 36,
@@ -1958,6 +2033,48 @@
       ]
     },
     {
+      "title": "tan tan tan",
+      "company": "liftek Iraq Basra (Ø´Ø±ÙØ© ØªÙÙÙØ§Øª Ø§ÙØ±ÙØ¹)",
+      "location": "Holder Siding,",
+      "url": "https://remoteOK.com/remote-jobs/remote-tan-tan-tan-liftek-iraq-basra-1136603",
+      "source": "RemoteOK",
+      "description": "Business Development of Inspection, load testing and certification Services of lifting equipment in the Construction, Marine, Oil &amp; Gas and Industrial Sectors. Items that are inspected include (not limited to) mobile cranes, tower cranes, loose lifting gears, overhead cranes, gantry cranes, gangways, hoists, trolleys, winches,cradles, hoists, containers, skips, baskets and forklift etc. Please mention the word **PAMPERED** and tag RMjAuMy4yMTUuNDA= when applying to show you read the job post completely (#RMjAuMy4yMTUuNDA=). This is a beta feature to avoid spam applicants. Companies can sea",
+      "tags": [
+        "dev",
+        "digital nomad",
+        "medical",
+        "wordpress",
+        "vfx",
+        "teaching",
+        "education",
+        "game dev",
+        "full stack",
+        "writer",
+        "transcribing",
+        "testing",
+        "marketing",
+        "web dev",
+        "speech",
+        "virtual assistant",
+        "video",
+        "serverless",
+        "cloud",
+        "git",
+        "seo",
+        "content writing",
+        "stats",
+        "sales",
+        "golang",
+        "non tech",
+        "mobile"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
       "title": "AI Solutions Builder",
       "company": "Smartcat",
       "location": "Europe",
@@ -2038,22 +2155,6 @@
       ]
     },
     {
-      "title": "Golang Engineer",
-      "company": "Plain Concepts",
-      "location": "Brazil",
-      "url": "https://jobicy.com/jobs/144179-golang-engineer",
-      "source": "Jobicy",
-      "description": "We are seeking a Senior Golang Engineer with strong expertise in event-driven architectures, distributed systems, and modern AI-assisted software engineering practices. The ideal candidate has deep hands-on experience with Apache Kafka, high-performance backend engineering, and the ability to design resilient microservices at scale, while leveraging modern AI-powered development tools to improve productivity, code quality, and&hellip;",
-      "tags": [
-        "software engineering"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Brazil-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
       "title": "Senior Business Analyst, AI & Data",
       "company": "phData",
       "location": "LATAM",
@@ -2090,6 +2191,23 @@
       "fit": 30,
       "reasons": [
         "Europe-tagged — verify it's open to Africa first",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Senior Software Architect (C# / AI First) - GovTech SaaS company",
+      "company": "Truelogic",
+      "location": "LATAM",
+      "url": "https://jobicy.com/jobs/149164-senior-software-architect-c-ai-first-govtech-saas-company",
+      "source": "Jobicy",
+      "description": "About TruelogicAt Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of all sizes, from innovative startups to industry leaders, helping them achieve their digital transformation goals.Our team of 600+ highly skilled tech professionals, based in Latin&hellip;",
+      "tags": [
+        "software engineering"
+      ],
+      "verdict": "review",
+      "fit": 30,
+      "reasons": [
+        "Latam-tagged — verify it's open to Africa first",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -2353,6 +2471,22 @@
       ]
     },
     {
+      "title": "Principal Full-Stack Engineer (.NET/Angular) (AI-First Development) - Software",
+      "company": "Truelogic",
+      "location": "LATAM",
+      "url": "https://jobicy.com/jobs/149155-principal-full-stack-engineer-net-angular-ai-first-development-software",
+      "source": "Jobicy",
+      "description": "About TruelogicAt Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of all sizes, from innovative startups to industry leaders, helping them achieve their digital transformation goals.Our team of 600+ highly skilled tech professionals, based in Latin&hellip;",
+      "tags": [
+        "software engineering"
+      ],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Principal-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
       "title": "Head of Engineering",
       "company": "saas.group",
       "location": "Europe",
@@ -2414,22 +2548,6 @@
       "fit": 0,
       "reasons": [
         "Director-level — usually 5–10+ yrs, you have ~4"
-      ]
-    },
-    {
-      "title": "Head of Customer Marketing",
-      "company": "LaunchDarkly",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/149443-head-of-customer-marketing",
-      "source": "Jobicy",
-      "description": "About the Job:We are seeking a strategic, results-driven Head of Customer Marketing to lead our global customer marketing function. This role has significant influence on shaping brand messaging and positioning for LaunchDarkly as well as influencing customer health and retention. This individual will manage our customer advocacy and adoption programs. The ideal candidate will bring a&hellip;",
-      "tags": [
-        "marketing &amp; sales"
-      ],
-      "verdict": "blocked",
-      "fit": 0,
-      "reasons": [
-        "Head of-level — usually 5–10+ yrs, you have ~4"
       ]
     }
   ]
