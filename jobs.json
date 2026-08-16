@@ -1,10 +1,10 @@
 {
-  "generated": "2026-08-15 06:17 UTC",
-  "count": 129,
+  "generated": "2026-08-16 06:20 UTC",
+  "count": 122,
   "summary": {
-    "scanned": 129,
-    "eligible": 46,
-    "review": 69,
+    "scanned": 122,
+    "eligible": 43,
+    "review": 65,
     "blocked": 14
   },
   "jobs": [
@@ -20,72 +20,6 @@
       "fit": 82,
       "reasons": [
         "remote — anywhere / global"
-      ]
-    },
-    {
-      "title": "Senior DevOps Engineer",
-      "company": "Lemon.io",
-      "location": "Americas, Europe, Asia, Africa, Oceania",
-      "url": "https://remotive.com/remote-jobs/devops/senior-devops-engineer-2091067",
-      "source": "Remotive",
-      "description": "Are you a talented Senior DevOps looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The rate depends on your skills and experience. We've already paid out over $11M to our engineers. No more hunting for clients or negotiating rates — let us handle the business side of things so you can focus on what you do best. Choose a schedule that works best for you. It’s possible to communicate async or minimally overlap within team working hour",
-      "tags": [
-        ".net",
-        "android",
-        "aws",
-        "azure",
-        "c",
-        "c#",
-        "c++",
-        "data science",
-        "golang",
-        "ios",
-        "java",
-        "javascript",
-        "kubernetes",
-        "node.js",
-        "php",
-        "python",
-        "react",
-        "ruby/rails",
-        "scala",
-        "shopify",
-        "sql",
-        "swift",
-        "ui/ux",
-        "wordpress",
-        "blockchain",
-        "ai/ml",
-        "automation",
-        "project management",
-        "react native",
-        "rust",
-        "product management",
-        "unity",
-        "electron",
-        "spring",
-        "data analysis",
-        "bash",
-        "laravel",
-        "ethereum",
-        "graphic design",
-        "typescript",
-        "terraform",
-        "angular",
-        "gcp",
-        "data engineering",
-        "site reliability",
-        "symfony",
-        "startup",
-        "marketplace",
-        "next.js",
-        "flutter"
-      ],
-      "verdict": "eligible",
-      "fit": 74,
-      "reasons": [
-        "explicitly open to Africa/Nigeria",
-        "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
     {
@@ -193,20 +127,6 @@
       "url": "https://weworkremotely.com/remote-jobs/leidos-oci-devops-engineer",
       "source": "WeWorkRemotely",
       "description": "Headquarters: 6314 Remote/Teleworker US URL: http://leidos.com The Leidos Partnership for Defense Health is seeking an OCI DevOps Engineer to work remotely in support of its single-award DHMSM IDIQ contract, for the system known as MHS GENESIS.&nbsp; This highly visible program modernized Electronic Health Record (EHR) capabilities for the Department of War (DoW), supporting nearly 10 million service members and their families worldwide. While healthcare systems everywhere are challenged to improve quality, user experience, and cost, MHS GENESIS operates at DoW global scale and within a highly",
-      "tags": [],
-      "verdict": "eligible",
-      "fit": 66,
-      "reasons": [
-        "remote — anywhere / global"
-      ]
-    },
-    {
-      "title": "DevOps Engineer III",
-      "company": "Avalon Administrative Services",
-      "location": "Anywhere in the World",
-      "url": "https://weworkremotely.com/remote-jobs/avalon-administrative-services-devops-engineer-iii",
-      "source": "WeWorkRemotely",
-      "description": "Headquarters: Remote Employee, US URL: http://avalonhcs.com About Avalon Healthcare Solutions: Avalon Healthcare Solutions is the nation’s leader in diagnostic intelligence, uniquely focused on transforming the role of diagnostic testing across the healthcare ecosystem. Our proprietary Diagnostic Insights Platform delivers evidence-based policies, curated lab networks, and real-time analytics that simplify complex diagnostics, accelerate innovation adoption, and optimize diagnostic investments. Supporting over 30 health plans and 100 million members nationwide, Avalon partners with payers and ",
       "tags": [],
       "verdict": "eligible",
       "fit": 66,
@@ -325,21 +245,6 @@
       "url": "https://weworkremotely.com/remote-jobs/modivcare-senior-manager-devops",
       "source": "WeWorkRemotely",
       "description": "Headquarters: Remote URL: http://modivcare.com Are you passionate about making a difference in people's lives? Do you enjoy working in a service-oriented industry? If so, this opportunity may be the right fit for you! Modivcare is looking for an experienced Senior Manager, DevOps &amp; Reliability to join our team. In this role, you will lead the Infrastructure team responsible for supporting cloud-based and on-premises infrastructure environments. You will oversee DevOps engineers, Site Reliability Engineers (SREs), and infrastructure engineers supporting Microsoft Azure platforms while guidi",
-      "tags": [],
-      "verdict": "eligible",
-      "fit": 60,
-      "reasons": [
-        "remote — anywhere / global",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Senior DevOps Engineer, Applications",
-      "company": "WME",
-      "location": "Anywhere in the World",
-      "url": "https://weworkremotely.com/remote-jobs/wme-senior-devops-engineer-applications",
-      "source": "WeWorkRemotely",
-      "description": "Headquarters: Remote-CA URL: http://wmeagency.com WME is building the next generation of internal platforms that power one of the world's leading entertainment companies. We're looking for a Senior Dev Ops Engineer who is equally comfortable designing cloud infrastructure and improving system reliability. The software we build helps agents and teams manage relationships, deals, and opportunities across the global entertainment industry — and keeping it fast, available, and observable is critical work. You'll own the infrastructure and reliability story end-to-end: provisioning cloud resources,",
       "tags": [],
       "verdict": "eligible",
       "fit": 60,
@@ -890,17 +795,35 @@
       ]
     },
     {
-      "title": "Engineer Sr, DevOps",
-      "company": "Carnival Corporation",
-      "location": "Florida",
-      "url": "https://weworkremotely.com/remote-jobs/carnival-corporation-engineer-sr-devops",
-      "source": "WeWorkRemotely",
-      "description": "Headquarters: Miami, FL, United States URL: http://carnivalcorp.com Description The Senior Engineer, DevOps is responsible for designing, implementing, automating, and supporting the organization's cloud and on-premises infrastructure, CI/CD pipelines, deployment frameworks, and operational tooling. This role serves as a technical leader within the engineering organization, driving automation, reliability, scalability, and operational excellence across enterprise applications and platforms. &nbsp; Essential Functions: DevOps Engineering &amp; Automation:&nbsp; Design, implement, and maintain C",
-      "tags": [],
+      "title": "Solutions Engineer",
+      "company": "infisical",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/150761-solutions-engineer",
+      "source": "Jobicy",
+      "description": "Infisical is the open source security infrastructure platform that engineers use for secrets management, certificates, and privileged access management. We help developers and organizations securely manage billions of secrets every month including application configuration, database credentials, certificates, and more. We’ve raised $19M from Y Combinator, Google, and Elad Gil, and our customers include Hugging Face,&hellip;",
+      "tags": [
+        "technical support"
+      ],
       "verdict": "review",
-      "fit": 56,
+      "fit": 52,
       "reasons": [
-        "location unconfirmed — verify it's open to Africa"
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "Growth Marketing Manager",
+      "company": "infisical",
+      "location": "Canada, USA",
+      "url": "https://jobicy.com/jobs/150760-growth-marketing-manager",
+      "source": "Jobicy",
+      "description": "Infisical is the open source security infrastructure platform that engineers use for secrets management, certificates, and privileged access management. We help developers and organizations securely manage billions of secrets every month including application configuration, database credentials, certificates, and more. We’ve raised $19M from Y Combinator, Google, and Elad Gil, and our customers include Hugging Face,&hellip;",
+      "tags": [
+        "marketing &amp; sales"
+      ],
+      "verdict": "review",
+      "fit": 52,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -952,22 +875,6 @@
       ]
     },
     {
-      "title": "Customer Reliability Engineer - Infrastructure",
-      "company": "Astronomer",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/147812-customer-reliability-engineer-infrastructure",
-      "source": "Jobicy",
-      "description": "Astronomer empowers data teams to bring mission-critical software, analytics, and AI to life and is the company behind Astro, the industry-leading unified DataOps platform powered by Apache Airflow®. Astro accelerates building reliable data products that unlock insights, unleash AI value, and powers data-driven applications. Trusted by more than 800 of the world's leading enterprises, Astronomer&hellip;",
-      "tags": [
-        "technical support"
-      ],
-      "verdict": "review",
-      "fit": 52,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
       "title": "Customer Solutions Architect, Amazon Connect",
       "company": "Caylent",
       "location": "Canada",
@@ -998,23 +905,6 @@
       "fit": 50,
       "reasons": [
         "Europe-tagged — verify it's open to Africa first",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Senior Full-Stack Developer",
-      "company": "Automat-it",
-      "location": "Ukraine",
-      "url": "https://jobicy.com/jobs/143143-senior-full-stack-developer",
-      "source": "Jobicy",
-      "description": "DescriptionAutomat-it is an all-in AWS Premier Partner and Managed Services Provider specializing in the startup ecosystem. With over 800 customers and 500+ AWS certifications, Automat-it brings hands-on expertise in AI, DevOps, and FinOps to empower fast-paced startups to grow, deliver &amp; win. Our customers save significant time-to-market and optimize their cloud performance and costs.We work&hellip;",
-      "tags": [
-        "software engineering"
-      ],
-      "verdict": "review",
-      "fit": 50,
-      "reasons": [
-        "Uk-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -1067,32 +957,19 @@
       ]
     },
     {
-      "title": "Senior DevOps Engineer",
-      "company": "ICF",
-      "location": "Virginia",
-      "url": "https://weworkremotely.com/remote-jobs/icf-senior-devops-engineer",
-      "source": "WeWorkRemotely",
-      "description": "Headquarters: Nationwide Remote Office (US99) URL: http://icf.com The Company ICF is a mission-driven company filled with people who care deeply about improving the lives of others and making the world a better place. Our core values include Embracing Difference; we seek candidates who are passionate about building a culture that encourages, embraces, and hires dimensions of difference.&nbsp; &nbsp; Our Health Engineering Solutions team works side by side with customers to articulate a vision for success, and then make it happen. We know success doesn't happen by accident. It takes the right t",
-      "tags": [],
+      "title": "Senior DevOps Engineer - LATAM",
+      "company": "Luxury Presence",
+      "location": "LATAM, Brazil",
+      "url": "https://jobicy.com/jobs/150796-senior-devops-engineer-latam",
+      "source": "Jobicy",
+      "description": "Luxury Presence is building the AI growth platform for real estate. Backed by Bessemer Venture Partners and other top investors, we're a Series C company that has hit $100M in annual recurring revenue. More than 90,000 real estate professionals, including over 30% of the WSJ Real Trends top 100 agents in the United States, use&hellip;",
+      "tags": [
+        "devops &amp; infrastructure"
+      ],
       "verdict": "review",
       "fit": 46,
       "reasons": [
-        "location unconfirmed — verify it's open to Africa",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Senior DevOps Engineer (Web3)",
-      "company": "Launch Legends",
-      "location": "Texas",
-      "url": "https://weworkremotely.com/remote-jobs/launch-legends-senior-devops-engineer-web3",
-      "source": "WeWorkRemotely",
-      "description": "Headquarters: [REMOTE] URL: http://launchlegends.io Shape the Future of Blockchain—Bringing Business On-Chain We’re offering a unique opportunity to join Launch Legends (and Autheo) as a part-time Equity Cofounder . Founded nearly four years ago, Launch Legends is at the forefront of bridging Web3 blockchain technology with the next evolution of Web2 integration—bringing businesses on-chain through enterprise-grade solutions, DePIN innovations, and decentralized financial infrastructure. Our flagship project, Autheo , is an AI enabled Layer-Zero OS with an integrated Layer-1&nbsp;blockchain&nb",
-      "tags": [],
-      "verdict": "review",
-      "fit": 46,
-      "reasons": [
-        "location unconfirmed — verify it's open to Africa",
+        "Brazil-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -1250,23 +1127,6 @@
       ]
     },
     {
-      "title": "Community Engineer (multiple roles and seniority levels)",
-      "company": "Canonical Ltd.",
-      "location": "Anywhere",
-      "url": "https://jobicy.com/jobs/149577-community-engineer-multiple-roles-and-seniority-levels",
-      "source": "Jobicy",
-      "description": "Our ambition is to set a standard of excellence when it comes to serving the open source ecosystem. This is your chance to be a part of that as a Community Engineer at Canonical.We are building community management at scale. We have multiple positions available, at different seniority levels.All applications and candidates are handled through&hellip;",
-      "tags": [
-        "customer support &amp; success"
-      ],
-      "verdict": "review",
-      "fit": 42,
-      "reasons": [
-        "Africa-friendly employer (Canonical) — role location unconfirmed",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
       "title": "Customer Support Driver",
       "company": "Vp Rail",
       "location": "Exeter,",
@@ -1329,46 +1189,6 @@
       "fit": 40,
       "reasons": [
         "location unconfirmed — verify it's open to Africa"
-      ]
-    },
-    {
-      "title": "Tech Lead Full-Stack Rails Engineer",
-      "company": "Mitre Media",
-      "location": "USA, Canada, USA timezones",
-      "url": "https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746",
-      "source": "Remotive",
-      "description": "About Mitre Media Mitre Media is redefining FinTech with AI-driven tools that empower millions of investors. Our portfolio, including Dividend.com and MutualFunds.com, leverages LLMs to deliver novel data insights and visually rich user experiences. For over a decade, we’ve served individual investors, financial advisors, and top asset managers like BlackRock and Vanguard through our premium data, tools, and advertising solutions. Join our lean, entrepreneurial team to shape the future of AI-powered investing from your location ±3 hours from Eastern Time. Our users are deeply engaged, spending",
-      "tags": [
-        "api",
-        "css",
-        "docker",
-        "elasticsearch",
-        "fullstack",
-        "html",
-        "javascript",
-        "kubernetes",
-        "postgresql",
-        "react",
-        "ror",
-        "ruby/rails",
-        "ai/ml",
-        "cad",
-        "advertising",
-        "redis",
-        "es6",
-        "web applications",
-        "mysql",
-        "nlp",
-        "fintech",
-        "micro services",
-        "github",
-        "system architecture"
-      ],
-      "verdict": "review",
-      "fit": 38,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
     {
@@ -1495,12 +1315,41 @@
       ]
     },
     {
+      "title": "Engineering Manager Thailand",
+      "company": "Bjak",
+      "location": "Bangkok",
+      "url": "https://remoteOK.com/remote-jobs/remote-engineering-manager-thailand-bjak-1136670",
+      "source": "RemoteOK",
+      "description": "About KIRA Our mission is to make money smart, reliable and within reach for everyone. In 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible online by millions in the region. Today, it's the leading insurance platform in Southeast Asia. Today, we are expanding ways to help people in Asia and it includes spending, saving, investing, exchanging, travelling, and more. Our objective is to build tools that will help people get more from their money and at ease and self reliance, become an expert. We believe AI will help us achieve this in our generation. ",
+      "tags": [
+        "exec",
+        "design",
+        "sys admin",
+        "front end",
+        "infosec",
+        "technical",
+        "dev",
+        "testing",
+        "finance",
+        "cloud",
+        "mobile",
+        "engineer",
+        "backend",
+        "digital nomad"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
       "title": "Artificial Intelligence Specialist",
       "company": "Modi's Boutique",
       "location": "Ranchi,",
       "url": "https://remoteOK.com/remote-jobs/remote-artificial-intelligence-specialist-modis-boutique-1136555",
       "source": "RemoteOK",
-      "description": "We need a Sincere, Dedicated &amp; Hardworking &nbsp;Employee Who can handle Back End Desk Job and is well versed with Artificial intelligence Kindly W hatsapp or Call on 88769-5073 for further details. Only serious candidates Looking for long time Job For a minimum 2 to 5 years apply, who are Sincere, Dedicated and Willing To work hard. Happy working. Please mention the word **BULLISH** and tag RMjAuMTcxLjIyLjM0 when applying to show you read the job post completely (#RMjAuMTcxLjIyLjM0). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that ",
+      "description": "We need a Sincere, Dedicated &amp; Hardworking &nbsp;Employee Who can handle Back End Desk Job and is well versed with Artificial intelligence Kindly W hatsapp or Call on 88769-5073 for further details. Only serious candidates Looking for long time Job For a minimum 2 to 5 years apply, who are Sincere, Dedicated and Willing To work hard. Happy working. Please mention the word **BULLISH** and tag RMTcyLjIxNC40NS4xOTY= when applying to show you read the job post completely (#RMTcyLjIxNC40NS4xOTY=). This is a beta feature to avoid spam applicants. Companies can search these words to find applican",
       "tags": [
         "wordpress",
         "vfx",
@@ -2067,45 +1916,67 @@
       ]
     },
     {
-      "title": "tan tan tan",
-      "company": "liftek Iraq Basra (Ø´Ø±ÙØ© ØªÙÙÙØ§Øª Ø§ÙØ±ÙØ¹)",
-      "location": "Holder Siding,",
-      "url": "https://remoteOK.com/remote-jobs/remote-tan-tan-tan-liftek-iraq-basra-1136603",
-      "source": "RemoteOK",
-      "description": "Business Development of Inspection, load testing and certification Services of lifting equipment in the Construction, Marine, Oil &amp; Gas and Industrial Sectors. Items that are inspected include (not limited to) mobile cranes, tower cranes, loose lifting gears, overhead cranes, gantry cranes, gangways, hoists, trolleys, winches,cradles, hoists, containers, skips, baskets and forklift etc. Please mention the word **PAMPERED** and tag RMjAuMTcxLjIyLjM0 when applying to show you read the job post completely (#RMjAuMTcxLjIyLjM0). This is a beta feature to avoid spam applicants. Companies can sea",
+      "title": "AI Specialist - Enterprise & Strategic Accounts, AgentControl",
+      "company": "LaunchDarkly",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/150738-ai-specialist-enterprise-strategic-accounts-agentcontrol",
+      "source": "Jobicy",
+      "description": "About the Job: LaunchDarkly just launched AgentControl — the operational layer that lets teams configure, evaluate, and control AI agents at runtime, no redeploy required. We're looking for an AI Specialist to join our Enterprise &amp; Strategic sales team as a quota-carrying overlay seller, driving AgentControl revenue across our largest accounts. This is a sales-led&hellip;",
       "tags": [
-        "dev",
-        "digital nomad",
-        "medical",
-        "wordpress",
-        "vfx",
-        "teaching",
-        "education",
-        "game dev",
-        "full stack",
-        "writer",
-        "transcribing",
-        "testing",
-        "marketing",
-        "web dev",
-        "speech",
-        "virtual assistant",
-        "video",
-        "serverless",
-        "cloud",
-        "git",
-        "seo",
-        "content writing",
-        "stats",
-        "sales",
-        "golang",
-        "non tech",
-        "mobile"
+        "sales"
       ],
       "verdict": "review",
       "fit": 36,
       "reasons": [
-        "location unconfirmed — verify it's open to Africa"
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "Support Engineering Manager (APAC)",
+      "company": "Supabase",
+      "location": "APAC",
+      "url": "https://jobicy.com/jobs/146230-support-engineering-manager-apac",
+      "source": "Jobicy",
+      "description": "About SupabaseSupabase is the Postgres development platform: Database, Auth, Storage, Edge Functions, Realtime, and Vector, deeply integrated and built for teams that need their backend to grow with them. We're open source, we move fast, and our users are developers who notice when things are off.About this roleWe're hiring a Support Manager on our global&hellip;",
+      "tags": [
+        "technical support"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "APAC-tagged — verify it's open to Africa first"
+      ]
+    },
+    {
+      "title": "Customer Success Manager",
+      "company": "Sonatype",
+      "location": "UK",
+      "url": "https://jobicy.com/jobs/146325-customer-success-manager-35",
+      "source": "Jobicy",
+      "description": "Sonatype is the software supply chain security company. We provide the world’s best end-to-end software supply chain security solution, combining the only proactive protection against malicious open source, the only enterprise grade SBOM management and the leading open source dependency management platform. This empowers enterprises to create and maintain secure, quality, and innovative software at&hellip;",
+      "tags": [
+        "customer support &amp; success"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "Uk-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "Support Engineering Manager (APAC)",
+      "company": "Supabase",
+      "location": "APAC",
+      "url": "https://jobicy.com/jobs/149306-support-engineering-manager-apac-2",
+      "source": "Jobicy",
+      "description": "About SupabaseSupabase is the Postgres development platform: Database, Auth, Storage, Edge Functions, Realtime, and Vector, deeply integrated and built for teams that need their backend to grow with them. We're open source, we move fast, and our users are developers who notice when things are off.About this roleWe're hiring a Support Manager on our global&hellip;",
+      "tags": [
+        "technical support"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "APAC-tagged — verify it's open to Africa first"
       ]
     },
     {
@@ -2154,38 +2025,6 @@
       "fit": 36,
       "reasons": [
         "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Customer Success Manager II - West",
-      "company": "Tines",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/147811-customer-success-manager-ii-west",
-      "source": "Jobicy",
-      "description": "Founded in 2018 with co-headquarters in Dublin and Boston, Tines powers some of the world's most important workflows. Our intelligent workflow platform applies AI, automation, and integration with human ingenuity to drive real business results. Tines serves a diverse range of customers, from startups to public companies, including Canva, Databricks, Elastic, Kayak, Intercom, and McKesson.&hellip;",
-      "tags": [
-        "customer support &amp; success"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Engineering Manager I, Applications",
-      "company": "StackAdapt",
-      "location": "Canada",
-      "url": "https://jobicy.com/jobs/149602-engineering-manager-i-applications",
-      "source": "Jobicy",
-      "description": "StackAdapt is the leading technology company that empowers marketers to reach, engage, and convert audiences with precision. With 465 billion automated optimizations per second, the AI-powered StackAdapt Marketing Platform seamlessly connects brand and performance marketing to drive measurable results across the entire customer journey. The most forward-thinking marketers choose StackAdapt to orchestrate high-impact campaigns across&hellip;",
-      "tags": [
-        "software engineering"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Canada-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -2382,40 +2221,6 @@
       ]
     },
     {
-      "title": "Senior Engineering Manager, Platform Delivery",
-      "company": "Upstart",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/142530-senior-engineering-manager-platform-delivery",
-      "source": "Jobicy",
-      "description": "About UpstartAt Upstart, we’re united by a mission that matters: to radically reduce the cost and complexity of borrowing for all Americans. Every day, we bring creativity, experimentation, and advanced AI to reshape access to credit, helping millions move forward financially with clarity and confidence.As the leading AI lending marketplace, we partner with banks and&hellip;",
-      "tags": [
-        "product &amp; operations"
-      ],
-      "verdict": "review",
-      "fit": 30,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Senior Software Engineer",
-      "company": "Defense Unicorns",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/143685-senior-software-engineer-12",
-      "source": "Jobicy",
-      "description": "Role Description: Defense Unicorns is seeking a Senior Full-Stack Engineer to join our Fleet team, focused on building and evolving Fleet Management and Edge Management capabilities within the UDS platform.This role is centered on developing complex, data-driven interfaces that allow users to understand, manage, and operate distributed systems across edge and remote environments. These are not&hellip;",
-      "tags": [
-        "software engineering"
-      ],
-      "verdict": "review",
-      "fit": 30,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
       "title": "Senior Independent Software Developer",
       "company": "A.Team",
       "location": "Americas, Europe, Israel",
@@ -2475,6 +2280,20 @@
       "fit": 0,
       "reasons": [
         "Staff-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
+      "title": "Director, FinOps",
+      "company": "ZoomInfo Technologies LLC",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-director-finops",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Remote ZoomInfo is where careers accelerate. We move fast, think boldly, and empower you to do the best work of your life. You’ll be surrounded by teammates who care deeply, challenge each other, and celebrate wins. With tools that amplify your impact and a culture that backs your ambition, you won’t just contribute. You’ll make things happen–fast. What You'll do: Global Cloud Governance: Lead the centralized FinOps strategy across an international multi-cloud footprint, focusing heavily on GCP and AWS optimization. Unit Economics Modeling : Design and maintain sophisticated cost",
+      "tags": [],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Director-level — usually 5–10+ yrs, you have ~4"
       ]
     },
     {
@@ -2631,33 +2450,6 @@
       "fit": 0,
       "reasons": [
         "Director-level — usually 5–10+ yrs, you have ~4"
-      ]
-    },
-    {
-      "title": "Principal AI Infrastructure & Cloud Engineer",
-      "company": "BlueCross BlueShield of Tennessee",
-      "location": "United States",
-      "url": "https://himalayas.app/companies/bluecross-blueshield-of-tennessee/jobs/principal-ai-infrastructure-cloud-engineer-8461151377",
-      "source": "Himalayas",
-      "description": "The Cloud Enablement &amp; Engineering Team at BlueCross BlueShield of Tennessee is hiring a Principal AI Infrastructure &amp; Cloud Engineer . In this fully remote role, you will develop target-state architectures, define enterprise platform strategies, and guide product and engineering teams in delivering scalable, secure, and business-aligned cloud and AI solutions. Notes: While this is a remote role, travel to our Chattanooga, TN headquarters will be required for final interviews. We are unable to hire candidates who live in NY, NJ, NJ, CA or MA. Sponsorship is not available for this role.",
-      "tags": [
-        "ai-infrastructure-lead",
-        "ai-ml-infrastructure-engineer",
-        "ai-infrastructure-architect",
-        "ai-principal-engineer",
-        "ai-infrastructure-engineering",
-        "cloud-architecture",
-        "platform-engineering",
-        "devops-engineer",
-        "cloud-infrastructure-engineer",
-        "senior-ai-infrastructure-engineer",
-        "ai-infrastructure-engineer",
-        "principal-ai-systems-engineer"
-      ],
-      "verdict": "blocked",
-      "fit": 0,
-      "reasons": [
-        "Principal-level — usually 5–10+ yrs, you have ~4"
       ]
     }
   ]
