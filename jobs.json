@@ -1,10 +1,10 @@
 {
-  "generated": "2026-08-16 06:20 UTC",
-  "count": 122,
+  "generated": "2026-08-17 06:30 UTC",
+  "count": 120,
   "summary": {
-    "scanned": 122,
+    "scanned": 120,
     "eligible": 43,
-    "review": 65,
+    "review": 63,
     "blocked": 14
   },
   "jobs": [
@@ -795,6 +795,22 @@
       ]
     },
     {
+      "title": "Atlassian Administrator 1726",
+      "company": "Softgic",
+      "location": "Anywhere",
+      "url": "https://jobicy.com/jobs/146254-atlassian-administrator-1726",
+      "source": "Jobicy",
+      "description": "This is a remote position. We are seeking an experienced Atlassian Administrator to manage, optimize, and continuously improve our Atlassian Cloud ecosystem. This role will be responsible for the administration, configuration, customization, and support of Jira Software, Confluence, and Jira Service Management (JSM) , ensuring these platforms effectively support business processes and operational goals across&hellip;",
+      "tags": [
+        "devops &amp; infrastructure"
+      ],
+      "verdict": "review",
+      "fit": 52,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
       "title": "Solutions Engineer",
       "company": "infisical",
       "location": "USA",
@@ -1127,68 +1143,43 @@
       ]
     },
     {
-      "title": "Customer Support Driver",
-      "company": "Vp Rail",
-      "location": "Exeter,",
-      "url": "https://remoteOK.com/remote-jobs/remote-customer-support-driver-vp-rail-1136761",
-      "source": "RemoteOK",
-      "description": "Job Introduction On joining our team youâll be providing great customer service by delivering and collecting equipment from customers, suppliers, and other Vp businesses in a professional, safe, and timely manner. You will also play a crucial role in supporting the branch and building positive customer relationships through high quality technical handovers and answering basic equipment queries. Key Responsibilities Drive company vehicles safely and in compliance with UK laws, prioritising the safety of yourself and others on the road Interact with customers during equipment deliveries and co",
+      "title": "Tech Lead Full-Stack Rails Engineer",
+      "company": "Mitre Media",
+      "location": "USA, Canada, USA timezones",
+      "url": "https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746",
+      "source": "Remotive",
+      "description": "About Mitre Media Mitre Media is redefining FinTech with AI-driven tools that empower millions of investors. Our portfolio, including Dividend.com and MutualFunds.com, leverages LLMs to deliver novel data insights and visually rich user experiences. For over a decade, we’ve served individual investors, financial advisors, and top asset managers like BlackRock and Vanguard through our premium data, tools, and advertising solutions. Join our lean, entrepreneurial team to shape the future of AI-powered investing from your location ±3 hours from Eastern Time. Our users are deeply engaged, spending",
       "tags": [
-        "testing",
-        "education",
-        "customer support",
-        "finance",
-        "c",
-        "scheme",
-        "exec",
-        "medical",
-        "marketing",
-        "full time",
-        "design",
-        "infosec",
-        "music",
-        "digital nomad",
-        "technical",
-        "engineer",
-        "teaching",
-        "math",
-        "recruiter",
-        "sys admin",
-        "golang",
-        "microsoft",
-        "excel",
-        "sales",
-        "travel",
-        "ops",
-        "virtual assistant",
-        "supervisor",
-        "serverless",
-        "cloud",
-        "legal",
-        "senior",
-        "dev",
-        "mobile"
+        "api",
+        "css",
+        "docker",
+        "elasticsearch",
+        "fullstack",
+        "html",
+        "javascript",
+        "kubernetes",
+        "postgresql",
+        "react",
+        "ror",
+        "ruby/rails",
+        "ai/ml",
+        "cad",
+        "advertising",
+        "redis",
+        "es6",
+        "web applications",
+        "mysql",
+        "nlp",
+        "fintech",
+        "micro services",
+        "github",
+        "system architecture"
       ],
       "verdict": "review",
-      "fit": 40,
+      "fit": 38,
       "reasons": [
-        "location unconfirmed — verify it's open to Africa"
-      ]
-    },
-    {
-      "title": "Enterprise Customer Success Manager",
-      "company": "Datadog",
-      "location": "Thailand",
-      "url": "https://jobicy.com/jobs/148737-enterprise-customer-success-manager-2",
-      "source": "Jobicy",
-      "description": "As an Enterprise Customer Success Manager, you will proactively drive new product attachment and effective strong relationships across our largest and most strategic customers in Thailand. You’ll advocate for the customer internally and focus on a positive customer experience. Interactions are rooted in relationship-management, first and foremost, while also advocating for growth opportunities. Enterprise Customer&hellip;",
-      "tags": [
-        "customer support &amp; success"
-      ],
-      "verdict": "review",
-      "fit": 40,
-      "reasons": [
-        "location unconfirmed — verify it's open to Africa"
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
     {
@@ -1349,7 +1340,7 @@
       "location": "Ranchi,",
       "url": "https://remoteOK.com/remote-jobs/remote-artificial-intelligence-specialist-modis-boutique-1136555",
       "source": "RemoteOK",
-      "description": "We need a Sincere, Dedicated &amp; Hardworking &nbsp;Employee Who can handle Back End Desk Job and is well versed with Artificial intelligence Kindly W hatsapp or Call on 88769-5073 for further details. Only serious candidates Looking for long time Job For a minimum 2 to 5 years apply, who are Sincere, Dedicated and Willing To work hard. Happy working. Please mention the word **BULLISH** and tag RMTcyLjIxNC40NS4xOTY= when applying to show you read the job post completely (#RMTcyLjIxNC40NS4xOTY=). This is a beta feature to avoid spam applicants. Companies can search these words to find applican",
+      "description": "We need a Sincere, Dedicated &amp; Hardworking &nbsp;Employee Who can handle Back End Desk Job and is well versed with Artificial intelligence Kindly W hatsapp or Call on 88769-5073 for further details. Only serious candidates Looking for long time Job For a minimum 2 to 5 years apply, who are Sincere, Dedicated and Willing To work hard. Happy working. Please mention the word **BULLISH** and tag RNjguMjExLjE0Ni4yNw== when applying to show you read the job post completely (#RNjguMjExLjE0Ni4yNw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applican",
       "tags": [
         "wordpress",
         "vfx",
@@ -1867,52 +1858,19 @@
       ]
     },
     {
-      "title": "Kitchen Porter",
-      "company": "CÃ´te Brasserie",
-      "location": "Bishop's Stortford,",
-      "url": "https://remoteOK.com/remote-jobs/remote-kitchen-porter-cote-brasserie-1136762",
-      "source": "RemoteOK",
-      "description": "Weâre looking for a Kitchen Porter to join our team here at CÃ´te! The good stuff. We pay all our teams fortnightly because who doesnât love a payday? Every shift you work, weâve got you covered with meals from our employee menu (thanks Chef)! Treat yourself, family and friends to 50% discount off our food at any CÃ´te Weâre here for the curious, so itâs no surprise there are loads of opportunities when it comes to internal development programmes, we have some big plans coming this year! Company pension scheme &amp; life assurance scheme Employee assistance program - 24/7 support and",
+      "title": "Data Engineer",
+      "company": "Gopuff",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/150836-data-engineer",
+      "source": "Jobicy",
+      "description": "At Gopuff, data sits at the heart of our strategy. We are reimagining how people purchase everyday essentials, from snacks to household goods to alcohol, all delivered in minutes. To fuel this mission, we are seeking a Data Engineer to design, build, and scale the data systems that power insights, experimentation, and operational excellence across&hellip;",
       "tags": [
-        "testing",
-        "education",
-        "customer support",
-        "finance",
-        "c",
-        "scheme",
-        "exec",
-        "medical",
-        "marketing",
-        "full time",
-        "design",
-        "infosec",
-        "music",
-        "digital nomad",
-        "technical",
-        "engineer",
-        "teaching",
-        "math",
-        "recruiter",
-        "sys admin",
-        "golang",
-        "microsoft",
-        "excel",
-        "sales",
-        "travel",
-        "ops",
-        "virtual assistant",
-        "supervisor",
-        "serverless",
-        "cloud",
-        "legal",
-        "senior",
-        "dev",
-        "mobile"
+        "data science &amp; analytics"
       ],
       "verdict": "review",
       "fit": 36,
       "reasons": [
-        "location unconfirmed — verify it's open to Africa"
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -2041,29 +1999,6 @@
       "fit": 34,
       "reasons": [
         "Latam-tagged — verify it's open to Africa first",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Senior Independent AI Engineer / Architect",
-      "company": "A.Team",
-      "location": "Americas, Europe, Israel",
-      "url": "https://remotive.com/remote-jobs/software-development/senior-independent-ai-engineer-architect-1919266",
-      "source": "Remotive",
-      "description": "Senior Independent AI Engineer / Architect Remote | Americas, Europe, or Israel Most AI engineers can find work. Finding work worth doing is harder. A.Team is an invite-only network of senior AI engineers, ML engineers, and AI architects building production AI systems for startups, enterprises, and global companies. Since 2020, builders in the network have earned more than $200M working with companies including Lyft, Google X, HCA, Unilever, Sightful, D-ID, and others. The Work You'll join small teams solving real problems. Not demos. Not proof-of-concepts that never ship. Not another thin wra",
-      "tags": [
-        "go",
-        "ui/ux",
-        "wordpress",
-        "chat",
-        "apple",
-        "testing",
-        "catalyst"
-      ],
-      "verdict": "review",
-      "fit": 30,
-      "reasons": [
-        "Europe-tagged — verify it's open to Africa first",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -2204,55 +2139,63 @@
       ]
     },
     {
-      "title": "Power BI Architect",
-      "company": "Tiger Analytics",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/143584-power-bi-architect",
-      "source": "Jobicy",
-      "description": "Tiger Analytics is a fast-growing advanced analytics consulting firm. Our consultants bring deep expertise in Data Science, Machine Learning and AI. We are the trusted analytics partner for several Fortune 100 companies, enabling them to generate business value from data. Our business value and leadership has been recognized by various market research firms, including Forrester&hellip;",
+      "title": "Member of Technical Staff Engineering",
+      "company": "Physical Superintelligence",
+      "location": "Boston",
+      "url": "https://remoteOK.com/remote-jobs/remote-member-of-technical-staff-engineering-physical-superintelligence-1136798",
+      "source": "RemoteOK",
+      "description": "Overview Physical Superintelligence is a startup with roots at Google, NVIDIA, Harvard, Meta, MIT, Oxford, Johns Hopkins, Cambridge, and the Perimeter Institute building AI systems to discover new physics at scale. We are seeking engineers to build platform infrastructure at the intersection of computational science, AI systems, and software engineering. Our mission is to discover and commercialize transformative physics breakthroughs at scale with artificial superintelligence, safely, verifiably, and for broad public benefit. The last century's golden age of physics gave us transistors, laser",
       "tags": [
-        "data science &amp; analytics"
-      ],
-      "verdict": "review",
-      "fit": 30,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Senior Independent Software Developer",
-      "company": "A.Team",
-      "location": "Americas, Europe, Israel",
-      "url": "https://remotive.com/remote-jobs/software-development/senior-independent-software-developer-1919265",
-      "source": "Remotive",
-      "description": "You must be located in the Americas, Europe, or Israel to apply. A·Team is a VC-backed, stealth, application-only home on the internet for senior independent software builders to team up with hand-picked, high-growth companies on their next big thing. After talking with hundreds of independent engineers, designers, and product folks, we heard over and over that finding vetted, high-quality, consistent clients is hard, and projects are often too small to be rewarding. A·Team matches small teams of the most talented builders in the world with companies backed by a16z, YC, Softbank, General Catal",
-      "tags": [
-        "go",
-        "wordpress",
-        "chat",
-        "apple",
+        "design",
+        "infosec",
+        "technical",
+        "dev",
         "testing",
-        "catalyst"
+        "cloud",
+        "exec",
+        "engineer",
+        "digital nomad"
       ],
       "verdict": "blocked",
       "fit": 0,
       "reasons": [
-        "work-authorization wall (must be located in)"
+        "Staff-level — usually 5–10+ yrs, you have ~4"
       ]
     },
     {
-      "title": "Head of Marketing & Communications",
-      "company": "garden3d",
-      "location": "Worldwide",
-      "url": "https://remotive.com/remote-jobs/marketing/head-of-marketing-communications-2091068",
-      "source": "Remotive",
-      "description": "We are hiring a Head of Marketing &amp; Communications to tell the garden3d story across the internet, from wherever in the world you happen to be. More details if you check our original job posting link About garden3d We are worker owned creative collective, innovating on everything from brands and IRL communities to IoT devices and cross platform apps. We share profit, open source everything, spin out new businesses, and invest in exciting ideas through financial and/or in-kind contributions. Our client roster includes Google , Stripe , Figma , Hinge , Black Socialists in America , ACLU , Pr",
-      "tags": [],
+      "title": "Staff Software Development Engineer SDM",
+      "company": "Delinea",
+      "location": "Redwood City",
+      "url": "https://remoteOK.com/remote-jobs/remote-staff-software-development-engineer-sdm-delinea-1136796",
+      "source": "RemoteOK",
+      "description": "About Delinea: Delinea is a pioneer in securing human and machine identities through intelligent, centralized authorization, empowering organizations to seamlessly govern their interactions across the modern enterprise. Leveraging AI-powered intelligence, Delineaâs leading cloud-native Identity Security Platform applies context throughout the entire identity lifecycle â across cloud and traditional infrastructure, data, SaaS applications, and AI. It is the only platform that enables you to discover all identities â including workforce, IT administrator, developers, and machines â assig",
+      "tags": [
+        "dev",
+        "design",
+        "saas",
+        "sys admin",
+        "infosec",
+        "vfx",
+        "technical",
+        "web dev",
+        "exec",
+        "devops",
+        "education",
+        "finance",
+        "cloud",
+        "api",
+        "admin",
+        "ops",
+        "golang",
+        "medical",
+        "engineer",
+        "backend",
+        "digital nomad"
+      ],
       "verdict": "blocked",
       "fit": 0,
       "reasons": [
-        "Head of-level — usually 5–10+ yrs, you have ~4"
+        "Staff-level — usually 5–10+ yrs, you have ~4"
       ]
     },
     {
