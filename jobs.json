@@ -1,11 +1,11 @@
 {
-  "generated": "2026-08-17 06:30 UTC",
-  "count": 120,
+  "generated": "2026-08-18 06:22 UTC",
+  "count": 121,
   "summary": {
-    "scanned": 120,
+    "scanned": 121,
     "eligible": 43,
-    "review": 63,
-    "blocked": 14
+    "review": 62,
+    "blocked": 16
   },
   "jobs": [
     {
@@ -891,6 +891,30 @@
       ]
     },
     {
+      "title": "Data Platform Engineer",
+      "company": "name",
+      "location": "United States",
+      "url": "https://himalayas.app/companies/clinician-nexus/jobs/data-platform-engineer-8762187133",
+      "source": "Himalayas",
+      "description": "ABOUT US AND ABOUT YOU Clinician Nexus enables health care organizations to build thriving clinician teams with industry-leading technology products, workforce and compensation analytics, and automated workflow solutions. Backed by extensive technical expertise and industry-leading data, we deliver innovative approaches to help clients to plan, educate, and engage their clinical workforce at every stage of the lifecycle. We are committed to providing our clients with outstanding guidance and support as they focus on shaping the future of health care. As a Data Platform Engineer your core respo",
+      "tags": [
+        "data-platform-engineering",
+        "data-engineering",
+        "data-infrastructure-engineering",
+        "software-engineer",
+        "data-architecture",
+        "data-platform-engineer",
+        "data-platforms-engineering",
+        "cloud-data-platform-engineer",
+        "ai-data-platform-engineer"
+      ],
+      "verdict": "review",
+      "fit": 52,
+      "reasons": [
+        "United states-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
       "title": "Customer Solutions Architect, Amazon Connect",
       "company": "Caylent",
       "location": "Canada",
@@ -1041,6 +1065,23 @@
       ]
     },
     {
+      "title": "Senior Technical Product Manager, Token Factory",
+      "company": "Nebius",
+      "location": "Europe, Netherlands, UK",
+      "url": "https://jobicy.com/jobs/149361-senior-technical-product-manager-token-factory",
+      "source": "Jobicy",
+      "description": "About Nebius: Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-house AI/ML infrastructure. Built by engineers, for engineers. From&hellip;",
+      "tags": [
+        "product &amp; operations"
+      ],
+      "verdict": "review",
+      "fit": 46,
+      "reasons": [
+        "Uk-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
       "title": "Lead Cloud Platform & Dev Ops Engineer",
       "company": "University of Colorado",
       "location": "USA",
@@ -1105,23 +1146,6 @@
       "fit": 46,
       "reasons": [
         "Europe-tagged — verify it's open to Africa first",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Senior Site Reliability Engineer",
-      "company": "Akamai Technologies",
-      "location": "Poland",
-      "url": "https://jobicy.com/jobs/143565-senior-site-reliability-engineer-3",
-      "source": "Jobicy",
-      "description": "Are you passionate about cutting edge technology?Do solving some of the Internet's most difficult content delivery challenges interest you?Join our highly skilled Site Reliability teamOur team designs, develops, and manages applications and infrastructure that support Akamai's Compute products and services. We do this while maintaining Akamai's mission at the forefront of what we do. Make&hellip;",
-      "tags": [
-        "devops &amp; infrastructure"
-      ],
-      "verdict": "review",
-      "fit": 46,
-      "reasons": [
-        "Poland-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -1289,23 +1313,6 @@
       ]
     },
     {
-      "title": "Patient Care Specialist",
-      "company": "STATLINX",
-      "location": "USA",
-      "url": "https://remotive.com/remote-jobs/medical/patient-care-specialist-2091069",
-      "source": "Remotive",
-      "description": "This position will involve answering inbound calls for large hospital networks during our daytime shifts in a remote call center setting. Our company provides telephone answering, messaging, and alert services to physicians and medical facilities across the United States. If you are a self-motivated team player looking to build a career from the comfort of your own home, we might be the team you are looking for! You must live within the continental United States (+ Hawaii) to apply. We currently have full-time opportunities available. ALL SHIFTS ARE IN EASTERN STANDARD TIME (EST) Shift Availab",
-      "tags": [
-        "research",
-        "insurance"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
       "title": "Engineering Manager Thailand",
       "company": "Bjak",
       "location": "Bangkok",
@@ -1335,12 +1342,49 @@
       ]
     },
     {
+      "title": "Any Open Position",
+      "company": "Market of Choice",
+      "location": "West Linn,",
+      "url": "https://remoteOK.com/remote-jobs/remote-any-open-position-market-of-choice-1136872",
+      "source": "RemoteOK",
+      "description": "Are you enthusiastic? A self-starter? Looking for a job to test how far your skills will take you? Then, we want to hear from YOU! The West Linn Market of Choice is hiring! Positions start at $17.50 an hour. In addition to offering endless grocery choices, our markets feature modern, upscale kitchens staffed by experienced restaurant chefs, as well as elaborate bakeries and state-of-the-art delicatessens. Each location also has expert wine and cheese stewards and as-local-as-it-gets grocery and produce offerings! CAREERS WITH MARKET OF CHOICE We place great confidence in our employees and are ",
+      "tags": [
+        "dev",
+        "digital nomad",
+        "infosec",
+        "customer support",
+        "finance",
+        "cloud",
+        "ops",
+        "medical",
+        "recruiter",
+        "engineer",
+        "education",
+        "testing",
+        "exec",
+        "speech",
+        "golang",
+        "c",
+        "payroll",
+        "legal",
+        "technical",
+        "stats",
+        "sys admin",
+        "marketing"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
       "title": "Artificial Intelligence Specialist",
       "company": "Modi's Boutique",
       "location": "Ranchi,",
       "url": "https://remoteOK.com/remote-jobs/remote-artificial-intelligence-specialist-modis-boutique-1136555",
       "source": "RemoteOK",
-      "description": "We need a Sincere, Dedicated &amp; Hardworking &nbsp;Employee Who can handle Back End Desk Job and is well versed with Artificial intelligence Kindly W hatsapp or Call on 88769-5073 for further details. Only serious candidates Looking for long time Job For a minimum 2 to 5 years apply, who are Sincere, Dedicated and Willing To work hard. Happy working. Please mention the word **BULLISH** and tag RNjguMjExLjE0Ni4yNw== when applying to show you read the job post completely (#RNjguMjExLjE0Ni4yNw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applican",
+      "description": "We need a Sincere, Dedicated &amp; Hardworking &nbsp;Employee Who can handle Back End Desk Job and is well versed with Artificial intelligence Kindly W hatsapp or Call on 88769-5073 for further details. Only serious candidates Looking for long time Job For a minimum 2 to 5 years apply, who are Sincere, Dedicated and Willing To work hard. Happy working. Please mention the word **BULLISH** and tag RMjAuMTYxLjY4LjI0Ng== when applying to show you read the job post completely (#RMjAuMTYxLjY4LjI0Ng==). This is a beta feature to avoid spam applicants. Companies can search these words to find applican",
       "tags": [
         "wordpress",
         "vfx",
@@ -1745,116 +1789,35 @@
       ]
     },
     {
-      "title": "Maintenance Technician",
-      "company": "Goddard Enterprises Ltd.",
-      "location": "Christ Church,",
-      "url": "https://remoteOK.com/remote-jobs/remote-maintenance-technician-goddard-enterprises-ltd-1136387",
-      "source": "RemoteOK",
-      "description": "Join our team and become a part of a continuously expanding and financially sound multinational conglomerate - Goddard Enterprises Limited (GEL). McBride (Caribbean) Limited â a member of GEL, is a household aerosol manufacturing company that sells its products in 30 countries across the Caribbean and Latin America. We are looking for a talented individual who shares our values to join our team as Maintenance Technician . This position reports to the Maintenance Supervisor. THE ROLE: The primary duties and responsibilities of the Maintenance Technicia n include but are not limited to: Conduc",
+      "title": "Salesforce Developer",
+      "company": "dentsu",
+      "location": "Spain",
+      "url": "https://jobicy.com/jobs/146848-salesforce-developer-2",
+      "source": "Jobicy",
+      "description": "Job Description:Omega CRM is a Merkle &amp; Dentsu company, leader in development of Customer Experience services, with +20 years of experience in the use of Technology applied to Marketing and providing a unique Customer Relationship with mainly focus on Innovation is looking for a Salesforce Developer.Main responsabilities:Develop software according to user requirements, functional and technical&hellip;",
       "tags": [
-        "wordpress",
-        "vfx",
-        "teaching",
-        "education",
-        "game dev",
-        "full stack",
-        "writer",
-        "transcribing",
-        "dev",
-        "testing",
-        "marketing",
-        "web dev",
-        "speech",
-        "virtual assistant",
-        "video",
-        "serverless",
-        "cloud",
-        "git",
-        "seo",
-        "content writing",
-        "stats",
-        "sales",
-        "golang",
-        "non tech",
-        "digital nomad",
-        "sys admin",
-        "technical",
-        "supervisor",
-        "customer support",
-        "microsoft",
-        "exec",
-        "medical"
+        "software engineering"
       ],
       "verdict": "review",
       "fit": 36,
       "reasons": [
-        "location unconfirmed — verify it's open to Africa"
+        "Spain-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
-      "title": "Electrician ETO",
-      "company": "MSC Cruises",
-      "location": "Valletta,",
-      "url": "https://remoteOK.com/remote-jobs/remote-electrician-eto-msc-cruises-1136753",
-      "source": "RemoteOK",
-      "description": "Your Purpose As an Electrician on our team, you'll play a vital role in ensuring our passengers enjoy smooth and safe journeys. Your expertise will contribute to maintaining the electrical systems that keep our ship running flawlessly, delivering unforgettable moments for all on board. Your Impact In this role, your expertise will be at the heart of everything we do. Youâll ensure our shipâs electrical systems operate flawlessly, from powering essential equipment to maintaining the comforts that make our passengersâ journeys exceptional. By working closely with the technical team, youâ",
+      "title": "Software Engineer Manager",
+      "company": "PolicyMe",
+      "location": "Canada",
+      "url": "https://jobicy.com/jobs/150904-software-engineer-manager",
+      "source": "Jobicy",
+      "description": "Overview of the role We’re on a mission to modernize insurance, making it simpler, more accessible, and customer-first. The insurance industry is a $1T market that has remained largely untouched by the digital revolution, and PolicyMe is here to change that. As a remote-first, Toronto-based startup with big ambitions, we’re looking for a Software Engineering&hellip;",
       "tags": [
-        "testing",
-        "education",
-        "customer support",
-        "finance",
-        "c",
-        "scheme",
-        "exec",
-        "medical",
-        "marketing",
-        "full time",
-        "design",
-        "infosec",
-        "music",
-        "digital nomad",
-        "technical",
-        "engineer",
-        "teaching",
-        "math",
-        "recruiter",
-        "sys admin",
-        "golang",
-        "microsoft",
-        "excel",
-        "sales",
-        "travel",
-        "ops",
-        "virtual assistant",
-        "supervisor",
-        "serverless",
-        "cloud"
+        "software engineering"
       ],
       "verdict": "review",
       "fit": 36,
       "reasons": [
-        "location unconfirmed — verify it's open to Africa"
-      ]
-    },
-    {
-      "title": "Sales Development Representative Attributeâ",
-      "company": "DoiT",
-      "location": "Remote UK",
-      "url": "https://remoteOK.com/remote-jobs/",
-      "source": "RemoteOK",
-      "description": "Our Sales Development Representative will be an integral part of our sales team. This role is fully remote in the EMEA region in the UK, Ireland, the Netherlands, and Sweden. Who We Are DoiT is a global technology company that works with cloud-driven organizations to leverage the cloud to drive business growth and innovation. We combine data, technology, and human expertise to ensure our customers operate in a well-architected and scalable state - from planning to production. Delivering DoiT Cloud Intelligence, the only solution that integrates advanced technology with human intelligence, we h",
-      "tags": [
-        "technical",
-        "marketing",
-        "cloud",
-        "microsoft",
-        "exec",
-        "sales"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Uk-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+        "Canada-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -1970,22 +1933,6 @@
       ]
     },
     {
-      "title": "Professional Services Engagement Manager",
-      "company": "Harness",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/147874-professional-services-engagement-manager",
-      "source": "Jobicy",
-      "description": "Harness is the AI Software Delivery Platform company, led by technologist and entrepreneur Jyoti Bansal (founder of AppDynamics, acquired by Cisco for $3.7B). Harness has raised approximately $570M in funding and is valued at $5.5B, backed by leading investors including Goldman Sachs, Menlo Ventures, IVP, Unusual Ventures, Citi Ventures, and more. As AI accelerates code&hellip;",
-      "tags": [
-        "business development"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
       "title": "Senior Business Analyst, AI & Data",
       "company": "phData",
       "location": "LATAM",
@@ -1999,6 +1946,29 @@
       "fit": 34,
       "reasons": [
         "Latam-tagged — verify it's open to Africa first",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Senior Independent AI Engineer / Architect",
+      "company": "A.Team",
+      "location": "Americas, Europe, Israel",
+      "url": "https://remotive.com/remote-jobs/software-development/senior-independent-ai-engineer-architect-1919266",
+      "source": "Remotive",
+      "description": "Senior Independent AI Engineer / Architect Remote | Americas, Europe, or Israel Most AI engineers can find work. Finding work worth doing is harder. A.Team is an invite-only network of senior AI engineers, ML engineers, and AI architects building production AI systems for startups, enterprises, and global companies. Since 2020, builders in the network have earned more than $200M working with companies including Lyft, Google X, HCA, Unilever, Sightful, D-ID, and others. The Work You'll join small teams solving real problems. Not demos. Not proof-of-concepts that never ship. Not another thin wra",
+      "tags": [
+        "go",
+        "ui/ux",
+        "wordpress",
+        "chat",
+        "apple",
+        "testing",
+        "catalyst"
+      ],
+      "verdict": "review",
+      "fit": 30,
+      "reasons": [
+        "Europe-tagged — verify it's open to Africa first",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -2122,20 +2092,50 @@
       ]
     },
     {
-      "title": "Senior Manager, Customer Success Management - Enterprise/EMEA",
-      "company": "Chainguard",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/144672-senior-manager-customer-success-management-enterprise-emea",
-      "source": "Jobicy",
-      "description": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. Our customers include Fortune 500 enterprises and global industry leaders, including Anduril, Canva, Fortinet, Hewlett Packard Enterprise, OpenAI, Snap&hellip;",
+      "title": "Senior Independent Software Developer",
+      "company": "A.Team",
+      "location": "Americas, Europe, Israel",
+      "url": "https://remotive.com/remote-jobs/software-development/senior-independent-software-developer-1919265",
+      "source": "Remotive",
+      "description": "You must be located in the Americas, Europe, or Israel to apply. A·Team is a VC-backed, stealth, application-only home on the internet for senior independent software builders to team up with hand-picked, high-growth companies on their next big thing. After talking with hundreds of independent engineers, designers, and product folks, we heard over and over that finding vetted, high-quality, consistent clients is hard, and projects are often too small to be rewarding. A·Team matches small teams of the most talented builders in the world with companies backed by a16z, YC, Softbank, General Catal",
       "tags": [
-        "customer support &amp; success"
+        "go",
+        "wordpress",
+        "chat",
+        "apple",
+        "testing",
+        "catalyst"
       ],
-      "verdict": "review",
-      "fit": 30,
+      "verdict": "blocked",
+      "fit": 0,
       "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
+        "work-authorization wall (must be located in)"
+      ]
+    },
+    {
+      "title": "Head of Marketing & Communications",
+      "company": "garden3d",
+      "location": "Worldwide",
+      "url": "https://remotive.com/remote-jobs/marketing/head-of-marketing-communications-2091068",
+      "source": "Remotive",
+      "description": "We are hiring a Head of Marketing &amp; Communications to tell the garden3d story across the internet, from wherever in the world you happen to be. More details if you check our original job posting link About garden3d We are worker owned creative collective, innovating on everything from brands and IRL communities to IoT devices and cross platform apps. We share profit, open source everything, spin out new businesses, and invest in exciting ideas through financial and/or in-kind contributions. Our client roster includes Google , Stripe , Figma , Hinge , Black Socialists in America , ACLU , Pr",
+      "tags": [
+        "c",
+        "video",
+        "open source",
+        "ai/ml",
+        "figma",
+        "project management",
+        "editing",
+        "iot",
+        "testing",
+        "themes",
+        "mobile development"
+      ],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Head of-level — usually 5–10+ yrs, you have ~4"
       ]
     },
     {
