@@ -1,10 +1,10 @@
 {
-  "generated": "2026-08-19 06:23 UTC",
-  "count": 110,
+  "generated": "2026-08-20 06:24 UTC",
+  "count": 108,
   "summary": {
-    "scanned": 110,
-    "eligible": 44,
-    "review": 50,
+    "scanned": 108,
+    "eligible": 41,
+    "review": 51,
     "blocked": 16
   },
   "jobs": [
@@ -465,20 +465,6 @@
       ]
     },
     {
-      "title": "Contract IT Specialist",
-      "company": "Customer.io",
-      "location": "Anywhere in the World",
-      "url": "https://weworkremotely.com/remote-jobs/customer-io-contract-it-specialist",
-      "source": "WeWorkRemotely",
-      "description": "Headquarters: Americas Remote About&nbsp; Customer.io Over 9,000 companies — from scrappy startups to global brands — use our platform to send billions of emails, push notifications, in-app messages, and SMS every day.&nbsp; Customer.io &nbsp;powers automated communication that people actually want to receive. We help teams send smarter, more relevant messages using real-time behavioral data. Overview Hi, I'm Al Shvarts, Senior Manager, IT, and I'm looking for a part-time Sr. IT Specialist contractor to join our globally distributed IT team as we scale. This is a hands-on role focused on keepi",
-      "tags": [],
-      "verdict": "eligible",
-      "fit": 50,
-      "reasons": [
-        "remote — anywhere / global"
-      ]
-    },
-    {
       "title": "Security Engineer, Incident Response",
       "company": "Twilio",
       "location": "Anywhere in the World",
@@ -573,21 +559,6 @@
       "url": "https://weworkremotely.com/remote-jobs/datadog-partner-solutions-architect-emea",
       "source": "WeWorkRemotely",
       "description": "Headquarters: Italy, Remote; Lisbon, Portugal; Madrid, Spain; Paris, France The Team: We are Datadog's in-house product experts. The technical solutions team enables Datadog's worldwide growth by educating potential clients and ensuring that existing customers are happy and successful. We share our technical and product expertise with customers through demos, presentations, technical evaluations, and ongoing support. Technical solutions is a growing global team that collaborates constantly to share knowledge and continuously advance our technical skillset. &nbsp; The Opportunity: The Partner S",
-      "tags": [],
-      "verdict": "eligible",
-      "fit": 48,
-      "reasons": [
-        "remote — anywhere / global",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Senior Sales Engineer - Ohio Valley",
-      "company": "Datadog",
-      "location": "Anywhere in the World",
-      "url": "https://weworkremotely.com/remote-jobs/datadog-senior-sales-engineer-ohio-valley",
-      "source": "WeWorkRemotely",
-      "description": "Headquarters: Ohio, USA, Remote As a Senior Enterprise Sales Engineer, you’ll serve as a trusted technical advisor and strategic partner to both customers and Sales. You’ll lead complex technical evaluations, align solutions to business outcomes, and help shape deal strategy in high-impact opportunities. This role goes beyond delivering demos - you’ll own the evaluation experience end-to-end, influence key stakeholders, and help drive successful outcomes across enterprise accounts. At Datadog, we place value in our office culture - the relationships and collaboration it builds and the creativi",
       "tags": [],
       "verdict": "eligible",
       "fit": 48,
@@ -702,21 +673,6 @@
       ]
     },
     {
-      "title": "Senior Security Engineer, Incident Response",
-      "company": "Twilio",
-      "location": "Anywhere in the World",
-      "url": "https://weworkremotely.com/remote-jobs/twilio-senior-security-engineer-incident-response",
-      "source": "WeWorkRemotely",
-      "description": "Headquarters: Remote - US Who we are&nbsp; At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to &nbsp;hundreds of thousands of businesses&nbsp; and empower millions of developers worldwide to craft personalized customer experiences. Our dedication to remote-first work , and strong culture of connection and global inclusion means that no matter your location, you’re part of a vibrant team with diverse experiences making a global impact each day. As we continue to revolutionize how the world interacts, we’re acquiring new sk",
-      "tags": [],
-      "verdict": "eligible",
-      "fit": 44,
-      "reasons": [
-        "remote — anywhere / global",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
       "title": "Senior Software Engineer (EAA)",
       "company": "Coinbase",
       "location": "Anywhere in the World",
@@ -807,6 +763,22 @@
       "fit": 56,
       "reasons": [
         "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
+      "title": "DevOps Engineer",
+      "company": "Launchpad Technologies",
+      "location": "LATAM",
+      "url": "https://jobicy.com/jobs/151148-devops-engineer",
+      "source": "Jobicy",
+      "description": "Who We Are Launchpad Technologies Inc. is a global technology partner connecting top talent with high-impact projects across North America and beyond. We specialize in Staff Augmentation and product development, helping companies scale with agility while empowering professionals to grow in meaningful, remote-first environments. If you’re passionate about automating infrastructure, optimizing CI/CD pipelines, and building&hellip;",
+      "tags": [
+        "devops &amp; infrastructure"
+      ],
+      "verdict": "review",
+      "fit": 56,
+      "reasons": [
+        "Latam-tagged — verify it's open to Africa first"
       ]
     },
     {
@@ -903,22 +875,6 @@
       "fit": 52,
       "reasons": [
         "EMEA-tagged — verify it's open to Africa first"
-      ]
-    },
-    {
-      "title": "Software Engineer - (Connect Platform)",
-      "company": "Enode",
-      "location": "Europe, Norway",
-      "url": "https://jobicy.com/jobs/149876-software-engineer-connect-platform-2",
-      "source": "Jobicy",
-      "description": "About EnodeThe grid was built for predictable, centralised power. Today it's absorbing intermittent supply from grid scale solar and wind, alongside dynamic demand from EVs, heat pumps, and home batteries. The missing piece is software that can connect and orchestrate these devices at scale.Enode provides the infrastructure layer that makes this possible. Our Connect API&hellip;",
-      "tags": [
-        "software engineering"
-      ],
-      "verdict": "review",
-      "fit": 52,
-      "reasons": [
-        "Europe-tagged — verify it's open to Africa first"
       ]
     },
     {
@@ -1170,6 +1126,37 @@
       "fit": 46,
       "reasons": [
         "Europe-tagged — verify it's open to Africa first",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Senior Platform Engineer - AI Platform",
+      "company": "Porch Group",
+      "location": "United States",
+      "url": "https://himalayas.app/companies/porch-group/jobs/senior-platform-engineer-ai-platform",
+      "source": "Himalayas",
+      "description": "Porch Group is a leading vertical software and insurance platform and is positioned to be the best partner to help homebuyers move, maintain, and fully protect their homes. We offer differentiated products and services, with homeowners insurance at the center of this relationship. We differentiate and look to win in the massive and growing homeowners insurance opportunity by 1) providing the best services for homebuyers, 2) led by advantaged underwriting in insurance, 3) to protect the whole home. As a leader in the home services software-as-a-service (“SaaS”) space, we’ve built deep relations",
+      "tags": [
+        "platform-engineering",
+        "ai-engineering",
+        "software-engineer",
+        "backend-engineering",
+        "infrastructure-engineering",
+        "senior-ai-platform-engineer",
+        "lead-ai-platform-engineer",
+        "senior-ai-platform-developer",
+        "ai-platform-engineer",
+        "platform-ai-engineer",
+        "senior-ml-platform-engineer",
+        "senior-platform-engineer",
+        "senior-platform-engineering",
+        "ai-ml-platform-engineer",
+        "platform-engineer"
+      ],
+      "verdict": "review",
+      "fit": 46,
+      "reasons": [
+        "United states-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
