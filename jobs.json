@@ -1,11 +1,11 @@
 {
-  "generated": "2026-08-20 06:24 UTC",
-  "count": 108,
+  "generated": "2026-08-21 06:25 UTC",
+  "count": 102,
   "summary": {
-    "scanned": 108,
-    "eligible": 41,
-    "review": 51,
-    "blocked": 16
+    "scanned": 102,
+    "eligible": 38,
+    "review": 49,
+    "blocked": 15
   },
   "jobs": [
     {
@@ -121,34 +121,6 @@
       ]
     },
     {
-      "title": "DevOps Engineer with Splunk",
-      "company": "Miratech",
-      "location": "Anywhere in the World",
-      "url": "https://weworkremotely.com/remote-jobs/miratech-devops-engineer-with-splunk",
-      "source": "WeWorkRemotely",
-      "description": "Headquarters: Ahmedabad, India URL: http://miratechgroup.com Company Description Miratech helps visionaries change the world. We are a global IT services and consulting company that brings together enterprise and start-up innovation. Today, we support digital transformation for some of the world's largest enterprises. By partnering with both large and small players, we stay at the leading edge of technology, remain nimble even as a global leader, and create technology that helps our clients further enhance their business. We are a valuesdriven organization and our culture of Relentless Perform",
-      "tags": [],
-      "verdict": "eligible",
-      "fit": 66,
-      "reasons": [
-        "remote — anywhere / global"
-      ]
-    },
-    {
-      "title": "OCI DevOps Engineer",
-      "company": "Leidos",
-      "location": "Anywhere in the World",
-      "url": "https://weworkremotely.com/remote-jobs/leidos-oci-devops-engineer",
-      "source": "WeWorkRemotely",
-      "description": "Headquarters: 6314 Remote/Teleworker US URL: http://leidos.com The Leidos Partnership for Defense Health is seeking an OCI DevOps Engineer to work remotely in support of its single-award DHMSM IDIQ contract, for the system known as MHS GENESIS.&nbsp; This highly visible program modernized Electronic Health Record (EHR) capabilities for the Department of War (DoW), supporting nearly 10 million service members and their families worldwide. While healthcare systems everywhere are challenged to improve quality, user experience, and cost, MHS GENESIS operates at DoW global scale and within a highly",
-      "tags": [],
-      "verdict": "eligible",
-      "fit": 66,
-      "reasons": [
-        "remote — anywhere / global"
-      ]
-    },
-    {
       "title": "Technical Account Manager 2 - South Africa",
       "company": "Datadog",
       "location": "Anywhere in the World",
@@ -229,21 +201,6 @@
       "url": "https://weworkremotely.com/remote-jobs/coinbase-senior-software-engineer-infrastructure-compute-platform",
       "source": "WeWorkRemotely",
       "description": "Headquarters: Remote - Canada Ready to do the most impactful work of your career? At&nbsp; Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.”&nbsp",
-      "tags": [],
-      "verdict": "eligible",
-      "fit": 60,
-      "reasons": [
-        "remote — anywhere / global",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Senior Manager, DevOps",
-      "company": "Modivcare",
-      "location": "Anywhere in the World",
-      "url": "https://weworkremotely.com/remote-jobs/modivcare-senior-manager-devops",
-      "source": "WeWorkRemotely",
-      "description": "Headquarters: Remote URL: http://modivcare.com Are you passionate about making a difference in people's lives? Do you enjoy working in a service-oriented industry? If so, this opportunity may be the right fit for you! Modivcare is looking for an experienced Senior Manager, DevOps &amp; Reliability to join our team. In this role, you will lead the Infrastructure team responsible for supporting cloud-based and on-premises infrastructure environments. You will oversee DevOps engineers, Site Reliability Engineers (SREs), and infrastructure engineers supporting Microsoft Azure platforms while guidi",
       "tags": [],
       "verdict": "eligible",
       "fit": 60,
@@ -703,22 +660,6 @@
       ]
     },
     {
-      "title": "GitOps Engineering Manager",
-      "company": "Canonical Ltd.",
-      "location": "APAC, EMEA",
-      "url": "https://jobicy.com/jobs/149939-gitops-engineering-manager",
-      "source": "Jobicy",
-      "description": "Canonical is a leading provider of open-source software and operating systems for global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in many&hellip;",
-      "tags": [
-        "devops &amp; infrastructure"
-      ],
-      "verdict": "review",
-      "fit": 68,
-      "reasons": [
-        "EMEA-tagged — verify it's open to Africa first"
-      ]
-    },
-    {
       "title": "Site Reliability Engineering Manager",
       "company": "Canonical Ltd.",
       "location": "APAC, EMEA",
@@ -1126,37 +1067,6 @@
       "fit": 46,
       "reasons": [
         "Europe-tagged — verify it's open to Africa first",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Senior Platform Engineer - AI Platform",
-      "company": "Porch Group",
-      "location": "United States",
-      "url": "https://himalayas.app/companies/porch-group/jobs/senior-platform-engineer-ai-platform",
-      "source": "Himalayas",
-      "description": "Porch Group is a leading vertical software and insurance platform and is positioned to be the best partner to help homebuyers move, maintain, and fully protect their homes. We offer differentiated products and services, with homeowners insurance at the center of this relationship. We differentiate and look to win in the massive and growing homeowners insurance opportunity by 1) providing the best services for homebuyers, 2) led by advantaged underwriting in insurance, 3) to protect the whole home. As a leader in the home services software-as-a-service (“SaaS”) space, we’ve built deep relations",
-      "tags": [
-        "platform-engineering",
-        "ai-engineering",
-        "software-engineer",
-        "backend-engineering",
-        "infrastructure-engineering",
-        "senior-ai-platform-engineer",
-        "lead-ai-platform-engineer",
-        "senior-ai-platform-developer",
-        "ai-platform-engineer",
-        "platform-ai-engineer",
-        "senior-ml-platform-engineer",
-        "senior-platform-engineer",
-        "senior-platform-engineering",
-        "ai-ml-platform-engineer",
-        "platform-engineer"
-      ],
-      "verdict": "review",
-      "fit": 46,
-      "reasons": [
-        "United states-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -1778,34 +1688,6 @@
       ]
     },
     {
-      "title": "DevOps Director",
-      "company": "Toparo",
-      "location": "Anywhere in the World",
-      "url": "https://weworkremotely.com/remote-jobs/toparo-devops-director",
-      "source": "WeWorkRemotely",
-      "description": "Headquarters: Montréal URL: http://toparo.ca Are you ready to take the lead in shaping the future of logistics technology in North America? Join our client tech team as the Director of DevOps and be a key player in their dynamic, rapidly growing team. Reporting to the Head of Engineering, you will guide a talented DevOps team through various projects focused on automating development processes. Key Responsibilities: Lead and inspire a DevOps team, driving excellence in project management, tool selection, mentoring, and developing cutting-edge DevOps practices. Manage complex tasks with minimal",
-      "tags": [],
-      "verdict": "blocked",
-      "fit": 0,
-      "reasons": [
-        "Director-level — usually 5–10+ yrs, you have ~4"
-      ]
-    },
-    {
-      "title": "Director of Cloud Operations",
-      "company": "Firstup",
-      "location": "Anywhere in the World",
-      "url": "https://weworkremotely.com/remote-jobs/firstup-director-of-cloud-operations",
-      "source": "WeWorkRemotely",
-      "description": "Headquarters: Remote - US URL: http://firstup.io Who We Are At Firstup, our mission is to improve the employee experience at every moment that matters, large and small. As the communication pipeline for the world's workforce, we now serve 40 of the Fortune 100 companies, reaching and connecting more than 17 million employees daily. Our employees are experts in the employee experience, workforce communications and technology.&nbsp; Joining Firstup means joining a movement to make work better for every worker. As the world’s first intelligent communication platform, Firstup meaningfully engages ",
-      "tags": [],
-      "verdict": "blocked",
-      "fit": 0,
-      "reasons": [
-        "Director-level — usually 5–10+ yrs, you have ~4"
-      ]
-    },
-    {
       "title": "Principal DevOps Engineer",
       "company": "NBCUniversal",
       "location": "USA",
@@ -1819,6 +1701,22 @@
       "fit": 0,
       "reasons": [
         "Principal-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
+      "title": "Chief Marketing Officer",
+      "company": "Testlio",
+      "location": "Canada, USA",
+      "url": "https://jobicy.com/jobs/151209-chief-marketing-officer",
+      "source": "Jobicy",
+      "description": "Chief Marketing Officer (CMO) Location: REMOTE in the United States or Canada About the job Testlio’s fully managed crowdsourced testing platform, powered by our proprietary intelligence technology - LeoAI Engine™, integrates expert, on-demand testers directly into your release process. Ship faster and more confidently with global coverage across 600,000+ devices, 800+ payment methods, 150+ countries,&hellip;",
+      "tags": [
+        "marketing &amp; sales"
+      ],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Chief-level — usually 5–10+ yrs, you have ~4"
       ]
     },
     {
