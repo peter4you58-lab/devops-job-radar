@@ -1,13 +1,46 @@
 {
-  "generated": "2026-08-22 06:19 UTC",
+  "generated": "2026-08-23 06:21 UTC",
   "count": 83,
   "summary": {
     "scanned": 83,
     "eligible": 19,
-    "review": 47,
-    "blocked": 17
+    "review": 51,
+    "blocked": 13
   },
   "jobs": [
+    {
+      "title": "DESARROLLADOR FULL STACK",
+      "company": "Kruger NearShore LLC - Rekluti",
+      "location": "Worldwide",
+      "url": "https://remoteOK.com/remote-jobs/remote-desarrollador-full-stack-kruger-nearshore-llc-rekluti-1137062",
+      "source": "RemoteOK",
+      "description": "Desarrollador/a Full Stack â Python / Angular / Go En Rekluti , consultora especializada en talento tecnolÃ³gico en LATAM, buscamos un/a Desarrollador/a Full Stack para integrarse a proyectos de alta complejidad y participar en el desarrollo de soluciones web escalables. Buscamos un perfil con sÃ³lida experiencia en Python, Angular y Go , capaz de desenvolverse de manera autÃ³noma, aportar en decisiones tÃ©cnicas y colaborar con equipos multidisciplinarios. ð¯ Principales responsabilidades DiseÃ±ar, desarrollar y mantener aplicaciones Full Stack, participando en frontend y backend. Desarro",
+      "tags": [
+        "full stack",
+        "front end",
+        "python",
+        "dev",
+        "testing",
+        "web dev",
+        "quality assurance",
+        "devops",
+        "c",
+        "cloud",
+        "nosql",
+        "git",
+        "flutter",
+        "angular",
+        "mobile",
+        "golang",
+        "backend",
+        "digital nomad"
+      ],
+      "verdict": "eligible",
+      "fit": 66,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
     {
       "title": "DevOps & Security Engineer - AI-Native Healthcare SaaS",
       "company": "Zenara Health",
@@ -111,17 +144,24 @@
       ]
     },
     {
-      "title": "Senior Software Engineer, Infrastructure - Compute Platform",
-      "company": "Coinbase",
-      "location": "Anywhere in the World",
-      "url": "https://weworkremotely.com/remote-jobs/coinbase-senior-software-engineer-infrastructure-compute-platform",
-      "source": "WeWorkRemotely",
-      "description": "Headquarters: Remote - Canada Ready to do the most impactful work of your career? At&nbsp; Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.”&nbsp",
-      "tags": [],
+      "title": "Senior AI Platform Engineer",
+      "company": "Hire Hangar",
+      "location": "Argentina, Bolivia, Colombia, Egypt, Honduras, Mexico, Nicaragua, Panama, Peru, Philippines, South Africa",
+      "url": "https://himalayas.app/companies/hire-hangar/jobs/senior-ai-platform-engineer-8228704431",
+      "source": "Himalayas",
+      "description": "Join Hire Hangar and work with fast-growing global companies while building a long-term career. Job Title Senior AI Platform Engineer Location Remote Time Zone US Time Zones (PST - EST) Role Overview This role sits at the intersection of AI engineering and platform development. As a Senior AI Platform Engineer, you will own the contextual intelligence layer that powers our AI agents — ensuring they understand, reason, and act with precision across our SaaS ecosystem. You will work at the cutting edge of how structured knowledge is used to make AI agents smarter and more reliable. This is a rol",
+      "tags": [
+        "senior-ai-platform-engineer",
+        "senior-ai-platform-developer",
+        "senior-ml-platform-engineer",
+        "senior-ai-engineer",
+        "senior-ai-infrastructure-engineer",
+        "senior-ai-software-engineer"
+      ],
       "verdict": "eligible",
-      "fit": 60,
+      "fit": 62,
       "reasons": [
-        "remote — anywhere / global",
+        "explicitly open to Africa/Nigeria",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -268,12 +308,12 @@
       ]
     },
     {
-      "title": "Account Manager",
-      "company": "Keeper Security",
+      "title": "Associate Instructor",
+      "company": "BeyondTrust",
       "location": "Anywhere in the World",
-      "url": "https://weworkremotely.com/remote-jobs/keeper-security-account-manager",
+      "url": "https://weworkremotely.com/remote-jobs/beyondtrust-associate-instructor",
       "source": "WeWorkRemotely",
-      "description": "Headquarters: Remote, US Description Keeper is hiring a driven Account Manager to join a high producing team within our B2B sales division. This is a 100% remote position with an opportunity to work a hybrid schedule for candidates who live near our global headquarters in Chicago. Keeper’s cybersecurity software is trusted by millions of people and thousands of organizations, globally. Keeper is published in 23 languages and is sold in over 150 countries. Join one of the fastest-growing cybersecurity companies and gain valuable skills while expanding and developing client relationships in this",
+      "description": "Headquarters: Remote Canada | East Coast Canada BeyondTrust is a place where you can bring your purpose to life through the work that you do, creating a safer world through our cybersecurity SaaS portfolio. Our culture of flexibility, trust, and continual learning means you will be recognized for your growth, and for the impact you make on our success. You will be surrounded by people who challenge, support, and inspire you to be the best version of yourself. The Role The Associate Instructor is a junior instructional role within BeyondTrust University, designed to develop foundational skills ",
       "tags": [],
       "verdict": "eligible",
       "fit": 50,
@@ -282,12 +322,12 @@
       ]
     },
     {
-      "title": "Security Engineer, Incident Response",
-      "company": "Twilio",
+      "title": "Account Manager",
+      "company": "Keeper Security",
       "location": "Anywhere in the World",
-      "url": "https://weworkremotely.com/remote-jobs/twilio-security-engineer-incident-response",
+      "url": "https://weworkremotely.com/remote-jobs/keeper-security-account-manager",
       "source": "WeWorkRemotely",
-      "description": "Headquarters: Remote - Ireland Who we are&nbsp; At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to &nbsp;hundreds of thousands of businesses&nbsp; and empower millions of developers worldwide to craft personalized customer experiences. Our dedication to remote-first work , and strong culture of connection and global inclusion means that no matter your location, you’re part of a vibrant team with diverse experiences making a global impact each day. As we continue to revolutionize how the world interacts, we’re acquiring n",
+      "description": "Headquarters: Remote, US Description Keeper is hiring a driven Account Manager to join a high producing team within our B2B sales division. This is a 100% remote position with an opportunity to work a hybrid schedule for candidates who live near our global headquarters in Chicago. Keeper’s cybersecurity software is trusted by millions of people and thousands of organizations, globally. Keeper is published in 23 languages and is sold in over 150 countries. Join one of the fastest-growing cybersecurity companies and gain valuable skills while expanding and developing client relationships in this",
       "tags": [],
       "verdict": "eligible",
       "fit": 50,
@@ -344,11 +384,13 @@
     {
       "title": "Partner Solutions Architect (EMEA)",
       "company": "Datadog",
-      "location": "Anywhere in the World",
-      "url": "https://weworkremotely.com/remote-jobs/datadog-partner-solutions-architect-emea",
-      "source": "WeWorkRemotely",
-      "description": "Headquarters: Italy, Remote; Lisbon, Portugal; Madrid, Spain; Paris, France The Team: We are Datadog's in-house product experts. The technical solutions team enables Datadog's worldwide growth by educating potential clients and ensuring that existing customers are happy and successful. We share our technical and product expertise with customers through demos, presentations, technical evaluations, and ongoing support. Technical solutions is a growing global team that collaborates constantly to share knowledge and continuously advance our technical skillset. &nbsp; The Opportunity: The Partner S",
-      "tags": [],
+      "location": "EMEA, Europe, Germany, Netherlands",
+      "url": "https://jobicy.com/jobs/151395-partner-solutions-architect-emea",
+      "source": "Jobicy",
+      "description": "The Team: We are Datadog's in-house product experts. The technical solutions team enables Datadog's worldwide growth by educating potential clients and ensuring that existing customers are happy and successful. We share our technical and product expertise with customers through demos, presentations, technical evaluations, and ongoing support. Technical solutions is a growing global team that collaborates&hellip;",
+      "tags": [
+        "technical support"
+      ],
       "verdict": "eligible",
       "fit": 48,
       "reasons": [
@@ -357,12 +399,12 @@
       ]
     },
     {
-      "title": "Senior Software Engineer (EAA)",
-      "company": "Coinbase",
+      "title": "Senior Application Security Engineer",
+      "company": "Temporal Technologies",
       "location": "Anywhere in the World",
-      "url": "https://weworkremotely.com/remote-jobs/coinbase-senior-software-engineer-eaa",
+      "url": "https://weworkremotely.com/remote-jobs/temporal-technologies-senior-application-security-engineer",
       "source": "WeWorkRemotely",
-      "description": "Headquarters: Remote - USA Ready to do the most impactful work of your career? At&nbsp; Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.”&nbsp; l",
+      "description": "Headquarters: United States or Canada - Remote Opportunity About Us Temporal is an open source programming model that can simplify code, make applications more reliable, and help developers focus on the important things like delivering features faster. We are on a mission to be the reliable foundation of every developer’s toolbox, and are building the team that will make that happen. &nbsp; Our values guide us —they are present in how we show up, make decisions, and work together to make an impact. We’re curious, driven, collaborative, genuine and humble. &nbsp; Temporal is growing and we are ",
       "tags": [],
       "verdict": "eligible",
       "fit": 44,
@@ -372,41 +414,26 @@
       ]
     },
     {
-      "title": "Senior Software Engineer",
-      "company": "Coinbase",
-      "location": "Anywhere in the World",
-      "url": "https://weworkremotely.com/remote-jobs/coinbase-senior-software-engineer-1",
-      "source": "WeWorkRemotely",
-      "description": "Headquarters: Remote - USA Ready to do the most impactful work of your career? At&nbsp; Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.”&nbsp; l",
-      "tags": [],
-      "verdict": "eligible",
-      "fit": 44,
-      "reasons": [
-        "remote — anywhere / global",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Site Reliability Engineering Manager",
+      "title": "Site Reliability Engineer",
       "company": "Canonical Ltd.",
-      "location": "APAC, EMEA",
-      "url": "https://jobicy.com/jobs/149986-site-reliability-engineering-manager",
+      "location": "Anywhere",
+      "url": "https://jobicy.com/jobs/149547-site-reliability-engineer",
       "source": "Jobicy",
-      "description": "Canonical is a leading provider of open-source software and operating systems for global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in many&hellip;",
+      "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in&hellip;",
       "tags": [
         "devops &amp; infrastructure"
       ],
       "verdict": "review",
       "fit": 64,
       "reasons": [
-        "EMEA-tagged — verify it's open to Africa first"
+        "Africa-friendly employer (Canonical) — role location unconfirmed"
       ]
     },
     {
-      "title": "Information Systems - Open Source Technical Architect",
+      "title": "Senior Site Reliability Engineer",
       "company": "Canonical Ltd.",
-      "location": "EMEA",
-      "url": "https://jobicy.com/jobs/149979-information-systems-open-source-technical-architect",
+      "location": "Anywhere",
+      "url": "https://jobicy.com/jobs/149557-senior-site-reliability-engineer-5",
       "source": "Jobicy",
       "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders&hellip;",
       "tags": [
@@ -415,7 +442,7 @@
       "verdict": "review",
       "fit": 58,
       "reasons": [
-        "EMEA-tagged — verify it's open to Africa first",
+        "Africa-friendly employer (Canonical) — role location unconfirmed",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -449,6 +476,22 @@
       "fit": 56,
       "reasons": [
         "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "VP, Platform Engineering",
+      "company": "Frontify",
+      "location": "Europe",
+      "url": "https://jobicy.com/jobs/151398-vp-platform-engineering",
+      "source": "Jobicy",
+      "description": "We're all about helping brands turn ideas into impact. Frontify’s brand platform transforms how teams organize digital assets, collaborate on projects, and create engaging campaigns. Our people empower thousands of marketers and designers — including teams at Uber, Microsoft, Volkswagen, and Telefónica — to build engaging brands. With headquarters in St. Gallen, Switzerland, and offices&hellip;",
+      "tags": [
+        "devops &amp; infrastructure"
+      ],
+      "verdict": "review",
+      "fit": 52,
+      "reasons": [
+        "Europe-tagged — verify it's open to Africa first"
       ]
     },
     {
@@ -516,19 +559,63 @@
       ]
     },
     {
-      "title": "Engineering Manager - Python and K8s",
-      "company": "Canonical Ltd.",
-      "location": "APAC, EMEA",
-      "url": "https://jobicy.com/jobs/150121-engineering-manager-python-and-k8s",
-      "source": "Jobicy",
-      "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders&hellip;",
+      "title": "Senior Golang Developer",
+      "company": "Lemon.io",
+      "location": "Europe, USA, UK, Canada, Australia, Singapore",
+      "url": "https://remotive.com/remote-jobs/software-development/senior-golang-developer-2091098",
+      "source": "Remotive",
+      "description": "Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe. We are currently seeking a Senior Software Engineer for our client — a research-driven artificial intelligence company. The client’s mission is to cut the cost of modern AI by co-designing hardware, software, algorithms, and models — with the goal of making AI’s benefits accessible to society. They’re active contributors to open-source AI research and are looking",
       "tags": [
-        "product &amp; operations"
+        ".net",
+        "android",
+        "c",
+        "c#",
+        "c++",
+        "data science",
+        "golang",
+        "ios",
+        "java",
+        "javascript",
+        "kubernetes",
+        "node.js",
+        "php",
+        "python",
+        "react",
+        "ruby/rails",
+        "scala",
+        "shopify",
+        "swift",
+        "ui/ux",
+        "wordpress",
+        "blockchain",
+        "ai/ml",
+        "automation",
+        "project management",
+        "react native",
+        "research",
+        "rust",
+        "product management",
+        "unity",
+        "electron",
+        "spring",
+        "data analysis",
+        "laravel",
+        "ethereum",
+        "graphic design",
+        "typescript",
+        "angular",
+        "data engineering",
+        "site reliability",
+        "symfony",
+        "marketplace",
+        "next.js",
+        "flutter"
       ],
       "verdict": "review",
-      "fit": 52,
+      "fit": 50,
       "reasons": [
-        "EMEA-tagged — verify it's open to Africa first"
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
     {
@@ -612,20 +699,51 @@
       ]
     },
     {
-      "title": "Pre-Sales Solution Architect – AI Infrastructure (remote in the EU)",
-      "company": "Mirantis",
-      "location": "Europe",
-      "url": "https://jobicy.com/jobs/150239-pre-sales-solution-architect-ai-infrastructure-remote-in-the-eu",
+      "title": "Engineering Manager - Solutions Engineering",
+      "company": "Canonical Ltd.",
+      "location": "Anywhere",
+      "url": "https://jobicy.com/jobs/149556-engineering-manager-solutions-engineering",
       "source": "Jobicy",
-      "description": "Company DescriptionAbout MirantisMirantis is the Kubernetes-native AI infrastructure company, enabling organizations to build and operate scalable, secure, and sovereign infrastructure for modern AI, machine learning, and data-intensive applications. By combining open source innovation with deep expertise in Kubernetes orchestration, Mirantis empowers platform engineering teams to deliver composable, production-ready developer platforms across any environment—on-premises, in the&hellip;",
+      "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders&hellip;",
+      "tags": [
+        "product &amp; operations"
+      ],
+      "verdict": "review",
+      "fit": 48,
+      "reasons": [
+        "Africa-friendly employer (Canonical) — role location unconfirmed"
+      ]
+    },
+    {
+      "title": "Microservices Engineer",
+      "company": "Canonical Ltd.",
+      "location": "Anywhere",
+      "url": "https://jobicy.com/jobs/149558-microservices-engineer",
+      "source": "Jobicy",
+      "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders&hellip;",
       "tags": [
         "software engineering"
       ],
       "verdict": "review",
-      "fit": 50,
+      "fit": 48,
       "reasons": [
-        "Europe-tagged — verify it's open to Africa first",
-        "senior title — a stretch at ~4 yrs, but go for it"
+        "Africa-friendly employer (Canonical) — role location unconfirmed"
+      ]
+    },
+    {
+      "title": "Software Engineer - Solutions Engineering",
+      "company": "Canonical Ltd.",
+      "location": "Anywhere",
+      "url": "https://jobicy.com/jobs/149560-software-engineer-solutions-engineering",
+      "source": "Jobicy",
+      "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders&hellip;",
+      "tags": [
+        "software engineering"
+      ],
+      "verdict": "review",
+      "fit": 48,
+      "reasons": [
+        "Africa-friendly employer (Canonical) — role location unconfirmed"
       ]
     },
     {
@@ -729,6 +847,23 @@
       ]
     },
     {
+      "title": "Senior Software Engineer - (Connect Platform)",
+      "company": "Enode",
+      "location": "Europe, Norway",
+      "url": "https://jobicy.com/jobs/149498-senior-software-engineer-connect-platform",
+      "source": "Jobicy",
+      "description": "About EnodeThe grid was built for predictable, centralised power. Today it's absorbing intermittent supply from grid scale solar and wind, alongside dynamic demand from EVs, heat pumps, and home batteries. The missing piece is software that can connect and orchestrate these devices at scale.Enode provides the infrastructure layer that makes this possible. Our Connect API&hellip;",
+      "tags": [
+        "software engineering"
+      ],
+      "verdict": "review",
+      "fit": 46,
+      "reasons": [
+        "Europe-tagged — verify it's open to Africa first",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
       "title": "Senior Technical Product Manager, Token Factory",
       "company": "Nebius",
       "location": "Europe, Netherlands, UK",
@@ -797,62 +932,19 @@
       ]
     },
     {
-      "title": "Senior Platform Engineer",
-      "company": "saas.group",
-      "location": "Europe",
-      "url": "https://jobicy.com/jobs/150132-senior-platform-engineer-2",
+      "title": "Community Engineer (multiple roles and seniority levels)",
+      "company": "Canonical Ltd.",
+      "location": "Anywhere",
+      "url": "https://jobicy.com/jobs/149577-community-engineer-multiple-roles-and-seniority-levels",
       "source": "Jobicy",
-      "description": "This role is part of our Central Platform Engineering Team at saas.group.What is saas.group?Think of us as the driving catalyst behind your favorite software success stories. saas.group, established in 2017, is on a mission to turbocharge promising B2B SaaS ventures, unlocking their full potential. As a Software-as-a-Service portfolio powerhouse, we specialize in acquiring small software&hellip;",
-      "tags": [
-        "devops &amp; infrastructure"
-      ],
-      "verdict": "review",
-      "fit": 46,
-      "reasons": [
-        "Europe-tagged — verify it's open to Africa first",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Senior Lead DevOps Engineer (Remote, US)",
-      "company": "CenturyLink",
-      "location": "United States",
-      "url": "https://himalayas.app/companies/centurylink/jobs/senior-lead-devops-engineer-remote-us-3182930596",
-      "source": "Himalayas",
-      "description": "Lumen is the trusted network for the AI‑powered world, connecting people, data, and applications through our expansive fiber network and connected ecosystem. We enable secure, high‑performance connectivity across cloud, edge, and AI workloads for enterprises, governments, and communities. At Lumen, you’ll work on infrastructure customers rely on today and build for what’s next, where performance, security, and resilience matter. This is a high accountability environment where bold ideas drive real innovation for our customers, partners, and industry. The work is challenging, expectations are c",
-      "tags": [
-        "devops-engineer",
-        "platform-engineering",
-        "site-reliability-engineering",
-        "cloud-infrastructure-engineering",
-        "senior-staff-devops-engineer",
-        "lead-devops-engineer",
-        "sr-staff-devops-engineer",
-        "remote-devops-engineer",
-        "senior-devops-platform-engineer",
-        "senior-devops"
-      ],
-      "verdict": "review",
-      "fit": 46,
-      "reasons": [
-        "United states-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Senior Customer Success Architect - Singapore",
-      "company": "GitLab",
-      "location": "Singapore",
-      "url": "https://jobicy.com/jobs/150102-senior-customer-success-architect-singapore",
-      "source": "Jobicy",
-      "description": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster. The same principles built into&hellip;",
+      "description": "Our ambition is to set a standard of excellence when it comes to serving the open source ecosystem. This is your chance to be a part of that as a Community Engineer at Canonical.We are building community management at scale. We have multiple positions available, at different seniority levels.All applications and candidates are handled through&hellip;",
       "tags": [
         "customer support &amp; success"
       ],
       "verdict": "review",
       "fit": 42,
       "reasons": [
-        "Singapore-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "Africa-friendly employer (Canonical) — role location unconfirmed",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -894,6 +986,25 @@
       "reasons": [
         "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
         "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Content Reviewer - English US",
+      "company": "TELUS Digital",
+      "location": "USA",
+      "url": "https://remotive.com/remote-jobs/all-others/content-reviewer-english-us-2091105",
+      "source": "Remotive",
+      "description": "Our global AI Community is a vibrant network of more than one million contributors from diverse backgrounds who help customers collect, enhance, train, translate, and localize content to build better AI models. Become part of our growing community and contribute to the development of innovative AI technologies used by some of the world's largest brands. We are looking for an independent, flexible, remote opportunity where you can help improve AI-powered search technology from the comfort of your home? If you're curious, internet-savvy, and enjoy evaluating online content, this freelance projec",
+      "tags": [
+        "android",
+        "ios",
+        "social media",
+        "ai/ml"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -995,6 +1106,22 @@
         "ios",
         "social media",
         "ai/ml"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "Cloud Release Quality Manager",
+      "company": "Legion",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/151379-cloud-release-quality-manager",
+      "source": "Jobicy",
+      "description": "Cloud Release Quality Manager AI-Enabled Release Program Manager Remote, United States JOB OVERVIEW Are you passionate about building enterprise cloud solutions, and excited about using AI to reinvent how software gets released? We are seeking a highly organized, proactive, and technically curious Cloud Release Quality Manager to lead and coordinate software releases across our cloud&hellip;",
+      "tags": [
+        "project &amp; program management"
       ],
       "verdict": "review",
       "fit": 36,
@@ -1147,23 +1274,6 @@
       ]
     },
     {
-      "title": "Senior Business Analyst, AI & Data",
-      "company": "phData",
-      "location": "LATAM",
-      "url": "https://jobicy.com/jobs/150207-senior-business-analyst-ai-data",
-      "source": "Jobicy",
-      "description": "Join phData, a remote-first data and AI consultancy company with employees across the United States, Latin America, and India. We partner with industry leaders, including Snowflake, AWS, Anthropic, Azure, GCP, Fivetran, Pinecone, Glean, and dbt, to solve the complex data and AI challenges that slow large enterprises. We're growing fast, and we give our people&hellip;",
-      "tags": [
-        "data science &amp; analytics"
-      ],
-      "verdict": "review",
-      "fit": 34,
-      "reasons": [
-        "Latam-tagged — verify it's open to Africa first",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
       "title": "Senior Independent AI Engineer / Architect",
       "company": "A.Team",
       "location": "Americas, Europe, Israel",
@@ -1183,6 +1293,36 @@
       "fit": 30,
       "reasons": [
         "Europe-tagged — verify it's open to Africa first",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Senior Governance Risk and Compliance Analyst",
+      "company": "RainFocus",
+      "location": "Orem, UT",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-governance-risk-and-compliance-analyst-rainfocus-1137061",
+      "source": "RemoteOK",
+      "description": "RainFocus, one of the most innovative software companies, is in search of an exceptional Senior Governance, Risk, and Compliance (GRC) Analyst .&nbsp; &nbsp; About RainFocus &nbsp; RainFocus cares about its employees, customers, and the world in which we live. Our rapidly growing team serves Fortune 500 companies like Adobe, Cisco, IBM, Oracle, VMware, and others to prepare and execute in-person, virtual, and hybrid events across the world. Those events are delivered through our industry-disrupting software platform, with groundbreaking business intelligence, to elevate the attendee experience",
+      "tags": [
+        "analyst",
+        "design",
+        "saas",
+        "infosec",
+        "education",
+        "technical",
+        "dev",
+        "cloud",
+        "exec",
+        "senior",
+        "ops",
+        "marketing",
+        "engineer",
+        "digital nomad"
+      ],
+      "verdict": "review",
+      "fit": 30,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -1416,42 +1556,6 @@
       ]
     },
     {
-      "title": "Staff Software Development Engineer SDM",
-      "company": "Delinea",
-      "location": "Redwood City",
-      "url": "https://remoteOK.com/remote-jobs/remote-staff-software-development-engineer-sdm-delinea-1136796",
-      "source": "RemoteOK",
-      "description": "About Delinea: Delinea is a pioneer in securing human and machine identities through intelligent, centralized authorization, empowering organizations to seamlessly govern their interactions across the modern enterprise. Leveraging AI-powered intelligence, Delineaâs leading cloud-native Identity Security Platform applies context throughout the entire identity lifecycle â across cloud and traditional infrastructure, data, SaaS applications, and AI. It is the only platform that enables you to discover all identities â including workforce, IT administrator, developers, and machines â assig",
-      "tags": [
-        "dev",
-        "design",
-        "saas",
-        "sys admin",
-        "infosec",
-        "vfx",
-        "technical",
-        "web dev",
-        "exec",
-        "devops",
-        "education",
-        "finance",
-        "cloud",
-        "api",
-        "admin",
-        "ops",
-        "golang",
-        "medical",
-        "engineer",
-        "backend",
-        "digital nomad"
-      ],
-      "verdict": "blocked",
-      "fit": 0,
-      "reasons": [
-        "Staff-level — usually 5–10+ yrs, you have ~4"
-      ]
-    },
-    {
       "title": "Director, FinOps",
       "company": "ZoomInfo Technologies LLC",
       "location": "Anywhere in the World",
@@ -1575,54 +1679,6 @@
       "fit": 0,
       "reasons": [
         "Head of-level — usually 5–10+ yrs, you have ~4"
-      ]
-    },
-    {
-      "title": "Director I, Data Science Product Management",
-      "company": "Liberty Mutual",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/148198-director-i-data-science-product-management",
-      "source": "Jobicy",
-      "description": "Description About the TeamThe Enterprise Data &amp; Data Science organization provides centralized product, platform, and technology support for Data Science teams across Liberty Mutual. Our team focuses on enabling the development, deployment, and adoption of AI/ML solutions through shared platforms, reusable capabilities, and enterprise-scale data science practices. We partner closely with Data Scientists, Engineers, Architects,&hellip;",
-      "tags": [
-        "data science &amp; analytics"
-      ],
-      "verdict": "blocked",
-      "fit": 0,
-      "reasons": [
-        "Director-level — usually 5–10+ yrs, you have ~4"
-      ]
-    },
-    {
-      "title": "Regional Sales Director, Brazil",
-      "company": "GitLab",
-      "location": "Brazil",
-      "url": "https://jobicy.com/jobs/150242-regional-sales-director-brazil",
-      "source": "Jobicy",
-      "description": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster. The same principles built into&hellip;",
-      "tags": [
-        "sales"
-      ],
-      "verdict": "blocked",
-      "fit": 0,
-      "reasons": [
-        "Director-level — usually 5–10+ yrs, you have ~4"
-      ]
-    },
-    {
-      "title": "Director, Delivery (EMEA)",
-      "company": "Testlio",
-      "location": "EMEA",
-      "url": "https://jobicy.com/jobs/148107-director-delivery-emea",
-      "source": "Jobicy",
-      "description": "About the jobTestlio’s fully managed crowdsourced testing platform, powered by our proprietary intelligence technology - LeoAI EngineTM, integrates expert, on-demand testers directly into your release process. Ship faster and more confidently with global coverage across 600,000+ devices, 800+ payment methods, 150+ countries, and 100+ languages. To learn more, visit testlio.com.We are hiring a Director, Delivery (EMEA)&hellip;",
-      "tags": [
-        "project &amp; program management"
-      ],
-      "verdict": "blocked",
-      "fit": 0,
-      "reasons": [
-        "Director-level — usually 5–10+ yrs, you have ~4"
       ]
     }
   ]
