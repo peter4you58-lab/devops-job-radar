@@ -1,11 +1,11 @@
 {
-  "generated": "2026-08-23 06:21 UTC",
-  "count": 83,
+  "generated": "2026-08-24 06:33 UTC",
+  "count": 84,
   "summary": {
-    "scanned": 83,
-    "eligible": 19,
-    "review": 51,
-    "blocked": 13
+    "scanned": 84,
+    "eligible": 18,
+    "review": 54,
+    "blocked": 12
   },
   "jobs": [
     {
@@ -135,28 +135,6 @@
         "next.js",
         "adobe illustrator",
         "flutter"
-      ],
-      "verdict": "eligible",
-      "fit": 62,
-      "reasons": [
-        "explicitly open to Africa/Nigeria",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Senior AI Platform Engineer",
-      "company": "Hire Hangar",
-      "location": "Argentina, Bolivia, Colombia, Egypt, Honduras, Mexico, Nicaragua, Panama, Peru, Philippines, South Africa",
-      "url": "https://himalayas.app/companies/hire-hangar/jobs/senior-ai-platform-engineer-8228704431",
-      "source": "Himalayas",
-      "description": "Join Hire Hangar and work with fast-growing global companies while building a long-term career. Job Title Senior AI Platform Engineer Location Remote Time Zone US Time Zones (PST - EST) Role Overview This role sits at the intersection of AI engineering and platform development. As a Senior AI Platform Engineer, you will own the contextual intelligence layer that powers our AI agents — ensuring they understand, reason, and act with precision across our SaaS ecosystem. You will work at the cutting edge of how structured knowledge is used to make AI agents smarter and more reliable. This is a rol",
-      "tags": [
-        "senior-ai-platform-engineer",
-        "senior-ai-platform-developer",
-        "senior-ml-platform-engineer",
-        "senior-ai-engineer",
-        "senior-ai-infrastructure-engineer",
-        "senior-ai-software-engineer"
       ],
       "verdict": "eligible",
       "fit": 62,
@@ -763,22 +741,6 @@
       ]
     },
     {
-      "title": "Manager, Customer Success Managers, EMEA",
-      "company": "GitLab",
-      "location": "Austria, Germany",
-      "url": "https://jobicy.com/jobs/148783-manager-customer-success-managers-emea",
-      "source": "Jobicy",
-      "description": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster. The same principles built into&hellip;",
-      "tags": [
-        "customer support &amp; success"
-      ],
-      "verdict": "review",
-      "fit": 48,
-      "reasons": [
-        "Germany-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
       "title": "Senior DevOps Engineer - LATAM",
       "company": "Luxury Presence",
       "location": "LATAM, Brazil",
@@ -843,6 +805,23 @@
       "fit": 46,
       "reasons": [
         "Costa rica-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Senior Site Reliability Engineer",
+      "company": "Remote",
+      "location": "EMEA",
+      "url": "https://jobicy.com/jobs/148108-senior-site-reliability-engineer",
+      "source": "Jobicy",
+      "description": "About Remote Remote is solving modern organizations’ biggest challenge – navigating global employment compliantly with ease. We make it possible for businesses of all sizes to recruit, pay, and manage international teams. With our core values at heart and future focused work culture, our team works tirelessly on ambitious problems, asynchronously, around the world. You&hellip;",
+      "tags": [
+        "devops &amp; infrastructure"
+      ],
+      "verdict": "review",
+      "fit": 46,
+      "reasons": [
+        "EMEA-tagged — verify it's open to Africa first",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -932,6 +911,35 @@
       ]
     },
     {
+      "title": "Senior Infrastructure & Private Cloud Engineer",
+      "company": "LUZA Group",
+      "location": "United States",
+      "url": "https://himalayas.app/companies/luza-group/jobs/senior-infrastructure-private-cloud-engineer",
+      "source": "Himalayas",
+      "description": "Luza is an all-inclusive consulting company focused on talent, tech and innovation. We exist to elevate companies and humans all around the world, making change, from the inside to the outside. We believe that technology + human kindness positively impacts every community around the world. Our approach is simple, we see a world without borders, and believe in equal opportunities. We are guided by our core principles of spreading positivity, good energy and promote equality and care for others. Our hiring process is unique! People are selected by their value, education, talent and personality. ",
+      "tags": [
+        "infrastructure-engineering",
+        "private-cloud-engineering",
+        "systems-administrator",
+        "cloud-operations",
+        "platform-and-infrastructure-engineering",
+        "senior-cloud-infrastructure-engineer",
+        "senior-infrastructure-engineer",
+        "senior-it-infrastructure-engineer",
+        "senior-infrastructure-operations-engineer",
+        "senior-cloud-systems-engineer",
+        "senior-cloud-platform-engineer",
+        "senior-infrastructure-engineering",
+        "senior-cloud-engineer"
+      ],
+      "verdict": "review",
+      "fit": 46,
+      "reasons": [
+        "United states-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
       "title": "Community Engineer (multiple roles and seniority levels)",
       "company": "Canonical Ltd.",
       "location": "Anywhere",
@@ -946,6 +954,34 @@
       "reasons": [
         "Africa-friendly employer (Canonical) — role location unconfirmed",
         "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Sovereign Cloud Sales Specialist",
+      "company": "Cloudera",
+      "location": "Switzerland",
+      "url": "https://himalayas.app/companies/cloudera/jobs/sovereign-cloud-sales-specialist-64099327",
+      "source": "Himalayas",
+      "description": "Business Area: Sales Seniority Level: Mid-Senior level Job Description: At Cloudera , we empower people to transform complex data into clear and actionable insights. With as much data under management as the hyperscalers, we're the preferred data partner for the top companies in almost every industry. Powered by the relentless innovation of the open source community, Cloudera advances digital transformation for the world’s largest enterprises. The Sovereign Cloud Sales specialist is a brand new, purpose-built role to help build and grow the Sovereign Cloud opportunity in EMEA. This person will",
+      "tags": [
+        "cloud-sales",
+        "enterprise-sales",
+        "sales-specialist",
+        "sovereign-cloud",
+        "emea-sales",
+        "sovereign-cloud-sales",
+        "cloud-sales-specialist",
+        "cloud-security-sales-specialist",
+        "cloud-sales-executive",
+        "cloud-sales-account-executive",
+        "cloud-sales-manager",
+        "aws-sales-specialist",
+        "sales"
+      ],
+      "verdict": "review",
+      "fit": 40,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa"
       ]
     },
     {
@@ -1114,6 +1150,22 @@
       ]
     },
     {
+      "title": "Engineering Manager I, Applications",
+      "company": "StackAdapt",
+      "location": "Canada",
+      "url": "https://jobicy.com/jobs/149602-engineering-manager-i-applications",
+      "source": "Jobicy",
+      "description": "StackAdapt is the leading technology company that empowers marketers to reach, engage, and convert audiences with precision. With 465 billion automated optimizations per second, the AI-powered StackAdapt Marketing Platform seamlessly connects brand and performance marketing to drive measurable results across the entire customer journey. The most forward-thinking marketers choose StackAdapt to orchestrate high-impact campaigns across&hellip;",
+      "tags": [
+        "software engineering"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "Canada-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
       "title": "Cloud Release Quality Manager",
       "company": "Legion",
       "location": "USA",
@@ -1274,6 +1326,33 @@
       ]
     },
     {
+      "title": "Sr. Cloud Threat Hunter - AWS",
+      "company": "Crowdstrike",
+      "location": "United States",
+      "url": "https://himalayas.app/companies/crowdstrike/jobs/sr-cloud-threat-hunter-aws",
+      "source": "Himalayas",
+      "description": "As a global leader in cybersecurity, CrowdStrike protects the people, processes and technologies that drive modern organizations. Since 2011, our mission hasn’t changed — we’re here to stop breaches, and we’ve redefined modern security with the world’s most advanced AI-native platform. We work on large scale distributed systems, processing almost 3 trillion events per day and this traffic is growing daily. Our customers span all industries, and they count on CrowdStrike to keep their businesses running, their communities safe and their lives moving forward. We're proud to work for a mission-dr",
+      "tags": [
+        "cloud-threat-hunting",
+        "aws-security",
+        "cloud-security",
+        "cybersecurity",
+        "threat-intelligence",
+        "senior-threat-hunting-engineer",
+        "senior-cloud-security-analyst",
+        "aws-security-engineer",
+        "aws-security-specialist",
+        "lead-threat-hunter",
+        "cloud-security-engineer"
+      ],
+      "verdict": "review",
+      "fit": 34,
+      "reasons": [
+        "United states-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
       "title": "Senior Independent AI Engineer / Architect",
       "company": "A.Team",
       "location": "Americas, Europe, Israel",
@@ -1386,23 +1465,6 @@
       "description": "The QA Automation Team is the ultimate guardian of our platform’s reliability, scalability, and deployment velocity. In a complex, data-heavy ecosystem, manual testing is a bottleneck; continuous, intelligent, and bulletproof automation is the only way forward. We are looking for a QA Automation Lead who will architect, scale, and own our automated testing strategy end-to-end.&hellip;",
       "tags": [
         "qa &amp; testing"
-      ],
-      "verdict": "review",
-      "fit": 30,
-      "reasons": [
-        "Europe-tagged — verify it's open to Africa first",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Senior Data Engineer",
-      "company": "Zartis",
-      "location": "Europe",
-      "url": "https://jobicy.com/jobs/148223-senior-data-engineer-2",
-      "source": "Jobicy",
-      "description": "The company and our mission: Zartis is a global AI transformation and technology consulting partner where talented engineers and technologists work on cutting edge innovation. We partner with ambitious organizations to design, build, and scale technology solutions that deliver real impact. Our teams bring deep expertise in AI driven platforms, secure API architectures, and cloud&hellip;",
-      "tags": [
-        "data science &amp; analytics"
       ],
       "verdict": "review",
       "fit": 30,
@@ -1529,30 +1591,6 @@
       "fit": 0,
       "reasons": [
         "Principal-level — usually 5–10+ yrs, you have ~4"
-      ]
-    },
-    {
-      "title": "Member of Technical Staff Engineering",
-      "company": "Physical Superintelligence",
-      "location": "Boston",
-      "url": "https://remoteOK.com/remote-jobs/remote-member-of-technical-staff-engineering-physical-superintelligence-1136798",
-      "source": "RemoteOK",
-      "description": "Overview Physical Superintelligence is a startup with roots at Google, NVIDIA, Harvard, Meta, MIT, Oxford, Johns Hopkins, Cambridge, and the Perimeter Institute building AI systems to discover new physics at scale. We are seeking engineers to build platform infrastructure at the intersection of computational science, AI systems, and software engineering. Our mission is to discover and commercialize transformative physics breakthroughs at scale with artificial superintelligence, safely, verifiably, and for broad public benefit. The last century's golden age of physics gave us transistors, laser",
-      "tags": [
-        "design",
-        "infosec",
-        "technical",
-        "dev",
-        "testing",
-        "cloud",
-        "exec",
-        "engineer",
-        "digital nomad"
-      ],
-      "verdict": "blocked",
-      "fit": 0,
-      "reasons": [
-        "Staff-level — usually 5–10+ yrs, you have ~4"
       ]
     },
     {
