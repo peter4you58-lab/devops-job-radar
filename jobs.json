@@ -1,10 +1,10 @@
 {
-  "generated": "2026-08-24 06:33 UTC",
-  "count": 84,
+  "generated": "2026-08-25 06:24 UTC",
+  "count": 83,
   "summary": {
-    "scanned": 84,
-    "eligible": 18,
-    "review": 54,
+    "scanned": 83,
+    "eligible": 21,
+    "review": 50,
     "blocked": 12
   },
   "jobs": [
@@ -141,6 +141,35 @@
       "reasons": [
         "explicitly open to Africa/Nigeria",
         "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Senior DevOps Engineer",
+      "company": "Lemon.io",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/lemon-io-senior-devops-engineer-3",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: New York, NY URL: https://lemon.io Senior Developer? Work Remote. Get Paid Well. Build What Matters. Lemon.io connects hand-picked senior developers with vetted startups across the US and Europe — no bidding wars, no ghosting, just serious opportunities. We're currently hiring for a research-driven AI company on a mission to slash the cost of modern AI — co-designing hardware, software, algorithms, and models to make AI's benefits accessible to everyone. They're active open-source contributors, building the infrastructure behind next-generation AI at scale. Open roles: Senior Sof",
+      "tags": [],
+      "verdict": "eligible",
+      "fit": 60,
+      "reasons": [
+        "remote — anywhere / global",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Application Security Engineer II",
+      "company": "Abnormal",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/abnormal-application-security-engineer-ii",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Remote - USA About the Role Abnormal AI is looking for an Application Security Engineer II to secure the AI-powered systems at the core of our AWS-based platform (LLM-integrated features, agentic workflows, MCP connectors, and the model supply chain) against threats like prompt injection at production scale. This is an individual contributor role that blends deep application security expertise with strong engineering fundamentals. You'll focus on integrating security into every phase of our software development lifecycle, conducting comprehensive security reviews, and partnering ",
+      "tags": [],
+      "verdict": "eligible",
+      "fit": 54,
+      "reasons": [
+        "remote — anywhere / global"
       ]
     },
     {
@@ -286,6 +315,20 @@
       ]
     },
     {
+      "title": "Critical Situation Manager",
+      "company": "Abnormal",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/abnormal-critical-situation-manager",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Remote - USA The Critical Situation Manager owns the customer-facing response when a customer's trust in the platform has been shaken by a significant efficacy or product concern.&nbsp; This role engages when a customer's feedback is substantive and requires a coordinated investigation and response from R&amp;D and other technical teams. The Critical Situation Manager leads that investigation, translates technical findings into clear, confidence-restoring customer communication, and owns the engagement through to a formal resolution and close-out. As a Critical Situation Manager,",
+      "tags": [],
+      "verdict": "eligible",
+      "fit": 50,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
+    {
       "title": "Associate Instructor",
       "company": "BeyondTrust",
       "location": "Anywhere in the World",
@@ -393,7 +436,7 @@
     },
     {
       "title": "Site Reliability Engineer",
-      "company": "Canonical Ltd.",
+      "company": "Canonical",
       "location": "Anywhere",
       "url": "https://jobicy.com/jobs/149547-site-reliability-engineer",
       "source": "Jobicy",
@@ -409,7 +452,7 @@
     },
     {
       "title": "Senior Site Reliability Engineer",
-      "company": "Canonical Ltd.",
+      "company": "Canonical",
       "location": "Anywhere",
       "url": "https://jobicy.com/jobs/149557-senior-site-reliability-engineer-5",
       "source": "Jobicy",
@@ -454,6 +497,22 @@
       "fit": 56,
       "reasons": [
         "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "Azure DevOps Engineer (Cloud & AI Delivery)",
+      "company": "Oowlish Technology",
+      "location": "LATAM, Argentina, Brazil, Mexico",
+      "url": "https://jobicy.com/jobs/151481-azure-devops-engineer-cloud-ai-delivery",
+      "source": "Jobicy",
+      "description": "Join Our Team Oowlish, one of Latin America's rapidly expanding software development companies, is seeking experienced technology professionals to enhance our diverse and vibrant team. As a valued member of Oowlish, you will collaborate with premier clients from the United States and Europe, contributing to pioneering digital solutions. Our commitment to creating a nurturing work&hellip;",
+      "tags": [
+        "devops &amp; infrastructure"
+      ],
+      "verdict": "review",
+      "fit": 52,
+      "reasons": [
+        "Brazil-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -518,22 +577,6 @@
       "fit": 52,
       "reasons": [
         "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Customer Retention Manager",
-      "company": "Platform.sh",
-      "location": "Canada, France, Germany, Spain",
-      "url": "https://jobicy.com/jobs/150336-customer-retention-manager",
-      "source": "Jobicy",
-      "description": "About Upsun (formerly Platform.sh) Upsun is the cloud application platform humans and robots love. It is built for today’s hybrid teams, where AI agents write and test code and humans focus on solving the problems that really matter. Developers, DevOps engineers, and platform teams use Upsun to build, ship, and scale confidently without wrestling with backend&hellip;",
-      "tags": [
-        "marketing &amp; sales"
-      ],
-      "verdict": "review",
-      "fit": 52,
-      "reasons": [
-        "Germany-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -678,7 +721,7 @@
     },
     {
       "title": "Engineering Manager - Solutions Engineering",
-      "company": "Canonical Ltd.",
+      "company": "Canonical",
       "location": "Anywhere",
       "url": "https://jobicy.com/jobs/149556-engineering-manager-solutions-engineering",
       "source": "Jobicy",
@@ -694,7 +737,7 @@
     },
     {
       "title": "Microservices Engineer",
-      "company": "Canonical Ltd.",
+      "company": "Canonical",
       "location": "Anywhere",
       "url": "https://jobicy.com/jobs/149558-microservices-engineer",
       "source": "Jobicy",
@@ -710,7 +753,7 @@
     },
     {
       "title": "Software Engineer - Solutions Engineering",
-      "company": "Canonical Ltd.",
+      "company": "Canonical",
       "location": "Anywhere",
       "url": "https://jobicy.com/jobs/149560-software-engineer-solutions-engineering",
       "source": "Jobicy",
@@ -722,22 +765,6 @@
       "fit": 48,
       "reasons": [
         "Africa-friendly employer (Canonical) — role location unconfirmed"
-      ]
-    },
-    {
-      "title": "Software Engineer - Python - Container Images",
-      "company": "Canonical Ltd.",
-      "location": "APAC, EMEA, LATAM, Canada, USA",
-      "url": "https://jobicy.com/jobs/150364-software-engineer-python-container-images",
-      "source": "Jobicy",
-      "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders&hellip;",
-      "tags": [
-        "software engineering"
-      ],
-      "verdict": "review",
-      "fit": 48,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -792,19 +819,19 @@
       ]
     },
     {
-      "title": "Senior DevOps Engineer",
-      "company": "Experian",
-      "location": "Costa Rica",
-      "url": "https://jobicy.com/jobs/144464-senior-devops-engineer-5",
+      "title": "Senior IT Engineer",
+      "company": "Qventus",
+      "location": "Canada",
+      "url": "https://jobicy.com/jobs/151501-senior-it-engineer",
       "source": "Jobicy",
-      "description": "Company DescriptionExperian is a global data and technology company, powering opportunities for people and businesses around the world. We operate across a range of markets, from financial services to healthcare, automotive, agribusiness, insurance, and many more. Experian invests in people and new advanced technologies to unlock the power of data. We have an amazing team&hellip;",
+      "description": "On this journey for over 12 years, Qventus is leading the transformation of healthcare. We enable hospitals to focus on what matters most: patient care. Our innovative solutions harness the power of machine learning, generative AI, and behavioral science to deliver exceptional outcomes and empower care teams to anticipate and resolve issues before they arise.&hellip;",
       "tags": [
         "devops &amp; infrastructure"
       ],
       "verdict": "review",
       "fit": 46,
       "reasons": [
-        "Costa rica-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "Canada-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -911,37 +938,8 @@
       ]
     },
     {
-      "title": "Senior Infrastructure & Private Cloud Engineer",
-      "company": "LUZA Group",
-      "location": "United States",
-      "url": "https://himalayas.app/companies/luza-group/jobs/senior-infrastructure-private-cloud-engineer",
-      "source": "Himalayas",
-      "description": "Luza is an all-inclusive consulting company focused on talent, tech and innovation. We exist to elevate companies and humans all around the world, making change, from the inside to the outside. We believe that technology + human kindness positively impacts every community around the world. Our approach is simple, we see a world without borders, and believe in equal opportunities. We are guided by our core principles of spreading positivity, good energy and promote equality and care for others. Our hiring process is unique! People are selected by their value, education, talent and personality. ",
-      "tags": [
-        "infrastructure-engineering",
-        "private-cloud-engineering",
-        "systems-administrator",
-        "cloud-operations",
-        "platform-and-infrastructure-engineering",
-        "senior-cloud-infrastructure-engineer",
-        "senior-infrastructure-engineer",
-        "senior-it-infrastructure-engineer",
-        "senior-infrastructure-operations-engineer",
-        "senior-cloud-systems-engineer",
-        "senior-cloud-platform-engineer",
-        "senior-infrastructure-engineering",
-        "senior-cloud-engineer"
-      ],
-      "verdict": "review",
-      "fit": 46,
-      "reasons": [
-        "United states-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
       "title": "Community Engineer (multiple roles and seniority levels)",
-      "company": "Canonical Ltd.",
+      "company": "Canonical",
       "location": "Anywhere",
       "url": "https://jobicy.com/jobs/149577-community-engineer-multiple-roles-and-seniority-levels",
       "source": "Jobicy",
@@ -957,31 +955,21 @@
       ]
     },
     {
-      "title": "Sovereign Cloud Sales Specialist",
-      "company": "Cloudera",
-      "location": "Switzerland",
-      "url": "https://himalayas.app/companies/cloudera/jobs/sovereign-cloud-sales-specialist-64099327",
+      "title": "GTM Coordinator, Cloud Native (Talent Pool)",
+      "company": "Percona",
+      "location": "Bulgaria, Croatia, Czechia, Greece, Hungary, India, Poland, Portugal, Spain",
+      "url": "https://himalayas.app/companies/percona/jobs/gtm-coordinator-cloud-native-talent-pool",
       "source": "Himalayas",
-      "description": "Business Area: Sales Seniority Level: Mid-Senior level Job Description: At Cloudera , we empower people to transform complex data into clear and actionable insights. With as much data under management as the hyperscalers, we're the preferred data partner for the top companies in almost every industry. Powered by the relentless innovation of the open source community, Cloudera advances digital transformation for the world’s largest enterprises. The Sovereign Cloud Sales specialist is a brand new, purpose-built role to help build and grow the Sovereign Cloud opportunity in EMEA. This person will",
+      "description": "GTM Coordinator, Cloud Native (Talent Pool) Talent Pooling Opportunity We are currently building a talent pool for this role and welcoming applications from candidates who may be interested in joining us in early Q4. Please note that this is a forward-planning recruitment process, so there may be a delay in responding to applications. We appreciate your patience and will be in touch with suitable candidates as the process progresses. About the role Percona is hiring a GTM Coordinator to support go-to-market execution for our Cloud Native product line: PostgreSQL, MySQL, and MongoDB Kubernetes ",
       "tags": [
-        "cloud-sales",
-        "enterprise-sales",
-        "sales-specialist",
-        "sovereign-cloud",
-        "emea-sales",
-        "sovereign-cloud-sales",
-        "cloud-sales-specialist",
-        "cloud-security-sales-specialist",
-        "cloud-sales-executive",
-        "cloud-sales-account-executive",
-        "cloud-sales-manager",
-        "aws-sales-specialist",
-        "sales"
+        "gtm-coordinator",
+        "talent-community-coordinator",
+        "talent-operations-coordinator"
       ],
       "verdict": "review",
       "fit": 40,
       "reasons": [
-        "location unconfirmed — verify it's open to Africa"
+        "Poland-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -1106,42 +1094,14 @@
       ]
     },
     {
-      "title": "Business Development Representative",
-      "company": "Outsite",
-      "location": "Northern America, Europe, UK, France, European timezones",
-      "url": "https://remotive.com/remote-jobs/sales/business-development-representative-2091075",
-      "source": "Remotive",
-      "description": "## About Outsite Outsite is a global coliving company for remote workers — hotel-quality service, extended-stay flexibility, and a built-in community, at the intersection of hospitality and lifestyle. We operate 40+ properties across 21+ cities on 5 continents, with 6,000+ verified members and an NPS of 65. ## About Outsite for Teams Outsite for Teams is Outsite's B2B expansion — giving companies, teams, and communities access to our global network of coliving and coworking spaces for their employees. Rather than a bulk discount, we position it as a meaningful perk: founders and leaders purcha",
-      "tags": [
-        "ai/ml",
-        "crm",
-        "business development",
-        "account management",
-        "partnerships",
-        "startup",
-        "sdr",
-        "hubspot",
-        "travel",
-        "pipedrive"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Uk-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Content Reviewer - United States",
-      "company": "TELUS Digital",
+      "title": "Project Manager",
+      "company": "Verra Mobility",
       "location": "USA",
-      "url": "https://remotive.com/remote-jobs/all-others/content-reviewer-united-states-2091074",
-      "source": "Remotive",
-      "description": "We are looking for an independent, flexible, remote opportunity where you can help improve AI-powered search technology from the comfort of your home? If you're curious, internet-savvy, and enjoy evaluating online content, this freelance project could be a great fit. A Day in the Life of a Content Reviewer - US In this role, you will analyze and provide feedback on text, webpages, images, and other types of online content for leading search engines using a specialized online platform. By reviewing and rating search results for relevance and quality, you will help improve the overall search exp",
+      "url": "https://jobicy.com/jobs/151512-project-manager-4",
+      "source": "Jobicy",
+      "description": "Position Overview As a Project Manager, you will play a key role in providing world class support to our external clients and internal teams by managing the end-to-end implementation of contracted technical programs and ensuring they are delivered in a timely manner. No challenge will be too big, and no issue will go unsolved! You&hellip;",
       "tags": [
-        "android",
-        "ios",
-        "social media",
-        "ai/ml"
+        "project &amp; program management"
       ],
       "verdict": "review",
       "fit": 36,
@@ -1150,19 +1110,19 @@
       ]
     },
     {
-      "title": "Engineering Manager I, Applications",
-      "company": "StackAdapt",
-      "location": "Canada",
-      "url": "https://jobicy.com/jobs/149602-engineering-manager-i-applications",
+      "title": "Backend Engineer (AI Agents)",
+      "company": "Maze",
+      "location": "Europe",
+      "url": "https://jobicy.com/jobs/151458-backend-engineer-ai-agents",
       "source": "Jobicy",
-      "description": "StackAdapt is the leading technology company that empowers marketers to reach, engage, and convert audiences with precision. With 465 billion automated optimizations per second, the AI-powered StackAdapt Marketing Platform seamlessly connects brand and performance marketing to drive measurable results across the entire customer journey. The most forward-thinking marketers choose StackAdapt to orchestrate high-impact campaigns across&hellip;",
+      "description": "Summary of the Role: As an Engineer at Maze, you'll play a pivotal role in shaping our product, with significant focus on the development of AI Agents and ML systems. You will have the unique opportunity to design, build, and scale a product from the ground up, influencing everything from architecture decisions to ML integrations&hellip;",
       "tags": [
         "software engineering"
       ],
       "verdict": "review",
       "fit": 36,
       "reasons": [
-        "Canada-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+        "Europe-tagged — verify it's open to Africa first"
       ]
     },
     {
@@ -1323,33 +1283,6 @@
       "fit": 36,
       "reasons": [
         "Europe-tagged — verify it's open to Africa first"
-      ]
-    },
-    {
-      "title": "Sr. Cloud Threat Hunter - AWS",
-      "company": "Crowdstrike",
-      "location": "United States",
-      "url": "https://himalayas.app/companies/crowdstrike/jobs/sr-cloud-threat-hunter-aws",
-      "source": "Himalayas",
-      "description": "As a global leader in cybersecurity, CrowdStrike protects the people, processes and technologies that drive modern organizations. Since 2011, our mission hasn’t changed — we’re here to stop breaches, and we’ve redefined modern security with the world’s most advanced AI-native platform. We work on large scale distributed systems, processing almost 3 trillion events per day and this traffic is growing daily. Our customers span all industries, and they count on CrowdStrike to keep their businesses running, their communities safe and their lives moving forward. We're proud to work for a mission-dr",
-      "tags": [
-        "cloud-threat-hunting",
-        "aws-security",
-        "cloud-security",
-        "cybersecurity",
-        "threat-intelligence",
-        "senior-threat-hunting-engineer",
-        "senior-cloud-security-analyst",
-        "aws-security-engineer",
-        "aws-security-specialist",
-        "lead-threat-hunter",
-        "cloud-security-engineer"
-      ],
-      "verdict": "review",
-      "fit": 34,
-      "reasons": [
-        "United states-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
     {
