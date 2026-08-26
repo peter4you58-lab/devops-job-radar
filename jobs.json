@@ -1,11 +1,11 @@
 {
-  "generated": "2026-08-25 06:24 UTC",
-  "count": 83,
+  "generated": "2026-08-26 06:27 UTC",
+  "count": 82,
   "summary": {
-    "scanned": 83,
+    "scanned": 82,
     "eligible": 21,
-    "review": 50,
-    "blocked": 12
+    "review": 52,
+    "blocked": 9
   },
   "jobs": [
     {
@@ -442,7 +442,7 @@
       "source": "Jobicy",
       "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in&hellip;",
       "tags": [
-        "devops &amp; infrastructure"
+        "devops & infrastructure"
       ],
       "verdict": "review",
       "fit": 64,
@@ -458,7 +458,7 @@
       "source": "Jobicy",
       "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders&hellip;",
       "tags": [
-        "devops &amp; infrastructure"
+        "devops & infrastructure"
       ],
       "verdict": "review",
       "fit": 58,
@@ -475,7 +475,7 @@
       "source": "Jobicy",
       "description": "Who We Are Launchpad Technologies Inc. is a global technology partner connecting top talent with high-impact projects across North America and beyond. We specialize in Staff Augmentation and product development, helping companies scale with agility while empowering professionals to grow in meaningful, remote-first environments. If you’re passionate about automating infrastructure, optimizing CI/CD pipelines, and building&hellip;",
       "tags": [
-        "devops &amp; infrastructure"
+        "devops & infrastructure"
       ],
       "verdict": "review",
       "fit": 56,
@@ -491,12 +491,28 @@
       "source": "Jobicy",
       "description": "Company DescriptionMirantis is the Kubernetes-native AI infrastructure company, enabling organizations to build and operate scalable, secure, and sovereign infrastructure for modern AI, machine learning, and data-intensive applications. By combining open source innovation with deep expertise in Kubernetes orchestration, Mirantis empowers platform engineering teams to deliver composable, production-ready developer platforms across any environment—on-premises, in the cloud,&hellip;",
       "tags": [
-        "marketing &amp; sales"
+        "marketing & sales"
       ],
       "verdict": "review",
       "fit": 56,
       "reasons": [
         "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "Manager DevOps Engineering (Observability & Developer Experience)",
+      "company": "Cision",
+      "location": "Bulgaria, Hungary",
+      "url": "https://jobicy.com/jobs/151548-manager-devops-engineering-observability-developer-experience",
+      "source": "Jobicy",
+      "description": "At Cision, we believe in empowering every individual to make an impact. Here, your voice is heard, your ideas are valued, and your unique perspective fuels our collective success. As part of our global team, you'll thrive in an environment that champions curiosity, collaboration, and innovation, all while making meaningful contributions to the brands we&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
+      "verdict": "review",
+      "fit": 52,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa"
       ]
     },
     {
@@ -507,7 +523,7 @@
       "source": "Jobicy",
       "description": "Join Our Team Oowlish, one of Latin America's rapidly expanding software development companies, is seeking experienced technology professionals to enhance our diverse and vibrant team. As a valued member of Oowlish, you will collaborate with premier clients from the United States and Europe, contributing to pioneering digital solutions. Our commitment to creating a nurturing work&hellip;",
       "tags": [
-        "devops &amp; infrastructure"
+        "devops & infrastructure"
       ],
       "verdict": "review",
       "fit": 52,
@@ -523,7 +539,7 @@
       "source": "Jobicy",
       "description": "We're all about helping brands turn ideas into impact. Frontify’s brand platform transforms how teams organize digital assets, collaborate on projects, and create engaging campaigns. Our people empower thousands of marketers and designers — including teams at Uber, Microsoft, Volkswagen, and Telefónica — to build engaging brands. With headquarters in St. Gallen, Switzerland, and offices&hellip;",
       "tags": [
-        "devops &amp; infrastructure"
+        "devops & infrastructure"
       ],
       "verdict": "review",
       "fit": 52,
@@ -539,7 +555,7 @@
       "source": "Jobicy",
       "description": "This is a remote position. We are seeking an experienced Atlassian Administrator to manage, optimize, and continuously improve our Atlassian Cloud ecosystem. This role will be responsible for the administration, configuration, customization, and support of Jira Software, Confluence, and Jira Service Management (JSM) , ensuring these platforms effectively support business processes and operational goals across&hellip;",
       "tags": [
-        "devops &amp; infrastructure"
+        "devops & infrastructure"
       ],
       "verdict": "review",
       "fit": 52,
@@ -571,7 +587,7 @@
       "source": "Jobicy",
       "description": "Infisical is the open source security infrastructure platform that engineers use for secrets management, certificates, and privileged access management. We help developers and organizations securely manage billions of secrets every month including application configuration, database credentials, certificates, and more. We’ve raised $19M from Y Combinator, Google, and Elad Gil, and our customers include Hugging Face,&hellip;",
       "tags": [
-        "marketing &amp; sales"
+        "marketing & sales"
       ],
       "verdict": "review",
       "fit": 52,
@@ -703,19 +719,28 @@
       ]
     },
     {
-      "title": "Customer Solutions Architect, Amazon Connect",
+      "title": "Senior Cloud Software Architect",
       "company": "Caylent",
-      "location": "Canada",
-      "url": "https://jobicy.com/jobs/149035-customer-solutions-architect-amazon-connect",
-      "source": "Jobicy",
-      "description": "Caylent is a cloud native services company that helps organizations bring the best out of their people and technology using Amazon Web Services (AWS). We provide a full-range of AWS services including workload migrations and modernization, cloud native application development, DevOps, data engineering, security and compliance, and everything in between. At Caylent, our people always&hellip;",
+      "location": "Argentina",
+      "url": "https://himalayas.app/companies/caylent/jobs/senior-cloud-software-architect-4767153209",
+      "source": "Himalayas",
+      "description": "Caylent is a cloud native services company that helps organizations bring the best out of their people and technology using Amazon Web Services (AWS). We provide a full-range of AWS services including workload migrations and modernization, cloud native application development, DevOps, data engineering, security and compliance, and everything in between. At Caylent , our people always come first. We are a global company and operate fully remote with employees in Canada, the United States, and Latin America. We celebrate the culture of each of our team members and foster a community of technolog",
       "tags": [
-        "customer support &amp; success"
+        "devops-engineer",
+        "cloud-native-applications",
+        "software-architecture",
+        "aws-solutions-architect",
+        "senior-cloud-software-architect",
+        "senior-cloud-architect",
+        "senior-cloud-architecture",
+        "senior-cloud-solutions-architect",
+        "software-architect",
+        "cloud-engineer"
       ],
       "verdict": "review",
       "fit": 50,
       "reasons": [
-        "Canada-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "Argentina-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -727,7 +752,7 @@
       "source": "Jobicy",
       "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders&hellip;",
       "tags": [
-        "product &amp; operations"
+        "product & operations"
       ],
       "verdict": "review",
       "fit": 48,
@@ -768,19 +793,19 @@
       ]
     },
     {
-      "title": "Senior DevOps Engineer - LATAM",
-      "company": "Luxury Presence",
-      "location": "LATAM, Brazil",
-      "url": "https://jobicy.com/jobs/150796-senior-devops-engineer-latam",
+      "title": "Senior DevOps Engineer",
+      "company": "Experian",
+      "location": "Costa Rica",
+      "url": "https://jobicy.com/jobs/144464-senior-devops-engineer-5",
       "source": "Jobicy",
-      "description": "Luxury Presence is building the AI growth platform for real estate. Backed by Bessemer Venture Partners and other top investors, we're a Series C company that has hit $100M in annual recurring revenue. More than 90,000 real estate professionals, including over 30% of the WSJ Real Trends top 100 agents in the United States, use&hellip;",
+      "description": "Company DescriptionExperian is a global data and technology company, powering opportunities for people and businesses around the world. We operate across a range of markets, from financial services to healthcare, automotive, agribusiness, insurance, and many more. Experian invests in people and new advanced technologies to unlock the power of data. We have an amazing team&hellip;",
       "tags": [
-        "devops &amp; infrastructure"
+        "devops & infrastructure"
       ],
       "verdict": "review",
       "fit": 46,
       "reasons": [
-        "Brazil-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "Costa rica-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -792,7 +817,7 @@
       "source": "Jobicy",
       "description": "Company DescriptionExperian is a global data and technology company, powering opportunities for people and businesses around the world. We help to redefine lending practices, uncover and prevent fraud, simplify healthcare, create marketing solutions, and gain deeper insights into the automotive market, all using our unique combination of data, analytics and software. We also assist millions&hellip;",
       "tags": [
-        "devops &amp; infrastructure"
+        "devops & infrastructure"
       ],
       "verdict": "review",
       "fit": 46,
@@ -809,7 +834,24 @@
       "source": "Jobicy",
       "description": "RevenueCat removes the headaches of building and scaling in‑app subscriptions. Since graduating from YC’s S18 batch we’ve grown into the default monetization platform for mobile: we’re in &gt;40% of newly shipped subscription apps, we process $12B+ in annual purchase volume, and we help everyone from a solo dev in Brazil to the OpenAI mobile team&hellip;",
       "tags": [
-        "devops &amp; infrastructure"
+        "devops & infrastructure"
+      ],
+      "verdict": "review",
+      "fit": 46,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Senior DevEx Engineer",
+      "company": "RevenueCat",
+      "location": "APAC, EMEA, UK, USA",
+      "url": "https://jobicy.com/jobs/151622-senior-devex-engineer",
+      "source": "Jobicy",
+      "description": "RevenueCat removes the headaches of building and scaling in‑app subscriptions. Since graduating from YC’s S18 batch we’ve grown into the default monetization platform for mobile: we’re in &gt;40% of newly shipped subscription apps, we process $12B+ in annual purchase volume, and we help everyone from a solo dev in Brazil to the OpenAI mobile team&hellip;",
+      "tags": [
+        "devops & infrastructure"
       ],
       "verdict": "review",
       "fit": 46,
@@ -826,7 +868,7 @@
       "source": "Jobicy",
       "description": "On this journey for over 12 years, Qventus is leading the transformation of healthcare. We enable hospitals to focus on what matters most: patient care. Our innovative solutions harness the power of machine learning, generative AI, and behavioral science to deliver exceptional outcomes and empower care teams to anticipate and resolve issues before they arise.&hellip;",
       "tags": [
-        "devops &amp; infrastructure"
+        "devops & infrastructure"
       ],
       "verdict": "review",
       "fit": 46,
@@ -843,7 +885,7 @@
       "source": "Jobicy",
       "description": "About Remote Remote is solving modern organizations’ biggest challenge – navigating global employment compliantly with ease. We make it possible for businesses of all sizes to recruit, pay, and manage international teams. With our core values at heart and future focused work culture, our team works tirelessly on ambitious problems, asynchronously, around the world. You&hellip;",
       "tags": [
-        "devops &amp; infrastructure"
+        "devops & infrastructure"
       ],
       "verdict": "review",
       "fit": 46,
@@ -877,7 +919,7 @@
       "source": "Jobicy",
       "description": "About Nebius: Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-house AI/ML infrastructure. Built by engineers, for engineers. From&hellip;",
       "tags": [
-        "product &amp; operations"
+        "product & operations"
       ],
       "verdict": "review",
       "fit": 46,
@@ -894,7 +936,7 @@
       "source": "Jobicy",
       "description": "Lead Cloud Platform &amp; Dev Ops Engineer - 40286 University Staff Description Join Our Team and Make a Difference in Higher Education! At the System Administration office at the University of Colorado, we are dedicated to building a workplace where everyone feels valued, supported, and empowered to thrive. Our office is committed to fostering a culture where employees find community, a&hellip;",
       "tags": [
-        "devops &amp; infrastructure"
+        "devops & infrastructure"
       ],
       "verdict": "review",
       "fit": 46,
@@ -911,7 +953,7 @@
       "source": "Jobicy",
       "description": "Lead Cloud Platform &amp; Dev Ops Engineer(Job Number: 40286)Description Join Our Team and Make a Difference in Higher Education! At the System Administration office at the University of Colorado, we are dedicated to building a workplace where everyone feels valued, supported, and empowered to thrive. Our office is committed to fostering a culture where employees find community, a&hellip;",
       "tags": [
-        "devops &amp; infrastructure"
+        "devops & infrastructure"
       ],
       "verdict": "review",
       "fit": 46,
@@ -945,31 +987,13 @@
       "source": "Jobicy",
       "description": "Our ambition is to set a standard of excellence when it comes to serving the open source ecosystem. This is your chance to be a part of that as a Community Engineer at Canonical.We are building community management at scale. We have multiple positions available, at different seniority levels.All applications and candidates are handled through&hellip;",
       "tags": [
-        "customer support &amp; success"
+        "customer support & success"
       ],
       "verdict": "review",
       "fit": 42,
       "reasons": [
         "Africa-friendly employer (Canonical) — role location unconfirmed",
         "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "GTM Coordinator, Cloud Native (Talent Pool)",
-      "company": "Percona",
-      "location": "Bulgaria, Croatia, Czechia, Greece, Hungary, India, Poland, Portugal, Spain",
-      "url": "https://himalayas.app/companies/percona/jobs/gtm-coordinator-cloud-native-talent-pool",
-      "source": "Himalayas",
-      "description": "GTM Coordinator, Cloud Native (Talent Pool) Talent Pooling Opportunity We are currently building a talent pool for this role and welcoming applications from candidates who may be interested in joining us in early Q4. Please note that this is a forward-planning recruitment process, so there may be a delay in responding to applications. We appreciate your patience and will be in touch with suitable candidates as the process progresses. About the role Percona is hiring a GTM Coordinator to support go-to-market execution for our Cloud Native product line: PostgreSQL, MySQL, and MongoDB Kubernetes ",
-      "tags": [
-        "gtm-coordinator",
-        "talent-community-coordinator",
-        "talent-operations-coordinator"
-      ],
-      "verdict": "review",
-      "fit": 40,
-      "reasons": [
-        "Poland-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -1094,6 +1118,54 @@
       ]
     },
     {
+      "title": "Software Engineer (All Levels)",
+      "company": "Fieldguide",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/151601-software-engineer-all-levels",
+      "source": "Jobicy",
+      "description": "About Fieldguide Fieldguide is redefining trust in global commerce by modernizing how cybersecurity, privacy, and financial audits are done. We build software that empowers the practitioners who enable trust between businesses—automating and streamlining their work to deliver faster, higher-quality results. We’re a remote-first company headquartered in San Francisco, CA, backed by top investors including Bessemer&hellip;",
+      "tags": [
+        "software engineering"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "Commercial Account Executive - Benelux",
+      "company": "Chainguard",
+      "location": "Netherlands",
+      "url": "https://jobicy.com/jobs/151547-commercial-account-executive-benelux",
+      "source": "Jobicy",
+      "description": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. Our customers include Fortune 500 enterprises and global industry leaders, including Anduril, Canva, Fortinet, Hewlett Packard Enterprise, OpenAI,&hellip;",
+      "tags": [
+        "sales"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "Netherlands-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "Sales Engineer (French) SMB",
+      "company": "1Password",
+      "location": "UK",
+      "url": "https://jobicy.com/jobs/151538-sales-engineer-french-smb",
+      "source": "Jobicy",
+      "description": "1Password is growing. We’ve surpassed $400M in ARR and we’re continuing to accelerate, earning a spot on the Forbes Cloud 100 for four years in a row and teaming up with iconic partners like Oracle Red Bull Racing. About 1Password At 1Password, we’re building the foundation for a safe, productive digital future. Our mission is&hellip;",
+      "tags": [
+        "sales"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "Uk-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
       "title": "Project Manager",
       "company": "Verra Mobility",
       "location": "USA",
@@ -1101,7 +1173,7 @@
       "source": "Jobicy",
       "description": "Position Overview As a Project Manager, you will play a key role in providing world class support to our external clients and internal teams by managing the end-to-end implementation of contracted technical programs and ensuring they are delivered in a timely manner. No challenge will be too big, and no issue will go unsolved! You&hellip;",
       "tags": [
-        "project &amp; program management"
+        "project & program management"
       ],
       "verdict": "review",
       "fit": 36,
@@ -1133,7 +1205,7 @@
       "source": "Jobicy",
       "description": "Cloud Release Quality Manager AI-Enabled Release Program Manager Remote, United States JOB OVERVIEW Are you passionate about building enterprise cloud solutions, and excited about using AI to reinvent how software gets released? We are seeking a highly organized, proactive, and technically curious Cloud Release Quality Manager to lead and coordinate software releases across our cloud&hellip;",
       "tags": [
-        "project &amp; program management"
+        "project & program management"
       ],
       "verdict": "review",
       "fit": 36,
@@ -1213,7 +1285,7 @@
       "source": "Jobicy",
       "description": "At Gopuff, data sits at the heart of our strategy. We are reimagining how people purchase everyday essentials, from snacks to household goods to alcohol, all delivered in minutes. To fuel this mission, we are seeking a Data Engineer to design, build, and scale the data systems that power insights, experimentation, and operational excellence across&hellip;",
       "tags": [
-        "data science &amp; analytics"
+        "data science & analytics"
       ],
       "verdict": "review",
       "fit": 36,
@@ -1245,7 +1317,7 @@
       "source": "Jobicy",
       "description": "Sonatype is the software supply chain security company. We provide the world’s best end-to-end software supply chain security solution, combining the only proactive protection against malicious open source, the only enterprise grade SBOM management and the leading open source dependency management platform. This empowers enterprises to create and maintain secure, quality, and innovative software at&hellip;",
       "tags": [
-        "customer support &amp; success"
+        "customer support & success"
       ],
       "verdict": "review",
       "fit": 36,
@@ -1267,22 +1339,6 @@
       "fit": 36,
       "reasons": [
         "APAC-tagged — verify it's open to Africa first"
-      ]
-    },
-    {
-      "title": "AI Solutions Builder",
-      "company": "Smartcat",
-      "location": "Europe",
-      "url": "https://jobicy.com/jobs/150593-ai-solutions-builder",
-      "source": "Jobicy",
-      "description": "About Smartcat Smartcat is building the future of work, where human expertise meets digital teammates to drive 10x to 1000x productivity gains for the world’s leading enterprises. We’re on the frontier of an entirely new category: Agentic AI. We enable enterprises to build high-performing hybrid workforces made up of both humans and AI agents. These&hellip;",
-      "tags": [
-        "software engineering"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Europe-tagged — verify it's open to Africa first"
       ]
     },
     {
@@ -1339,6 +1395,23 @@
       ]
     },
     {
+      "title": "Senior Product Manager - AI",
+      "company": "NetDocuments",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/151570-senior-product-manager-ai",
+      "source": "Jobicy",
+      "description": "NetDocuments is committed to providing an excellent candidate experience and will never ask you to engage in recruitment activity without phone, video, and in person meetings and communications from emails using the @netdocuments.com domain. If you have any concerns or questions about communications you have received, please send them to hrgroup@netdocuments.com so our team members can review.&hellip;",
+      "tags": [
+        "product & operations"
+      ],
+      "verdict": "review",
+      "fit": 30,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
       "title": "Senior AI Engineer",
       "company": "eMerchantPay",
       "location": "Bulgaria",
@@ -1369,40 +1442,6 @@
       "fit": 30,
       "reasons": [
         "Canada-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Senior Software Architect (C# / AI First) - GovTech SaaS company",
-      "company": "Truelogic",
-      "location": "LATAM",
-      "url": "https://jobicy.com/jobs/149164-senior-software-architect-c-ai-first-govtech-saas-company",
-      "source": "Jobicy",
-      "description": "About TruelogicAt Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of all sizes, from innovative startups to industry leaders, helping them achieve their digital transformation goals.Our team of 600+ highly skilled tech professionals, based in Latin&hellip;",
-      "tags": [
-        "software engineering"
-      ],
-      "verdict": "review",
-      "fit": 30,
-      "reasons": [
-        "Latam-tagged — verify it's open to Africa first",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "QA Automation Lead [gn] Data Intelligence",
-      "company": "Actian",
-      "location": "Europe",
-      "url": "https://jobicy.com/jobs/149048-qa-automation-lead-gn-data-intelligence",
-      "source": "Jobicy",
-      "description": "The QA Automation Team is the ultimate guardian of our platform’s reliability, scalability, and deployment velocity. In a complex, data-heavy ecosystem, manual testing is a bottleneck; continuous, intelligent, and bulletproof automation is the only way forward. We are looking for a QA Automation Lead who will architect, scale, and own our automated testing strategy end-to-end.&hellip;",
-      "tags": [
-        "qa &amp; testing"
-      ],
-      "verdict": "review",
-      "fit": 30,
-      "reasons": [
-        "Europe-tagged — verify it's open to Africa first",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -1493,40 +1532,6 @@
       ]
     },
     {
-      "title": "Principal Data Engineer",
-      "company": "Vomela",
-      "location": "Worldwide",
-      "url": "https://remoteOK.com/remote-jobs/remote-principal-data-engineer-vomela-1136860",
-      "source": "RemoteOK",
-      "description": "At Vomela our greatest asset is our people. As a full-service visual communications company, we are looking for creative and intellectual thinkers that work with our customers to create compelling brand solutions and foster meaningful connections. And while you're focused on creating big things for global and local brands, we will help you build a career you can be passionate about. Apply now to find your place at Vomela. Pay Range:Â $180 - 200k USD Job Summary The Principal Data Engineer is the highest-performing contributor on our data engineering team - the person who sets the technical bar",
-      "tags": [
-        "design",
-        "sys admin",
-        "education",
-        "technical",
-        "dev",
-        "speech",
-        "devops",
-        "cloud",
-        "git",
-        "microsoft",
-        "exec",
-        "senior",
-        "ops",
-        "stats",
-        "sales",
-        "medical",
-        "engineer",
-        "apache",
-        "digital nomad"
-      ],
-      "verdict": "blocked",
-      "fit": 0,
-      "reasons": [
-        "Principal-level — usually 5–10+ yrs, you have ~4"
-      ]
-    },
-    {
       "title": "Director, FinOps",
       "company": "ZoomInfo Technologies LLC",
       "location": "Anywhere in the World",
@@ -1548,7 +1553,7 @@
       "source": "Jobicy",
       "description": "Company DescriptionNBCUniversal is one of the world's leading media and entertainment companies. We create world-class content, which we distribute across our portfolio of film, television, and streaming, and bring to life through our global theme park destinations, consumer products, and experiences. We own and operate leading entertainment and news brands, including NBC, NBC News, NBC&hellip;",
       "tags": [
-        "devops &amp; infrastructure"
+        "devops & infrastructure"
       ],
       "verdict": "blocked",
       "fit": 0,
@@ -1564,7 +1569,7 @@
       "source": "Jobicy",
       "description": "About the Job:We are seeking a strategic, results-driven Head of Customer Marketing to lead our global customer marketing function. This role has significant influence on shaping brand messaging and positioning for LaunchDarkly as well as influencing customer health and retention. This individual will manage our customer advocacy and adoption programs. The ideal candidate will bring a&hellip;",
       "tags": [
-        "marketing &amp; sales"
+        "marketing & sales"
       ],
       "verdict": "blocked",
       "fit": 0,
@@ -1580,7 +1585,7 @@
       "source": "Jobicy",
       "description": "Chief Marketing Officer (CMO) Location: REMOTE in the United States or Canada About the job Testlio’s fully managed crowdsourced testing platform, powered by our proprietary intelligence technology - LeoAI Engine™, integrates expert, on-demand testers directly into your release process. Ship faster and more confidently with global coverage across 600,000+ devices, 800+ payment methods, 150+ countries,&hellip;",
       "tags": [
-        "marketing &amp; sales"
+        "marketing & sales"
       ],
       "verdict": "blocked",
       "fit": 0,
@@ -1618,38 +1623,6 @@
       "fit": 0,
       "reasons": [
         "Principal-level — usually 5–10+ yrs, you have ~4"
-      ]
-    },
-    {
-      "title": "Principal Full-Stack Engineer (.NET/Angular) (AI-First Development) - Software",
-      "company": "Truelogic",
-      "location": "LATAM",
-      "url": "https://jobicy.com/jobs/149155-principal-full-stack-engineer-net-angular-ai-first-development-software",
-      "source": "Jobicy",
-      "description": "About TruelogicAt Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of all sizes, from innovative startups to industry leaders, helping them achieve their digital transformation goals.Our team of 600+ highly skilled tech professionals, based in Latin&hellip;",
-      "tags": [
-        "software engineering"
-      ],
-      "verdict": "blocked",
-      "fit": 0,
-      "reasons": [
-        "Principal-level — usually 5–10+ yrs, you have ~4"
-      ]
-    },
-    {
-      "title": "Head of Engineering",
-      "company": "saas.group",
-      "location": "Europe",
-      "url": "https://jobicy.com/jobs/150588-head-of-engineering",
-      "source": "Jobicy",
-      "description": "This role is part of our Seobility team, one of our growing brands at saas.group.Seobility joined saas.group in 2022. The Seobility all-in-one SEO suite empowers businesses and marketers around the world to boost their website visibility with professional SEO tools. Starting in 2013 with a commitment to usability and actionable advice to make professional-grade SEO&hellip;",
-      "tags": [
-        "software engineering"
-      ],
-      "verdict": "blocked",
-      "fit": 0,
-      "reasons": [
-        "Head of-level — usually 5–10+ yrs, you have ~4"
       ]
     }
   ]
