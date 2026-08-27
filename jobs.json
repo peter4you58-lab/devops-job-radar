@@ -1,10 +1,10 @@
 {
-  "generated": "2026-08-26 06:27 UTC",
-  "count": 82,
+  "generated": "2026-08-27 17:00 UTC",
+  "count": 84,
   "summary": {
-    "scanned": 82,
-    "eligible": 21,
-    "review": 52,
+    "scanned": 84,
+    "eligible": 22,
+    "review": 53,
     "blocked": 9
   },
   "jobs": [
@@ -315,6 +315,34 @@
       ]
     },
     {
+      "title": "Associate Account Manager, SLED",
+      "company": "Keeper Security",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/keeper-security-associate-account-manager-sled",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Remote, US Description Keeper is hiring a driven SLED (state, local, and higher education) focused Associate Account Manager to join a high producing team within our B2B sales division. This is a 100% remote position from select locations, with an opportunity to work a hybrid schedule for candidates who live near our global headquarters in Chicago. Keeper’s cybersecurity software is trusted by millions of people and thousands of organizations, globally. Keeper is published in 23 languages and is sold in over 150 countries. Join one of the fastest-growing cybersecurity companies a",
+      "tags": [],
+      "verdict": "eligible",
+      "fit": 50,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
+    {
+      "title": "Associate Account Manager",
+      "company": "Keeper Security",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/keeper-security-associate-account-manager",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Remote, US Description Keeper is hiring a driven Associate Account Manager to join a high producing team within our B2B sales division. This is a 100% remote position from select locations with an opportunity to work a hybrid schedule for candidates who live near our global headquarters in Chicago. Keeper’s cybersecurity software is trusted by millions of people and thousands of organizations, globally. Keeper is published in 23 languages and is sold in over 150 countries. Join one of the fastest-growing cybersecurity companies and gain valuable skills while expanding and develop",
+      "tags": [],
+      "verdict": "eligible",
+      "fit": 50,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
+    {
       "title": "Critical Situation Manager",
       "company": "Abnormal",
       "location": "Anywhere in the World",
@@ -387,22 +415,6 @@
       ]
     },
     {
-      "title": "GenAI Engineer",
-      "company": "NTT DATA",
-      "location": "LATAM",
-      "url": "https://jobicy.com/jobs/145940-genai-engineer",
-      "source": "Jobicy",
-      "description": "Job Title: GenAI EngineerLocation Preference: 100% remote in Mexico, Brasil, Peru, Chile working EST Time Zone OR onsite in Washington, D.C.Duration: 1-Year Assignment with possibility of extensionNTT DATA is a team of more than 139,000 diverse professionals operating in more than 50 countries worldwide. Our sectors of activity include telecommunications, finance, industry, utilities, energy, public&hellip;",
-      "tags": [
-        "software engineering"
-      ],
-      "verdict": "eligible",
-      "fit": 50,
-      "reasons": [
-        "remote — anywhere / global"
-      ]
-    },
-    {
       "title": "Partner Solutions Architect (EMEA)",
       "company": "Datadog",
       "location": "EMEA, Europe, Germany, Netherlands",
@@ -451,6 +463,75 @@
       ]
     },
     {
+      "title": "Senior DevOps Engineer",
+      "company": "Lemon.io",
+      "location": "LATAM, Europe, USA, Canada, APAC",
+      "url": "https://remotive.com/remote-jobs/devops/senior-devops-engineer-2091099",
+      "source": "Remotive",
+      "description": "Are you a talented Senior DevOps looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe. We currently have multiple DevOps openings open at once, each with a different setup, stack, and benefits. Check which one fits you: Direct hire for our client in the gambling industry. Relocation and visa assistance included. This role bridges infrastructure and application operations: you’ll keep environments reliable, redundant, and secure, investigate production",
+      "tags": [
+        ".net",
+        "android",
+        "aws",
+        "azure",
+        "c",
+        "c#",
+        "c++",
+        "data science",
+        "golang",
+        "heroku",
+        "ios",
+        "java",
+        "javascript",
+        "kubernetes",
+        "node.js",
+        "php",
+        "python",
+        "react",
+        "ruby/rails",
+        "scala",
+        "shopify",
+        "sql",
+        "swift",
+        "ui/ux",
+        "wordpress",
+        "blockchain",
+        "ai/ml",
+        "automation",
+        "project management",
+        "react native",
+        "rust",
+        "product management",
+        "unity",
+        "electron",
+        "spring",
+        "data analysis",
+        "bash",
+        "laravel",
+        "ethereum",
+        "graphic design",
+        "typescript",
+        "terraform",
+        "angular",
+        "gcp",
+        "firebase",
+        "data engineering",
+        "site reliability",
+        "symfony",
+        "linux/unix",
+        "marketplace",
+        "next.js",
+        "infrastructure",
+        "flutter"
+      ],
+      "verdict": "review",
+      "fit": 58,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
       "title": "Senior Site Reliability Engineer",
       "company": "Canonical",
       "location": "Anywhere",
@@ -484,6 +565,22 @@
       ]
     },
     {
+      "title": "Developer Advocate - Service Management",
+      "company": "Datadog",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/151723-developer-advocate-service-management",
+      "source": "Jobicy",
+      "description": "We are a team of engineers that translate our real-world experience to help our user communities solve problems. With a focus on service management, helping teams respond to incidents, run on-call, and automate their operations, you will work with practitioners and leaders across the industry and broaden your impact to the SRE, Engineer, DevOps, and&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
+      "verdict": "review",
+      "fit": 56,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
       "title": "Technical Product Marketer, k0rdent AI - remote in the US",
       "company": "Mirantis",
       "location": "USA",
@@ -497,6 +594,22 @@
       "fit": 56,
       "reasons": [
         "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "Customer Success Manager - DevOps",
+      "company": "Sonatype",
+      "location": "UK",
+      "url": "https://jobicy.com/jobs/151830-customer-success-manager-devops",
+      "source": "Jobicy",
+      "description": "Sonatype is the software supply chain security company. We provide the world’s best end-to-end software supply chain security solution, combining the only proactive protection against malicious open source, the only enterprise grade SBOM management and the leading open source dependency management platform. This empowers enterprises to create and maintain secure, quality, and innovative software at&hellip;",
+      "tags": [
+        "customer support & success"
+      ],
+      "verdict": "review",
+      "fit": 52,
+      "reasons": [
+        "Uk-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -532,6 +645,22 @@
       ]
     },
     {
+      "title": "Customer Reliability Engineer - Infrastructure",
+      "company": "Astronomer",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/147812-customer-reliability-engineer-infrastructure",
+      "source": "Jobicy",
+      "description": "Astronomer empowers data teams to bring mission-critical software, analytics, and AI to life and is the company behind Astro, the industry-leading unified DataOps platform powered by Apache Airflow®. Astro accelerates building reliable data products that unlock insights, unleash AI value, and powers data-driven applications. Trusted by more than 800 of the world's leading enterprises, Astronomer&hellip;",
+      "tags": [
+        "technical support"
+      ],
+      "verdict": "review",
+      "fit": 52,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
       "title": "VP, Platform Engineering",
       "company": "Frontify",
       "location": "Europe",
@@ -564,35 +693,24 @@
       ]
     },
     {
-      "title": "Solutions Engineer",
-      "company": "infisical",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/150761-solutions-engineer",
-      "source": "Jobicy",
-      "description": "Infisical is the open source security infrastructure platform that engineers use for secrets management, certificates, and privileged access management. We help developers and organizations securely manage billions of secrets every month including application configuration, database credentials, certificates, and more. We’ve raised $19M from Y Combinator, Google, and Elad Gil, and our customers include Hugging Face,&hellip;",
+      "title": "IT Infrastructure Engineer",
+      "company": "Kyivstar",
+      "location": "Ukraine",
+      "url": "https://himalayas.app/companies/kyivstar/jobs/it-infrastructure-engineer",
+      "source": "Himalayas",
+      "description": "We are looking for a senior, hands-on engineer to own and evolve our enterprise identity and messaging platforms in a hybrid Microsoft environment. About us Kyivstar .Tech is a Ukrainian hybrid IT company and a resident of Diia.City. We are a subsidiary of Kyivstar , one of Ukraine's largest telecom operators. Our mission is to change lives in Ukraine and around the world by creating technological solutions and products that unleash the potential of businesses and meet users' needs. Over 600+ KS.Tech specialists work daily in various areas: mobile and web solutions, as well as design, developm",
       "tags": [
-        "technical support"
+        "iam",
+        "it-infrastructure",
+        "systems-engineering",
+        "windows-server-administration",
+        "microsoft-infrastructure",
+        "senior-it-infrastructure-engineer"
       ],
       "verdict": "review",
       "fit": 52,
       "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Growth Marketing Manager",
-      "company": "infisical",
-      "location": "Canada, USA",
-      "url": "https://jobicy.com/jobs/150760-growth-marketing-manager",
-      "source": "Jobicy",
-      "description": "Infisical is the open source security infrastructure platform that engineers use for secrets management, certificates, and privileged access management. We help developers and organizations securely manage billions of secrets every month including application configuration, database credentials, certificates, and more. We’ve raised $19M from Y Combinator, Google, and Elad Gil, and our customers include Hugging Face,&hellip;",
-      "tags": [
-        "marketing & sales"
-      ],
-      "verdict": "review",
-      "fit": 52,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+        "Uk-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -719,29 +837,19 @@
       ]
     },
     {
-      "title": "Senior Cloud Software Architect",
-      "company": "Caylent",
-      "location": "Argentina",
-      "url": "https://himalayas.app/companies/caylent/jobs/senior-cloud-software-architect-4767153209",
-      "source": "Himalayas",
-      "description": "Caylent is a cloud native services company that helps organizations bring the best out of their people and technology using Amazon Web Services (AWS). We provide a full-range of AWS services including workload migrations and modernization, cloud native application development, DevOps, data engineering, security and compliance, and everything in between. At Caylent , our people always come first. We are a global company and operate fully remote with employees in Canada, the United States, and Latin America. We celebrate the culture of each of our team members and foster a community of technolog",
+      "title": "Business Development Representative",
+      "company": "GitLab",
+      "location": "EMEA, Germany, Ireland, Netherlands, UK",
+      "url": "https://jobicy.com/jobs/151818-business-development-representative-10",
+      "source": "Jobicy",
+      "description": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster. The same principles built into&hellip;",
       "tags": [
-        "devops-engineer",
-        "cloud-native-applications",
-        "software-architecture",
-        "aws-solutions-architect",
-        "senior-cloud-software-architect",
-        "senior-cloud-architect",
-        "senior-cloud-architecture",
-        "senior-cloud-solutions-architect",
-        "software-architect",
-        "cloud-engineer"
+        "business development"
       ],
       "verdict": "review",
-      "fit": 50,
+      "fit": 48,
       "reasons": [
-        "Argentina-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
+        "Uk-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -844,6 +952,40 @@
       ]
     },
     {
+      "title": "Senior Database Reliability Engineer (DBRE)",
+      "company": "Branch",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/151712-senior-database-reliability-engineer-dbre",
+      "source": "Jobicy",
+      "description": "About us: Branch is on a mission to empower workers with financial freedom. We do this by helping companies accelerate payments and providing working Americans with accessible, free financial services. We’re committed to building and delivering more inclusive, transparent, and frictionless financial products. Our goal of empowerment extends to our own employees, too. Have a&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
+      "verdict": "review",
+      "fit": 46,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Senior Data Platform Engineer",
+      "company": "Medium",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/151664-senior-data-platform-engineer-2",
+      "source": "Jobicy",
+      "description": "About Medium Medium is one of the world's most influential writing platforms, connecting millions of readers with ideas that matter. We're a small, dedicated team that cares deeply about craft, curiosity, and building something that lasts. We make decisions efficiently and iterate fast, think carefully, and take the work seriously - without taking ourselves too&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
+      "verdict": "review",
+      "fit": 46,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
       "title": "Senior DevEx Engineer",
       "company": "RevenueCat",
       "location": "APAC, EMEA, UK, USA",
@@ -929,57 +1071,6 @@
       ]
     },
     {
-      "title": "Lead Cloud Platform & Dev Ops Engineer",
-      "company": "University of Colorado",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/149238-lead-cloud-platform-dev-ops-engineer",
-      "source": "Jobicy",
-      "description": "Lead Cloud Platform &amp; Dev Ops Engineer - 40286 University Staff Description Join Our Team and Make a Difference in Higher Education! At the System Administration office at the University of Colorado, we are dedicated to building a workplace where everyone feels valued, supported, and empowered to thrive. Our office is committed to fostering a culture where employees find community, a&hellip;",
-      "tags": [
-        "devops & infrastructure"
-      ],
-      "verdict": "review",
-      "fit": 46,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Lead Cloud Platform & Dev Ops Engineer",
-      "company": "University of Colorado Anschutz Medical Campus",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/149240-lead-cloud-platform-dev-ops-engineer-2",
-      "source": "Jobicy",
-      "description": "Lead Cloud Platform &amp; Dev Ops Engineer(Job Number: 40286)Description Join Our Team and Make a Difference in Higher Education! At the System Administration office at the University of Colorado, we are dedicated to building a workplace where everyone feels valued, supported, and empowered to thrive. Our office is committed to fostering a culture where employees find community, a&hellip;",
-      "tags": [
-        "devops & infrastructure"
-      ],
-      "verdict": "review",
-      "fit": 46,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Senior Full Stack Engineer",
-      "company": "infisical",
-      "location": "Brazil, Canada, France, UK, USA",
-      "url": "https://jobicy.com/jobs/145861-senior-full-stack-engineer-5",
-      "source": "Jobicy",
-      "description": "Infisical is looking to hire exceptional talent to join our teams in building the open source security infrastructure stack for the AI era.We're building a generational company with a world-class team. This isn’t a place to coast — but if you want to grow fast, take ownership, and solve tough problems, you’ll be challenged like&hellip;",
-      "tags": [
-        "software engineering"
-      ],
-      "verdict": "review",
-      "fit": 46,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
       "title": "Community Engineer (multiple roles and seniority levels)",
       "company": "Canonical",
       "location": "Anywhere",
@@ -994,6 +1085,22 @@
       "reasons": [
         "Africa-friendly employer (Canonical) — role location unconfirmed",
         "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Partner Manager - Channels",
+      "company": "Datadog",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/151733-partner-manager-channels",
+      "source": "Jobicy",
+      "description": "Individual Contributor JD: We are looking for an experienced Channel &amp; Alliances sales professional to build and accelerate growth with our channel partners by identifying and recruiting new partners for long-term success as well as manage ongoing relationships with key strategic partners, including professional services partners and resellers. Our ultimate goal is developing alliances that&hellip;",
+      "tags": [
+        "business development"
+      ],
+      "verdict": "review",
+      "fit": 40,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -1100,21 +1207,35 @@
       ]
     },
     {
-      "title": "Data Labeling Specialists",
-      "company": "Workada",
+      "title": "Customer Success Manager II - West",
+      "company": "Tines",
       "location": "USA",
-      "url": "https://remotive.com/remote-jobs/data/data-labeling-specialists-2090903",
-      "source": "Remotive",
-      "description": "Who We Are Workada creates high-quality labeled data for advanced technology systems. Our team reviews, organizes, categorizes, evaluates, and quality-checks digital content so those systems can better understand information and perform real-world tasks. We believe careful data work matters. Every reviewed item, categorized example, and quality-checked task helps improve how technology interprets information, follows instructions, and responds in practical settings. About You We're hiring detail-oriented individuals who are comfortable working on a computer and interested in careful, focused d",
+      "url": "https://jobicy.com/jobs/147811-customer-success-manager-ii-west",
+      "source": "Jobicy",
+      "description": "Founded in 2018 with co-headquarters in Dublin and Boston, Tines powers some of the world's most important workflows. Our intelligent workflow platform applies AI, automation, and integration with human ingenuity to drive real business results. Tines serves a diverse range of customers, from startups to public companies, including Canva, Databricks, Elastic, Kayak, Intercom, and McKesson.&hellip;",
       "tags": [
-        "research",
-        "digital content",
-        "spreadsheets"
+        "customer support & success"
       ],
       "verdict": "review",
       "fit": 36,
       "reasons": [
         "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "Cloud Security Engineer",
+      "company": "Clickhouse",
+      "location": "Netherlands",
+      "url": "https://jobicy.com/jobs/151716-cloud-security-engineer",
+      "source": "Jobicy",
+      "description": "About ClickHouse Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 4,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real-time analytics, data warehousing, observability, and AI workloads. The company’s sustained, accelerating&hellip;",
+      "tags": [
+        "cybersecurity"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "Netherlands-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -1179,22 +1300,6 @@
       "fit": 36,
       "reasons": [
         "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Backend Engineer (AI Agents)",
-      "company": "Maze",
-      "location": "Europe",
-      "url": "https://jobicy.com/jobs/151458-backend-engineer-ai-agents",
-      "source": "Jobicy",
-      "description": "Summary of the Role: As an Engineer at Maze, you'll play a pivotal role in shaping our product, with significant focus on the development of AI Agents and ML systems. You will have the unique opportunity to design, build, and scale a product from the ground up, influencing everything from architecture decisions to ML integrations&hellip;",
-      "tags": [
-        "software engineering"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Europe-tagged — verify it's open to Africa first"
       ]
     },
     {
@@ -1294,54 +1399,6 @@
       ]
     },
     {
-      "title": "Support Engineering Manager (APAC)",
-      "company": "Supabase",
-      "location": "APAC",
-      "url": "https://jobicy.com/jobs/146230-support-engineering-manager-apac",
-      "source": "Jobicy",
-      "description": "About SupabaseSupabase is the Postgres development platform: Database, Auth, Storage, Edge Functions, Realtime, and Vector, deeply integrated and built for teams that need their backend to grow with them. We're open source, we move fast, and our users are developers who notice when things are off.About this roleWe're hiring a Support Manager on our global&hellip;",
-      "tags": [
-        "technical support"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "APAC-tagged — verify it's open to Africa first"
-      ]
-    },
-    {
-      "title": "Customer Success Manager",
-      "company": "Sonatype",
-      "location": "UK",
-      "url": "https://jobicy.com/jobs/146325-customer-success-manager-35",
-      "source": "Jobicy",
-      "description": "Sonatype is the software supply chain security company. We provide the world’s best end-to-end software supply chain security solution, combining the only proactive protection against malicious open source, the only enterprise grade SBOM management and the leading open source dependency management platform. This empowers enterprises to create and maintain secure, quality, and innovative software at&hellip;",
-      "tags": [
-        "customer support & success"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Uk-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Support Engineering Manager (APAC)",
-      "company": "Supabase",
-      "location": "APAC",
-      "url": "https://jobicy.com/jobs/149306-support-engineering-manager-apac-2",
-      "source": "Jobicy",
-      "description": "About SupabaseSupabase is the Postgres development platform: Database, Auth, Storage, Edge Functions, Realtime, and Vector, deeply integrated and built for teams that need their backend to grow with them. We're open source, we move fast, and our users are developers who notice when things are off.About this roleWe're hiring a Support Manager on our global&hellip;",
-      "tags": [
-        "technical support"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "APAC-tagged — verify it's open to Africa first"
-      ]
-    },
-    {
       "title": "Senior Independent AI Engineer / Architect",
       "company": "A.Team",
       "location": "Americas, Europe, Israel",
@@ -1395,6 +1452,40 @@
       ]
     },
     {
+      "title": "Senior Engineering Manager, Platform Delivery",
+      "company": "Upstart",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/142530-senior-engineering-manager-platform-delivery",
+      "source": "Jobicy",
+      "description": "About UpstartAt Upstart, we’re united by a mission that matters: to radically reduce the cost and complexity of borrowing for all Americans. Every day, we bring creativity, experimentation, and advanced AI to reshape access to credit, helping millions move forward financially with clarity and confidence.As the leading AI lending marketplace, we partner with banks and&hellip;",
+      "tags": [
+        "product & operations"
+      ],
+      "verdict": "review",
+      "fit": 30,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Power BI Architect",
+      "company": "Tiger Analytics",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/143584-power-bi-architect",
+      "source": "Jobicy",
+      "description": "Tiger Analytics is a fast-growing advanced analytics consulting firm. Our consultants bring deep expertise in Data Science, Machine Learning and AI. We are the trusted analytics partner for several Fortune 100 companies, enabling them to generate business value from data. Our business value and leadership has been recognized by various market research firms, including Forrester&hellip;",
+      "tags": [
+        "data science & analytics"
+      ],
+      "verdict": "review",
+      "fit": 30,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
       "title": "Senior Product Manager - AI",
       "company": "NetDocuments",
       "location": "USA",
@@ -1425,23 +1516,6 @@
       "fit": 30,
       "reasons": [
         "location unconfirmed — verify it's open to Africa",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Canada- Sr Application Engineer (Salesforce-Agentforce Ai)",
-      "company": "PointClickCare",
-      "location": "Canada",
-      "url": "https://jobicy.com/jobs/149241-canada-sr-application-engineer-salesforce-agentforce-ai",
-      "source": "Jobicy",
-      "description": "At PointClickCare our mission is simple: to help providers deliver exceptional care. And that starts with our people. As a leading health tech company that’s founder-led and privately held, we empower our employees to push boundaries, innovate, and shape the future of healthcare. With the largest long-term and post-acute care dataset and a Marketplace of&hellip;",
-      "tags": [
-        "software engineering"
-      ],
-      "verdict": "review",
-      "fit": 30,
-      "reasons": [
-        "Canada-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -1562,6 +1636,38 @@
       ]
     },
     {
+      "title": "Principal Cloud Security Engineer",
+      "company": "LastPass",
+      "location": "UK",
+      "url": "https://jobicy.com/jobs/151831-principal-cloud-security-engineer",
+      "source": "Jobicy",
+      "description": "About LastPassLastPass delivers Secure Access Essentials, helping individuals and organizations manage and protect access to AI, applications, and credentials straight from the browser. Trusted by more than 100,000 businesses and millions of users worldwide, LastPass blends strong security with everyday simplicity. From discovering unapproved AI and applications to reducing login friction and securing credentials across&hellip;",
+      "tags": [
+        "cybersecurity"
+      ],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Principal-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
+      "title": "Staff Backend Engineer",
+      "company": "TeamSnap",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/151779-staff-backend-engineer-2",
+      "source": "Jobicy",
+      "description": "About Us At TeamSnap, we believe when the world connects through sports; the world becomes better. TeamSnap is a sports and communication platform dedicated to taking the work out of play in youth sports. We also believe our jobs should excite us, our teammates should support us and our bosses should inspire us. We&hellip;",
+      "tags": [
+        "software engineering"
+      ],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Staff-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
       "title": "Head of Customer Marketing",
       "company": "LaunchDarkly",
       "location": "USA",
@@ -1591,38 +1697,6 @@
       "fit": 0,
       "reasons": [
         "Chief-level — usually 5–10+ yrs, you have ~4"
-      ]
-    },
-    {
-      "title": "Principal Cloud Application Engineer",
-      "company": "University of Colorado Anschutz Medical Campus",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/149239-principal-cloud-application-engineer-2",
-      "source": "Jobicy",
-      "description": "Principal Cloud Application Engineer(Job Number: 40285)Description Join Our Team and Make a Difference in Higher Education! At the System Administration office at the University of Colorado, we are dedicated to building a workplace where everyone feels valued, supported, and empowered to thrive. Our office is committed to fostering a culture where employees find community, a sense of belonging,&hellip;",
-      "tags": [
-        "software engineering"
-      ],
-      "verdict": "blocked",
-      "fit": 0,
-      "reasons": [
-        "Principal-level — usually 5–10+ yrs, you have ~4"
-      ]
-    },
-    {
-      "title": "Principal Cloud Application Engineer",
-      "company": "University of Colorado",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/149237-principal-cloud-application-engineer",
-      "source": "Jobicy",
-      "description": "Principal Cloud Application Engineer - 40285 University Staff Description Join Our Team and Make a Difference in Higher Education! At the System Administration office at the University of Colorado, we are dedicated to building a workplace where everyone feels valued, supported, and empowered to thrive. Our office is committed to fostering a culture where employees find community, a sense of belonging,&hellip;",
-      "tags": [
-        "software engineering"
-      ],
-      "verdict": "blocked",
-      "fit": 0,
-      "reasons": [
-        "Principal-level — usually 5–10+ yrs, you have ~4"
       ]
     }
   ]
