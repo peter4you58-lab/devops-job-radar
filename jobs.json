@@ -1,11 +1,11 @@
 {
-  "generated": "2026-08-27 17:00 UTC",
+  "generated": "2026-08-28 17:49 UTC",
   "count": 84,
   "summary": {
     "scanned": 84,
-    "eligible": 22,
-    "review": 53,
-    "blocked": 9
+    "eligible": 21,
+    "review": 52,
+    "blocked": 11
   },
   "jobs": [
     {
@@ -371,20 +371,6 @@
       ]
     },
     {
-      "title": "Account Manager",
-      "company": "Keeper Security",
-      "location": "Anywhere in the World",
-      "url": "https://weworkremotely.com/remote-jobs/keeper-security-account-manager",
-      "source": "WeWorkRemotely",
-      "description": "Headquarters: Remote, US Description Keeper is hiring a driven Account Manager to join a high producing team within our B2B sales division. This is a 100% remote position with an opportunity to work a hybrid schedule for candidates who live near our global headquarters in Chicago. Keeper’s cybersecurity software is trusted by millions of people and thousands of organizations, globally. Keeper is published in 23 languages and is sold in over 150 countries. Join one of the fastest-growing cybersecurity companies and gain valuable skills while expanding and developing client relationships in this",
-      "tags": [],
-      "verdict": "eligible",
-      "fit": 50,
-      "reasons": [
-        "remote — anywhere / global"
-      ]
-    },
-    {
       "title": "Mac MSP Help Desk Guru (work from home)",
       "company": "Ignition, Inc.",
       "location": "Anywhere in the World",
@@ -392,22 +378,6 @@
       "source": "WeWorkRemotely",
       "description": "Headquarters: ignitionit.com URL: https://ignitionit.com APPLY HERE: https://go.cultureindex.com/p/bLvP56CvGHU Fully Remote · Work from home · Full-time (Eastern or Pacific time zones) · Apple-first&nbsp; TL;DR ignitionit.com is a seasoned, Apple-first MSP — in business for almost 30 years — and we're hiring a Help Desk Technician to be the friendly, capable first voice our clients reach when something isn't working. This position is a remote, work-from-home, full-time role. We've written this as a junior-to-mid-level job description because that's where most great people start on our team. Bu",
       "tags": [],
-      "verdict": "eligible",
-      "fit": 50,
-      "reasons": [
-        "remote — anywhere / global"
-      ]
-    },
-    {
-      "title": "Backend Software Engineer",
-      "company": "Northflank",
-      "location": "Europe",
-      "url": "https://jobicy.com/jobs/150975-backend-software-engineer-2",
-      "source": "Jobicy",
-      "description": "Northflank is a cutting-edge cloud platform enabling developers to build and ship highly scalable, full-stack applications faster than ever before. We are a venture-backed company, and our platform is used by tens of thousands of developers worldwide in production. We are currently looking for a backend software engineer to join our team of passionate, dedicated professionals.&hellip;",
-      "tags": [
-        "software engineering"
-      ],
       "verdict": "eligible",
       "fit": 50,
       "reasons": [
@@ -426,6 +396,35 @@
       ],
       "verdict": "eligible",
       "fit": 48,
+      "reasons": [
+        "remote — anywhere / global",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Oracle Fusion Cloud Lead â Logistics & Supply Chain Management",
+      "company": "Tessera Labs",
+      "location": "Worldwide",
+      "url": "https://remoteOK.com/remote-jobs/remote-oracle-fusion-cloud-lead-logistics-supply-chain-management-tessera-labs-1137155",
+      "source": "RemoteOK",
+      "description": "Oracle Fusion Cloud Lead â Logistics &amp; Supply Chain Management Greenfield Oracle Fusion Implementation Company Tessera Labs AI Role Type Senior consulting engagement â full-time or contract, workstream-critical role Location Nearshore, based in Mexico or Brazil â remote-based delivery model; excellent business English required for direct engagement with client stakeholders and leadership Reports To Program Director / Engagement Lead, Tessera Labs AI About the Role Tessera Labs AI is a technology product firm delivering next-generation, AI-accelerated enterprise transformation program",
+      "tags": [
+        "design",
+        "sys admin",
+        "consulting",
+        "testing",
+        "exec",
+        "cloud",
+        "senior",
+        "ops",
+        "engineer",
+        "ecommerce",
+        "shopify",
+        "full time",
+        "digital nomad"
+      ],
+      "verdict": "eligible",
+      "fit": 44,
       "reasons": [
         "remote — anywhere / global",
         "senior title — a stretch at ~4 yrs, but go for it"
@@ -565,6 +564,22 @@
       ]
     },
     {
+      "title": "Infrastructure Software Engineer (Kubernetes)",
+      "company": "Cresta",
+      "location": "Romania",
+      "url": "https://jobicy.com/jobs/151864-infrastructure-software-engineer-kubernetes",
+      "source": "Jobicy",
+      "description": "Cresta unlocks the true potential of the customer experience, turning every conversation into a competitive advantage. Cresta’s unified AI platform combines conversational AI agents, real-time human agent augmentation, and comprehensive conversation intelligence to drive revenue and efficiency gains across every channel. The world’s leading companies, including United Airlines, Cox Communications, and Marriott, use Cresta to&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
+      "verdict": "review",
+      "fit": 56,
+      "reasons": [
+        "Romania-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
       "title": "Developer Advocate - Service Management",
       "company": "Datadog",
       "location": "USA",
@@ -674,43 +689,6 @@
       "fit": 52,
       "reasons": [
         "Europe-tagged — verify it's open to Africa first"
-      ]
-    },
-    {
-      "title": "Atlassian Administrator 1726",
-      "company": "Softgic",
-      "location": "Anywhere",
-      "url": "https://jobicy.com/jobs/146254-atlassian-administrator-1726",
-      "source": "Jobicy",
-      "description": "This is a remote position. We are seeking an experienced Atlassian Administrator to manage, optimize, and continuously improve our Atlassian Cloud ecosystem. This role will be responsible for the administration, configuration, customization, and support of Jira Software, Confluence, and Jira Service Management (JSM) , ensuring these platforms effectively support business processes and operational goals across&hellip;",
-      "tags": [
-        "devops & infrastructure"
-      ],
-      "verdict": "review",
-      "fit": 52,
-      "reasons": [
-        "location unconfirmed — verify it's open to Africa"
-      ]
-    },
-    {
-      "title": "IT Infrastructure Engineer",
-      "company": "Kyivstar",
-      "location": "Ukraine",
-      "url": "https://himalayas.app/companies/kyivstar/jobs/it-infrastructure-engineer",
-      "source": "Himalayas",
-      "description": "We are looking for a senior, hands-on engineer to own and evolve our enterprise identity and messaging platforms in a hybrid Microsoft environment. About us Kyivstar .Tech is a Ukrainian hybrid IT company and a resident of Diia.City. We are a subsidiary of Kyivstar , one of Ukraine's largest telecom operators. Our mission is to change lives in Ukraine and around the world by creating technological solutions and products that unleash the potential of businesses and meet users' needs. Over 600+ KS.Tech specialists work daily in various areas: mobile and web solutions, as well as design, developm",
-      "tags": [
-        "iam",
-        "it-infrastructure",
-        "systems-engineering",
-        "windows-server-administration",
-        "microsoft-infrastructure",
-        "senior-it-infrastructure-engineer"
-      ],
-      "verdict": "review",
-      "fit": 52,
-      "reasons": [
-        "Uk-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -837,6 +815,38 @@
       ]
     },
     {
+      "title": "Business Development Representative - Nordics",
+      "company": "GitLab",
+      "location": "Germany, Ireland, Netherlands, UK",
+      "url": "https://jobicy.com/jobs/151869-business-development-representative-nordics",
+      "source": "Jobicy",
+      "description": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster. The same principles built into&hellip;",
+      "tags": [
+        "business development"
+      ],
+      "verdict": "review",
+      "fit": 48,
+      "reasons": [
+        "Uk-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "Business Development Representative, German Speaking",
+      "company": "GitLab",
+      "location": "Germany, Ireland, Netherlands, UK",
+      "url": "https://jobicy.com/jobs/151865-business-development-representative-german-speaking",
+      "source": "Jobicy",
+      "description": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster. The same principles built into&hellip;",
+      "tags": [
+        "business development"
+      ],
+      "verdict": "review",
+      "fit": 48,
+      "reasons": [
+        "Uk-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
       "title": "Business Development Representative",
       "company": "GitLab",
       "location": "EMEA, Germany, Ireland, Netherlands, UK",
@@ -901,36 +911,80 @@
       ]
     },
     {
-      "title": "Senior DevOps Engineer",
-      "company": "Experian",
-      "location": "Costa Rica",
-      "url": "https://jobicy.com/jobs/144464-senior-devops-engineer-5",
-      "source": "Jobicy",
-      "description": "Company DescriptionExperian is a global data and technology company, powering opportunities for people and businesses around the world. We operate across a range of markets, from financial services to healthcare, automotive, agribusiness, insurance, and many more. Experian invests in people and new advanced technologies to unlock the power of data. We have an amazing team&hellip;",
+      "title": "Senior QA Engineer",
+      "company": "Lemon.io",
+      "location": "Europe",
+      "url": "https://remotive.com/remote-jobs/software-development/senior-qa-engineer-2091100",
+      "source": "Remotive",
+      "description": "Are you a talented QA looking for a remote job that lets you show your skills and get better compensation and career growth? Look no further than Lemon.io - the marketplace that connects you with hand-picked startups in the US and Europe. We are seeking a Senior QA Engineer for our client — for direct hire. The client is a B2B service provider based in Cyprus that specializes in building and managing technology and operational services for online businesses. We are looking for a detail-oriented and proactive QA Engineer who is passionate about quality and thrives in a fast-paced development en",
       "tags": [
-        "devops & infrastructure"
+        ".net",
+        "android",
+        "c",
+        "c#",
+        "c++",
+        "data science",
+        "golang",
+        "ios",
+        "java",
+        "javascript",
+        "node.js",
+        "php",
+        "python",
+        "react",
+        "ruby/rails",
+        "scala",
+        "shopify",
+        "swift",
+        "ui/ux",
+        "wordpress",
+        "blockchain",
+        "ai/ml",
+        "automation",
+        "project management",
+        "react native",
+        "rust",
+        "unity",
+        "electron",
+        "spring",
+        "laravel",
+        "ethereum",
+        "graphic design",
+        "typescript",
+        "cypress",
+        "angular",
+        "selenium",
+        "firebase",
+        "data engineering",
+        "site reliability",
+        "symfony",
+        "manual testing",
+        "marketplace",
+        "testing",
+        "next.js",
+        "flutter"
       ],
       "verdict": "review",
       "fit": 46,
       "reasons": [
-        "Costa rica-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "Europe-tagged — verify it's open to Africa first",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
     {
-      "title": "DevOps Senior Engineer",
-      "company": "Experian",
-      "location": "Costa Rica",
-      "url": "https://jobicy.com/jobs/148202-devops-senior-engineer",
+      "title": "Senior DevOps Engineer",
+      "company": "Cision",
+      "location": "Bulgaria",
+      "url": "https://jobicy.com/jobs/151871-senior-devops-engineer-4",
       "source": "Jobicy",
-      "description": "Company DescriptionExperian is a global data and technology company, powering opportunities for people and businesses around the world. We help to redefine lending practices, uncover and prevent fraud, simplify healthcare, create marketing solutions, and gain deeper insights into the automotive market, all using our unique combination of data, analytics and software. We also assist millions&hellip;",
+      "description": "At Cision, we believe in empowering every individual to make an impact. Here, your voice is heard, your ideas are valued, and your unique perspective fuels our collective success. As part of our global team, you'll thrive in an environment that champions curiosity, collaboration, and innovation, all while making meaningful contributions to the brands we&hellip;",
       "tags": [
         "devops & infrastructure"
       ],
       "verdict": "review",
       "fit": 46,
       "reasons": [
-        "Costa rica-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "location unconfirmed — verify it's open to Africa",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -1050,23 +1104,6 @@
       "fit": 46,
       "reasons": [
         "Europe-tagged — verify it's open to Africa first",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Senior Technical Product Manager, Token Factory",
-      "company": "Nebius",
-      "location": "Europe, Netherlands, UK",
-      "url": "https://jobicy.com/jobs/149361-senior-technical-product-manager-token-factory",
-      "source": "Jobicy",
-      "description": "About Nebius: Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-house AI/ML infrastructure. Built by engineers, for engineers. From&hellip;",
-      "tags": [
-        "product & operations"
-      ],
-      "verdict": "review",
-      "fit": 46,
-      "reasons": [
-        "Uk-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -1207,6 +1244,38 @@
       ]
     },
     {
+      "title": "Enterprise Account Executive - Benelux",
+      "company": "Chainguard",
+      "location": "Netherlands",
+      "url": "https://jobicy.com/jobs/151936-enterprise-account-executive-benelux",
+      "source": "Jobicy",
+      "description": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. Our customers include Fortune 500 enterprises and global industry leaders, including Anduril, Canva, Fortinet, Hewlett Packard Enterprise, OpenAI,&hellip;",
+      "tags": [
+        "sales"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "Netherlands-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "Professional Services Engagement Manager",
+      "company": "Harness",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/147874-professional-services-engagement-manager",
+      "source": "Jobicy",
+      "description": "Harness is the AI Software Delivery Platform company, led by technologist and entrepreneur Jyoti Bansal (founder of AppDynamics, acquired by Cisco for $3.7B). Harness has raised approximately $570M in funding and is valued at $5.5B, backed by leading investors including Goldman Sachs, Menlo Ventures, IVP, Unusual Ventures, Citi Ventures, and more. As AI accelerates code&hellip;",
+      "tags": [
+        "business development"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
       "title": "Customer Success Manager II - West",
       "company": "Tines",
       "location": "USA",
@@ -1335,70 +1404,6 @@
       ]
     },
     {
-      "title": "Sales Engineer (Application Security)",
-      "company": "Thales",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/146550-sales-engineer-application-security",
-      "source": "Jobicy",
-      "description": "Location: Texas, United States of AmericaThales people architect identity management and data protection solutions at the heart of digital security. Business and governments rely on us to bring trust to the billions of digital interactions they have with people. Our technologies and services help banks exchange funds, people cross borders, energy become smarter and much&hellip;",
-      "tags": [
-        "business development"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Salesforce Developer",
-      "company": "dentsu",
-      "location": "Spain",
-      "url": "https://jobicy.com/jobs/146848-salesforce-developer-2",
-      "source": "Jobicy",
-      "description": "Job Description:Omega CRM is a Merkle &amp; Dentsu company, leader in development of Customer Experience services, with +20 years of experience in the use of Technology applied to Marketing and providing a unique Customer Relationship with mainly focus on Innovation is looking for a Salesforce Developer.Main responsabilities:Develop software according to user requirements, functional and technical&hellip;",
-      "tags": [
-        "software engineering"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Spain-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Software Engineer Manager",
-      "company": "PolicyMe",
-      "location": "Canada",
-      "url": "https://jobicy.com/jobs/150904-software-engineer-manager",
-      "source": "Jobicy",
-      "description": "Overview of the role We’re on a mission to modernize insurance, making it simpler, more accessible, and customer-first. The insurance industry is a $1T market that has remained largely untouched by the digital revolution, and PolicyMe is here to change that. As a remote-first, Toronto-based startup with big ambitions, we’re looking for a Software Engineering&hellip;",
-      "tags": [
-        "software engineering"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Canada-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Data Engineer",
-      "company": "Gopuff",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/150836-data-engineer",
-      "source": "Jobicy",
-      "description": "At Gopuff, data sits at the heart of our strategy. We are reimagining how people purchase everyday essentials, from snacks to household goods to alcohol, all delivered in minutes. To fuel this mission, we are seeking a Data Engineer to design, build, and scale the data systems that power insights, experimentation, and operational excellence across&hellip;",
-      "tags": [
-        "data science & analytics"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
       "title": "Senior Independent AI Engineer / Architect",
       "company": "A.Team",
       "location": "Americas, Europe, Israel",
@@ -1448,6 +1453,23 @@
       "fit": 30,
       "reasons": [
         "location unconfirmed — verify it's open to Africa",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Senior Azure Data Engineer | KD Pharma",
+      "company": "GT",
+      "location": "Europe, Türkiye",
+      "url": "https://jobicy.com/jobs/151908-senior-azure-data-engineer-kd-pharma",
+      "source": "Jobicy",
+      "description": "GT was founded in 2019 by a former Apple, Nest, and Google executive. GT’s mission is to connect the world’s best talent with product careers offered by high-growth companies in the UK, USA, Canada, Germany, and the Netherlands. On behalf of KD Pharma, GT is looking for a Senior Azure Data Engineer with architecture exposure,&hellip;",
+      "tags": [
+        "data science & analytics"
+      ],
+      "verdict": "review",
+      "fit": 30,
+      "reasons": [
+        "Europe-tagged — verify it's open to Africa first",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -1620,6 +1642,22 @@
       ]
     },
     {
+      "title": "Staff DevOps Engineer",
+      "company": "Hubstaff",
+      "location": "LATAM, Brazil, Canada, USA",
+      "url": "https://jobicy.com/jobs/151872-staff-devops-engineer",
+      "source": "Jobicy",
+      "description": "About Hubstaff At Hubstaff, our mission is to empower people to have their most productive workday. We do this by providing the industry-leading workforce analytics and time tracking platform for remote and distributed teams. We've been fully remote for over a decade—long before it became a trend—and we continue to believe that remote work represents&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Staff-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
       "title": "Principal DevOps Engineer",
       "company": "NBCUniversal",
       "location": "USA",
@@ -1633,6 +1671,22 @@
       "fit": 0,
       "reasons": [
         "Principal-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
+      "title": "Sr. Director, Assistant Controller",
+      "company": "LaunchDarkly",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/151887-sr-director-assistant-controller",
+      "source": "Jobicy",
+      "description": "About the Job: LaunchDarkly is seeking a Senior Director, Assistant Controller to lead and scale the global accounting organization during the company’s next phase of growth. This leader will be a key member of the controllership organization and will partner closely with Revenue Accounting, Procurement, Finance, Legal, Human Resource, IT and executive leadership to build&hellip;",
+      "tags": [
+        "finance & accounting"
+      ],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Director-level — usually 5–10+ yrs, you have ~4"
       ]
     },
     {
