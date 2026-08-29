@@ -1,11 +1,11 @@
 {
-  "generated": "2026-08-28 17:49 UTC",
-  "count": 84,
+  "generated": "2026-08-29 11:54 UTC",
+  "count": 83,
   "summary": {
-    "scanned": 84,
+    "scanned": 83,
     "eligible": 21,
-    "review": 52,
-    "blocked": 11
+    "review": 53,
+    "blocked": 9
   },
   "jobs": [
     {
@@ -81,66 +81,6 @@
       "fit": 66,
       "reasons": [
         "remote — anywhere / global"
-      ]
-    },
-    {
-      "title": "Senior Graphic Designer",
-      "company": "Lemon.io",
-      "location": "Americas, Europe, Asia, Africa, Oceania",
-      "url": "https://remotive.com/remote-jobs/design/senior-graphic-designer-2091081",
-      "source": "Remotive",
-      "description": "Are you a talented Senior Designer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The rate depends on your skills and experience. We've already paid out over $11M to our engineers &amp; designers . No more hunting for clients or negotiating rates — let us handle the business side of things so you can focus on what you do best. Choose a schedule that works best for you. It’s possible to communicate async or minimally overlap withi",
-      "tags": [
-        ".net",
-        "android",
-        "c",
-        "c#",
-        "c++",
-        "data science",
-        "golang",
-        "illustrator",
-        "ios",
-        "java",
-        "javascript",
-        "node.js",
-        "php",
-        "python",
-        "react",
-        "ruby/rails",
-        "scala",
-        "shopify",
-        "swift",
-        "wordpress",
-        "blockchain",
-        "ai/ml",
-        "automation",
-        "project management",
-        "adobe creative suite",
-        "react native",
-        "rust",
-        "unity",
-        "electron",
-        "spring",
-        "laravel",
-        "ethereum",
-        "graphic design",
-        "typescript",
-        "angular",
-        "data engineering",
-        "site reliability",
-        "solid",
-        "symfony",
-        "startup",
-        "marketplace",
-        "next.js",
-        "adobe illustrator",
-        "flutter"
-      ],
-      "verdict": "eligible",
-      "fit": 62,
-      "reasons": [
-        "explicitly open to Africa/Nigeria",
-        "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
     {
@@ -385,6 +325,22 @@
       ]
     },
     {
+      "title": "Account Executive 4",
+      "company": "Twilio",
+      "location": "Singapore",
+      "url": "https://jobicy.com/jobs/151944-account-executive-4-2",
+      "source": "Jobicy",
+      "description": "Who we are At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to hundreds of thousands of businesses and empower millions of developers worldwide to craft personalized customer experiences. Our dedication to remote-first work, and strong culture of connection and global inclusion means that no&hellip;",
+      "tags": [
+        "sales"
+      ],
+      "verdict": "eligible",
+      "fit": 50,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
+    {
       "title": "Partner Solutions Architect (EMEA)",
       "company": "Datadog",
       "location": "EMEA, Europe, Germany, Netherlands",
@@ -596,22 +552,6 @@
       ]
     },
     {
-      "title": "Technical Product Marketer, k0rdent AI - remote in the US",
-      "company": "Mirantis",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/146688-technical-product-marketer-k0rdent-ai-remote-in-the-us",
-      "source": "Jobicy",
-      "description": "Company DescriptionMirantis is the Kubernetes-native AI infrastructure company, enabling organizations to build and operate scalable, secure, and sovereign infrastructure for modern AI, machine learning, and data-intensive applications. By combining open source innovation with deep expertise in Kubernetes orchestration, Mirantis empowers platform engineering teams to deliver composable, production-ready developer platforms across any environment—on-premises, in the cloud,&hellip;",
-      "tags": [
-        "marketing & sales"
-      ],
-      "verdict": "review",
-      "fit": 56,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
       "title": "Customer Success Manager - DevOps",
       "company": "Sonatype",
       "location": "UK",
@@ -689,6 +629,68 @@
       "fit": 52,
       "reasons": [
         "Europe-tagged — verify it's open to Africa first"
+      ]
+    },
+    {
+      "title": "Senior React Full-stack Developer",
+      "company": "Lemon.io",
+      "location": "LATAM, Europe, USA, Canada, APAC",
+      "url": "https://remotive.com/remote-jobs/software-development/senior-react-full-stack-developer-2091101",
+      "source": "Remotive",
+      "description": "Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The rate depends on your seniority level, skills and experience. We've already paid out over $11M to our engineers. No more hunting for clients or negotiating rates — let us handle the business side of things so you can focus on what you do best. We'll manually find the best project for you according to your skills and preferences. Choose a schedul",
+      "tags": [
+        ".net",
+        "android",
+        "aws",
+        "backend",
+        "c",
+        "c#",
+        "c++",
+        "data science",
+        "fullstack",
+        "golang",
+        "ios",
+        "java",
+        "javascript",
+        "node.js",
+        "php",
+        "python",
+        "react",
+        "react js",
+        "ruby/rails",
+        "scala",
+        "shopify",
+        "swift",
+        "ui/ux",
+        "wordpress",
+        "blockchain",
+        "ai/ml",
+        "automation",
+        "project management",
+        "react native",
+        "rust",
+        "unity",
+        "electron",
+        "spring",
+        "laravel",
+        "ethereum",
+        "graphic design",
+        "typescript",
+        "angular",
+        "firebase",
+        "data engineering",
+        "site reliability",
+        "symfony",
+        "startup",
+        "marketplace",
+        "next.js",
+        "flutter"
+      ],
+      "verdict": "review",
+      "fit": 50,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
     {
@@ -1244,6 +1246,22 @@
       ]
     },
     {
+      "title": "Cyber-Security Operations Analyst III, Product AppSec",
+      "company": "Veeam Software",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/151951-cyber-security-operations-analyst-iii-product-appsec",
+      "source": "Jobicy",
+      "description": "Veeam is the Data and AI Trust Company, specializing in helping organizations ensure their data and AI are fully understood, secured, and resilient to enable the acceleration of safe AI at scale. As the market leader in both data resilience and data security posture management, Veeam is built for the convergence of identity, data, security,&hellip;",
+      "tags": [
+        "cybersecurity"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
       "title": "Enterprise Account Executive - Benelux",
       "company": "Chainguard",
       "location": "Netherlands",
@@ -1628,20 +1646,6 @@
       ]
     },
     {
-      "title": "Director, FinOps",
-      "company": "ZoomInfo Technologies LLC",
-      "location": "Anywhere in the World",
-      "url": "https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-director-finops",
-      "source": "WeWorkRemotely",
-      "description": "Headquarters: Remote ZoomInfo is where careers accelerate. We move fast, think boldly, and empower you to do the best work of your life. You’ll be surrounded by teammates who care deeply, challenge each other, and celebrate wins. With tools that amplify your impact and a culture that backs your ambition, you won’t just contribute. You’ll make things happen–fast. What You'll do: Global Cloud Governance: Lead the centralized FinOps strategy across an international multi-cloud footprint, focusing heavily on GCP and AWS optimization. Unit Economics Modeling : Design and maintain sophisticated cost",
-      "tags": [],
-      "verdict": "blocked",
-      "fit": 0,
-      "reasons": [
-        "Director-level — usually 5–10+ yrs, you have ~4"
-      ]
-    },
-    {
       "title": "Staff DevOps Engineer",
       "company": "Hubstaff",
       "location": "LATAM, Brazil, Canada, USA",
@@ -1735,22 +1739,6 @@
       "fit": 0,
       "reasons": [
         "Head of-level — usually 5–10+ yrs, you have ~4"
-      ]
-    },
-    {
-      "title": "Chief Marketing Officer",
-      "company": "Testlio",
-      "location": "Canada, USA",
-      "url": "https://jobicy.com/jobs/151209-chief-marketing-officer",
-      "source": "Jobicy",
-      "description": "Chief Marketing Officer (CMO) Location: REMOTE in the United States or Canada About the job Testlio’s fully managed crowdsourced testing platform, powered by our proprietary intelligence technology - LeoAI Engine™, integrates expert, on-demand testers directly into your release process. Ship faster and more confidently with global coverage across 600,000+ devices, 800+ payment methods, 150+ countries,&hellip;",
-      "tags": [
-        "marketing & sales"
-      ],
-      "verdict": "blocked",
-      "fit": 0,
-      "reasons": [
-        "Chief-level — usually 5–10+ yrs, you have ~4"
       ]
     }
   ]
