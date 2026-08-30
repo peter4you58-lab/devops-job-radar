@@ -1,10 +1,10 @@
 {
-  "generated": "2026-08-29 11:54 UTC",
-  "count": 83,
+  "generated": "2026-08-30 10:51 UTC",
+  "count": 87,
   "summary": {
-    "scanned": 83,
-    "eligible": 21,
-    "review": 53,
+    "scanned": 87,
+    "eligible": 23,
+    "review": 55,
     "blocked": 9
   },
   "jobs": [
@@ -255,6 +255,34 @@
       ]
     },
     {
+      "title": "Manager, Security Operations Center - EMEA",
+      "company": "Huntress",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/huntress-manager-security-operations-center-emea",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Remote Ireland Reports to: Director, Security Operations Center Location: Remote Ireland Compensation Range: €115,200 to €133,000 base plus bonus and equity What We Do: Cybercrime is growing, and more businesses are getting hit by threats that used to target only the biggest organizations. That pushes defenders like us to operate at the highest level, and it deepens our need for good people who want to make a meaningful impact. Founded in 2015 by former NSA cyber operators, Huntress is a remote-first team working to make enterprise-grade cybersecurity accessible to businesses of ",
+      "tags": [],
+      "verdict": "eligible",
+      "fit": 50,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
+    {
+      "title": "Evergreen - Sales Development Representative",
+      "company": "Huntress",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/huntress-evergreen-sales-development-representative",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Remote Australia Reports to: Manager, Sales Development Location: Remote Australia Please note that this is an evergreen requisition and is intended to help us build a pipeline of talented Sales Development Representatives for future opportunities at Huntress. Although there may not be an immediate opening, we’ll continue reviewing applications and may contact candidates whose experience aligns with future hiring needs. &nbsp; What We Do: Huntress is a fully remote, global team of passionate experts and ethical badasses on a mission to break down the barriers to cybersecurity. Wh",
+      "tags": [],
+      "verdict": "eligible",
+      "fit": 50,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
+    {
       "title": "Associate Account Manager, SLED",
       "company": "Keeper Security",
       "location": "Anywhere in the World",
@@ -325,6 +353,22 @@
       ]
     },
     {
+      "title": "Backend Developer (.NET/Azure)",
+      "company": "NTT DATA",
+      "location": "LATAM",
+      "url": "https://jobicy.com/jobs/152011-backend-developer-net-azure",
+      "source": "Jobicy",
+      "description": "Job Title: Backend Developer (.NET/Azure) Location Preference: 100% remote in LATAM working EST Time Zone Duration: 1-Year Assignment with possibility of extension Freelance Rate Range: $27-28/hr USD based on relevant experienceNTT DATA is a team of more than 139,000 diverse professionals operating in more than 50 countries worldwide. Our sectors of activity include telecommunications, finance, industry, utilities, energy,&hellip;",
+      "tags": [
+        "software engineering"
+      ],
+      "verdict": "eligible",
+      "fit": 50,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
+    {
       "title": "Account Executive 4",
       "company": "Twilio",
       "location": "Singapore",
@@ -338,23 +382,6 @@
       "fit": 50,
       "reasons": [
         "remote — anywhere / global"
-      ]
-    },
-    {
-      "title": "Partner Solutions Architect (EMEA)",
-      "company": "Datadog",
-      "location": "EMEA, Europe, Germany, Netherlands",
-      "url": "https://jobicy.com/jobs/151395-partner-solutions-architect-emea",
-      "source": "Jobicy",
-      "description": "The Team: We are Datadog's in-house product experts. The technical solutions team enables Datadog's worldwide growth by educating potential clients and ensuring that existing customers are happy and successful. We share our technical and product expertise with customers through demos, presentations, technical evaluations, and ongoing support. Technical solutions is a growing global team that collaborates&hellip;",
-      "tags": [
-        "technical support"
-      ],
-      "verdict": "eligible",
-      "fit": 48,
-      "reasons": [
-        "remote — anywhere / global",
-        "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
     {
@@ -399,22 +426,6 @@
       "reasons": [
         "remote — anywhere / global",
         "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Site Reliability Engineer",
-      "company": "Canonical",
-      "location": "Anywhere",
-      "url": "https://jobicy.com/jobs/149547-site-reliability-engineer",
-      "source": "Jobicy",
-      "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in&hellip;",
-      "tags": [
-        "devops & infrastructure"
-      ],
-      "verdict": "review",
-      "fit": 64,
-      "reasons": [
-        "Africa-friendly employer (Canonical) — role location unconfirmed"
       ]
     },
     {
@@ -613,22 +624,6 @@
       "fit": 52,
       "reasons": [
         "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "VP, Platform Engineering",
-      "company": "Frontify",
-      "location": "Europe",
-      "url": "https://jobicy.com/jobs/151398-vp-platform-engineering",
-      "source": "Jobicy",
-      "description": "We're all about helping brands turn ideas into impact. Frontify’s brand platform transforms how teams organize digital assets, collaborate on projects, and create engaging campaigns. Our people empower thousands of marketers and designers — including teams at Uber, Microsoft, Volkswagen, and Telefónica — to build engaging brands. With headquarters in St. Gallen, Switzerland, and offices&hellip;",
-      "tags": [
-        "devops & infrastructure"
-      ],
-      "verdict": "review",
-      "fit": 52,
-      "reasons": [
-        "Europe-tagged — verify it's open to Africa first"
       ]
     },
     {
@@ -865,54 +860,6 @@
       ]
     },
     {
-      "title": "Engineering Manager - Solutions Engineering",
-      "company": "Canonical",
-      "location": "Anywhere",
-      "url": "https://jobicy.com/jobs/149556-engineering-manager-solutions-engineering",
-      "source": "Jobicy",
-      "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders&hellip;",
-      "tags": [
-        "product & operations"
-      ],
-      "verdict": "review",
-      "fit": 48,
-      "reasons": [
-        "Africa-friendly employer (Canonical) — role location unconfirmed"
-      ]
-    },
-    {
-      "title": "Microservices Engineer",
-      "company": "Canonical",
-      "location": "Anywhere",
-      "url": "https://jobicy.com/jobs/149558-microservices-engineer",
-      "source": "Jobicy",
-      "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders&hellip;",
-      "tags": [
-        "software engineering"
-      ],
-      "verdict": "review",
-      "fit": 48,
-      "reasons": [
-        "Africa-friendly employer (Canonical) — role location unconfirmed"
-      ]
-    },
-    {
-      "title": "Software Engineer - Solutions Engineering",
-      "company": "Canonical",
-      "location": "Anywhere",
-      "url": "https://jobicy.com/jobs/149560-software-engineer-solutions-engineering",
-      "source": "Jobicy",
-      "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders&hellip;",
-      "tags": [
-        "software engineering"
-      ],
-      "verdict": "review",
-      "fit": 48,
-      "reasons": [
-        "Africa-friendly employer (Canonical) — role location unconfirmed"
-      ]
-    },
-    {
       "title": "Senior QA Engineer",
       "company": "Lemon.io",
       "location": "Europe",
@@ -1008,23 +955,6 @@
       ]
     },
     {
-      "title": "Senior Database Reliability Engineer (DBRE)",
-      "company": "Branch",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/151712-senior-database-reliability-engineer-dbre",
-      "source": "Jobicy",
-      "description": "About us: Branch is on a mission to empower workers with financial freedom. We do this by helping companies accelerate payments and providing working Americans with accessible, free financial services. We’re committed to building and delivering more inclusive, transparent, and frictionless financial products. Our goal of empowerment extends to our own employees, too. Have a&hellip;",
-      "tags": [
-        "devops & infrastructure"
-      ],
-      "verdict": "review",
-      "fit": 46,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
       "title": "Senior Data Platform Engineer",
       "company": "Medium",
       "location": "USA",
@@ -1089,40 +1019,6 @@
       "fit": 46,
       "reasons": [
         "EMEA-tagged — verify it's open to Africa first",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Senior Software Engineer - (Connect Platform)",
-      "company": "Enode",
-      "location": "Europe, Norway",
-      "url": "https://jobicy.com/jobs/149498-senior-software-engineer-connect-platform",
-      "source": "Jobicy",
-      "description": "About EnodeThe grid was built for predictable, centralised power. Today it's absorbing intermittent supply from grid scale solar and wind, alongside dynamic demand from EVs, heat pumps, and home batteries. The missing piece is software that can connect and orchestrate these devices at scale.Enode provides the infrastructure layer that makes this possible. Our Connect API&hellip;",
-      "tags": [
-        "software engineering"
-      ],
-      "verdict": "review",
-      "fit": 46,
-      "reasons": [
-        "Europe-tagged — verify it's open to Africa first",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Community Engineer (multiple roles and seniority levels)",
-      "company": "Canonical",
-      "location": "Anywhere",
-      "url": "https://jobicy.com/jobs/149577-community-engineer-multiple-roles-and-seniority-levels",
-      "source": "Jobicy",
-      "description": "Our ambition is to set a standard of excellence when it comes to serving the open source ecosystem. This is your chance to be a part of that as a Community Engineer at Canonical.We are building community management at scale. We have multiple positions available, at different seniority levels.All applications and candidates are handled through&hellip;",
-      "tags": [
-        "customer support & success"
-      ],
-      "verdict": "review",
-      "fit": 42,
-      "reasons": [
-        "Africa-friendly employer (Canonical) — role location unconfirmed",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -1243,6 +1139,158 @@
       "fit": 36,
       "reasons": [
         "Uk-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "Joiner",
+      "company": "Places for People",
+      "location": "Greater Newcastle Area,",
+      "url": "https://remoteOK.com/remote-jobs/remote-joiner-places-for-people-1137211",
+      "source": "RemoteOK",
+      "description": "We're hiring a qualified Joiner , offering a company van and consistent work within your Community. Places for People is one of the UK's largest housing providers and is proud to be recognised as one of the UK's Top 50 Best Workplaces. We are committed to creating inclusive Communities and improving Customers' lives. You'll be working locally, making a real difference to People's homes and the neighbourhoods we operate in. What You'll Get Use of a company van with fuel card 35 days annual leave (including bank holidays) with options to buy and sell leave Overtime opportunities available Core w",
+      "tags": [
+        "teaching",
+        "customer support",
+        "finance",
+        "cloud",
+        "scheme",
+        "mobile",
+        "medical",
+        "recruiter",
+        "non tech"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
+      "title": "Enterprise Business Development Representative - East",
+      "company": "Chainguard",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/151992-enterprise-business-development-representative-east",
+      "source": "Jobicy",
+      "description": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. Our customers include Fortune 500 enterprises and global industry leaders, including Anduril, Canva, Fortinet, Hewlett Packard Enterprise, OpenAI,&hellip;",
+      "tags": [
+        "business development"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "Enterprise Business Development Representative - Central",
+      "company": "Chainguard",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/151991-enterprise-business-development-representative-central",
+      "source": "Jobicy",
+      "description": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. Our customers include Fortune 500 enterprises and global industry leaders, including Anduril, Canva, Fortinet, Hewlett Packard Enterprise, OpenAI,&hellip;",
+      "tags": [
+        "business development"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "Enterprise Account Executive - UK",
+      "company": "Chainguard",
+      "location": "UK",
+      "url": "https://jobicy.com/jobs/151990-enterprise-account-executive-uk-3",
+      "source": "Jobicy",
+      "description": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. Our customers include Fortune 500 enterprises and global industry leaders, including Anduril, Canva, Fortinet, Hewlett Packard Enterprise, OpenAI,&hellip;",
+      "tags": [
+        "sales"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "Uk-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "Enterprise Account Executive - Nordics",
+      "company": "Chainguard",
+      "location": "Sweden",
+      "url": "https://jobicy.com/jobs/151988-enterprise-account-executive-nordics",
+      "source": "Jobicy",
+      "description": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. Our customers include Fortune 500 enterprises and global industry leaders, including Anduril, Canva, Fortinet, Hewlett Packard Enterprise, OpenAI,&hellip;",
+      "tags": [
+        "sales"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
+      "title": "Enterprise Account Executive - Denmark",
+      "company": "Chainguard",
+      "location": "Denmark",
+      "url": "https://jobicy.com/jobs/151987-enterprise-account-executive-denmark",
+      "source": "Jobicy",
+      "description": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. Our customers include Fortune 500 enterprises and global industry leaders, including Anduril, Canva, Fortinet, Hewlett Packard Enterprise, OpenAI,&hellip;",
+      "tags": [
+        "sales"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
+      "title": "Enterprise Account Executive - DACH",
+      "company": "Chainguard",
+      "location": "Germany",
+      "url": "https://jobicy.com/jobs/151985-enterprise-account-executive-dach-2",
+      "source": "Jobicy",
+      "description": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. Our customers include Fortune 500 enterprises and global industry leaders, including Anduril, Canva, Fortinet, Hewlett Packard Enterprise, OpenAI,&hellip;",
+      "tags": [
+        "sales"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "Germany-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "Enterprise Account Executive",
+      "company": "Chainguard",
+      "location": "Singapore",
+      "url": "https://jobicy.com/jobs/151980-enterprise-account-executive-16",
+      "source": "Jobicy",
+      "description": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. Our customers include Fortune 500 enterprises and global industry leaders, including Anduril, Canva, Fortinet, Hewlett Packard Enterprise, OpenAI,&hellip;",
+      "tags": [
+        "sales"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "Singapore-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "Corporate Account Executive - Central",
+      "company": "Chainguard",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/151971-corporate-account-executive-central",
+      "source": "Jobicy",
+      "description": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. Our customers include Fortune 500 enterprises and global industry leaders, including Anduril, Canva, Fortinet, Hewlett Packard Enterprise, OpenAI,&hellip;",
+      "tags": [
+        "sales"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -1390,38 +1438,6 @@
       ]
     },
     {
-      "title": "Cloud Release Quality Manager",
-      "company": "Legion",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/151379-cloud-release-quality-manager",
-      "source": "Jobicy",
-      "description": "Cloud Release Quality Manager AI-Enabled Release Program Manager Remote, United States JOB OVERVIEW Are you passionate about building enterprise cloud solutions, and excited about using AI to reinvent how software gets released? We are seeking a highly organized, proactive, and technically curious Cloud Release Quality Manager to lead and coordinate software releases across our cloud&hellip;",
-      "tags": [
-        "project & program management"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Backend Engineer, Flag Delivery",
-      "company": "LaunchDarkly",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/151348-backend-engineer-flag-delivery",
-      "source": "Jobicy",
-      "description": "About the Job: LaunchDarkly is hiring a Backend Software Engineer to join our Flag Delivery team. Serving data to our customers is the core of our product and we’re expanding the team to add bandwidth and energy. The team is very senior, and this role is for someone eager to learn and grow as the&hellip;",
-      "tags": [
-        "software engineering"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
       "title": "Senior Independent AI Engineer / Architect",
       "company": "A.Team",
       "location": "Americas, Europe, Israel",
@@ -1471,6 +1487,74 @@
       "fit": 30,
       "reasons": [
         "location unconfirmed — verify it's open to Africa",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": ".NET Software Architect",
+      "company": "Zartis",
+      "location": "Europe",
+      "url": "https://jobicy.com/jobs/152042-net-software-architect",
+      "source": "Jobicy",
+      "description": ".NET Software Architect The company and our mission: Zartis is a global AI transformation and technology consulting partner where talented engineers and technologists work on cutting edge innovation. We partner with ambitious organizations to design, build, and scale technology solutions that deliver real impact. Our teams bring deep expertise in AI driven platforms, secure&hellip;",
+      "tags": [
+        "software engineering"
+      ],
+      "verdict": "review",
+      "fit": 30,
+      "reasons": [
+        "Europe-tagged — verify it's open to Africa first",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Senior Front-End Developer (React / TypeScript) - Market Research",
+      "company": "Truelogic",
+      "location": "LATAM",
+      "url": "https://jobicy.com/jobs/152035-senior-front-end-developer-react-typescript-market-research",
+      "source": "Jobicy",
+      "description": "About TruelogicAt Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of all sizes, from innovative startups to industry leaders, helping them achieve their digital transformation goals.Our team of 600+ highly skilled tech professionals, based in Latin&hellip;",
+      "tags": [
+        "software engineering"
+      ],
+      "verdict": "review",
+      "fit": 30,
+      "reasons": [
+        "Latam-tagged — verify it's open to Africa first",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Senior Full-stack Engineer (React OR Vue/Python) - Investment",
+      "company": "Truelogic",
+      "location": "LATAM",
+      "url": "https://jobicy.com/jobs/152031-senior-full-stack-engineer-react-or-vue-python-investment",
+      "source": "Jobicy",
+      "description": "About TruelogicAt Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of all sizes, from innovative startups to industry leaders, helping them achieve their digital transformation goals.Our team of 600+ highly skilled tech professionals, based in Latin&hellip;",
+      "tags": [
+        "software engineering"
+      ],
+      "verdict": "review",
+      "fit": 30,
+      "reasons": [
+        "Latam-tagged — verify it's open to Africa first",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Senior Back End Engineer",
+      "company": "Peerspace",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/151965-senior-back-end-engineer",
+      "source": "Jobicy",
+      "description": "Senior Back-End Engineer About Peerspace Peerspace is the leading and category defining online marketplace for venue rentals for meetings, productions, and events. We open doors to the most inspiring spaces around the world, from lofts and mansions to storefronts and studios. Over $500M has been transacted through the platform, and our investors include GV (Google&hellip;",
+      "tags": [
+        "software engineering"
+      ],
+      "verdict": "review",
+      "fit": 30,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -1539,23 +1623,6 @@
       "fit": 30,
       "reasons": [
         "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Senior AI Engineer",
-      "company": "eMerchantPay",
-      "location": "Bulgaria",
-      "url": "https://jobicy.com/jobs/144139-senior-ai-engineer-3",
-      "source": "Jobicy",
-      "description": "emerchantpay is a leading global payment service provider and acquirer for online, mobile, in-store and over the phone payments. Our global payments solution is available through a simple integration, offering a diverse range of features, including global acquiring, global and local payment methods, advanced fraud management and performance optimisation. We empower businesses to design seamless&hellip;",
-      "tags": [
-        "software engineering"
-      ],
-      "verdict": "review",
-      "fit": 30,
-      "reasons": [
-        "location unconfirmed — verify it's open to Africa",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -1726,19 +1793,37 @@
       ]
     },
     {
-      "title": "Head of Customer Marketing",
-      "company": "LaunchDarkly",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/149443-head-of-customer-marketing",
-      "source": "Jobicy",
-      "description": "About the Job:We are seeking a strategic, results-driven Head of Customer Marketing to lead our global customer marketing function. This role has significant influence on shaping brand messaging and positioning for LaunchDarkly as well as influencing customer health and retention. This individual will manage our customer advocacy and adoption programs. The ideal candidate will bring a&hellip;",
+      "title": "Sr. Staff Platform Engineer",
+      "company": "eHealth, Inc.",
+      "location": "United States",
+      "url": "https://himalayas.app/companies/ehealth-inc/jobs/sr-staff-platform-engineer-7917235949",
+      "source": "Himalayas",
+      "description": "Join us in creating a better way! At eHealth, our mission is to expertly guide consumers through their health insurance and related options when, where, and how they prefer. We’re creating a better way – one that’s transparent and trustworthy for both our consumers externally and our employees internally. Move your career forward while connecting countless people to the life- changing, quality care they deserve. Our diverse team of innovators supports one another in solving some of the toughest challenges. We’re always on the lookout for creative opportunities to do right by our customers, and",
       "tags": [
-        "marketing & sales"
+        "platform-engineering",
+        "cloud-engineer",
+        "devops",
+        "aws",
+        "cloud-architecture",
+        "site-reliability-engineering",
+        "internal-developer-platform",
+        "ai-ops",
+        "mlops",
+        "platform-architecture",
+        "staff-platform-engineer",
+        "senior-platform-engineer",
+        "senior-platform-engineering",
+        "senior-principal-platform-engineer",
+        "senior-devops-platform-engineer",
+        "senior-platform-engineering-leader",
+        "senior-developer-platform-engineer",
+        "sr-staff-devops-engineer",
+        "principal-platform-engineer"
       ],
       "verdict": "blocked",
       "fit": 0,
       "reasons": [
-        "Head of-level — usually 5–10+ yrs, you have ~4"
+        "Staff-level — usually 5–10+ yrs, you have ~4"
       ]
     }
   ]
