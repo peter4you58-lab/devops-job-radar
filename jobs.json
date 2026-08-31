@@ -1,11 +1,11 @@
 {
-  "generated": "2026-08-30 10:51 UTC",
-  "count": 87,
+  "generated": "2026-08-31 12:02 UTC",
+  "count": 89,
   "summary": {
-    "scanned": 87,
-    "eligible": 23,
-    "review": 55,
-    "blocked": 9
+    "scanned": 89,
+    "eligible": 25,
+    "review": 56,
+    "blocked": 8
   },
   "jobs": [
     {
@@ -385,6 +385,21 @@
       ]
     },
     {
+      "title": "Senior Software Engineer",
+      "company": "CircleCI",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/circleci-senior-software-engineer",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Remote, Ontario, Canada About CircleCI Engineering CI/CD has been solved. Now it's being reinvented. AI agents don't just run pipelines. They write code, trigger builds, interpret failures, and propose fixes. The interfaces that developers use to understand and trust that work don't exist yet. We're building them. At CircleCI, our guiding principles aren't posters on a wall. We learn fast: we run experiments, accept failure, and scale what works. We think like the customer: every decision connects back to the developer sitting in front of a failing build at 2 am. We own the outco",
+      "tags": [],
+      "verdict": "eligible",
+      "fit": 48,
+      "reasons": [
+        "remote — anywhere / global",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
       "title": "Oracle Fusion Cloud Lead â Logistics & Supply Chain Management",
       "company": "Tessera Labs",
       "location": "Worldwide",
@@ -406,6 +421,21 @@
         "full time",
         "digital nomad"
       ],
+      "verdict": "eligible",
+      "fit": 44,
+      "reasons": [
+        "remote — anywhere / global",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Cyber Security GTM Leader",
+      "company": "Databricks",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/databricks-cyber-security-gtm-leader",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Remote - California; Remote - New York SLSQ327R408 As the Cybersecurity Go-to-market (GTM) Leader, you will drive the global GTM strategy and execution of the Cybersecurity business at Databricks. You will play a pivotal role in accelerating cyber revenue growth by building scalable assets for the field, designing enablement programs, and driving key partnerships. You will be the domain expert and business executive for cybersecurity use-cases across all verticals and regions. In this role, you will set a clear GTM vision for Cybersecurity, work with a cross-functional team and f",
+      "tags": [],
       "verdict": "eligible",
       "fit": 44,
       "reasons": [
@@ -498,23 +528,6 @@
       ]
     },
     {
-      "title": "Senior Site Reliability Engineer",
-      "company": "Canonical",
-      "location": "Anywhere",
-      "url": "https://jobicy.com/jobs/149557-senior-site-reliability-engineer-5",
-      "source": "Jobicy",
-      "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders&hellip;",
-      "tags": [
-        "devops & infrastructure"
-      ],
-      "verdict": "review",
-      "fit": 58,
-      "reasons": [
-        "Africa-friendly employer (Canonical) — role location unconfirmed",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
       "title": "DevOps Engineer",
       "company": "Launchpad Technologies",
       "location": "LATAM",
@@ -558,6 +571,38 @@
       ],
       "verdict": "review",
       "fit": 56,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "Azure DevOps Engineer | KD Pharma",
+      "company": "GT",
+      "location": "Europe",
+      "url": "https://jobicy.com/jobs/152146-azure-devops-engineer-kd-pharma",
+      "source": "Jobicy",
+      "description": "GT was founded in 2019 by a former Apple, Nest, and Google executive. GT’s mission is to connect the world’s best talent with product careers offered by high-growth companies in the UK, USA, Canada, Germany, and the Netherlands. On behalf of KD Pharma, GT is looking for an experienced Azure DevOps Engineer to support the&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
+      "verdict": "review",
+      "fit": 52,
+      "reasons": [
+        "Europe-tagged — verify it's open to Africa first"
+      ]
+    },
+    {
+      "title": "Federal Customer Success Manager - DevOps",
+      "company": "Sonatype",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/152105-federal-customer-success-manager-devops",
+      "source": "Jobicy",
+      "description": "Sonatype is privileged to work with customers who rely on us to improve the quality, security, and speed of their software development lifecycle. The Federal Customer Success Manager (CSM) is the strategic post-sales advisor responsible for helping federal customers realize measurable value from their investment in Sonatype by driving adoption, retention, growth, and long-term customer&hellip;",
+      "tags": [
+        "customer support & success"
+      ],
+      "verdict": "review",
+      "fit": 52,
       "reasons": [
         "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
@@ -611,6 +656,22 @@
       ]
     },
     {
+      "title": "Software Engineer - (Connect Platform)",
+      "company": "Enode",
+      "location": "Europe, Norway",
+      "url": "https://jobicy.com/jobs/149876-software-engineer-connect-platform-2",
+      "source": "Jobicy",
+      "description": "About EnodeThe grid was built for predictable, centralised power. Today it's absorbing intermittent supply from grid scale solar and wind, alongside dynamic demand from EVs, heat pumps, and home batteries. The missing piece is software that can connect and orchestrate these devices at scale.Enode provides the infrastructure layer that makes this possible. Our Connect API&hellip;",
+      "tags": [
+        "software engineering"
+      ],
+      "verdict": "review",
+      "fit": 52,
+      "reasons": [
+        "Europe-tagged — verify it's open to Africa first"
+      ]
+    },
+    {
       "title": "Customer Reliability Engineer - Infrastructure",
       "company": "Astronomer",
       "location": "USA",
@@ -624,6 +685,34 @@
       "fit": 52,
       "reasons": [
         "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "Cloud Software Engineer III - Java/Python",
+      "company": "JPM Unternehmensgruppe",
+      "location": "Singapore",
+      "url": "https://himalayas.app/companies/jpm-unternehmensgruppe/jobs/cloud-software-engineer-iii-java-python",
+      "source": "Himalayas",
+      "description": "We have an exciting and rewarding opportunity for you to take your software engineering career to the next level. As a Software Engineer III at JPMorganChase within Infrastructure Platforms, Cloud Foundational Service team, you serve as a seasoned member of an agile team to design and deliver trusted market-leading technology products in a secure, stable, and scalable way. You are responsible for carrying out critical technology solutions across multiple technical areas within various business functions in support of the firm’s business objectives. Job responsibilities Executes software soluti",
+      "tags": [
+        "software-engineer",
+        "cloud-engineer",
+        "platform-engineering",
+        "backend-development",
+        "infrastructure-engineering",
+        "cloud-java-engineer",
+        "cloud-software-engineer",
+        "senior-cloud-software-engineer",
+        "cloud-applications-engineer",
+        "java-software-engineer",
+        "senior-cloud-platform-engineer",
+        "senior-java-software-engineer",
+        "developer"
+      ],
+      "verdict": "review",
+      "fit": 52,
+      "reasons": [
+        "Singapore-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -955,6 +1044,23 @@
       ]
     },
     {
+      "title": "Senior Manager, Solutions Architect",
+      "company": "Vercel",
+      "location": "Australia",
+      "url": "https://jobicy.com/jobs/152130-senior-manager-solutions-architect-2",
+      "source": "Jobicy",
+      "description": "About Vercel: Vercel is the agentic infrastructure company. We free people and agents to ship what’s next. For more than a decade, Vercel has shaped how the web is built. As the team behind Next.js, v0, and AI SDK, we create products that help builders move from idea to production with speed, security, and exceptional&hellip;",
+      "tags": [
+        "technical support"
+      ],
+      "verdict": "review",
+      "fit": 46,
+      "reasons": [
+        "Australia-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
       "title": "Senior Data Platform Engineer",
       "company": "Medium",
       "location": "USA",
@@ -968,57 +1074,6 @@
       "fit": 46,
       "reasons": [
         "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Senior DevEx Engineer",
-      "company": "RevenueCat",
-      "location": "APAC, EMEA, UK, USA",
-      "url": "https://jobicy.com/jobs/151622-senior-devex-engineer",
-      "source": "Jobicy",
-      "description": "RevenueCat removes the headaches of building and scaling in‑app subscriptions. Since graduating from YC’s S18 batch we’ve grown into the default monetization platform for mobile: we’re in &gt;40% of newly shipped subscription apps, we process $12B+ in annual purchase volume, and we help everyone from a solo dev in Brazil to the OpenAI mobile team&hellip;",
-      "tags": [
-        "devops & infrastructure"
-      ],
-      "verdict": "review",
-      "fit": 46,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Senior IT Engineer",
-      "company": "Qventus",
-      "location": "Canada",
-      "url": "https://jobicy.com/jobs/151501-senior-it-engineer",
-      "source": "Jobicy",
-      "description": "On this journey for over 12 years, Qventus is leading the transformation of healthcare. We enable hospitals to focus on what matters most: patient care. Our innovative solutions harness the power of machine learning, generative AI, and behavioral science to deliver exceptional outcomes and empower care teams to anticipate and resolve issues before they arise.&hellip;",
-      "tags": [
-        "devops & infrastructure"
-      ],
-      "verdict": "review",
-      "fit": 46,
-      "reasons": [
-        "Canada-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Senior Site Reliability Engineer",
-      "company": "Remote",
-      "location": "EMEA",
-      "url": "https://jobicy.com/jobs/148108-senior-site-reliability-engineer",
-      "source": "Jobicy",
-      "description": "About Remote Remote is solving modern organizations’ biggest challenge – navigating global employment compliantly with ease. We make it possible for businesses of all sizes to recruit, pay, and manage international teams. With our core values at heart and future focused work culture, our team works tirelessly on ambitious problems, asynchronously, around the world. You&hellip;",
-      "tags": [
-        "devops & infrastructure"
-      ],
-      "verdict": "review",
-      "fit": 46,
-      "reasons": [
-        "EMEA-tagged — verify it's open to Africa first",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -1163,6 +1218,38 @@
       "fit": 36,
       "reasons": [
         "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
+      "title": "Channel Sales Manager, West Coast",
+      "company": "Sonatype",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/152096-channel-sales-manager-west-coast",
+      "source": "Jobicy",
+      "description": "Sonatype is the software supply chain security company. We provide the world’s best end-to-end software supply chain security solution, combining the only proactive protection against malicious open source, the only enterprise grade SBOM management and the leading open source dependency management platform. This empowers enterprises to create and maintain secure, quality, and innovative software at&hellip;",
+      "tags": [
+        "sales"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "Enterprise Account Executive",
+      "company": "Quantum Metric",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/152080-enterprise-account-executive-17",
+      "source": "Jobicy",
+      "description": "Our Culture Quantum Metric's number one objective is happy people, diverse and inclusive culture. We’re passionate about empowering our people to become the best version of themselves, offering coaching and training programs designed to accelerate their career in whatever direction they choose. As a remote-first company, we understand the importance of building an engaged,&hellip;",
+      "tags": [
+        "sales"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -1374,70 +1461,6 @@
       ]
     },
     {
-      "title": "Software Engineer (All Levels)",
-      "company": "Fieldguide",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/151601-software-engineer-all-levels",
-      "source": "Jobicy",
-      "description": "About Fieldguide Fieldguide is redefining trust in global commerce by modernizing how cybersecurity, privacy, and financial audits are done. We build software that empowers the practitioners who enable trust between businesses—automating and streamlining their work to deliver faster, higher-quality results. We’re a remote-first company headquartered in San Francisco, CA, backed by top investors including Bessemer&hellip;",
-      "tags": [
-        "software engineering"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Commercial Account Executive - Benelux",
-      "company": "Chainguard",
-      "location": "Netherlands",
-      "url": "https://jobicy.com/jobs/151547-commercial-account-executive-benelux",
-      "source": "Jobicy",
-      "description": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. Our customers include Fortune 500 enterprises and global industry leaders, including Anduril, Canva, Fortinet, Hewlett Packard Enterprise, OpenAI,&hellip;",
-      "tags": [
-        "sales"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Netherlands-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Sales Engineer (French) SMB",
-      "company": "1Password",
-      "location": "UK",
-      "url": "https://jobicy.com/jobs/151538-sales-engineer-french-smb",
-      "source": "Jobicy",
-      "description": "1Password is growing. We’ve surpassed $400M in ARR and we’re continuing to accelerate, earning a spot on the Forbes Cloud 100 for four years in a row and teaming up with iconic partners like Oracle Red Bull Racing. About 1Password At 1Password, we’re building the foundation for a safe, productive digital future. Our mission is&hellip;",
-      "tags": [
-        "sales"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Uk-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Project Manager",
-      "company": "Verra Mobility",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/151512-project-manager-4",
-      "source": "Jobicy",
-      "description": "Position Overview As a Project Manager, you will play a key role in providing world class support to our external clients and internal teams by managing the end-to-end implementation of contracted technical programs and ensuring they are delivered in a timely manner. No challenge will be too big, and no issue will go unsolved! You&hellip;",
-      "tags": [
-        "project & program management"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
       "title": "Senior Independent AI Engineer / Architect",
       "company": "A.Team",
       "location": "Americas, Europe, Israel",
@@ -1487,6 +1510,57 @@
       "fit": 30,
       "reasons": [
         "location unconfirmed — verify it's open to Africa",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Senior Customer Success Manager - East/Public Sector",
+      "company": "Tines",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/149843-senior-customer-success-manager-east-public-sector",
+      "source": "Jobicy",
+      "description": "Founded in 2018 with co-headquarters in Dublin and Boston, Tines powers some of the world's most important workflows. Our intelligent workflow platform applies AI, automation, and integration with human ingenuity to drive real business results. Tines serves a diverse range of customers, from startups to public companies, including Canva, Databricks, Elastic, Kayak, Intercom, and McKesson.&hellip;",
+      "tags": [
+        "customer support & success"
+      ],
+      "verdict": "review",
+      "fit": 30,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Frontend Engineering Team Lead - MarTech",
+      "company": "Sporty Group",
+      "location": "Europe",
+      "url": "https://jobicy.com/jobs/149869-frontend-engineering-team-lead-martech",
+      "source": "Jobicy",
+      "description": "About the roleAs the Team Lead for our Frontend development team, you will play a key role in driving the architecture, development, and delivery of high-quality software solutions. You will lead a group of talented developers, ensuring smooth collaboration, technical innovation, and strong delivery results. Your responsibilities will encompass both hands-on coding and line management,&hellip;",
+      "tags": [
+        "software engineering"
+      ],
+      "verdict": "review",
+      "fit": 30,
+      "reasons": [
+        "Europe-tagged — verify it's open to Africa first",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Senior Full Stack Engineer II",
+      "company": "Teachable",
+      "location": "Brazil",
+      "url": "https://jobicy.com/jobs/152092-senior-full-stack-engineer-ii",
+      "source": "Jobicy",
+      "description": "What is Teachable? Teachable is the platform for experts and businesses who take education seriously. In a world where anyone can ask AI for information, we're the home for those who educate with purpose, modernity, and humanity. We help experts and businesses scale their impact and operations through courses, coaching, and digital downloads that students&hellip;",
+      "tags": [
+        "software engineering"
+      ],
+      "verdict": "review",
+      "fit": 30,
+      "reasons": [
+        "Brazil-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -1601,23 +1675,6 @@
       "description": "Tiger Analytics is a fast-growing advanced analytics consulting firm. Our consultants bring deep expertise in Data Science, Machine Learning and AI. We are the trusted analytics partner for several Fortune 100 companies, enabling them to generate business value from data. Our business value and leadership has been recognized by various market research firms, including Forrester&hellip;",
       "tags": [
         "data science & analytics"
-      ],
-      "verdict": "review",
-      "fit": 30,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Senior Product Manager - AI",
-      "company": "NetDocuments",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/151570-senior-product-manager-ai",
-      "source": "Jobicy",
-      "description": "NetDocuments is committed to providing an excellent candidate experience and will never ask you to engage in recruitment activity without phone, video, and in person meetings and communications from emails using the @netdocuments.com domain. If you have any concerns or questions about communications you have received, please send them to hrgroup@netdocuments.com so our team members can review.&hellip;",
-      "tags": [
-        "product & operations"
       ],
       "verdict": "review",
       "fit": 30,
@@ -1785,40 +1842,6 @@
       "description": "About Us At TeamSnap, we believe when the world connects through sports; the world becomes better. TeamSnap is a sports and communication platform dedicated to taking the work out of play in youth sports. We also believe our jobs should excite us, our teammates should support us and our bosses should inspire us. We&hellip;",
       "tags": [
         "software engineering"
-      ],
-      "verdict": "blocked",
-      "fit": 0,
-      "reasons": [
-        "Staff-level — usually 5–10+ yrs, you have ~4"
-      ]
-    },
-    {
-      "title": "Sr. Staff Platform Engineer",
-      "company": "eHealth, Inc.",
-      "location": "United States",
-      "url": "https://himalayas.app/companies/ehealth-inc/jobs/sr-staff-platform-engineer-7917235949",
-      "source": "Himalayas",
-      "description": "Join us in creating a better way! At eHealth, our mission is to expertly guide consumers through their health insurance and related options when, where, and how they prefer. We’re creating a better way – one that’s transparent and trustworthy for both our consumers externally and our employees internally. Move your career forward while connecting countless people to the life- changing, quality care they deserve. Our diverse team of innovators supports one another in solving some of the toughest challenges. We’re always on the lookout for creative opportunities to do right by our customers, and",
-      "tags": [
-        "platform-engineering",
-        "cloud-engineer",
-        "devops",
-        "aws",
-        "cloud-architecture",
-        "site-reliability-engineering",
-        "internal-developer-platform",
-        "ai-ops",
-        "mlops",
-        "platform-architecture",
-        "staff-platform-engineer",
-        "senior-platform-engineer",
-        "senior-platform-engineering",
-        "senior-principal-platform-engineer",
-        "senior-devops-platform-engineer",
-        "senior-platform-engineering-leader",
-        "senior-developer-platform-engineer",
-        "sr-staff-devops-engineer",
-        "principal-platform-engineer"
       ],
       "verdict": "blocked",
       "fit": 0,
