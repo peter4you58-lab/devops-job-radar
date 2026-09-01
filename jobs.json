@@ -1,46 +1,13 @@
 {
-  "generated": "2026-08-31 12:02 UTC",
+  "generated": "2026-09-01 10:41 UTC",
   "count": 89,
   "summary": {
     "scanned": 89,
-    "eligible": 25,
+    "eligible": 26,
     "review": 56,
-    "blocked": 8
+    "blocked": 7
   },
   "jobs": [
-    {
-      "title": "DESARROLLADOR FULL STACK",
-      "company": "Kruger NearShore LLC - Rekluti",
-      "location": "Worldwide",
-      "url": "https://remoteOK.com/remote-jobs/remote-desarrollador-full-stack-kruger-nearshore-llc-rekluti-1137062",
-      "source": "RemoteOK",
-      "description": "Desarrollador/a Full Stack â Python / Angular / Go En Rekluti , consultora especializada en talento tecnolÃ³gico en LATAM, buscamos un/a Desarrollador/a Full Stack para integrarse a proyectos de alta complejidad y participar en el desarrollo de soluciones web escalables. Buscamos un perfil con sÃ³lida experiencia en Python, Angular y Go , capaz de desenvolverse de manera autÃ³noma, aportar en decisiones tÃ©cnicas y colaborar con equipos multidisciplinarios. ð¯ Principales responsabilidades DiseÃ±ar, desarrollar y mantener aplicaciones Full Stack, participando en frontend y backend. Desarro",
-      "tags": [
-        "full stack",
-        "front end",
-        "python",
-        "dev",
-        "testing",
-        "web dev",
-        "quality assurance",
-        "devops",
-        "c",
-        "cloud",
-        "nosql",
-        "git",
-        "flutter",
-        "angular",
-        "mobile",
-        "golang",
-        "backend",
-        "digital nomad"
-      ],
-      "verdict": "eligible",
-      "fit": 66,
-      "reasons": [
-        "remote — anywhere / global"
-      ]
-    },
     {
       "title": "DevOps & Security Engineer - AI-Native Healthcare SaaS",
       "company": "Zenara Health",
@@ -353,6 +320,22 @@
       ]
     },
     {
+      "title": "AppSec Engineer",
+      "company": "Karbon",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/152273-appsec-engineer",
+      "source": "Jobicy",
+      "description": "About Karbon Karbon is the global leader in AI-powered practice management software for accounting firms. We provide an award-winning cloud platform that helps tens of thousands of accounting professionals work more efficiently and collaboratively every day. With customers in 40 countries, we have grown into a globally distributed team across the US, Australia, New Zealand,&hellip;",
+      "tags": [
+        "cybersecurity"
+      ],
+      "verdict": "eligible",
+      "fit": 50,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
+    {
       "title": "Backend Developer (.NET/Azure)",
       "company": "NTT DATA",
       "location": "LATAM",
@@ -459,6 +442,23 @@
       ]
     },
     {
+      "title": "Senior Security Engineer",
+      "company": "Karbon",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/152293-senior-security-engineer-3",
+      "source": "Jobicy",
+      "description": "About Karbon Karbon is the global leader in AI-powered practice management software for accounting firms. We provide an award-winning cloud platform that helps tens of thousands of accounting professionals work more efficiently and collaboratively every day. With customers in 40 countries, we have grown into a globally distributed team across the US, Australia, New Zealand,&hellip;",
+      "tags": [
+        "cybersecurity"
+      ],
+      "verdict": "eligible",
+      "fit": 44,
+      "reasons": [
+        "remote — anywhere / global",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
       "title": "Senior DevOps Engineer",
       "company": "Lemon.io",
       "location": "LATAM, Europe, USA, Canada, APAC",
@@ -528,6 +528,54 @@
       ]
     },
     {
+      "title": "DevOps Engineer (Intern)",
+      "company": "Mactores",
+      "location": "Anywhere",
+      "url": "https://jobicy.com/jobs/152298-devops-engineer-intern",
+      "source": "Jobicy",
+      "description": "Mactores is the agent-native AWS modernization firm. Most modernization work doesn't ship, it stalls in pilots, slips a year, or lands at three times the budget. We exist to ship it: production systems running, legacy retired, outcomes measured. Our delivery is built on Aedeon, the agent platform built by Mactores' founders' sister company, which absorbs&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
+      "verdict": "review",
+      "fit": 56,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
+      "title": "AWS DevOps Engineer (Freelancer)",
+      "company": "Mactores",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/152278-aws-devops-engineer-freelancer",
+      "source": "Jobicy",
+      "description": "Mactores is the agent-native AWS modernization firm. Most modernization work doesn't ship, it stalls in pilots, slips a year, or lands at three times the budget. We exist to ship it: production systems running, legacy retired, outcomes measured. Our delivery is built on Aedeon, the agent platform built by Mactores' founders' sister company, which absorbs&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
+      "verdict": "review",
+      "fit": 56,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "AWS DevOps Engineer (Associate)",
+      "company": "Mactores",
+      "location": "Anywhere",
+      "url": "https://jobicy.com/jobs/152276-aws-devops-engineer-associate",
+      "source": "Jobicy",
+      "description": "Mactores is the agent-native AWS modernization firm. Most modernization work doesn't ship, it stalls in pilots, slips a year, or lands at three times the budget. We exist to ship it: production systems running, legacy retired, outcomes measured. Our delivery is built on Aedeon, the agent platform built by Mactores' founders' sister company, which absorbs&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
+      "verdict": "review",
+      "fit": 56,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
       "title": "DevOps Engineer",
       "company": "Launchpad Technologies",
       "location": "LATAM",
@@ -541,38 +589,6 @@
       "fit": 56,
       "reasons": [
         "Latam-tagged — verify it's open to Africa first"
-      ]
-    },
-    {
-      "title": "Infrastructure Software Engineer (Kubernetes)",
-      "company": "Cresta",
-      "location": "Romania",
-      "url": "https://jobicy.com/jobs/151864-infrastructure-software-engineer-kubernetes",
-      "source": "Jobicy",
-      "description": "Cresta unlocks the true potential of the customer experience, turning every conversation into a competitive advantage. Cresta’s unified AI platform combines conversational AI agents, real-time human agent augmentation, and comprehensive conversation intelligence to drive revenue and efficiency gains across every channel. The world’s leading companies, including United Airlines, Cox Communications, and Marriott, use Cresta to&hellip;",
-      "tags": [
-        "devops & infrastructure"
-      ],
-      "verdict": "review",
-      "fit": 56,
-      "reasons": [
-        "Romania-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Developer Advocate - Service Management",
-      "company": "Datadog",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/151723-developer-advocate-service-management",
-      "source": "Jobicy",
-      "description": "We are a team of engineers that translate our real-world experience to help our user communities solve problems. With a focus on service management, helping teams respond to incidents, run on-call, and automate their operations, you will work with practitioners and leaders across the industry and broaden your impact to the SRE, Engineer, DevOps, and&hellip;",
-      "tags": [
-        "devops & infrastructure"
-      ],
-      "verdict": "review",
-      "fit": 56,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -640,22 +656,6 @@
       ]
     },
     {
-      "title": "Azure DevOps Engineer (Cloud & AI Delivery)",
-      "company": "Oowlish Technology",
-      "location": "LATAM, Argentina, Brazil, Mexico",
-      "url": "https://jobicy.com/jobs/151481-azure-devops-engineer-cloud-ai-delivery",
-      "source": "Jobicy",
-      "description": "Join Our Team Oowlish, one of Latin America's rapidly expanding software development companies, is seeking experienced technology professionals to enhance our diverse and vibrant team. As a valued member of Oowlish, you will collaborate with premier clients from the United States and Europe, contributing to pioneering digital solutions. Our commitment to creating a nurturing work&hellip;",
-      "tags": [
-        "devops & infrastructure"
-      ],
-      "verdict": "review",
-      "fit": 52,
-      "reasons": [
-        "Brazil-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
       "title": "Software Engineer - (Connect Platform)",
       "company": "Enode",
       "location": "Europe, Norway",
@@ -669,50 +669,6 @@
       "fit": 52,
       "reasons": [
         "Europe-tagged — verify it's open to Africa first"
-      ]
-    },
-    {
-      "title": "Customer Reliability Engineer - Infrastructure",
-      "company": "Astronomer",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/147812-customer-reliability-engineer-infrastructure",
-      "source": "Jobicy",
-      "description": "Astronomer empowers data teams to bring mission-critical software, analytics, and AI to life and is the company behind Astro, the industry-leading unified DataOps platform powered by Apache Airflow®. Astro accelerates building reliable data products that unlock insights, unleash AI value, and powers data-driven applications. Trusted by more than 800 of the world's leading enterprises, Astronomer&hellip;",
-      "tags": [
-        "technical support"
-      ],
-      "verdict": "review",
-      "fit": 52,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Cloud Software Engineer III - Java/Python",
-      "company": "JPM Unternehmensgruppe",
-      "location": "Singapore",
-      "url": "https://himalayas.app/companies/jpm-unternehmensgruppe/jobs/cloud-software-engineer-iii-java-python",
-      "source": "Himalayas",
-      "description": "We have an exciting and rewarding opportunity for you to take your software engineering career to the next level. As a Software Engineer III at JPMorganChase within Infrastructure Platforms, Cloud Foundational Service team, you serve as a seasoned member of an agile team to design and deliver trusted market-leading technology products in a secure, stable, and scalable way. You are responsible for carrying out critical technology solutions across multiple technical areas within various business functions in support of the firm’s business objectives. Job responsibilities Executes software soluti",
-      "tags": [
-        "software-engineer",
-        "cloud-engineer",
-        "platform-engineering",
-        "backend-development",
-        "infrastructure-engineering",
-        "cloud-java-engineer",
-        "cloud-software-engineer",
-        "senior-cloud-software-engineer",
-        "cloud-applications-engineer",
-        "java-software-engineer",
-        "senior-cloud-platform-engineer",
-        "senior-java-software-engineer",
-        "developer"
-      ],
-      "verdict": "review",
-      "fit": 52,
-      "reasons": [
-        "Singapore-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -901,6 +857,40 @@
       ]
     },
     {
+      "title": "AWS DevOps Engineer (Senior) - Migration Project (VMware to AWS)",
+      "company": "Mactores",
+      "location": "Anywhere",
+      "url": "https://jobicy.com/jobs/152284-aws-devops-engineer-senior-migration-project-vmware-to-aws",
+      "source": "Jobicy",
+      "description": "Mactores is the agent-native AWS modernization firm. Most modernization work doesn't ship, it stalls in pilots, slips a year, or lands at three times the budget. We exist to ship it: production systems running, legacy retired, outcomes measured. Our delivery is built on Aedeon, the agent platform built by Mactores' founders' sister company, which absorbs&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
+      "verdict": "review",
+      "fit": 50,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "AWS DevOps Engineer (Senior)",
+      "company": "Mactores",
+      "location": "Anywhere",
+      "url": "https://jobicy.com/jobs/152282-aws-devops-engineer-senior",
+      "source": "Jobicy",
+      "description": "Mactores is the agent-native AWS modernization firm. Most modernization work doesn't ship, it stalls in pilots, slips a year, or lands at three times the budget. We exist to ship it: production systems running, legacy retired, outcomes measured. Our delivery is built on Aedeon, the agent platform built by Mactores' founders' sister company, which absorbs&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
+      "verdict": "review",
+      "fit": 50,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
       "title": "Business Development Representative - Nordics",
       "company": "GitLab",
       "location": "Germany, Ireland, Netherlands, UK",
@@ -921,22 +911,6 @@
       "company": "GitLab",
       "location": "Germany, Ireland, Netherlands, UK",
       "url": "https://jobicy.com/jobs/151865-business-development-representative-german-speaking",
-      "source": "Jobicy",
-      "description": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster. The same principles built into&hellip;",
-      "tags": [
-        "business development"
-      ],
-      "verdict": "review",
-      "fit": 48,
-      "reasons": [
-        "Uk-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Business Development Representative",
-      "company": "GitLab",
-      "location": "EMEA, Germany, Ireland, Netherlands, UK",
-      "url": "https://jobicy.com/jobs/151818-business-development-representative-10",
       "source": "Jobicy",
       "description": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster. The same principles built into&hellip;",
       "tags": [
@@ -1011,6 +985,23 @@
     },
     {
       "title": "Senior DevOps Engineer",
+      "company": "Alma",
+      "location": "France",
+      "url": "https://jobicy.com/jobs/152233-senior-devops-engineer-6",
+      "source": "Jobicy",
+      "description": "About Alma At Alma, we believe sustainable commerce depends on fair, well‑balanced trade. Because finance plays a pivotal role in business, our mission is to put it back in its rightful place - serving merchants and consumers. Our installment and deferred payment solutions help merchants boost sales by 20% or more, increase customer loyalty,&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
+      "verdict": "review",
+      "fit": 46,
+      "reasons": [
+        "France-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Senior DevOps Engineer",
       "company": "Cision",
       "location": "Bulgaria",
       "url": "https://jobicy.com/jobs/151871-senior-devops-engineer-4",
@@ -1044,6 +1035,23 @@
       ]
     },
     {
+      "title": "Senior Software Engineer (Cloud Infrastructure)",
+      "company": "YipitData",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/152179-senior-software-engineer-cloud-infrastructure",
+      "source": "Jobicy",
+      "description": "About Us: YipitData is the leading market research and analytics firm for the disruptive economy and recently raised up to $475M from The Carlyle Group at a valuation over $1B. We analyze billions of alternative data points every day to provide accurate, detailed insights on ridesharing, e-commerce marketplaces, payments and more. Our on-demand insights team&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
+      "verdict": "review",
+      "fit": 46,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
       "title": "Senior Manager, Solutions Architect",
       "company": "Vercel",
       "location": "Australia",
@@ -1061,36 +1069,65 @@
       ]
     },
     {
-      "title": "Senior Data Platform Engineer",
-      "company": "Medium",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/151664-senior-data-platform-engineer-2",
-      "source": "Jobicy",
-      "description": "About Medium Medium is one of the world's most influential writing platforms, connecting millions of readers with ideas that matter. We're a small, dedicated team that cares deeply about craft, curiosity, and building something that lasts. We make decisions efficiently and iterate fast, think carefully, and take the work seriously - without taking ourselves too&hellip;",
+      "title": "Employee",
+      "company": "HARTMANN GROUP International",
+      "location": "Warangal Rural,",
+      "url": "https://remoteOK.com/remote-jobs/remote-employee-hartmann-group-international-1137232",
+      "source": "RemoteOK",
+      "description": "404 This page doesnât exist. Beware, our IT man might be in a bad mood! You better take a look here. Please mention the word **DUMBFOUNDING** and tag RNjQuMjM2LjE5My4yNg== when applying to show you read the job post completely (#RNjQuMjM2LjE5My4yNg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "tags": [
-        "devops & infrastructure"
-      ],
-      "verdict": "review",
-      "fit": 46,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Partner Manager - Channels",
-      "company": "Datadog",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/151733-partner-manager-channels",
-      "source": "Jobicy",
-      "description": "Individual Contributor JD: We are looking for an experienced Channel &amp; Alliances sales professional to build and accelerate growth with our channel partners by identifying and recruiting new partners for long-term success as well as manage ongoing relationships with key strategic partners, including professional services partners and resellers. Our ultimate goal is developing alliances that&hellip;",
-      "tags": [
-        "business development"
+        "education",
+        "exec",
+        "ops",
+        "engineer",
+        "amazon",
+        "web dev",
+        "cloud",
+        "aws"
       ],
       "verdict": "review",
       "fit": 40,
       "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+        "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
+      "title": "Cloud Computing",
+      "company": "Amazon Web Services (AWS)",
+      "location": "Telangana,",
+      "url": "https://remoteOK.com/remote-jobs/remote-cloud-computing-amazon-web-services-aws-1137231",
+      "source": "RemoteOK",
+      "description": "Roles and Responsibilities - AWS cloud computing Location - Hyderabad, Chennai, Kolkata, Pune, Bengaluru Exp - 6 - 8 yrs Please mention the word **LOVE** and tag RNjQuMjM2LjE5My4yNg== when applying to show you read the job post completely (#RNjQuMjM2LjE5My4yNg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "tags": [
+        "education",
+        "exec",
+        "ops",
+        "engineer",
+        "amazon",
+        "web dev",
+        "cloud",
+        "aws"
+      ],
+      "verdict": "review",
+      "fit": 40,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
+      "title": "Full Stack Product Engineer Intern, Agent Native",
+      "company": "Mactores",
+      "location": "Anywhere",
+      "url": "https://jobicy.com/jobs/152300-full-stack-product-engineer-intern-agent-native",
+      "source": "Jobicy",
+      "description": "About Mactores Mactores is the agent-native AWS modernization firm. Most enterprise modernization stalls at pilots and handoffs; ours ships, production systems running, legacy retired, outcomes measured. Our delivery is built on Aedeon, the agent platform built by Mactores' founders' sister company, Aedeon Inc. Aedeon absorbs the repetitive 60–70% of engagement work, discovery, mapping, validation, test&hellip;",
+      "tags": [
+        "software engineering"
+      ],
+      "verdict": "review",
+      "fit": 40,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa"
       ]
     },
     {
@@ -1218,6 +1255,22 @@
       "fit": 36,
       "reasons": [
         "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
+      "title": "Professional Services Engineer",
+      "company": "BigID",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/152173-professional-services-engineer",
+      "source": "Jobicy",
+      "description": "Who we are: BigID is an innovative tech startup that focuses on solutions for data security, compliance, privacy, and AI data management. We're leading the market in all things data: helping our customers reduce risk, drive business innovation, achieve compliance, build customer trust, make better decisions, and get more value from their data. We are&hellip;",
+      "tags": [
+        "technical support"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -1429,35 +1482,27 @@
       ]
     },
     {
-      "title": "Customer Success Manager II - West",
-      "company": "Tines",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/147811-customer-success-manager-ii-west",
-      "source": "Jobicy",
-      "description": "Founded in 2018 with co-headquarters in Dublin and Boston, Tines powers some of the world's most important workflows. Our intelligent workflow platform applies AI, automation, and integration with human ingenuity to drive real business results. Tines serves a diverse range of customers, from startups to public companies, including Canva, Databricks, Elastic, Kayak, Intercom, and McKesson.&hellip;",
+      "title": "Production Lead",
+      "company": "ITC Limited",
+      "location": "Guntur,",
+      "url": "https://remoteOK.com/remote-jobs/remote-production-lead-itc-limited-1137233",
+      "source": "RemoteOK",
+      "description": "Production Lead - G3 Please mention the word **HOT** and tag RNjQuMjM2LjE5My4yNg== when applying to show you read the job post completely (#RNjQuMjM2LjE5My4yNg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "tags": [
-        "customer support & success"
+        "education",
+        "exec",
+        "ops",
+        "engineer",
+        "amazon",
+        "web dev",
+        "cloud",
+        "aws"
       ],
       "verdict": "review",
-      "fit": 36,
+      "fit": 34,
       "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Cloud Security Engineer",
-      "company": "Clickhouse",
-      "location": "Netherlands",
-      "url": "https://jobicy.com/jobs/151716-cloud-security-engineer",
-      "source": "Jobicy",
-      "description": "About ClickHouse Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 4,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real-time analytics, data warehousing, observability, and AI workloads. The company’s sustained, accelerating&hellip;",
-      "tags": [
-        "cybersecurity"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Netherlands-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+        "location unconfirmed — verify it's open to Africa",
+        "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
     {
@@ -1484,32 +1529,19 @@
       ]
     },
     {
-      "title": "Senior Governance Risk and Compliance Analyst",
-      "company": "RainFocus",
-      "location": "Orem, UT",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-governance-risk-and-compliance-analyst-rainfocus-1137061",
-      "source": "RemoteOK",
-      "description": "RainFocus, one of the most innovative software companies, is in search of an exceptional Senior Governance, Risk, and Compliance (GRC) Analyst .&nbsp; &nbsp; About RainFocus &nbsp; RainFocus cares about its employees, customers, and the world in which we live. Our rapidly growing team serves Fortune 500 companies like Adobe, Cisco, IBM, Oracle, VMware, and others to prepare and execute in-person, virtual, and hybrid events across the world. Those events are delivered through our industry-disrupting software platform, with groundbreaking business intelligence, to elevate the attendee experience",
+      "title": "Senior Technical Writer",
+      "company": "Ping Identity",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/152264-senior-technical-writer",
+      "source": "Jobicy",
+      "description": "About Ping Identity: At Ping Identity, we believe in making digital experiences both secure and seamless for all users, without compromise. We call this digital freedom. And it's not just something we provide our customers. It's something that inspires our company. People don't come here to join a culture that's built on digital freedom. They&hellip;",
       "tags": [
-        "analyst",
-        "design",
-        "saas",
-        "infosec",
-        "education",
-        "technical",
-        "dev",
-        "cloud",
-        "exec",
-        "senior",
-        "ops",
-        "marketing",
-        "engineer",
-        "digital nomad"
+        "content & editorial"
       ],
       "verdict": "review",
       "fit": 30,
       "reasons": [
-        "location unconfirmed — verify it's open to Africa",
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -1650,40 +1682,6 @@
       ]
     },
     {
-      "title": "Senior Engineering Manager, Platform Delivery",
-      "company": "Upstart",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/142530-senior-engineering-manager-platform-delivery",
-      "source": "Jobicy",
-      "description": "About UpstartAt Upstart, we’re united by a mission that matters: to radically reduce the cost and complexity of borrowing for all Americans. Every day, we bring creativity, experimentation, and advanced AI to reshape access to credit, helping millions move forward financially with clarity and confidence.As the leading AI lending marketplace, we partner with banks and&hellip;",
-      "tags": [
-        "product & operations"
-      ],
-      "verdict": "review",
-      "fit": 30,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Power BI Architect",
-      "company": "Tiger Analytics",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/143584-power-bi-architect",
-      "source": "Jobicy",
-      "description": "Tiger Analytics is a fast-growing advanced analytics consulting firm. Our consultants bring deep expertise in Data Science, Machine Learning and AI. We are the trusted analytics partner for several Fortune 100 companies, enabling them to generate business value from data. Our business value and leadership has been recognized by various market research firms, including Forrester&hellip;",
-      "tags": [
-        "data science & analytics"
-      ],
-      "verdict": "review",
-      "fit": 30,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
       "title": "Vice President, Technology & Digital Strategy",
       "company": "Shatterproof",
       "location": "USA",
@@ -1802,6 +1800,22 @@
       ]
     },
     {
+      "title": "Director of Production Engineering",
+      "company": "Legion",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/152228-director-of-production-engineering",
+      "source": "Jobicy",
+      "description": "Director of Production Engineering Remote, United States About this Position Are you passionate about building the reliability, automation, and security foundations that let engineering teams move fast with confidence? At Legion, we are seeking a Director of Engineering, DevOps &amp; SRE to lead the teams responsible for the availability, scalability, and security of our production&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Director-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
       "title": "Sr. Director, Assistant Controller",
       "company": "LaunchDarkly",
       "location": "USA",
@@ -1815,38 +1829,6 @@
       "fit": 0,
       "reasons": [
         "Director-level — usually 5–10+ yrs, you have ~4"
-      ]
-    },
-    {
-      "title": "Principal Cloud Security Engineer",
-      "company": "LastPass",
-      "location": "UK",
-      "url": "https://jobicy.com/jobs/151831-principal-cloud-security-engineer",
-      "source": "Jobicy",
-      "description": "About LastPassLastPass delivers Secure Access Essentials, helping individuals and organizations manage and protect access to AI, applications, and credentials straight from the browser. Trusted by more than 100,000 businesses and millions of users worldwide, LastPass blends strong security with everyday simplicity. From discovering unapproved AI and applications to reducing login friction and securing credentials across&hellip;",
-      "tags": [
-        "cybersecurity"
-      ],
-      "verdict": "blocked",
-      "fit": 0,
-      "reasons": [
-        "Principal-level — usually 5–10+ yrs, you have ~4"
-      ]
-    },
-    {
-      "title": "Staff Backend Engineer",
-      "company": "TeamSnap",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/151779-staff-backend-engineer-2",
-      "source": "Jobicy",
-      "description": "About Us At TeamSnap, we believe when the world connects through sports; the world becomes better. TeamSnap is a sports and communication platform dedicated to taking the work out of play in youth sports. We also believe our jobs should excite us, our teammates should support us and our bosses should inspire us. We&hellip;",
-      "tags": [
-        "software engineering"
-      ],
-      "verdict": "blocked",
-      "fit": 0,
-      "reasons": [
-        "Staff-level — usually 5–10+ yrs, you have ~4"
       ]
     }
   ]
