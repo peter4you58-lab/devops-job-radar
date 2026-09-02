@@ -1,11 +1,11 @@
 {
-  "generated": "2026-09-01 10:41 UTC",
-  "count": 89,
+  "generated": "2026-09-02 10:06 UTC",
+  "count": 87,
   "summary": {
-    "scanned": 89,
-    "eligible": 26,
+    "scanned": 87,
+    "eligible": 25,
     "review": 56,
-    "blocked": 7
+    "blocked": 6
   },
   "jobs": [
     {
@@ -29,20 +29,6 @@
       "url": "https://weworkremotely.com/remote-jobs/jumio-devops-engineer-iv-obs",
       "source": "WeWorkRemotely",
       "description": "Headquarters: India (remote) Role Purpose As a DevOps Engineer IV at Jumio, you are expected to be strong in both the “Dev” and “Ops” aspects of DevOps. We are seeking someone with a deep understanding of systems architecture and core computer science concepts, who can reason about system behavior rather than simply working with current toolsets. This is a high-bar role with significant rewards. As one of our hires in our Bengaluru office, you will help shape the team and culture, collaborate with energetic peers who will challenge and inspire you, and gain considerable international exposure ",
-      "tags": [],
-      "verdict": "eligible",
-      "fit": 66,
-      "reasons": [
-        "remote — anywhere / global"
-      ]
-    },
-    {
-      "title": "IT Systems Engineer",
-      "company": "Platform.sh",
-      "location": "Anywhere in the World",
-      "url": "https://weworkremotely.com/remote-jobs/platform-sh-it-systems-engineer",
-      "source": "WeWorkRemotely",
-      "description": "Headquarters: Remote • Canada, France, Spain, Germany, UK About Upsun (formerly Platform.sh)&nbsp; Upsun is the cloud application platform humans and robots love. It is built for today’s hybrid teams, where AI agents write and test code and humans focus on solving the problems that really matter. Developers, DevOps engineers, and platform teams use Upsun to build, ship, and scale confidently without wrestling with backend infrastructure. We give you your time back. You get: Predictable performance, even at scale Secure, compliant environments by default&nbsp; Real-time observability and profil",
       "tags": [],
       "verdict": "eligible",
       "fit": 66,
@@ -459,6 +445,38 @@
       ]
     },
     {
+      "title": "GitOps Engineering Manager",
+      "company": "Canonical",
+      "location": "APAC, EMEA",
+      "url": "https://jobicy.com/jobs/149939-gitops-engineering-manager",
+      "source": "Jobicy",
+      "description": "Canonical is a leading provider of open-source software and operating systems for global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in many&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
+      "verdict": "review",
+      "fit": 68,
+      "reasons": [
+        "EMEA-tagged — verify it's open to Africa first"
+      ]
+    },
+    {
+      "title": "Site Reliability Engineering Manager",
+      "company": "Canonical",
+      "location": "APAC, EMEA",
+      "url": "https://jobicy.com/jobs/149986-site-reliability-engineering-manager",
+      "source": "Jobicy",
+      "description": "Canonical is a leading provider of open-source software and operating systems for global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in many&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
+      "verdict": "review",
+      "fit": 64,
+      "reasons": [
+        "EMEA-tagged — verify it's open to Africa first"
+      ]
+    },
+    {
       "title": "Senior DevOps Engineer",
       "company": "Lemon.io",
       "location": "LATAM, Europe, USA, Canada, APAC",
@@ -524,6 +542,23 @@
       "fit": 58,
       "reasons": [
         "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Information Systems - Open Source Technical Architect",
+      "company": "Canonical",
+      "location": "EMEA",
+      "url": "https://jobicy.com/jobs/149979-information-systems-open-source-technical-architect",
+      "source": "Jobicy",
+      "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
+      "verdict": "review",
+      "fit": 58,
+      "reasons": [
+        "EMEA-tagged — verify it's open to Africa first",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -891,42 +926,26 @@
       ]
     },
     {
-      "title": "Business Development Representative - Nordics",
-      "company": "GitLab",
-      "location": "Germany, Ireland, Netherlands, UK",
-      "url": "https://jobicy.com/jobs/151869-business-development-representative-nordics",
+      "title": "Software Engineer - Cloud Images",
+      "company": "Canonical",
+      "location": "EMEA, LATAM, Canada, USA",
+      "url": "https://jobicy.com/jobs/149978-software-engineer-cloud-images",
       "source": "Jobicy",
-      "description": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster. The same principles built into&hellip;",
+      "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders&hellip;",
       "tags": [
-        "business development"
+        "software engineering"
       ],
       "verdict": "review",
       "fit": 48,
       "reasons": [
-        "Uk-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Business Development Representative, German Speaking",
-      "company": "GitLab",
-      "location": "Germany, Ireland, Netherlands, UK",
-      "url": "https://jobicy.com/jobs/151865-business-development-representative-german-speaking",
-      "source": "Jobicy",
-      "description": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster. The same principles built into&hellip;",
-      "tags": [
-        "business development"
-      ],
-      "verdict": "review",
-      "fit": 48,
-      "reasons": [
-        "Uk-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
       "title": "Senior QA Engineer",
       "company": "Lemon.io",
       "location": "Europe",
-      "url": "https://remotive.com/remote-jobs/software-development/senior-qa-engineer-2091100",
+      "url": "https://remotive.com/remote-jobs/qa/senior-qa-engineer-2091100",
       "source": "Remotive",
       "description": "Are you a talented QA looking for a remote job that lets you show your skills and get better compensation and career growth? Look no further than Lemon.io - the marketplace that connects you with hand-picked startups in the US and Europe. We are seeking a Senior QA Engineer for our client — for direct hire. The client is a B2B service provider based in Cyprus that specializes in building and managing technology and operational services for online businesses. We are looking for a detail-oriented and proactive QA Engineer who is passionate about quality and thrives in a fast-paced development en",
       "tags": [
@@ -985,23 +1004,6 @@
     },
     {
       "title": "Senior DevOps Engineer",
-      "company": "Alma",
-      "location": "France",
-      "url": "https://jobicy.com/jobs/152233-senior-devops-engineer-6",
-      "source": "Jobicy",
-      "description": "About Alma At Alma, we believe sustainable commerce depends on fair, well‑balanced trade. Because finance plays a pivotal role in business, our mission is to put it back in its rightful place - serving merchants and consumers. Our installment and deferred payment solutions help merchants boost sales by 20% or more, increase customer loyalty,&hellip;",
-      "tags": [
-        "devops & infrastructure"
-      ],
-      "verdict": "review",
-      "fit": 46,
-      "reasons": [
-        "France-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Senior DevOps Engineer",
       "company": "Cision",
       "location": "Bulgaria",
       "url": "https://jobicy.com/jobs/151871-senior-devops-engineer-4",
@@ -1014,23 +1016,6 @@
       "fit": 46,
       "reasons": [
         "location unconfirmed — verify it's open to Africa",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Senior DevOps / DevEx Engineer",
-      "company": "RevenueCat",
-      "location": "APAC, EMEA, Canada, USA",
-      "url": "https://jobicy.com/jobs/149932-senior-devops-devex-engineer",
-      "source": "Jobicy",
-      "description": "RevenueCat removes the headaches of building and scaling in‑app subscriptions. Since graduating from YC’s S18 batch we’ve grown into the default monetization platform for mobile: we’re in &gt;40% of newly shipped subscription apps, we process $12B+ in annual purchase volume, and we help everyone from a solo dev in Brazil to the OpenAI mobile team&hellip;",
-      "tags": [
-        "devops & infrastructure"
-      ],
-      "verdict": "review",
-      "fit": 46,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -1074,7 +1059,7 @@
       "location": "Warangal Rural,",
       "url": "https://remoteOK.com/remote-jobs/remote-employee-hartmann-group-international-1137232",
       "source": "RemoteOK",
-      "description": "404 This page doesnât exist. Beware, our IT man might be in a bad mood! You better take a look here. Please mention the word **DUMBFOUNDING** and tag RNjQuMjM2LjE5My4yNg== when applying to show you read the job post completely (#RNjQuMjM2LjE5My4yNg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "404 This page doesnât exist. Beware, our IT man might be in a bad mood! You better take a look here. Please mention the word **DUMBFOUNDING** and tag RMTcyLjE4NC4yMTEuODU= when applying to show you read the job post completely (#RMTcyLjE4NC4yMTEuODU=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "tags": [
         "education",
         "exec",
@@ -1097,7 +1082,7 @@
       "location": "Telangana,",
       "url": "https://remoteOK.com/remote-jobs/remote-cloud-computing-amazon-web-services-aws-1137231",
       "source": "RemoteOK",
-      "description": "Roles and Responsibilities - AWS cloud computing Location - Hyderabad, Chennai, Kolkata, Pune, Bengaluru Exp - 6 - 8 yrs Please mention the word **LOVE** and tag RNjQuMjM2LjE5My4yNg== when applying to show you read the job post completely (#RNjQuMjM2LjE5My4yNg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Roles and Responsibilities - AWS cloud computing Location - Hyderabad, Chennai, Kolkata, Pune, Bengaluru Exp - 6 - 8 yrs Please mention the word **LOVE** and tag RMTcyLjE4NC4yMTEuODU= when applying to show you read the job post completely (#RMTcyLjE4NC4yMTEuODU=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "tags": [
         "education",
         "exec",
@@ -1255,6 +1240,38 @@
       "fit": 36,
       "reasons": [
         "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
+      "title": "QA Analyst (Future Roles)",
+      "company": "Testlio",
+      "location": "Argentina, Brazil, Canada, Czechia, Estonia, Ireland, Mexico, Poland, Portugal, Romania, Spain, UK, Ukraine, USA",
+      "url": "https://jobicy.com/jobs/152333-qa-analyst-future-roles",
+      "source": "Jobicy",
+      "description": "About Testlio Testlio’s fully managed crowdsourced testing platform, powered by our proprietary intelligence technology – LeoAI EngineTM, integrates expert, on-demand testers directly into your release process. Ship faster and more confidently with global coverage across 600,000+ devices, 800+ payment methods, 150+ countries, and 100+ languages. To learn more, visit www.testlio.com. This job post is to&hellip;",
+      "tags": [
+        "qa & testing"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "Quality Engineer",
+      "company": "StackAdapt",
+      "location": "Canada",
+      "url": "https://jobicy.com/jobs/152330-quality-engineer-2",
+      "source": "Jobicy",
+      "description": "StackAdapt is the leading technology company that empowers marketers to reach, engage, and convert audiences with precision. With 465 billion automated optimizations per second, the AI-powered StackAdapt Marketing Platform seamlessly connects brand and performance marketing to drive measurable results across the entire customer journey. The most forward-thinking marketers choose StackAdapt to orchestrate high-impact campaigns across&hellip;",
+      "tags": [
+        "qa & testing"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "Canada-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -1418,22 +1435,6 @@
       ]
     },
     {
-      "title": "Corporate Account Executive - Central",
-      "company": "Chainguard",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/151971-corporate-account-executive-central",
-      "source": "Jobicy",
-      "description": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. Our customers include Fortune 500 enterprises and global industry leaders, including Anduril, Canva, Fortinet, Hewlett Packard Enterprise, OpenAI,&hellip;",
-      "tags": [
-        "sales"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
       "title": "Cyber-Security Operations Analyst III, Product AppSec",
       "company": "Veeam Software",
       "location": "USA",
@@ -1450,44 +1451,12 @@
       ]
     },
     {
-      "title": "Enterprise Account Executive - Benelux",
-      "company": "Chainguard",
-      "location": "Netherlands",
-      "url": "https://jobicy.com/jobs/151936-enterprise-account-executive-benelux",
-      "source": "Jobicy",
-      "description": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. Our customers include Fortune 500 enterprises and global industry leaders, including Anduril, Canva, Fortinet, Hewlett Packard Enterprise, OpenAI,&hellip;",
-      "tags": [
-        "sales"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Netherlands-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Professional Services Engagement Manager",
-      "company": "Harness",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/147874-professional-services-engagement-manager",
-      "source": "Jobicy",
-      "description": "Harness is the AI Software Delivery Platform company, led by technologist and entrepreneur Jyoti Bansal (founder of AppDynamics, acquired by Cisco for $3.7B). Harness has raised approximately $570M in funding and is valued at $5.5B, backed by leading investors including Goldman Sachs, Menlo Ventures, IVP, Unusual Ventures, Citi Ventures, and more. As AI accelerates code&hellip;",
-      "tags": [
-        "business development"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
       "title": "Production Lead",
       "company": "ITC Limited",
       "location": "Guntur,",
       "url": "https://remoteOK.com/remote-jobs/remote-production-lead-itc-limited-1137233",
       "source": "RemoteOK",
-      "description": "Production Lead - G3 Please mention the word **HOT** and tag RNjQuMjM2LjE5My4yNg== when applying to show you read the job post completely (#RNjQuMjM2LjE5My4yNg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Production Lead - G3 Please mention the word **HOT** and tag RMTcyLjE4NC4yMTEuODU= when applying to show you read the job post completely (#RMTcyLjE4NC4yMTEuODU=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "tags": [
         "education",
         "exec",
@@ -1506,6 +1475,23 @@
       ]
     },
     {
+      "title": "Senior QA Engineer",
+      "company": "Caylent",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/152325-senior-qa-engineer-2",
+      "source": "Jobicy",
+      "description": "Caylent is an AI-first cloud services company that helps organizations turn ambitious ideas into meaningful business impact. As an AWS Premier Tier Services Partner and a charter member of Anthropic’s Claude Partner Network, we combine deep expertise in AWS, artificial intelligence, and Anthropic’s Claude platform to help customers modernize their technology, build intelligent products, and&hellip;",
+      "tags": [
+        "qa & testing"
+      ],
+      "verdict": "review",
+      "fit": 34,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
       "title": "Senior Independent AI Engineer / Architect",
       "company": "A.Team",
       "location": "Americas, Europe, Israel",
@@ -1520,6 +1506,23 @@
         "apple",
         "testing",
         "catalyst"
+      ],
+      "verdict": "review",
+      "fit": 30,
+      "reasons": [
+        "Europe-tagged — verify it's open to Africa first",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Senior Software Engineer (Golang)",
+      "company": "Zartis",
+      "location": "Europe",
+      "url": "https://jobicy.com/jobs/149948-senior-software-engineer-golang",
+      "source": "Jobicy",
+      "description": "The company and our mission: Zartis is a digital solutions provider working across technology strategy, software engineering, and product development. We partner with firms across financial services, MedTech, media, logistics technology, renewable energy, EdTech, e-commerce, and more. Our engineering hubs in EMEA and LATAM are full of talented professionals delivering business success and digital improvement&hellip;",
+      "tags": [
+        "software engineering"
       ],
       "verdict": "review",
       "fit": 30,
@@ -1665,62 +1668,6 @@
       ]
     },
     {
-      "title": "Senior Azure Data Engineer | KD Pharma",
-      "company": "GT",
-      "location": "Europe, Türkiye",
-      "url": "https://jobicy.com/jobs/151908-senior-azure-data-engineer-kd-pharma",
-      "source": "Jobicy",
-      "description": "GT was founded in 2019 by a former Apple, Nest, and Google executive. GT’s mission is to connect the world’s best talent with product careers offered by high-growth companies in the UK, USA, Canada, Germany, and the Netherlands. On behalf of KD Pharma, GT is looking for a Senior Azure Data Engineer with architecture exposure,&hellip;",
-      "tags": [
-        "data science & analytics"
-      ],
-      "verdict": "review",
-      "fit": 30,
-      "reasons": [
-        "Europe-tagged — verify it's open to Africa first",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Vice President, Technology & Digital Strategy",
-      "company": "Shatterproof",
-      "location": "USA",
-      "url": "https://remotive.com/remote-jobs/all-others/vice-president-technology-digital-strategy-2091104",
-      "source": "Remotive",
-      "description": "About ShatterproofShatterproof is a national nonprofit working toward a world where addiction never defines or ends a life. Through evidence-based programs, advocacy, and public education, Shatterproof works to transform systems for tomorrow, support families today, and end stigma forever. Learn more at shatterproof.org. Who Succeeds at Shatterproof Shatterproof is in a period of transformative and rapid growth. We are building new systems, reimagining how work gets done, and creating more cross-functional alignment to accelerate our mission. To thrive here, you should be energized by building",
-      "tags": [
-        "business intelligence",
-        "cloud",
-        "salesforce",
-        "security",
-        "ai/ml",
-        "automation",
-        "product management",
-        "documentation",
-        "crm",
-        "analytics",
-        "google analytics",
-        "partnerships",
-        "cybersecurity",
-        "onboarding",
-        "troubleshooting",
-        "risk management",
-        "performance management",
-        "fundraising",
-        "nonprofit",
-        "it operations",
-        "infrastructure",
-        "microsoft 365",
-        "travel",
-        "insurance"
-      ],
-      "verdict": "blocked",
-      "fit": 0,
-      "reasons": [
-        "Vice president-level — usually 5–10+ yrs, you have ~4"
-      ]
-    },
-    {
       "title": "Senior Independent Software Developer",
       "company": "A.Team",
       "location": "Americas, Europe, Israel",
@@ -1800,6 +1747,22 @@
       ]
     },
     {
+      "title": "Staff Data Engineer",
+      "company": "Upside",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/152323-staff-data-engineer",
+      "source": "Jobicy",
+      "description": "Meet Upside: We created Upside to transform brick-and-mortar commerce. Our technology uses the sophistication of online retail—profit measurement, attribution, and incrementality—to provide users with more value on their everyday purchases and brick-and-mortar businesses with new, profitable customers. We’ve helped millions of users earn 2 to 3 times more cashback than any other product, and hundreds&hellip;",
+      "tags": [
+        "data science & analytics"
+      ],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Staff-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
       "title": "Director of Production Engineering",
       "company": "Legion",
       "location": "USA",
@@ -1808,22 +1771,6 @@
       "description": "Director of Production Engineering Remote, United States About this Position Are you passionate about building the reliability, automation, and security foundations that let engineering teams move fast with confidence? At Legion, we are seeking a Director of Engineering, DevOps &amp; SRE to lead the teams responsible for the availability, scalability, and security of our production&hellip;",
       "tags": [
         "devops & infrastructure"
-      ],
-      "verdict": "blocked",
-      "fit": 0,
-      "reasons": [
-        "Director-level — usually 5–10+ yrs, you have ~4"
-      ]
-    },
-    {
-      "title": "Sr. Director, Assistant Controller",
-      "company": "LaunchDarkly",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/151887-sr-director-assistant-controller",
-      "source": "Jobicy",
-      "description": "About the Job: LaunchDarkly is seeking a Senior Director, Assistant Controller to lead and scale the global accounting organization during the company’s next phase of growth. This leader will be a key member of the controllership organization and will partner closely with Revenue Accounting, Procurement, Finance, Legal, Human Resource, IT and executive leadership to build&hellip;",
-      "tags": [
-        "finance & accounting"
       ],
       "verdict": "blocked",
       "fit": 0,
