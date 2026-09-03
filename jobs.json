@@ -1,13 +1,39 @@
 {
-  "generated": "2026-09-02 10:06 UTC",
-  "count": 87,
+  "generated": "2026-09-03 10:17 UTC",
+  "count": 89,
   "summary": {
-    "scanned": 87,
+    "scanned": 89,
     "eligible": 25,
-    "review": 56,
+    "review": 58,
     "blocked": 6
   },
   "jobs": [
+    {
+      "title": "Cloud Engineer (Remote, Mexico)",
+      "company": "IO Connect Services",
+      "location": "Mexico",
+      "url": "https://himalayas.app/companies/io-connect-services/jobs/cloud-engineer-remote-mexico-737963489",
+      "source": "Himalayas",
+      "description": "About IO Connect Services : IO Connect Services is a fast-growing AWS Advanced Tier Services Partner and Datadog Partner that has achieved continuous success since its inception. We are committed to delivering complex and well-architected technical solutions worldwide and our professionals are dedicated to establishing and maintaining trust with our clients and business partners for long-term relationships. Minimum Qualifications: Bachelors of Science Degree in Computer Science 2+ years of experience in software development Java or other object-oriented programming experience Strong understand",
+      "tags": [
+        "cloud-engineer",
+        "integration-engineering",
+        "software-development",
+        "devops",
+        "backend-development",
+        "remote-cloud-engineer",
+        "cloud-software-engineer",
+        "remote-azure-engineer",
+        "remote-devops-engineer",
+        "cloud-devops-engineer",
+        "cloud-services-engineer"
+      ],
+      "verdict": "eligible",
+      "fit": 74,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
     {
       "title": "DevOps & Security Engineer - AI-Native Healthcare SaaS",
       "company": "Zenara Health",
@@ -338,22 +364,6 @@
       ]
     },
     {
-      "title": "Account Executive 4",
-      "company": "Twilio",
-      "location": "Singapore",
-      "url": "https://jobicy.com/jobs/151944-account-executive-4-2",
-      "source": "Jobicy",
-      "description": "Who we are At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to hundreds of thousands of businesses and empower millions of developers worldwide to craft personalized customer experiences. Our dedication to remote-first work, and strong culture of connection and global inclusion means that no&hellip;",
-      "tags": [
-        "sales"
-      ],
-      "verdict": "eligible",
-      "fit": 50,
-      "reasons": [
-        "remote — anywhere / global"
-      ]
-    },
-    {
       "title": "Senior Software Engineer",
       "company": "CircleCI",
       "location": "Anywhere in the World",
@@ -608,22 +618,6 @@
       "fit": 56,
       "reasons": [
         "location unconfirmed — verify it's open to Africa"
-      ]
-    },
-    {
-      "title": "DevOps Engineer",
-      "company": "Launchpad Technologies",
-      "location": "LATAM",
-      "url": "https://jobicy.com/jobs/151148-devops-engineer",
-      "source": "Jobicy",
-      "description": "Who We Are Launchpad Technologies Inc. is a global technology partner connecting top talent with high-impact projects across North America and beyond. We specialize in Staff Augmentation and product development, helping companies scale with agility while empowering professionals to grow in meaningful, remote-first environments. If you’re passionate about automating infrastructure, optimizing CI/CD pipelines, and building&hellip;",
-      "tags": [
-        "devops & infrastructure"
-      ],
-      "verdict": "review",
-      "fit": 56,
-      "reasons": [
-        "Latam-tagged — verify it's open to Africa first"
       ]
     },
     {
@@ -926,6 +920,34 @@
       ]
     },
     {
+      "title": "1130 Senior DevOps",
+      "company": "Intetics",
+      "location": "Ukraine",
+      "url": "https://himalayas.app/companies/intetics/jobs/1130-senior-devops",
+      "source": "Himalayas",
+      "description": "Intetics Inc., a leading American technology company specializing in custom software application development, distributed professional teams creation, software product quality assessment, and “all-things-digital” solutions, is looking for a Senior DevOps to join its innovative team. About the Project We are looking for a highly autonomous Senior DevOps Engineer to join a cloud platform team and take ownership of critical infrastructure, automation, and deployment initiatives. This role goes beyond traditional infrastructure support and requires an engineer who can independently identify challe",
+      "tags": [
+        "devops-engineer",
+        "platform-engineering",
+        "site-reliability-engineering",
+        "aws-devops",
+        "cloud-infrastructure",
+        "senior-devops",
+        "senior-devops-developer",
+        "senior-devops-architect",
+        "senior-java-devops-engineer",
+        "senior-staff-devops-engineer",
+        "senior-devsecops-developer",
+        "senior-devops-qa-engineer"
+      ],
+      "verdict": "review",
+      "fit": 50,
+      "reasons": [
+        "Uk-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
       "title": "Software Engineer - Cloud Images",
       "company": "Canonical",
       "location": "EMEA, LATAM, Canada, USA",
@@ -1054,12 +1076,29 @@
       ]
     },
     {
+      "title": "Senior Customer Success Architect - Singapore",
+      "company": "GitLab",
+      "location": "Singapore",
+      "url": "https://jobicy.com/jobs/150102-senior-customer-success-architect-singapore",
+      "source": "Jobicy",
+      "description": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster. The same principles built into&hellip;",
+      "tags": [
+        "customer support & success"
+      ],
+      "verdict": "review",
+      "fit": 42,
+      "reasons": [
+        "Singapore-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
       "title": "Employee",
       "company": "HARTMANN GROUP International",
       "location": "Warangal Rural,",
       "url": "https://remoteOK.com/remote-jobs/remote-employee-hartmann-group-international-1137232",
       "source": "RemoteOK",
-      "description": "404 This page doesnât exist. Beware, our IT man might be in a bad mood! You better take a look here. Please mention the word **DUMBFOUNDING** and tag RMTcyLjE4NC4yMTEuODU= when applying to show you read the job post completely (#RMTcyLjE4NC4yMTEuODU=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "404 This page doesnât exist. Beware, our IT man might be in a bad mood! You better take a look here. Please mention the word **DUMBFOUNDING** and tag RMjAuMTY5Ljc1LjI0NQ== when applying to show you read the job post completely (#RMjAuMTY5Ljc1LjI0NQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "tags": [
         "education",
         "exec",
@@ -1082,7 +1121,7 @@
       "location": "Telangana,",
       "url": "https://remoteOK.com/remote-jobs/remote-cloud-computing-amazon-web-services-aws-1137231",
       "source": "RemoteOK",
-      "description": "Roles and Responsibilities - AWS cloud computing Location - Hyderabad, Chennai, Kolkata, Pune, Bengaluru Exp - 6 - 8 yrs Please mention the word **LOVE** and tag RMTcyLjE4NC4yMTEuODU= when applying to show you read the job post completely (#RMTcyLjE4NC4yMTEuODU=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Roles and Responsibilities - AWS cloud computing Location - Hyderabad, Chennai, Kolkata, Pune, Bengaluru Exp - 6 - 8 yrs Please mention the word **LOVE** and tag RMjAuMTY5Ljc1LjI0NQ== when applying to show you read the job post completely (#RMjAuMTY5Ljc1LjI0NQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "tags": [
         "education",
         "exec",
@@ -1240,6 +1279,22 @@
       "fit": 36,
       "reasons": [
         "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
+      "title": "Sales Engineer, EMEA",
+      "company": "Sonatype",
+      "location": "Germany, Singapore, UK",
+      "url": "https://jobicy.com/jobs/152363-sales-engineer-emea-2",
+      "source": "Jobicy",
+      "description": "Sonatype is the software supply chain security company. Sonatype is accelerating the future of agentic software development. As developers and AI agents build faster than ever, enterprises need a new level of control, visibility, and confidence at the moment software is assembled. Our Nexus One platform helps development, security, and platform teams govern the components,&hellip;",
+      "tags": [
+        "sales"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "Uk-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -1456,7 +1511,7 @@
       "location": "Guntur,",
       "url": "https://remoteOK.com/remote-jobs/remote-production-lead-itc-limited-1137233",
       "source": "RemoteOK",
-      "description": "Production Lead - G3 Please mention the word **HOT** and tag RMTcyLjE4NC4yMTEuODU= when applying to show you read the job post completely (#RMTcyLjE4NC4yMTEuODU=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Production Lead - G3 Please mention the word **HOT** and tag RMjAuMTY5Ljc1LjI0NQ== when applying to show you read the job post completely (#RMjAuMTY5Ljc1LjI0NQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "tags": [
         "education",
         "exec",
@@ -1511,6 +1566,23 @@
       "fit": 30,
       "reasons": [
         "Europe-tagged — verify it's open to Africa first",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Senior Account Executive, Nordics & Baltics",
+      "company": "Sonatype",
+      "location": "Germany, UK",
+      "url": "https://jobicy.com/jobs/152368-senior-account-executive-nordics-baltics",
+      "source": "Jobicy",
+      "description": "Sonatype is the software supply chain security company. We provide the world’s best end-to-end software supply chain security solution, combining the only proactive protection against malicious open source, the only enterprise grade SBOM management and the leading open source dependency management platform. This empowers enterprises to create and maintain secure, quality, and innovative software at&hellip;",
+      "tags": [
+        "sales"
+      ],
+      "verdict": "review",
+      "fit": 30,
+      "reasons": [
+        "Uk-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -1621,23 +1693,6 @@
       "company": "Truelogic",
       "location": "LATAM",
       "url": "https://jobicy.com/jobs/152035-senior-front-end-developer-react-typescript-market-research",
-      "source": "Jobicy",
-      "description": "About TruelogicAt Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of all sizes, from innovative startups to industry leaders, helping them achieve their digital transformation goals.Our team of 600+ highly skilled tech professionals, based in Latin&hellip;",
-      "tags": [
-        "software engineering"
-      ],
-      "verdict": "review",
-      "fit": 30,
-      "reasons": [
-        "Latam-tagged — verify it's open to Africa first",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Senior Full-stack Engineer (React OR Vue/Python) - Investment",
-      "company": "Truelogic",
-      "location": "LATAM",
-      "url": "https://jobicy.com/jobs/152031-senior-full-stack-engineer-react-or-vue-python-investment",
       "source": "Jobicy",
       "description": "About TruelogicAt Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of all sizes, from innovative startups to industry leaders, helping them achieve their digital transformation goals.Our team of 600+ highly skilled tech professionals, based in Latin&hellip;",
       "tags": [
