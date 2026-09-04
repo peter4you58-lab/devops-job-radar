@@ -1,39 +1,13 @@
 {
-  "generated": "2026-09-03 10:17 UTC",
-  "count": 89,
+  "generated": "2026-09-04 10:06 UTC",
+  "count": 86,
   "summary": {
-    "scanned": 89,
-    "eligible": 25,
-    "review": 58,
-    "blocked": 6
+    "scanned": 86,
+    "eligible": 23,
+    "review": 56,
+    "blocked": 7
   },
   "jobs": [
-    {
-      "title": "Cloud Engineer (Remote, Mexico)",
-      "company": "IO Connect Services",
-      "location": "Mexico",
-      "url": "https://himalayas.app/companies/io-connect-services/jobs/cloud-engineer-remote-mexico-737963489",
-      "source": "Himalayas",
-      "description": "About IO Connect Services : IO Connect Services is a fast-growing AWS Advanced Tier Services Partner and Datadog Partner that has achieved continuous success since its inception. We are committed to delivering complex and well-architected technical solutions worldwide and our professionals are dedicated to establishing and maintaining trust with our clients and business partners for long-term relationships. Minimum Qualifications: Bachelors of Science Degree in Computer Science 2+ years of experience in software development Java or other object-oriented programming experience Strong understand",
-      "tags": [
-        "cloud-engineer",
-        "integration-engineering",
-        "software-development",
-        "devops",
-        "backend-development",
-        "remote-cloud-engineer",
-        "cloud-software-engineer",
-        "remote-azure-engineer",
-        "remote-devops-engineer",
-        "cloud-devops-engineer",
-        "cloud-services-engineer"
-      ],
-      "verdict": "eligible",
-      "fit": 74,
-      "reasons": [
-        "remote — anywhere / global"
-      ]
-    },
     {
       "title": "DevOps & Security Engineer - AI-Native Healthcare SaaS",
       "company": "Zenara Health",
@@ -209,31 +183,6 @@
       ]
     },
     {
-      "title": "Freelance Copywriter",
-      "company": "Coalition Technologies",
-      "location": "Worldwide",
-      "url": "https://remotive.com/remote-jobs/writing/freelance-copywriter-1749306",
-      "source": "Remotive",
-      "description": "CT Marketing Agency is seeking skilled Freelance Copywriters to write high-quality, SEO-driven content for eCommerce and lead generation websites. This is a freelance, project-based writing role. The ideal candidate has excellent English writing skills, strong research ability, and experience writing content that follows detailed, client-specific guidelines. Projects commonly include category pages, product descriptions, blog posts, SEO landing pages, and website copy. About the Role Our client base is constantly evolving, and writers may create content across a wide range of industries, inclu",
-      "tags": [
-        "accounting",
-        "excel",
-        "research",
-        "data analysis",
-        "bookkeeping",
-        "google sheets",
-        "quickbooks",
-        "data entry",
-        "insurance",
-        "g suite"
-      ],
-      "verdict": "eligible",
-      "fit": 50,
-      "reasons": [
-        "remote — anywhere / global"
-      ]
-    },
-    {
       "title": "Manager, Security Operations Center - EMEA",
       "company": "Huntress",
       "location": "Anywhere in the World",
@@ -304,12 +253,12 @@
       ]
     },
     {
-      "title": "Associate Instructor",
-      "company": "BeyondTrust",
+      "title": "Mac MSP Help Desk Guru (work from home)",
+      "company": "Ignition, Inc.",
       "location": "Anywhere in the World",
-      "url": "https://weworkremotely.com/remote-jobs/beyondtrust-associate-instructor",
+      "url": "https://weworkremotely.com/remote-jobs/ignition-inc-mac-msp-help-desk-guru-work-from-home",
       "source": "WeWorkRemotely",
-      "description": "Headquarters: Remote Canada | East Coast Canada BeyondTrust is a place where you can bring your purpose to life through the work that you do, creating a safer world through our cybersecurity SaaS portfolio. Our culture of flexibility, trust, and continual learning means you will be recognized for your growth, and for the impact you make on our success. You will be surrounded by people who challenge, support, and inspire you to be the best version of yourself. The Role The Associate Instructor is a junior instructional role within BeyondTrust University, designed to develop foundational skills ",
+      "description": "Headquarters: ignitionit.com URL: https://ignitionit.com APPLY HERE: https://go.cultureindex.com/p/bLvP56CvGHU Fully Remote · Work from home · Full-time (Eastern or Pacific time zones) · Apple-first&nbsp; TL;DR ignitionit.com is a seasoned, Apple-first MSP — in business for almost 30 years — and we're hiring a Help Desk Technician to be the friendly, capable first voice our clients reach when something isn't working. This position is a remote, work-from-home, full-time role. We've written this as a junior-to-mid-level job description because that's where most great people start on our team. Bu",
       "tags": [],
       "verdict": "eligible",
       "fit": 50,
@@ -318,13 +267,15 @@
       ]
     },
     {
-      "title": "Mac MSP Help Desk Guru (work from home)",
-      "company": "Ignition, Inc.",
-      "location": "Anywhere in the World",
-      "url": "https://weworkremotely.com/remote-jobs/ignition-inc-mac-msp-help-desk-guru-work-from-home",
-      "source": "WeWorkRemotely",
-      "description": "Headquarters: ignitionit.com URL: https://ignitionit.com APPLY HERE: https://go.cultureindex.com/p/bLvP56CvGHU Fully Remote · Work from home · Full-time (Eastern or Pacific time zones) · Apple-first&nbsp; TL;DR ignitionit.com is a seasoned, Apple-first MSP — in business for almost 30 years — and we're hiring a Help Desk Technician to be the friendly, capable first voice our clients reach when something isn't working. This position is a remote, work-from-home, full-time role. We've written this as a junior-to-mid-level job description because that's where most great people start on our team. Bu",
-      "tags": [],
+      "title": "AEM Developer",
+      "company": "Vonage",
+      "location": "Anywhere",
+      "url": "https://jobicy.com/jobs/152458-aem-developer",
+      "source": "Jobicy",
+      "description": "Join Vonage and help us innovate cloud communications for businesses worldwide! Why this role matters: We are seeking an experienced and technically skilled Senior AEM Developer to join our digital engineering team. In this role, you will lead the design, development, and implementation of enterprise-level web applications using Adobe Experience Manager (AEM / AEM as&hellip;",
+      "tags": [
+        "software engineering"
+      ],
       "verdict": "eligible",
       "fit": 50,
       "reasons": [
@@ -484,6 +435,35 @@
       "fit": 64,
       "reasons": [
         "EMEA-tagged — verify it's open to Africa first"
+      ]
+    },
+    {
+      "title": "Devops Engineer",
+      "company": "Lumivero",
+      "location": "Mexico",
+      "url": "https://himalayas.app/companies/lumivero/jobs/devops-engineer",
+      "source": "Himalayas",
+      "description": "About Lumivero At Lumivero , we build software that helps researchers, educators, and organizations around the world transform data into meaningful insights. Our engineering teams develop secure, scalable SaaS solutions that support thousands of users globally. We're looking for a DevOps Engineer who enjoys solving complex infrastructure challenges, automating manual processes, and building reliable cloud platforms. If you're passionate about Kubernetes, cloud technologies, automation, and continuous improvement, we'd love to hear from you. NOTE: This is a Full-Time opportunity (employed throu",
+      "tags": [
+        "techops-engineer",
+        "lead-devops-engineer",
+        "cloudops-engineer",
+        "devops-engineer",
+        "cloud-engineer",
+        "platform-engineering",
+        "site-reliability-engineering",
+        "infrastructure-engineering",
+        "devops-software-engineer",
+        "cloud-devops-engineer",
+        "prodops-engineer",
+        "devops-automation-engineer",
+        "infrastructure-devops-engineer",
+        "aws-devops-engineer"
+      ],
+      "verdict": "review",
+      "fit": 60,
+      "reasons": [
+        "Mexico-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -653,35 +633,19 @@
       ]
     },
     {
-      "title": "Customer Success Manager - DevOps",
-      "company": "Sonatype",
-      "location": "UK",
-      "url": "https://jobicy.com/jobs/151830-customer-success-manager-devops",
+      "title": "Engineering Manager - Python and K8s",
+      "company": "Canonical",
+      "location": "APAC, EMEA",
+      "url": "https://jobicy.com/jobs/150121-engineering-manager-python-and-k8s",
       "source": "Jobicy",
-      "description": "Sonatype is the software supply chain security company. We provide the world’s best end-to-end software supply chain security solution, combining the only proactive protection against malicious open source, the only enterprise grade SBOM management and the leading open source dependency management platform. This empowers enterprises to create and maintain secure, quality, and innovative software at&hellip;",
+      "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders&hellip;",
       "tags": [
-        "customer support & success"
+        "product & operations"
       ],
       "verdict": "review",
       "fit": 52,
       "reasons": [
-        "Uk-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Manager DevOps Engineering (Observability & Developer Experience)",
-      "company": "Cision",
-      "location": "Bulgaria, Hungary",
-      "url": "https://jobicy.com/jobs/151548-manager-devops-engineering-observability-developer-experience",
-      "source": "Jobicy",
-      "description": "At Cision, we believe in empowering every individual to make an impact. Here, your voice is heard, your ideas are valued, and your unique perspective fuels our collective success. As part of our global team, you'll thrive in an environment that champions curiosity, collaboration, and innovation, all while making meaningful contributions to the brands we&hellip;",
-      "tags": [
-        "devops & infrastructure"
-      ],
-      "verdict": "review",
-      "fit": 52,
-      "reasons": [
-        "location unconfirmed — verify it's open to Africa"
+        "EMEA-tagged — verify it's open to Africa first"
       ]
     },
     {
@@ -920,34 +884,6 @@
       ]
     },
     {
-      "title": "1130 Senior DevOps",
-      "company": "Intetics",
-      "location": "Ukraine",
-      "url": "https://himalayas.app/companies/intetics/jobs/1130-senior-devops",
-      "source": "Himalayas",
-      "description": "Intetics Inc., a leading American technology company specializing in custom software application development, distributed professional teams creation, software product quality assessment, and “all-things-digital” solutions, is looking for a Senior DevOps to join its innovative team. About the Project We are looking for a highly autonomous Senior DevOps Engineer to join a cloud platform team and take ownership of critical infrastructure, automation, and deployment initiatives. This role goes beyond traditional infrastructure support and requires an engineer who can independently identify challe",
-      "tags": [
-        "devops-engineer",
-        "platform-engineering",
-        "site-reliability-engineering",
-        "aws-devops",
-        "cloud-infrastructure",
-        "senior-devops",
-        "senior-devops-developer",
-        "senior-devops-architect",
-        "senior-java-devops-engineer",
-        "senior-staff-devops-engineer",
-        "senior-devsecops-developer",
-        "senior-devops-qa-engineer"
-      ],
-      "verdict": "review",
-      "fit": 50,
-      "reasons": [
-        "Uk-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
       "title": "Software Engineer - Cloud Images",
       "company": "Canonical",
       "location": "EMEA, LATAM, Canada, USA",
@@ -1042,6 +978,23 @@
       ]
     },
     {
+      "title": "Senior Platform Engineer",
+      "company": "saas.group",
+      "location": "Europe",
+      "url": "https://jobicy.com/jobs/150132-senior-platform-engineer-2",
+      "source": "Jobicy",
+      "description": "This role is part of our Central Platform Engineering Team at saas.group.What is saas.group?Think of us as the driving catalyst behind your favorite software success stories. saas.group, established in 2017, is on a mission to turbocharge promising B2B SaaS ventures, unlocking their full potential. As a Software-as-a-Service portfolio powerhouse, we specialize in acquiring small software&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
+      "verdict": "review",
+      "fit": 46,
+      "reasons": [
+        "Europe-tagged — verify it's open to Africa first",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
       "title": "Senior Software Engineer (Cloud Infrastructure)",
       "company": "YipitData",
       "location": "USA",
@@ -1098,7 +1051,7 @@
       "location": "Warangal Rural,",
       "url": "https://remoteOK.com/remote-jobs/remote-employee-hartmann-group-international-1137232",
       "source": "RemoteOK",
-      "description": "404 This page doesnât exist. Beware, our IT man might be in a bad mood! You better take a look here. Please mention the word **DUMBFOUNDING** and tag RMjAuMTY5Ljc1LjI0NQ== when applying to show you read the job post completely (#RMjAuMTY5Ljc1LjI0NQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "404 This page doesnât exist. Beware, our IT man might be in a bad mood! You better take a look here. Please mention the word **DUMBFOUNDING** and tag RNjQuMjM2LjE2MS4xNw== when applying to show you read the job post completely (#RNjQuMjM2LjE2MS4xNw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "tags": [
         "education",
         "exec",
@@ -1121,7 +1074,7 @@
       "location": "Telangana,",
       "url": "https://remoteOK.com/remote-jobs/remote-cloud-computing-amazon-web-services-aws-1137231",
       "source": "RemoteOK",
-      "description": "Roles and Responsibilities - AWS cloud computing Location - Hyderabad, Chennai, Kolkata, Pune, Bengaluru Exp - 6 - 8 yrs Please mention the word **LOVE** and tag RMjAuMTY5Ljc1LjI0NQ== when applying to show you read the job post completely (#RMjAuMTY5Ljc1LjI0NQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Roles and Responsibilities - AWS cloud computing Location - Hyderabad, Chennai, Kolkata, Pune, Bengaluru Exp - 6 - 8 yrs Please mention the word **LOVE** and tag RNjQuMjM2LjE2MS4xNw== when applying to show you read the job post completely (#RNjQuMjM2LjE2MS4xNw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "tags": [
         "education",
         "exec",
@@ -1136,6 +1089,38 @@
       "fit": 40,
       "reasons": [
         "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
+      "title": "AI/ML Engineering Manager",
+      "company": "Caylent",
+      "location": "Argentina",
+      "url": "https://jobicy.com/jobs/152435-ai-ml-engineering-manager",
+      "source": "Jobicy",
+      "description": "Caylent is an AI-first cloud services company that helps organizations turn ambitious ideas into meaningful business impact. As an AWS Premier Tier Services Partner and a charter member of Anthropic’s Claude Partner Network, we combine deep expertise in AWS, artificial intelligence, and Anthropic’s Claude platform to help customers modernize their technology, build intelligent products, and&hellip;",
+      "tags": [
+        "data science & analytics"
+      ],
+      "verdict": "review",
+      "fit": 40,
+      "reasons": [
+        "Argentina-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "Web Automation Test Engineer",
+      "company": "Caylent",
+      "location": "Brazil",
+      "url": "https://jobicy.com/jobs/152405-web-automation-test-engineer",
+      "source": "Jobicy",
+      "description": "Caylent is an AI-first cloud services company that helps organizations turn ambitious ideas into meaningful business impact. As an AWS Premier Tier Services Partner and a charter member of Anthropic’s Claude Partner Network, we combine deep expertise in AWS, artificial intelligence, and Anthropic’s Claude platform to help customers modernize their technology, build intelligent products, and&hellip;",
+      "tags": [
+        "qa & testing"
+      ],
+      "verdict": "review",
+      "fit": 40,
+      "reasons": [
+        "Brazil-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -1279,6 +1264,22 @@
       "fit": 36,
       "reasons": [
         "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
+      "title": "Product Engineer, Internal Tools - LATAM",
+      "company": "Luxury Presence",
+      "location": "LATAM",
+      "url": "https://jobicy.com/jobs/152452-product-engineer-internal-tools-latam",
+      "source": "Jobicy",
+      "description": "Luxury Presence is building the AI growth platform for real estate. Backed by Bessemer Venture Partners and other top investors, we're a Series C company that has hit $100M in annual recurring revenue. More than 90,000 real estate professionals, including over 30% of the WSJ Real Trends top 100 agents in the United States, use&hellip;",
+      "tags": [
+        "software engineering"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "Latam-tagged — verify it's open to Africa first"
       ]
     },
     {
@@ -1426,92 +1427,12 @@
       ]
     },
     {
-      "title": "Enterprise Account Executive - Nordics",
-      "company": "Chainguard",
-      "location": "Sweden",
-      "url": "https://jobicy.com/jobs/151988-enterprise-account-executive-nordics",
-      "source": "Jobicy",
-      "description": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. Our customers include Fortune 500 enterprises and global industry leaders, including Anduril, Canva, Fortinet, Hewlett Packard Enterprise, OpenAI,&hellip;",
-      "tags": [
-        "sales"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "location unconfirmed — verify it's open to Africa"
-      ]
-    },
-    {
-      "title": "Enterprise Account Executive - Denmark",
-      "company": "Chainguard",
-      "location": "Denmark",
-      "url": "https://jobicy.com/jobs/151987-enterprise-account-executive-denmark",
-      "source": "Jobicy",
-      "description": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. Our customers include Fortune 500 enterprises and global industry leaders, including Anduril, Canva, Fortinet, Hewlett Packard Enterprise, OpenAI,&hellip;",
-      "tags": [
-        "sales"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "location unconfirmed — verify it's open to Africa"
-      ]
-    },
-    {
-      "title": "Enterprise Account Executive - DACH",
-      "company": "Chainguard",
-      "location": "Germany",
-      "url": "https://jobicy.com/jobs/151985-enterprise-account-executive-dach-2",
-      "source": "Jobicy",
-      "description": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. Our customers include Fortune 500 enterprises and global industry leaders, including Anduril, Canva, Fortinet, Hewlett Packard Enterprise, OpenAI,&hellip;",
-      "tags": [
-        "sales"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Germany-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Enterprise Account Executive",
-      "company": "Chainguard",
-      "location": "Singapore",
-      "url": "https://jobicy.com/jobs/151980-enterprise-account-executive-16",
-      "source": "Jobicy",
-      "description": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. Our customers include Fortune 500 enterprises and global industry leaders, including Anduril, Canva, Fortinet, Hewlett Packard Enterprise, OpenAI,&hellip;",
-      "tags": [
-        "sales"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Singapore-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Cyber-Security Operations Analyst III, Product AppSec",
-      "company": "Veeam Software",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/151951-cyber-security-operations-analyst-iii-product-appsec",
-      "source": "Jobicy",
-      "description": "Veeam is the Data and AI Trust Company, specializing in helping organizations ensure their data and AI are fully understood, secured, and resilient to enable the acceleration of safe AI at scale. As the market leader in both data resilience and data security posture management, Veeam is built for the convergence of identity, data, security,&hellip;",
-      "tags": [
-        "cybersecurity"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
       "title": "Production Lead",
       "company": "ITC Limited",
       "location": "Guntur,",
       "url": "https://remoteOK.com/remote-jobs/remote-production-lead-itc-limited-1137233",
       "source": "RemoteOK",
-      "description": "Production Lead - G3 Please mention the word **HOT** and tag RMjAuMTY5Ljc1LjI0NQ== when applying to show you read the job post completely (#RMjAuMTY5Ljc1LjI0NQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Production Lead - G3 Please mention the word **HOT** and tag RNjQuMjM2LjE2MS4xNw== when applying to show you read the job post completely (#RNjQuMjM2LjE2MS4xNw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "tags": [
         "education",
         "exec",
@@ -1566,6 +1487,23 @@
       "fit": 30,
       "reasons": [
         "Europe-tagged — verify it's open to Africa first",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Web Strategy, SEO & AI Lead",
+      "company": "Harness",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/152486-web-strategy-seo-ai-lead",
+      "source": "Jobicy",
+      "description": "Harness is the AI Software Delivery Platform company, led by technologist and entrepreneur Jyoti Bansal (founder of AppDynamics, acquired by Cisco for $3.7B). Harness has raised approximately $570M in funding and is valued at $5.5B, backed by leading investors including Goldman Sachs, Menlo Ventures, IVP, Unusual Ventures, Citi Ventures, and more. As AI accelerates code&hellip;",
+      "tags": [
+        "seo"
+      ],
+      "verdict": "review",
+      "fit": 30,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -1706,23 +1644,6 @@
       ]
     },
     {
-      "title": "Senior Back End Engineer",
-      "company": "Peerspace",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/151965-senior-back-end-engineer",
-      "source": "Jobicy",
-      "description": "Senior Back-End Engineer About Peerspace Peerspace is the leading and category defining online marketplace for venue rentals for meetings, productions, and events. We open doors to the most inspiring spaces around the world, from lofts and mansions to storefronts and studios. Over $500M has been transacted through the platform, and our investors include GV (Google&hellip;",
-      "tags": [
-        "software engineering"
-      ],
-      "verdict": "review",
-      "fit": 30,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
       "title": "Senior Independent Software Developer",
       "company": "A.Team",
       "location": "Americas, Europe, Israel",
@@ -1799,6 +1720,22 @@
       "fit": 0,
       "reasons": [
         "Principal-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
+      "title": "Director of Engineering, Cloud & Reliability",
+      "company": "Boulevard",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/152496-director-of-engineering-cloud-reliability-2",
+      "source": "Jobicy",
+      "description": "Who is Boulevard? Boulevard provides the first and only client experience platform for appointment-based, self-care businesses. We empower our customers to give their clients more of the magical moments that matter most. Before launching in 2016, our founders spent months interviewing salon managers and working behind front desks to understand their pain points so we&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Director-level — usually 5–10+ yrs, you have ~4"
       ]
     },
     {
