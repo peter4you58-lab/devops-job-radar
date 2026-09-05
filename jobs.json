@@ -1,20 +1,44 @@
 {
-  "generated": "2026-09-04 10:06 UTC",
+  "generated": "2026-09-05 09:35 UTC",
   "count": 86,
   "summary": {
     "scanned": 86,
-    "eligible": 23,
+    "eligible": 24,
     "review": 56,
-    "blocked": 7
+    "blocked": 6
   },
   "jobs": [
     {
-      "title": "DevOps & Security Engineer - AI-Native Healthcare SaaS",
-      "company": "Zenara Health",
+      "title": "QA Engineer",
+      "company": "SunnyData",
+      "location": "Worldwide",
+      "url": "https://remoteOK.com/remote-jobs/remote-qa-engineer-sunnydata-1137300",
+      "source": "RemoteOK",
+      "description": "About SunnyData At SunnyData, a leading DataBricks technology partner, our mission is to empower customers with scalable architectures, robust data engineering pipelines, seamless data consumption layers, and advanced ML and AI applications. As a QA Engineer with a strong focus on Data, you will understand requirements and translate them into effective test cases, execute and automate those tests, and track testing progress and defects. Â The Impact Youâll Have Understand requirements and translate them into test plans and test cases, ensuring requirements traceability. Execute test cases, i",
+      "tags": [
+        "technical",
+        "dev",
+        "testing",
+        "marketing",
+        "quality assurance",
+        "education",
+        "cloud",
+        "engineer",
+        "digital nomad"
+      ],
+      "verdict": "eligible",
+      "fit": 66,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
+    {
+      "title": "Engineering Manager, Notifications",
+      "company": "Discord",
       "location": "Anywhere in the World",
-      "url": "https://weworkremotely.com/remote-jobs/zenara-health-devops-security-engineer-ai-native-healthcare-saas",
+      "url": "https://weworkremotely.com/remote-jobs/discord-engineering-manager-notifications",
       "source": "WeWorkRemotely",
-      "description": "Headquarters: India About the Company Zenara Health is a mental healthcare organization driven by technology, aiming to improve the accessibility and quality of mental wellness services. By integrating AI-driven platforms with professional clinical care, we deliver personalized and effective mental health solutions, creating a smooth digital experience for both patients and providers. We operate as a startup, distinct from a mere department. Why This Role Exists This position serves as the company's foremost line of defense. You will operate under the assumption that systems are constantly und",
+      "description": "Headquarters: Remote Discord has a highly engaged community of millions of daily active users who use the platform for many different reasons, but there’s one thing that nearly everyone does: play video games. Discord plays a uniquely important role in the future of gaming, and we are focused on making it easier and more fun for people to hang out before, during, and after playing games. We're looking for a technical, hands-on, and infrastructure-minded Engineering Manager to lead our Notifications team within the Growth organization. Notifications is a full-stack team owning the platform and ",
       "tags": [],
       "verdict": "eligible",
       "fit": 66,
@@ -23,12 +47,12 @@
       ]
     },
     {
-      "title": "DevOps Engineer IV (Obs)",
-      "company": "Jumio",
+      "title": "DevOps & Security Engineer - AI-Native Healthcare SaaS",
+      "company": "Zenara Health",
       "location": "Anywhere in the World",
-      "url": "https://weworkremotely.com/remote-jobs/jumio-devops-engineer-iv-obs",
+      "url": "https://weworkremotely.com/remote-jobs/zenara-health-devops-security-engineer-ai-native-healthcare-saas",
       "source": "WeWorkRemotely",
-      "description": "Headquarters: India (remote) Role Purpose As a DevOps Engineer IV at Jumio, you are expected to be strong in both the “Dev” and “Ops” aspects of DevOps. We are seeking someone with a deep understanding of systems architecture and core computer science concepts, who can reason about system behavior rather than simply working with current toolsets. This is a high-bar role with significant rewards. As one of our hires in our Bengaluru office, you will help shape the team and culture, collaborate with energetic peers who will challenge and inspire you, and gain considerable international exposure ",
+      "description": "Headquarters: India About the Company Zenara Health is a mental healthcare organization driven by technology, aiming to improve the accessibility and quality of mental wellness services. By integrating AI-driven platforms with professional clinical care, we deliver personalized and effective mental health solutions, creating a smooth digital experience for both patients and providers. We operate as a startup, distinct from a mere department. Why This Role Exists This position serves as the company's foremost line of defense. You will operate under the assumption that systems are constantly und",
       "tags": [],
       "verdict": "eligible",
       "fit": 66,
@@ -61,6 +85,31 @@
       "tags": [],
       "verdict": "eligible",
       "fit": 54,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
+    {
+      "title": "Freelance Copywriter",
+      "company": "Coalition Technologies",
+      "location": "Worldwide",
+      "url": "https://remotive.com/remote-jobs/writing/freelance-copywriter-1749306",
+      "source": "Remotive",
+      "description": "CT Marketing Agency is seeking skilled Freelance Copywriters to write high-quality, SEO-driven content for eCommerce and lead generation websites. This is a freelance, project-based writing role. The ideal candidate has excellent English writing skills, strong research ability, and experience writing content that follows detailed, client-specific guidelines. Projects commonly include category pages, product descriptions, blog posts, SEO landing pages, and website copy. About the Role Our client base is constantly evolving, and writers may create content across a wide range of industries, inclu",
+      "tags": [
+        "accounting",
+        "excel",
+        "research",
+        "data analysis",
+        "bookkeeping",
+        "google sheets",
+        "quickbooks",
+        "data entry",
+        "insurance",
+        "g suite"
+      ],
+      "verdict": "eligible",
+      "fit": 50,
       "reasons": [
         "remote — anywhere / global"
       ]
@@ -176,6 +225,20 @@
       "tags": [
         "rest"
       ],
+      "verdict": "eligible",
+      "fit": 50,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
+    {
+      "title": "AEM Developer",
+      "company": "Vonage",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/vonage-aem-developer",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Remote Join Vonage and help us innovate cloud communications for businesses worldwide! Why this role matters: We are seeking an experienced and technically skilled Senior AEM Developer to join our digital engineering team. In this role, you will lead the design, development, and implementation of enterprise-level web applications using Adobe Experience Manager (AEM / AEM as a Cloud Service). You will collaborate closely with product owners, UI/UX designers, and front-end developers to deliver high-performing, scalable, and secure digital experiences.&nbsp; Your key responsibiliti",
+      "tags": [],
       "verdict": "eligible",
       "fit": 50,
       "reasons": [
@@ -299,22 +362,6 @@
       ]
     },
     {
-      "title": "Backend Developer (.NET/Azure)",
-      "company": "NTT DATA",
-      "location": "LATAM",
-      "url": "https://jobicy.com/jobs/152011-backend-developer-net-azure",
-      "source": "Jobicy",
-      "description": "Job Title: Backend Developer (.NET/Azure) Location Preference: 100% remote in LATAM working EST Time Zone Duration: 1-Year Assignment with possibility of extension Freelance Rate Range: $27-28/hr USD based on relevant experienceNTT DATA is a team of more than 139,000 diverse professionals operating in more than 50 countries worldwide. Our sectors of activity include telecommunications, finance, industry, utilities, energy,&hellip;",
-      "tags": [
-        "software engineering"
-      ],
-      "verdict": "eligible",
-      "fit": 50,
-      "reasons": [
-        "remote — anywhere / global"
-      ]
-    },
-    {
       "title": "Senior Software Engineer",
       "company": "CircleCI",
       "location": "Anywhere in the World",
@@ -324,35 +371,6 @@
       "tags": [],
       "verdict": "eligible",
       "fit": 48,
-      "reasons": [
-        "remote — anywhere / global",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Oracle Fusion Cloud Lead â Logistics & Supply Chain Management",
-      "company": "Tessera Labs",
-      "location": "Worldwide",
-      "url": "https://remoteOK.com/remote-jobs/remote-oracle-fusion-cloud-lead-logistics-supply-chain-management-tessera-labs-1137155",
-      "source": "RemoteOK",
-      "description": "Oracle Fusion Cloud Lead â Logistics &amp; Supply Chain Management Greenfield Oracle Fusion Implementation Company Tessera Labs AI Role Type Senior consulting engagement â full-time or contract, workstream-critical role Location Nearshore, based in Mexico or Brazil â remote-based delivery model; excellent business English required for direct engagement with client stakeholders and leadership Reports To Program Director / Engagement Lead, Tessera Labs AI About the Role Tessera Labs AI is a technology product firm delivering next-generation, AI-accelerated enterprise transformation program",
-      "tags": [
-        "design",
-        "sys admin",
-        "consulting",
-        "testing",
-        "exec",
-        "cloud",
-        "senior",
-        "ops",
-        "engineer",
-        "ecommerce",
-        "shopify",
-        "full time",
-        "digital nomad"
-      ],
-      "verdict": "eligible",
-      "fit": 44,
       "reasons": [
         "remote — anywhere / global",
         "senior title — a stretch at ~4 yrs, but go for it"
@@ -435,35 +453,6 @@
       "fit": 64,
       "reasons": [
         "EMEA-tagged — verify it's open to Africa first"
-      ]
-    },
-    {
-      "title": "Devops Engineer",
-      "company": "Lumivero",
-      "location": "Mexico",
-      "url": "https://himalayas.app/companies/lumivero/jobs/devops-engineer",
-      "source": "Himalayas",
-      "description": "About Lumivero At Lumivero , we build software that helps researchers, educators, and organizations around the world transform data into meaningful insights. Our engineering teams develop secure, scalable SaaS solutions that support thousands of users globally. We're looking for a DevOps Engineer who enjoys solving complex infrastructure challenges, automating manual processes, and building reliable cloud platforms. If you're passionate about Kubernetes, cloud technologies, automation, and continuous improvement, we'd love to hear from you. NOTE: This is a Full-Time opportunity (employed throu",
-      "tags": [
-        "techops-engineer",
-        "lead-devops-engineer",
-        "cloudops-engineer",
-        "devops-engineer",
-        "cloud-engineer",
-        "platform-engineering",
-        "site-reliability-engineering",
-        "infrastructure-engineering",
-        "devops-software-engineer",
-        "cloud-devops-engineer",
-        "prodops-engineer",
-        "devops-automation-engineer",
-        "infrastructure-devops-engineer",
-        "aws-devops-engineer"
-      ],
-      "verdict": "review",
-      "fit": 60,
-      "reasons": [
-        "Mexico-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -884,6 +873,23 @@
       ]
     },
     {
+      "title": "Pre-Sales Solution Architect – AI Infrastructure (remote in the EU)",
+      "company": "Mirantis",
+      "location": "Europe",
+      "url": "https://jobicy.com/jobs/150239-pre-sales-solution-architect-ai-infrastructure-remote-in-the-eu",
+      "source": "Jobicy",
+      "description": "Company DescriptionAbout MirantisMirantis is the Kubernetes-native AI infrastructure company, enabling organizations to build and operate scalable, secure, and sovereign infrastructure for modern AI, machine learning, and data-intensive applications. By combining open source innovation with deep expertise in Kubernetes orchestration, Mirantis empowers platform engineering teams to deliver composable, production-ready developer platforms across any environment—on-premises, in the&hellip;",
+      "tags": [
+        "software engineering"
+      ],
+      "verdict": "review",
+      "fit": 50,
+      "reasons": [
+        "Europe-tagged — verify it's open to Africa first",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
       "title": "Software Engineer - Cloud Images",
       "company": "Canonical",
       "location": "EMEA, LATAM, Canada, USA",
@@ -978,6 +984,23 @@
       ]
     },
     {
+      "title": "Senior Site Reliability Engineer I",
+      "company": "Braze",
+      "location": "Canada",
+      "url": "https://jobicy.com/jobs/152549-senior-site-reliability-engineer-i",
+      "source": "Jobicy",
+      "description": "At Braze, we have found our people. We’re a genuinely approachable, exceptionally kind, and intensely passionate crew. We seek to ignite that passion by setting high standards, championing teamwork, and creating work-life harmony as we collectively navigate rapid growth on a global scale while striving for greater equity and opportunity – inside and outside our&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
+      "verdict": "review",
+      "fit": 46,
+      "reasons": [
+        "Canada-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
       "title": "Senior Platform Engineer",
       "company": "saas.group",
       "location": "Europe",
@@ -1051,7 +1074,7 @@
       "location": "Warangal Rural,",
       "url": "https://remoteOK.com/remote-jobs/remote-employee-hartmann-group-international-1137232",
       "source": "RemoteOK",
-      "description": "404 This page doesnât exist. Beware, our IT man might be in a bad mood! You better take a look here. Please mention the word **DUMBFOUNDING** and tag RNjQuMjM2LjE2MS4xNw== when applying to show you read the job post completely (#RNjQuMjM2LjE2MS4xNw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "404 This page doesnât exist. Beware, our IT man might be in a bad mood! You better take a look here. Please mention the word **DUMBFOUNDING** and tag RMTcyLjE3NC4xNjYuMTk0 when applying to show you read the job post completely (#RMTcyLjE3NC4xNjYuMTk0). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "tags": [
         "education",
         "exec",
@@ -1074,7 +1097,7 @@
       "location": "Telangana,",
       "url": "https://remoteOK.com/remote-jobs/remote-cloud-computing-amazon-web-services-aws-1137231",
       "source": "RemoteOK",
-      "description": "Roles and Responsibilities - AWS cloud computing Location - Hyderabad, Chennai, Kolkata, Pune, Bengaluru Exp - 6 - 8 yrs Please mention the word **LOVE** and tag RNjQuMjM2LjE2MS4xNw== when applying to show you read the job post completely (#RNjQuMjM2LjE2MS4xNw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Roles and Responsibilities - AWS cloud computing Location - Hyderabad, Chennai, Kolkata, Pune, Bengaluru Exp - 6 - 8 yrs Please mention the word **LOVE** and tag RMTcyLjE3NC4xNjYuMTk0 when applying to show you read the job post completely (#RMTcyLjE3NC4xNjYuMTk0). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "tags": [
         "education",
         "exec",
@@ -1243,30 +1266,6 @@
       ]
     },
     {
-      "title": "Joiner",
-      "company": "Places for People",
-      "location": "Greater Newcastle Area,",
-      "url": "https://remoteOK.com/remote-jobs/remote-joiner-places-for-people-1137211",
-      "source": "RemoteOK",
-      "description": "We're hiring a qualified Joiner , offering a company van and consistent work within your Community. Places for People is one of the UK's largest housing providers and is proud to be recognised as one of the UK's Top 50 Best Workplaces. We are committed to creating inclusive Communities and improving Customers' lives. You'll be working locally, making a real difference to People's homes and the neighbourhoods we operate in. What You'll Get Use of a company van with fuel card 35 days annual leave (including bank holidays) with options to buy and sell leave Overtime opportunities available Core w",
-      "tags": [
-        "teaching",
-        "customer support",
-        "finance",
-        "cloud",
-        "scheme",
-        "mobile",
-        "medical",
-        "recruiter",
-        "non tech"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "location unconfirmed — verify it's open to Africa"
-      ]
-    },
-    {
       "title": "Product Engineer, Internal Tools - LATAM",
       "company": "Luxury Presence",
       "location": "LATAM",
@@ -1379,60 +1378,12 @@
       ]
     },
     {
-      "title": "Enterprise Business Development Representative - East",
-      "company": "Chainguard",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/151992-enterprise-business-development-representative-east",
-      "source": "Jobicy",
-      "description": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. Our customers include Fortune 500 enterprises and global industry leaders, including Anduril, Canva, Fortinet, Hewlett Packard Enterprise, OpenAI,&hellip;",
-      "tags": [
-        "business development"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Enterprise Business Development Representative - Central",
-      "company": "Chainguard",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/151991-enterprise-business-development-representative-central",
-      "source": "Jobicy",
-      "description": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. Our customers include Fortune 500 enterprises and global industry leaders, including Anduril, Canva, Fortinet, Hewlett Packard Enterprise, OpenAI,&hellip;",
-      "tags": [
-        "business development"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Enterprise Account Executive - UK",
-      "company": "Chainguard",
-      "location": "UK",
-      "url": "https://jobicy.com/jobs/151990-enterprise-account-executive-uk-3",
-      "source": "Jobicy",
-      "description": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. Our customers include Fortune 500 enterprises and global industry leaders, including Anduril, Canva, Fortinet, Hewlett Packard Enterprise, OpenAI,&hellip;",
-      "tags": [
-        "sales"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Uk-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
       "title": "Production Lead",
       "company": "ITC Limited",
       "location": "Guntur,",
       "url": "https://remoteOK.com/remote-jobs/remote-production-lead-itc-limited-1137233",
       "source": "RemoteOK",
-      "description": "Production Lead - G3 Please mention the word **HOT** and tag RNjQuMjM2LjE2MS4xNw== when applying to show you read the job post completely (#RNjQuMjM2LjE2MS4xNw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Production Lead - G3 Please mention the word **HOT** and tag RMTcyLjE3NC4xNjYuMTk0 when applying to show you read the job post completely (#RMTcyLjE3NC4xNjYuMTk0). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "tags": [
         "education",
         "exec",
@@ -1487,6 +1438,57 @@
       "fit": 30,
       "reasons": [
         "Europe-tagged — verify it's open to Africa first",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Senior Enterprise Account Executive",
+      "company": "Fastly",
+      "location": "UK",
+      "url": "https://jobicy.com/jobs/152564-senior-enterprise-account-executive-2",
+      "source": "Jobicy",
+      "description": "Fastly helps people stay better connected with the things they love. Fastly’s edge cloud platform enables customers to create great digital experiences quickly, securely, and reliably by processing, serving, and securing our customers’ applications as close to their end-users as possible — at the edge of the Internet. The platform is designed to take advantage&hellip;",
+      "tags": [
+        "sales"
+      ],
+      "verdict": "review",
+      "fit": 30,
+      "reasons": [
+        "Uk-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Senior Software Engineer (Revenue)",
+      "company": "Zuora",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/152529-senior-software-engineer-revenue",
+      "source": "Jobicy",
+      "description": "About Zuora At Zuora, we help businesses grow smarter and adapt faster. Our platform powers modern business models — from subscriptions and usage-based pricing to AI-driven and outcome-based offerings — helping companies launch new products, automate complex billing, and unlock predictable, recurring revenue. We’ve led the Subscription Economy for more than a decade. Now we’re&hellip;",
+      "tags": [
+        "software engineering"
+      ],
+      "verdict": "review",
+      "fit": 30,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Senior Java Engineer",
+      "company": "Zuora",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/152522-senior-java-engineer",
+      "source": "Jobicy",
+      "description": "About Zuora At Zuora, we help businesses grow smarter and adapt faster. Our platform powers modern business models — from subscriptions and usage-based pricing to AI-driven and outcome-based offerings — helping companies launch new products, automate complex billing, and unlock predictable, recurring revenue. We’ve led the Subscription Economy for more than a decade. Now we’re&hellip;",
+      "tags": [
+        "software engineering"
+      ],
+      "verdict": "review",
+      "fit": 30,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -1736,22 +1738,6 @@
       "fit": 0,
       "reasons": [
         "Director-level — usually 5–10+ yrs, you have ~4"
-      ]
-    },
-    {
-      "title": "Staff Data Engineer",
-      "company": "Upside",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/152323-staff-data-engineer",
-      "source": "Jobicy",
-      "description": "Meet Upside: We created Upside to transform brick-and-mortar commerce. Our technology uses the sophistication of online retail—profit measurement, attribution, and incrementality—to provide users with more value on their everyday purchases and brick-and-mortar businesses with new, profitable customers. We’ve helped millions of users earn 2 to 3 times more cashback than any other product, and hundreds&hellip;",
-      "tags": [
-        "data science & analytics"
-      ],
-      "verdict": "blocked",
-      "fit": 0,
-      "reasons": [
-        "Staff-level — usually 5–10+ yrs, you have ~4"
       ]
     },
     {
