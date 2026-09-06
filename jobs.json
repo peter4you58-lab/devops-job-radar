@@ -1,11 +1,11 @@
 {
-  "generated": "2026-09-05 09:35 UTC",
+  "generated": "2026-09-06 09:50 UTC",
   "count": 86,
   "summary": {
     "scanned": 86,
-    "eligible": 24,
-    "review": 56,
-    "blocked": 6
+    "eligible": 22,
+    "review": 57,
+    "blocked": 7
   },
   "jobs": [
     {
@@ -187,43 +187,6 @@
         "ticketing",
         "microsoft 365",
         "it systems"
-      ],
-      "verdict": "eligible",
-      "fit": 50,
-      "reasons": [
-        "remote — anywhere / global"
-      ]
-    },
-    {
-      "title": "Sales Jedi",
-      "company": "Creative Force",
-      "location": "Europe",
-      "url": "https://remotive.com/remote-jobs/sales/sales-jedi-2091088",
-      "source": "Remotive",
-      "description": "Great salary | Profit share | 100% remote | Work from anywhere in Europe | SaaS Awesome opportunity for a self-motivated and energetic people person to join our remote team and help sell our world-leading SaaS products, from anywhere in Europe. We pay a great salary, based on experience and location. We don’t pay commissions, because good sales are a team effort—from engineering, to operations, marketing, and support, our high-performing team all contribute to a great product and service that our clients love. Everybody in the company is rewarded with a share of profit each December—we succeed",
-      "tags": [
-        "saas",
-        "video",
-        "solid",
-        "chat",
-        "saas sales",
-        "mental health"
-      ],
-      "verdict": "eligible",
-      "fit": 50,
-      "reasons": [
-        "remote — anywhere / global"
-      ]
-    },
-    {
-      "title": "Freelance Writer",
-      "company": "IAPWE",
-      "location": "Worldwide",
-      "url": "https://remotive.com/remote-jobs/writing/freelance-writer-1185979",
-      "source": "Remotive",
-      "description": "Our organization is seeking content writers to create articles and blog posts on a variety of topics. The rate of pay is $20 per 100 words (this comes out to approximately $100 per article or $50 per hour). Some topics you may be asked to write about include the following (you can always turn down a topic if you do not feel comfortable writing about it, however if you have experience or expertise in a specific area, please let us know): Health &amp; beauty Fitness Home Decor Fashion Sports Do it yourself Finance Legal Medical Family/Parenting Relationships Real Estate Restaurants Contracting (",
-      "tags": [
-        "rest"
       ],
       "verdict": "eligible",
       "fit": 50,
@@ -590,6 +553,29 @@
       ]
     },
     {
+      "title": "Technical Product Manager, Kubernetes Services – Remote (US)",
+      "company": "Mirantis",
+      "location": "United States",
+      "url": "https://himalayas.app/companies/mirantis/jobs/technical-product-manager-kubernetes-services-remote-us",
+      "source": "Himalayas",
+      "description": "Mirantis is looking for a Technical Product Manager to own the Kubernetes-as-a-Service for k0rdent AI, our control plane for GPU infrastructure and distributed AI workloads. In this role, you will define the strategy, roadmap, and feature priorities that determine how Neocloud operators launch and run managed Kubernetes offerings on their own GPU infrastructure. Managed Kubernetes sits at the intersection of cluster lifecycle automation and service provider operations, and the product must hold both worlds together. You will shape how k0rdent AI delivers validated cluster configurations and ad",
+      "tags": [
+        "technical-product-management",
+        "kubernetes-services",
+        "product-management",
+        "platform-engineering",
+        "cloud-infrastructure-product-management",
+        "remote-technical-product-manager",
+        "technical-product-manager-devops",
+        "technical-product-manager"
+      ],
+      "verdict": "review",
+      "fit": 56,
+      "reasons": [
+        "United states-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
       "title": "Azure DevOps Engineer | KD Pharma",
       "company": "GT",
       "location": "Europe",
@@ -651,6 +637,30 @@
       "fit": 52,
       "reasons": [
         "Europe-tagged — verify it's open to Africa first"
+      ]
+    },
+    {
+      "title": "Cloud Security Engineer",
+      "company": "Appspace",
+      "location": "United States",
+      "url": "https://himalayas.app/companies/appspace/jobs/cloud-security-engineer-4880033105",
+      "source": "Himalayas",
+      "description": "About Appspace : At Appspace , we’re passionate about creating better work experiences for people everywhere, and we’re looking for people that feel the same way. Our global office locations and flexible work culture help you work wherever and however you’re at your best. Plus, we take the time to help you enjoy your work, build lasting connections, and grow your role. Join the Appspace team and be a part of a culture that’s helping people everywhere love where they work. Your Role as a Cloud Security Engineer : We are seeking a highly skilled Cloud Security Engineer to join our dynamic team. ",
+      "tags": [
+        "cloud-security-engineering",
+        "cloud-security-architecture",
+        "security-operations",
+        "cloud-infrastructure-security",
+        "cybersecurity-consulting",
+        "cloud-security-engineer",
+        "cloud-cybersecurity-engineer",
+        "senior-cloud-infrastructure-security-engineer",
+        "cloud-identity-security-engineer"
+      ],
+      "verdict": "review",
+      "fit": 52,
+      "reasons": [
+        "United states-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -911,7 +921,7 @@
       "location": "Europe",
       "url": "https://remotive.com/remote-jobs/qa/senior-qa-engineer-2091100",
       "source": "Remotive",
-      "description": "Are you a talented QA looking for a remote job that lets you show your skills and get better compensation and career growth? Look no further than Lemon.io - the marketplace that connects you with hand-picked startups in the US and Europe. We are seeking a Senior QA Engineer for our client — for direct hire. The client is a B2B service provider based in Cyprus that specializes in building and managing technology and operational services for online businesses. We are looking for a detail-oriented and proactive QA Engineer who is passionate about quality and thrives in a fast-paced development en",
+      "description": "Are you a talented QA looking for a remote job that lets you show your skills and get better compensation and career growth? Look no further than Lemon.io - the marketplace that connects you with hand-picked startups in the US and Europe. Requirements: 3+ years of experience in automation testing 2+ years of experience in manual testing 3+ years of experience working with Cypress or Selenium Exceptional attention to detail Good command of English, both written and spoken. Strong organizational skills — ability to work full-time remotely with no supervision Responsibility — we want to trust you",
       "tags": [
         ".net",
         "android",
@@ -1074,7 +1084,7 @@
       "location": "Warangal Rural,",
       "url": "https://remoteOK.com/remote-jobs/remote-employee-hartmann-group-international-1137232",
       "source": "RemoteOK",
-      "description": "404 This page doesnât exist. Beware, our IT man might be in a bad mood! You better take a look here. Please mention the word **DUMBFOUNDING** and tag RMTcyLjE3NC4xNjYuMTk0 when applying to show you read the job post completely (#RMTcyLjE3NC4xNjYuMTk0). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "404 This page doesnât exist. Beware, our IT man might be in a bad mood! You better take a look here. Please mention the word **DUMBFOUNDING** and tag RNDAuNzYuMTkxLjEzMg== when applying to show you read the job post completely (#RNDAuNzYuMTkxLjEzMg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "tags": [
         "education",
         "exec",
@@ -1097,7 +1107,7 @@
       "location": "Telangana,",
       "url": "https://remoteOK.com/remote-jobs/remote-cloud-computing-amazon-web-services-aws-1137231",
       "source": "RemoteOK",
-      "description": "Roles and Responsibilities - AWS cloud computing Location - Hyderabad, Chennai, Kolkata, Pune, Bengaluru Exp - 6 - 8 yrs Please mention the word **LOVE** and tag RMTcyLjE3NC4xNjYuMTk0 when applying to show you read the job post completely (#RMTcyLjE3NC4xNjYuMTk0). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Roles and Responsibilities - AWS cloud computing Location - Hyderabad, Chennai, Kolkata, Pune, Bengaluru Exp - 6 - 8 yrs Please mention the word **LOVE** and tag RNDAuNzYuMTkxLjEzMg== when applying to show you read the job post completely (#RNDAuNzYuMTkxLjEzMg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "tags": [
         "education",
         "exec",
@@ -1238,34 +1248,6 @@
       ]
     },
     {
-      "title": "SaaS Product Support Jedi",
-      "company": "Creative Force",
-      "location": "Europe, EMEA, UK, Germany, France, European timezones",
-      "url": "https://remotive.com/remote-jobs/customer-service/saas-product-support-jedi-2091087",
-      "source": "Remotive",
-      "description": "We’re on the hunt for a sharp, self-driven SaaS pro who’s as comfortable troubleshooting API and integrations as they are navigating human conversations. Our European client base is growing fast and we need someone who can keep up. Our software isn’t your average plug-and-play; it has a steep learning curve so you’ll need to be technically savvy while also being the kind of person clients genuinely enjoy talking to. If you’ve got SaaS in your DNA, thrive in async/remote environments, and can juggle multiple threads without breaking a sweat — keep reading. The role You’ll join a lean, high-perf",
-      "tags": [
-        "api",
-        "css",
-        "go",
-        "html",
-        "javascript",
-        "saas",
-        "onboarding",
-        "chat",
-        "startup",
-        "troubleshooting",
-        "product support",
-        "testing",
-        "github"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Uk-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
       "title": "Product Engineer, Internal Tools - LATAM",
       "company": "Luxury Presence",
       "location": "LATAM",
@@ -1383,7 +1365,7 @@
       "location": "Guntur,",
       "url": "https://remoteOK.com/remote-jobs/remote-production-lead-itc-limited-1137233",
       "source": "RemoteOK",
-      "description": "Production Lead - G3 Please mention the word **HOT** and tag RMTcyLjE3NC4xNjYuMTk0 when applying to show you read the job post completely (#RMTcyLjE3NC4xNjYuMTk0). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Production Lead - G3 Please mention the word **HOT** and tag RNDAuNzYuMTkxLjEzMg== when applying to show you read the job post completely (#RNDAuNzYuMTkxLjEzMg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "tags": [
         "education",
         "exec",
@@ -1438,6 +1420,23 @@
       "fit": 30,
       "reasons": [
         "Europe-tagged — verify it's open to Africa first",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "RevTech Senior Salesforce Developer - LATAM",
+      "company": "Luxury Presence",
+      "location": "LATAM",
+      "url": "https://jobicy.com/jobs/152602-revtech-senior-salesforce-developer-latam",
+      "source": "Jobicy",
+      "description": "Luxury Presence is building the AI growth platform for real estate. Backed by Bessemer Venture Partners and other top investors, we're a Series C company that has hit $100M in annual recurring revenue. More than 90,000 real estate professionals, including over 30% of the WSJ Real Trends top 100 agents in the United States, use&hellip;",
+      "tags": [
+        "software engineering"
+      ],
+      "verdict": "review",
+      "fit": 30,
+      "reasons": [
+        "Latam-tagged — verify it's open to Africa first",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -1629,23 +1628,6 @@
       ]
     },
     {
-      "title": "Senior Front-End Developer (React / TypeScript) - Market Research",
-      "company": "Truelogic",
-      "location": "LATAM",
-      "url": "https://jobicy.com/jobs/152035-senior-front-end-developer-react-typescript-market-research",
-      "source": "Jobicy",
-      "description": "About TruelogicAt Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of all sizes, from innovative startups to industry leaders, helping them achieve their digital transformation goals.Our team of 600+ highly skilled tech professionals, based in Latin&hellip;",
-      "tags": [
-        "software engineering"
-      ],
-      "verdict": "review",
-      "fit": 30,
-      "reasons": [
-        "Latam-tagged — verify it's open to Africa first",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
       "title": "Senior Independent Software Developer",
       "company": "A.Team",
       "location": "Americas, Europe, Israel",
@@ -1693,22 +1675,6 @@
       ]
     },
     {
-      "title": "Staff DevOps Engineer",
-      "company": "Hubstaff",
-      "location": "LATAM, Brazil, Canada, USA",
-      "url": "https://jobicy.com/jobs/151872-staff-devops-engineer",
-      "source": "Jobicy",
-      "description": "About Hubstaff At Hubstaff, our mission is to empower people to have their most productive workday. We do this by providing the industry-leading workforce analytics and time tracking platform for remote and distributed teams. We've been fully remote for over a decade—long before it became a trend—and we continue to believe that remote work represents&hellip;",
-      "tags": [
-        "devops & infrastructure"
-      ],
-      "verdict": "blocked",
-      "fit": 0,
-      "reasons": [
-        "Staff-level — usually 5–10+ yrs, you have ~4"
-      ]
-    },
-    {
       "title": "Principal DevOps Engineer",
       "company": "NBCUniversal",
       "location": "USA",
@@ -1722,6 +1688,22 @@
       "fit": 0,
       "reasons": [
         "Principal-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
+      "title": "Staff DevOps Engineer",
+      "company": "Hubstaff",
+      "location": "LATAM, Brazil, Canada, USA",
+      "url": "https://jobicy.com/jobs/151872-staff-devops-engineer",
+      "source": "Jobicy",
+      "description": "About Hubstaff At Hubstaff, our mission is to empower people to have their most productive workday. We do this by providing the industry-leading workforce analytics and time tracking platform for remote and distributed teams. We've been fully remote for over a decade—long before it became a trend—and we continue to believe that remote work represents&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Staff-level — usually 5–10+ yrs, you have ~4"
       ]
     },
     {
@@ -1754,6 +1736,32 @@
       "fit": 0,
       "reasons": [
         "Director-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
+      "title": "AWS Platform Specialist",
+      "company": "Bright Vision Technologies",
+      "location": "United States",
+      "url": "https://himalayas.app/companies/bright-vision-technologies/jobs/aws-platform-specialist-2408899117",
+      "source": "Himalayas",
+      "description": "Bright Vision Technologies is a technology consulting and software development company delivering cloud, AI, data, and enterprise solutions across the United States. This is a fantastic opportunity to join an established and well-respected organization offering tremendous career growth potential. Job Title: AWS Platform Specialist Location: 100% Remote (U.S.) Position Type: Full-time, Direct W2 Salary Range: $135,000–$150,000 Annually Experience Required: 6+ years Sponsorship: U.S. Citizens, Green Card Holders, EAD Holders, and H-1B transfer candidates are encouraged to apply. We are unable to",
+      "tags": [
+        "aws-cloud-engineering",
+        "cloud-platform-engineering",
+        "devops-engineer",
+        "cloud-infrastructure-engineering",
+        "aws-solutions-architecture",
+        "aws-platform-specialist",
+        "aws-specialist",
+        "aws-platform-engineer",
+        "cloud-platform-specialist",
+        "aws-devops-specialist",
+        "platform-specialist"
+      ],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "work-authorization wall (green card)"
       ]
     }
   ]
