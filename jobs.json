@@ -1,11 +1,11 @@
 {
-  "generated": "2026-09-06 09:50 UTC",
-  "count": 86,
+  "generated": "2026-09-07 10:56 UTC",
+  "count": 88,
   "summary": {
-    "scanned": 86,
-    "eligible": 22,
-    "review": 57,
-    "blocked": 7
+    "scanned": 88,
+    "eligible": 26,
+    "review": 56,
+    "blocked": 6
   },
   "jobs": [
     {
@@ -61,6 +61,21 @@
       ]
     },
     {
+      "title": "Senior SRE - Networks",
+      "company": "Fastly",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/fastly-senior-sre-networks",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: United Kingdom (Remote) Fastly helps people stay better connected with the things they love. Fastly’s edge cloud platform enables customers to create great digital experiences quickly, securely, and reliably by processing, serving, and securing our customers’ applications as close to their end-users as possible — at the edge of the Internet. The platform is designed to take advantage of the modern internet, to be programmable, and to support agile software development. Fastly’s customers include many of the world’s most prominent companies, including GitHub, Yelp, Paramount, and ",
+      "tags": [],
+      "verdict": "eligible",
+      "fit": 60,
+      "reasons": [
+        "remote — anywhere / global",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
       "title": "Senior DevOps Engineer",
       "company": "Lemon.io",
       "location": "Anywhere in the World",
@@ -85,6 +100,43 @@
       "tags": [],
       "verdict": "eligible",
       "fit": 54,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
+    {
+      "title": "Sales Jedi",
+      "company": "Creative Force",
+      "location": "Europe",
+      "url": "https://remotive.com/remote-jobs/sales/sales-jedi-2091088",
+      "source": "Remotive",
+      "description": "Great salary | Profit share | 100% remote | Work from anywhere in Europe | SaaS Awesome opportunity for a self-motivated and energetic people person to join our remote team and help sell our world-leading SaaS products, from anywhere in Europe. We pay a great salary, based on experience and location. We don’t pay commissions, because good sales are a team effort—from engineering, to operations, marketing, and support, our high-performing team all contribute to a great product and service that our clients love. Everybody in the company is rewarded with a share of profit each December—we succeed",
+      "tags": [
+        "saas",
+        "video",
+        "solid",
+        "chat",
+        "saas sales",
+        "mental health"
+      ],
+      "verdict": "eligible",
+      "fit": 50,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
+    {
+      "title": "Freelance Writer",
+      "company": "IAPWE",
+      "location": "Worldwide",
+      "url": "https://remotive.com/remote-jobs/writing/freelance-writer-1185979",
+      "source": "Remotive",
+      "description": "Our organization is seeking content writers to create articles and blog posts on a variety of topics. The rate of pay is $20 per 100 words (this comes out to approximately $100 per article or $50 per hour). Some topics you may be asked to write about include the following (you can always turn down a topic if you do not feel comfortable writing about it, however if you have experience or expertise in a specific area, please let us know): Health &amp; beauty Fitness Home Decor Fashion Sports Do it yourself Finance Legal Medical Family/Parenting Relationships Real Estate Restaurants Contracting (",
+      "tags": [
+        "rest"
+      ],
+      "verdict": "eligible",
+      "fit": 50,
       "reasons": [
         "remote — anywhere / global"
       ]
@@ -340,6 +392,35 @@
       ]
     },
     {
+      "title": "Oracle Fusion Cloud Lead â Logistics & Supply Chain Management",
+      "company": "Tessera Labs",
+      "location": "Worldwide",
+      "url": "https://remoteOK.com/remote-jobs/remote-oracle-fusion-cloud-lead-logistics-supply-chain-management-tessera-labs-1137155",
+      "source": "RemoteOK",
+      "description": "Oracle Fusion Cloud Lead â Logistics &amp; Supply Chain Management Greenfield Oracle Fusion Implementation Company Tessera Labs AI Role Type Senior consulting engagement â full-time or contract, workstream-critical role Location Nearshore, based in Mexico or Brazil â remote-based delivery model; excellent business English required for direct engagement with client stakeholders and leadership Reports To Program Director / Engagement Lead, Tessera Labs AI About the Role Tessera Labs AI is a technology product firm delivering next-generation, AI-accelerated enterprise transformation program",
+      "tags": [
+        "design",
+        "sys admin",
+        "consulting",
+        "testing",
+        "exec",
+        "cloud",
+        "senior",
+        "ops",
+        "engineer",
+        "ecommerce",
+        "shopify",
+        "full time",
+        "digital nomad"
+      ],
+      "verdict": "eligible",
+      "fit": 44,
+      "reasons": [
+        "remote — anywhere / global",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
       "title": "Cyber Security GTM Leader",
       "company": "Databricks",
       "location": "Anywhere in the World",
@@ -553,29 +634,6 @@
       ]
     },
     {
-      "title": "Technical Product Manager, Kubernetes Services – Remote (US)",
-      "company": "Mirantis",
-      "location": "United States",
-      "url": "https://himalayas.app/companies/mirantis/jobs/technical-product-manager-kubernetes-services-remote-us",
-      "source": "Himalayas",
-      "description": "Mirantis is looking for a Technical Product Manager to own the Kubernetes-as-a-Service for k0rdent AI, our control plane for GPU infrastructure and distributed AI workloads. In this role, you will define the strategy, roadmap, and feature priorities that determine how Neocloud operators launch and run managed Kubernetes offerings on their own GPU infrastructure. Managed Kubernetes sits at the intersection of cluster lifecycle automation and service provider operations, and the product must hold both worlds together. You will shape how k0rdent AI delivers validated cluster configurations and ad",
-      "tags": [
-        "technical-product-management",
-        "kubernetes-services",
-        "product-management",
-        "platform-engineering",
-        "cloud-infrastructure-product-management",
-        "remote-technical-product-manager",
-        "technical-product-manager-devops",
-        "technical-product-manager"
-      ],
-      "verdict": "review",
-      "fit": 56,
-      "reasons": [
-        "United states-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
       "title": "Azure DevOps Engineer | KD Pharma",
       "company": "GT",
       "location": "Europe",
@@ -637,30 +695,6 @@
       "fit": 52,
       "reasons": [
         "Europe-tagged — verify it's open to Africa first"
-      ]
-    },
-    {
-      "title": "Cloud Security Engineer",
-      "company": "Appspace",
-      "location": "United States",
-      "url": "https://himalayas.app/companies/appspace/jobs/cloud-security-engineer-4880033105",
-      "source": "Himalayas",
-      "description": "About Appspace : At Appspace , we’re passionate about creating better work experiences for people everywhere, and we’re looking for people that feel the same way. Our global office locations and flexible work culture help you work wherever and however you’re at your best. Plus, we take the time to help you enjoy your work, build lasting connections, and grow your role. Join the Appspace team and be a part of a culture that’s helping people everywhere love where they work. Your Role as a Cloud Security Engineer : We are seeking a highly skilled Cloud Security Engineer to join our dynamic team. ",
-      "tags": [
-        "cloud-security-engineering",
-        "cloud-security-architecture",
-        "security-operations",
-        "cloud-infrastructure-security",
-        "cybersecurity-consulting",
-        "cloud-security-engineer",
-        "cloud-cybersecurity-engineer",
-        "senior-cloud-infrastructure-security-engineer",
-        "cloud-identity-security-engineer"
-      ],
-      "verdict": "review",
-      "fit": 52,
-      "reasons": [
-        "United states-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -1084,7 +1118,7 @@
       "location": "Warangal Rural,",
       "url": "https://remoteOK.com/remote-jobs/remote-employee-hartmann-group-international-1137232",
       "source": "RemoteOK",
-      "description": "404 This page doesnât exist. Beware, our IT man might be in a bad mood! You better take a look here. Please mention the word **DUMBFOUNDING** and tag RNDAuNzYuMTkxLjEzMg== when applying to show you read the job post completely (#RNDAuNzYuMTkxLjEzMg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "404 This page doesnât exist. Beware, our IT man might be in a bad mood! You better take a look here. Please mention the word **DUMBFOUNDING** and tag RMTcyLjE4NC4yMTEuMTk= when applying to show you read the job post completely (#RMTcyLjE4NC4yMTEuMTk=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "tags": [
         "education",
         "exec",
@@ -1107,7 +1141,7 @@
       "location": "Telangana,",
       "url": "https://remoteOK.com/remote-jobs/remote-cloud-computing-amazon-web-services-aws-1137231",
       "source": "RemoteOK",
-      "description": "Roles and Responsibilities - AWS cloud computing Location - Hyderabad, Chennai, Kolkata, Pune, Bengaluru Exp - 6 - 8 yrs Please mention the word **LOVE** and tag RNDAuNzYuMTkxLjEzMg== when applying to show you read the job post completely (#RNDAuNzYuMTkxLjEzMg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Roles and Responsibilities - AWS cloud computing Location - Hyderabad, Chennai, Kolkata, Pune, Bengaluru Exp - 6 - 8 yrs Please mention the word **LOVE** and tag RMTcyLjE4NC4yMTEuMTk= when applying to show you read the job post completely (#RMTcyLjE4NC4yMTEuMTk=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "tags": [
         "education",
         "exec",
@@ -1213,6 +1247,34 @@
       ]
     },
     {
+      "title": "SaaS Product Support Jedi",
+      "company": "Creative Force",
+      "location": "Europe, EMEA, UK, Germany, France, European timezones",
+      "url": "https://remotive.com/remote-jobs/customer-service/saas-product-support-jedi-2091087",
+      "source": "Remotive",
+      "description": "We’re on the hunt for a sharp, self-driven SaaS pro who’s as comfortable troubleshooting API and integrations as they are navigating human conversations. Our European client base is growing fast and we need someone who can keep up. Our software isn’t your average plug-and-play; it has a steep learning curve so you’ll need to be technically savvy while also being the kind of person clients genuinely enjoy talking to. If you’ve got SaaS in your DNA, thrive in async/remote environments, and can juggle multiple threads without breaking a sweat — keep reading. The role You’ll join a lean, high-perf",
+      "tags": [
+        "api",
+        "css",
+        "go",
+        "html",
+        "javascript",
+        "saas",
+        "onboarding",
+        "chat",
+        "startup",
+        "troubleshooting",
+        "product support",
+        "testing",
+        "github"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "Uk-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
       "title": "Content Reviewer - English US",
       "company": "TELUS Digital",
       "location": "USA",
@@ -1245,6 +1307,54 @@
       "fit": 36,
       "reasons": [
         "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "Forward Deployed Engineer",
+      "company": "Tailscale",
+      "location": "Canada",
+      "url": "https://jobicy.com/jobs/152680-forward-deployed-engineer-2",
+      "source": "Jobicy",
+      "description": "About Tailscale Tailscale is making safe connection effortless by delivering software that makes it easy to securely interconnect people and their devices, no matter where they are. From hobbyists to multinational corporations, teams of every size use Tailscale each day to protect their networks, share access to internal tools, and more. We're building a future&hellip;",
+      "tags": [
+        "technical support"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "Canada-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "Salesforce Developer (US-Remote)",
+      "company": "Tenable",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/152666-salesforce-developer-us-remote",
+      "source": "Jobicy",
+      "description": "Who is Tenable? Tenable® is the Exposure Management company. Over 40,000 organizations around the globe rely on Tenable to understand and reduce cyber risk. Our global employees support 65 percent of the Fortune 500, 50 percent of the Global 2000, and large government agencies. Come be part of our journey! What makes Tenable such a&hellip;",
+      "tags": [
+        "software engineering"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "Software Engineer II - Poland",
+      "company": "Housecall Pro",
+      "location": "Poland",
+      "url": "https://jobicy.com/jobs/152625-software-engineer-ii-poland",
+      "source": "Jobicy",
+      "description": "Why Housecall Pro? Help us build solutions that build better lives. At Housecall Pro, we show up to work every day to make a difference for real people: the home service professionals that support America’s 100 million homes. We’re all about the Pro, and dedicate our days to helping them streamline operations, scale their businesses,&hellip;",
+      "tags": [
+        "software engineering"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "Poland-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -1328,44 +1438,12 @@
       ]
     },
     {
-      "title": "Channel Sales Manager, West Coast",
-      "company": "Sonatype",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/152096-channel-sales-manager-west-coast",
-      "source": "Jobicy",
-      "description": "Sonatype is the software supply chain security company. We provide the world’s best end-to-end software supply chain security solution, combining the only proactive protection against malicious open source, the only enterprise grade SBOM management and the leading open source dependency management platform. This empowers enterprises to create and maintain secure, quality, and innovative software at&hellip;",
-      "tags": [
-        "sales"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Enterprise Account Executive",
-      "company": "Quantum Metric",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/152080-enterprise-account-executive-17",
-      "source": "Jobicy",
-      "description": "Our Culture Quantum Metric's number one objective is happy people, diverse and inclusive culture. We’re passionate about empowering our people to become the best version of themselves, offering coaching and training programs designed to accelerate their career in whatever direction they choose. As a remote-first company, we understand the importance of building an engaged,&hellip;",
-      "tags": [
-        "sales"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
       "title": "Production Lead",
       "company": "ITC Limited",
       "location": "Guntur,",
       "url": "https://remoteOK.com/remote-jobs/remote-production-lead-itc-limited-1137233",
       "source": "RemoteOK",
-      "description": "Production Lead - G3 Please mention the word **HOT** and tag RNDAuNzYuMTkxLjEzMg== when applying to show you read the job post completely (#RNDAuNzYuMTkxLjEzMg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Production Lead - G3 Please mention the word **HOT** and tag RMTcyLjE4NC4yMTEuMTk= when applying to show you read the job post completely (#RMTcyLjE4NC4yMTEuMTk=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "tags": [
         "education",
         "exec",
@@ -1420,6 +1498,23 @@
       "fit": 30,
       "reasons": [
         "Europe-tagged — verify it's open to Africa first",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Platform Architect",
+      "company": "Instructure",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/152637-platform-architect",
+      "source": "Jobicy",
+      "description": "At Instructure, we believe in the power of people to grow and succeed throughout their lives. Our goal is to amplify that power by creating intuitive products that simplify learning and personal development, facilitate meaningful relationships, and inspire people to go further in their education and careers.We do this by giving smart, creative, passionate people&hellip;",
+      "tags": [
+        "software engineering"
+      ],
+      "verdict": "review",
+      "fit": 30,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -1594,40 +1689,6 @@
       ]
     },
     {
-      "title": "Senior Full Stack Engineer II",
-      "company": "Teachable",
-      "location": "Brazil",
-      "url": "https://jobicy.com/jobs/152092-senior-full-stack-engineer-ii",
-      "source": "Jobicy",
-      "description": "What is Teachable? Teachable is the platform for experts and businesses who take education seriously. In a world where anyone can ask AI for information, we're the home for those who educate with purpose, modernity, and humanity. We help experts and businesses scale their impact and operations through courses, coaching, and digital downloads that students&hellip;",
-      "tags": [
-        "software engineering"
-      ],
-      "verdict": "review",
-      "fit": 30,
-      "reasons": [
-        "Brazil-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": ".NET Software Architect",
-      "company": "Zartis",
-      "location": "Europe",
-      "url": "https://jobicy.com/jobs/152042-net-software-architect",
-      "source": "Jobicy",
-      "description": ".NET Software Architect The company and our mission: Zartis is a global AI transformation and technology consulting partner where talented engineers and technologists work on cutting edge innovation. We partner with ambitious organizations to design, build, and scale technology solutions that deliver real impact. Our teams bring deep expertise in AI driven platforms, secure&hellip;",
-      "tags": [
-        "software engineering"
-      ],
-      "verdict": "review",
-      "fit": 30,
-      "reasons": [
-        "Europe-tagged — verify it's open to Africa first",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
       "title": "Senior Independent Software Developer",
       "company": "A.Team",
       "location": "Americas, Europe, Israel",
@@ -1736,32 +1797,6 @@
       "fit": 0,
       "reasons": [
         "Director-level — usually 5–10+ yrs, you have ~4"
-      ]
-    },
-    {
-      "title": "AWS Platform Specialist",
-      "company": "Bright Vision Technologies",
-      "location": "United States",
-      "url": "https://himalayas.app/companies/bright-vision-technologies/jobs/aws-platform-specialist-2408899117",
-      "source": "Himalayas",
-      "description": "Bright Vision Technologies is a technology consulting and software development company delivering cloud, AI, data, and enterprise solutions across the United States. This is a fantastic opportunity to join an established and well-respected organization offering tremendous career growth potential. Job Title: AWS Platform Specialist Location: 100% Remote (U.S.) Position Type: Full-time, Direct W2 Salary Range: $135,000–$150,000 Annually Experience Required: 6+ years Sponsorship: U.S. Citizens, Green Card Holders, EAD Holders, and H-1B transfer candidates are encouraged to apply. We are unable to",
-      "tags": [
-        "aws-cloud-engineering",
-        "cloud-platform-engineering",
-        "devops-engineer",
-        "cloud-infrastructure-engineering",
-        "aws-solutions-architecture",
-        "aws-platform-specialist",
-        "aws-specialist",
-        "aws-platform-engineer",
-        "cloud-platform-specialist",
-        "aws-devops-specialist",
-        "platform-specialist"
-      ],
-      "verdict": "blocked",
-      "fit": 0,
-      "reasons": [
-        "work-authorization wall (green card)"
       ]
     }
   ]
