@@ -1,11 +1,11 @@
 {
-  "generated": "2026-09-07 10:56 UTC",
-  "count": 88,
+  "generated": "2026-09-08 10:13 UTC",
+  "count": 90,
   "summary": {
-    "scanned": 88,
-    "eligible": 26,
-    "review": 56,
-    "blocked": 6
+    "scanned": 90,
+    "eligible": 28,
+    "review": 55,
+    "blocked": 7
   },
   "jobs": [
     {
@@ -26,6 +26,20 @@
         "engineer",
         "digital nomad"
       ],
+      "verdict": "eligible",
+      "fit": 66,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
+    {
+      "title": "Professional Services DevOps Engineer",
+      "company": "JFrog",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/jfrog-professional-services-devops-engineer",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Remote, US &nbsp; ** Open to remote within the East Coast only** At JFrog, we’re reinventing DevOps to help the world’s greatest companies innovate -- and we want you along for the ride. This is a special place with a unique combination of brilliance, spirit and just all-around great people. Here, if you’re willing to do more, your career can take off. And since software plays a central role in everyone’s lives, you’ll be part of an important mission. Thousands of customers, including the majority of the Fortune 100, trust JFrog to manage, accelerate, and secure their software de",
+      "tags": [],
       "verdict": "eligible",
       "fit": 66,
       "reasons": [
@@ -58,6 +72,46 @@
       "fit": 66,
       "reasons": [
         "remote — anywhere / global"
+      ]
+    },
+    {
+      "title": "AI Infrastructure Cloud Engineer (100 % remote) (m/f/d)",
+      "company": "EWOR GmbH",
+      "location": "Worldwide",
+      "url": "https://himalayas.app/companies/ewor-gmbh/jobs/ai-infrastructure-cloud-engineer-100-remote-m-f-d",
+      "source": "Himalayas",
+      "description": "EWOR is launching cutting-edge new initiatives, and we are looking for exceptional operators and builders to join our new department. We are backed and led by serial entrepreneurs, including Paul Müller (founder of Adjust, €1.2B exit) and Petter Made (founder of SumUp, €8B), who have built high-impact technology and category-defining ventures from the ground up. What We Offer Maximum ownership : Complete autonomy to architect systems, drive strategy, and build from 0 to 1 without corporate red tape. High-growth environment : Complete focus on achieving strong market validation and scalable tra",
+      "tags": [
+        "ai-infrastructure-engineer",
+        "cloud-engineer",
+        "cloud-architecture",
+        "machine-learning-infrastructure-engineer",
+        "ai-ml-engineer",
+        "senior-ai-infrastructure-engineer",
+        "ai-ml-infrastructure-engineer",
+        "cloud-ai-engineer",
+        "ai-ml-cloud-engineer",
+        "ml-ai-infrastructure-engineer"
+      ],
+      "verdict": "eligible",
+      "fit": 66,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
+    {
+      "title": "Senior Professional Services DevOps Engineer",
+      "company": "JFrog",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/jfrog-senior-professional-services-devops-engineer",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Remote, Canada ** Open to remote within the East Coast only** At JFrog, we’re reinventing DevOps to help the world’s greatest companies innovate -- and we want you along for the ride. This is a special place with a unique combination of brilliance, spirit and just all-around great people. Here, if you’re willing to do more, your career can take off. And since software plays a central role in everyone’s lives, you’ll be part of an important mission. Thousands of customers, including the majority of the Fortune 100, trust JFrog to manage, accelerate, and secure their software deliv",
+      "tags": [],
+      "verdict": "eligible",
+      "fit": 60,
+      "reasons": [
+        "remote — anywhere / global",
+        "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
     {
@@ -212,33 +266,6 @@
         "google sheets",
         "financial services",
         "inside sales"
-      ],
-      "verdict": "eligible",
-      "fit": 50,
-      "reasons": [
-        "remote — anywhere / global"
-      ]
-    },
-    {
-      "title": "Tier III Service Desk Engineer",
-      "company": "Unio Digital",
-      "location": "Worldwide",
-      "url": "https://remotive.com/remote-jobs/information-technology/tier-iii-service-desk-engineer-2091045",
-      "source": "Remotive",
-      "description": "Unió Digital is an Arizona-based managed service provider (MSP) delivering Managed IT Services, Low Voltage Cabling, Access Control, Video Surveillance, and Intrusion Services. We believe technology should be intuitive, not intimidating. We are looking for an experienced Tier 3 Service Desk Technician with exceptional problem-solving skills. You will serve as the escalation point within the team, resolving complex technical issues while also leading client onboarding and project initiatives. You are expected to be involved in direct end-user support when required. If you have a passion for ens",
-      "tags": [
-        "azure",
-        "cisco",
-        "security",
-        "video",
-        "documentation",
-        "hardware",
-        "helpdesk",
-        "onboarding",
-        "msp",
-        "ticketing",
-        "microsoft 365",
-        "it systems"
       ],
       "verdict": "eligible",
       "fit": 50,
@@ -682,22 +709,6 @@
       ]
     },
     {
-      "title": "Software Engineer - (Connect Platform)",
-      "company": "Enode",
-      "location": "Europe, Norway",
-      "url": "https://jobicy.com/jobs/149876-software-engineer-connect-platform-2",
-      "source": "Jobicy",
-      "description": "About EnodeThe grid was built for predictable, centralised power. Today it's absorbing intermittent supply from grid scale solar and wind, alongside dynamic demand from EVs, heat pumps, and home batteries. The missing piece is software that can connect and orchestrate these devices at scale.Enode provides the infrastructure layer that makes this possible. Our Connect API&hellip;",
-      "tags": [
-        "software engineering"
-      ],
-      "verdict": "review",
-      "fit": 52,
-      "reasons": [
-        "Europe-tagged — verify it's open to Africa first"
-      ]
-    },
-    {
       "title": "Senior React Full-stack Developer",
       "company": "Lemon.io",
       "location": "LATAM, Europe, USA, Canada, APAC",
@@ -934,6 +945,22 @@
       ]
     },
     {
+      "title": "Manager, Customer Success Managers, EMEA",
+      "company": "GitLab",
+      "location": "Austria, Germany",
+      "url": "https://jobicy.com/jobs/148783-manager-customer-success-managers-emea",
+      "source": "Jobicy",
+      "description": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster. The same principles built into&hellip;",
+      "tags": [
+        "customer support & success"
+      ],
+      "verdict": "review",
+      "fit": 48,
+      "reasons": [
+        "Germany-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
       "title": "Software Engineer - Cloud Images",
       "company": "Canonical",
       "location": "EMEA, LATAM, Canada, USA",
@@ -1028,6 +1055,23 @@
       ]
     },
     {
+      "title": "Pre/Post Sales Solutions Architect",
+      "company": "Gremlin",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/152749-pre-post-sales-solutions-architect",
+      "source": "Jobicy",
+      "description": "Today’s complex, fast-paced systems have become a minefield of reliability risks—any of which could cause an outage that costs millions and destroys customer confidence. That’s why high-availability teams use Gremlin to find and fix ‌reliability risks before they become incidents. The Gremlin Reliability Platform helps software teams proactively monitor and test their systems for common&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
+      "verdict": "review",
+      "fit": 46,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
       "title": "Senior Site Reliability Engineer I",
       "company": "Braze",
       "location": "Canada",
@@ -1079,19 +1123,19 @@
       ]
     },
     {
-      "title": "Senior Manager, Solutions Architect",
-      "company": "Vercel",
-      "location": "Australia",
-      "url": "https://jobicy.com/jobs/152130-senior-manager-solutions-architect-2",
+      "title": "Associate Solutions Architect (French or German fluency)",
+      "company": "GitLab",
+      "location": "Ireland",
+      "url": "https://jobicy.com/jobs/152701-associate-solutions-architect-french-or-german-fluency",
       "source": "Jobicy",
-      "description": "About Vercel: Vercel is the agentic infrastructure company. We free people and agents to ship what’s next. For more than a decade, Vercel has shaped how the web is built. As the team behind Next.js, v0, and AI SDK, we create products that help builders move from idea to production with speed, security, and exceptional&hellip;",
+      "description": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster. The same principles built into&hellip;",
       "tags": [
-        "technical support"
+        "sales"
       ],
       "verdict": "review",
-      "fit": 46,
+      "fit": 42,
       "reasons": [
-        "Australia-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "Africa-friendly employer (Gitlab) — role location unconfirmed",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -1118,7 +1162,7 @@
       "location": "Warangal Rural,",
       "url": "https://remoteOK.com/remote-jobs/remote-employee-hartmann-group-international-1137232",
       "source": "RemoteOK",
-      "description": "404 This page doesnât exist. Beware, our IT man might be in a bad mood! You better take a look here. Please mention the word **DUMBFOUNDING** and tag RMTcyLjE4NC4yMTEuMTk= when applying to show you read the job post completely (#RMTcyLjE4NC4yMTEuMTk=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "404 This page doesnât exist. Beware, our IT man might be in a bad mood! You better take a look here. Please mention the word **DUMBFOUNDING** and tag RMTMwLjEzMS4yMTUuMjEy when applying to show you read the job post completely (#RMTMwLjEzMS4yMTUuMjEy). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "tags": [
         "education",
         "exec",
@@ -1141,7 +1185,7 @@
       "location": "Telangana,",
       "url": "https://remoteOK.com/remote-jobs/remote-cloud-computing-amazon-web-services-aws-1137231",
       "source": "RemoteOK",
-      "description": "Roles and Responsibilities - AWS cloud computing Location - Hyderabad, Chennai, Kolkata, Pune, Bengaluru Exp - 6 - 8 yrs Please mention the word **LOVE** and tag RMTcyLjE4NC4yMTEuMTk= when applying to show you read the job post completely (#RMTcyLjE4NC4yMTEuMTk=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Roles and Responsibilities - AWS cloud computing Location - Hyderabad, Chennai, Kolkata, Pune, Bengaluru Exp - 6 - 8 yrs Please mention the word **LOVE** and tag RMTMwLjEzMS4yMTUuMjEy when applying to show you read the job post completely (#RMTMwLjEzMS4yMTUuMjEy). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "tags": [
         "education",
         "exec",
@@ -1310,6 +1354,22 @@
       ]
     },
     {
+      "title": "Data Scientist, AI/ML",
+      "company": "Gremlin",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/152746-data-scientist-ai-ml",
+      "source": "Jobicy",
+      "description": "Data Scientist, AI/ML Job Description: Today’s complex, fast-paced systems have become a minefield of reliability risks, any of which could cause an outage that costs millions and destroys customer confidence. That’s why high-availability teams use Gremlin to find and fix reliability risks before they become incidents. Gremlin Reliability Platform helps software teams proactively monitor and&hellip;",
+      "tags": [
+        "data science & analytics"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
       "title": "Forward Deployed Engineer",
       "company": "Tailscale",
       "location": "Canada",
@@ -1422,28 +1482,12 @@
       ]
     },
     {
-      "title": "Professional Services Engineer",
-      "company": "BigID",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/152173-professional-services-engineer",
-      "source": "Jobicy",
-      "description": "Who we are: BigID is an innovative tech startup that focuses on solutions for data security, compliance, privacy, and AI data management. We're leading the market in all things data: helping our customers reduce risk, drive business innovation, achieve compliance, build customer trust, make better decisions, and get more value from their data. We are&hellip;",
-      "tags": [
-        "technical support"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
       "title": "Production Lead",
       "company": "ITC Limited",
       "location": "Guntur,",
       "url": "https://remoteOK.com/remote-jobs/remote-production-lead-itc-limited-1137233",
       "source": "RemoteOK",
-      "description": "Production Lead - G3 Please mention the word **HOT** and tag RMTcyLjE4NC4yMTEuMTk= when applying to show you read the job post completely (#RMTcyLjE4NC4yMTEuMTk=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Production Lead - G3 Please mention the word **HOT** and tag RMTMwLjEzMS4yMTUuMjEy when applying to show you read the job post completely (#RMTMwLjEzMS4yMTUuMjEy). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "tags": [
         "education",
         "exec",
@@ -1655,40 +1699,6 @@
       ]
     },
     {
-      "title": "Senior Customer Success Manager - East/Public Sector",
-      "company": "Tines",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/149843-senior-customer-success-manager-east-public-sector",
-      "source": "Jobicy",
-      "description": "Founded in 2018 with co-headquarters in Dublin and Boston, Tines powers some of the world's most important workflows. Our intelligent workflow platform applies AI, automation, and integration with human ingenuity to drive real business results. Tines serves a diverse range of customers, from startups to public companies, including Canva, Databricks, Elastic, Kayak, Intercom, and McKesson.&hellip;",
-      "tags": [
-        "customer support & success"
-      ],
-      "verdict": "review",
-      "fit": 30,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Frontend Engineering Team Lead - MarTech",
-      "company": "Sporty Group",
-      "location": "Europe",
-      "url": "https://jobicy.com/jobs/149869-frontend-engineering-team-lead-martech",
-      "source": "Jobicy",
-      "description": "About the roleAs the Team Lead for our Frontend development team, you will play a key role in driving the architecture, development, and delivery of high-quality software solutions. You will lead a group of talented developers, ensuring smooth collaboration, technical innovation, and strong delivery results. Your responsibilities will encompass both hands-on coding and line management,&hellip;",
-      "tags": [
-        "software engineering"
-      ],
-      "verdict": "review",
-      "fit": 30,
-      "reasons": [
-        "Europe-tagged — verify it's open to Africa first",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
       "title": "Senior Independent Software Developer",
       "company": "A.Team",
       "location": "Americas, Europe, Israel",
@@ -1765,6 +1775,22 @@
       "fit": 0,
       "reasons": [
         "Staff-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
+      "title": "Director, Enterprise Sales Engineering - US Central",
+      "company": "Datadog",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/152710-director-enterprise-sales-engineering-us-central",
+      "source": "Jobicy",
+      "description": "As a Director, Enterprise Sales Engineering, you will lead a team of frontline leaders, driving account strategy, deal execution, operational excellence, and team development across your region. This is a strategic leadership role with regional impact within North America. You will act as a force multiplier by owning team and region performance, shaping execution standards,&hellip;",
+      "tags": [
+        "sales"
+      ],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Director-level — usually 5–10+ yrs, you have ~4"
       ]
     },
     {
