@@ -1,10 +1,10 @@
 {
-  "generated": "2026-09-08 10:13 UTC",
-  "count": 90,
+  "generated": "2026-09-09 10:18 UTC",
+  "count": 93,
   "summary": {
-    "scanned": 90,
-    "eligible": 28,
-    "review": 55,
+    "scanned": 93,
+    "eligible": 29,
+    "review": 57,
     "blocked": 7
   },
   "jobs": [
@@ -75,28 +75,18 @@
       ]
     },
     {
-      "title": "AI Infrastructure Cloud Engineer (100 % remote) (m/f/d)",
-      "company": "EWOR GmbH",
-      "location": "Worldwide",
-      "url": "https://himalayas.app/companies/ewor-gmbh/jobs/ai-infrastructure-cloud-engineer-100-remote-m-f-d",
-      "source": "Himalayas",
-      "description": "EWOR is launching cutting-edge new initiatives, and we are looking for exceptional operators and builders to join our new department. We are backed and led by serial entrepreneurs, including Paul Müller (founder of Adjust, €1.2B exit) and Petter Made (founder of SumUp, €8B), who have built high-impact technology and category-defining ventures from the ground up. What We Offer Maximum ownership : Complete autonomy to architect systems, drive strategy, and build from 0 to 1 without corporate red tape. High-growth environment : Complete focus on achieving strong market validation and scalable tra",
-      "tags": [
-        "ai-infrastructure-engineer",
-        "cloud-engineer",
-        "cloud-architecture",
-        "machine-learning-infrastructure-engineer",
-        "ai-ml-engineer",
-        "senior-ai-infrastructure-engineer",
-        "ai-ml-infrastructure-engineer",
-        "cloud-ai-engineer",
-        "ai-ml-cloud-engineer",
-        "ml-ai-infrastructure-engineer"
-      ],
+      "title": "Billing Systems Architect",
+      "company": "Platform.sh",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/platform-sh-billing-systems-architect",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Remote • Anywhere About Upsun (formerly Platform.sh)&nbsp; Upsun is the cloud application platform humans and robots love. It is built for today’s hybrid teams, where AI agents write and test code and humans focus on solving the problems that really matter. Developers, DevOps engineers, and platform teams use Upsun to build, ship, and scale confidently without wrestling with backend infrastructure. We give you your time back. You get: Predictable performance, even at scale Secure, compliant environments by default&nbsp; Real-time observability and profiling built in Cloning, conf",
+      "tags": [],
       "verdict": "eligible",
-      "fit": 66,
+      "fit": 60,
       "reasons": [
-        "remote — anywhere / global"
+        "remote — anywhere / global",
+        "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
     {
@@ -154,6 +144,33 @@
       "tags": [],
       "verdict": "eligible",
       "fit": 54,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
+    {
+      "title": "Tier III Service Desk Engineer",
+      "company": "Unio Digital",
+      "location": "Worldwide",
+      "url": "https://remotive.com/remote-jobs/information-technology/tier-iii-service-desk-engineer-2091045",
+      "source": "Remotive",
+      "description": "Unió Digital is an Arizona-based managed service provider (MSP) delivering Managed IT Services, Low Voltage Cabling, Access Control, Video Surveillance, and Intrusion Services. We believe technology should be intuitive, not intimidating. We are looking for an experienced Tier 3 Service Desk Technician with exceptional problem-solving skills. You will serve as the escalation point within the team, resolving complex technical issues while also leading client onboarding and project initiatives. You are expected to be involved in direct end-user support when required. If you have a passion for ens",
+      "tags": [
+        "azure",
+        "cisco",
+        "security",
+        "video",
+        "documentation",
+        "hardware",
+        "helpdesk",
+        "onboarding",
+        "msp",
+        "ticketing",
+        "microsoft 365",
+        "it systems"
+      ],
+      "verdict": "eligible",
+      "fit": 50,
       "reasons": [
         "remote — anywhere / global"
       ]
@@ -709,6 +726,34 @@
       ]
     },
     {
+      "title": "Cloud Service Security Platform DevOps & Maintenance",
+      "company": "Bitdeer Technologies Group",
+      "location": "United States",
+      "url": "https://himalayas.app/companies/bitdeer-technologies-group/jobs/cloud-service-security-platform-devops-maintenance",
+      "source": "Himalayas",
+      "description": "About Bitdeer Technologies Group Bitdeer is a world-leading technology company for AI and Bitcoin mining infrastructure. Bitdeer is committed to providing comprehensive Bitcoin mining solutions for its customers and building AI computational infrastructure to support the AI revolution. Bitdeer handles complex processes involved in computing such as equipment procurement, transport logistics, data center design and construction, equipment management, and daily operations. Bitdeer also offers advanced cloud capabilities to customers with high demand for artificial intelligence. Headquartered in ",
+      "tags": [
+        "devops-engineer",
+        "site-reliability-engineering",
+        "cloud-infrastructure",
+        "platform-engineering",
+        "mlops",
+        "cloud-devsecops",
+        "cloud-security-operations",
+        "cloud-devsecops-engineer",
+        "devsecops-services",
+        "devops-and-cloud-operations",
+        "cloud-devops",
+        "security-devops-engineer",
+        "cloud-devops-engineering"
+      ],
+      "verdict": "review",
+      "fit": 52,
+      "reasons": [
+        "United states-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
       "title": "Senior React Full-stack Developer",
       "company": "Lemon.io",
       "location": "LATAM, Europe, USA, Canada, APAC",
@@ -1038,6 +1083,23 @@
       ]
     },
     {
+      "title": "B2B Senior DevOps Engineer",
+      "company": "Jamf",
+      "location": "Poland",
+      "url": "https://jobicy.com/jobs/152809-b2b-senior-devops-engineer",
+      "source": "Jobicy",
+      "description": "At Jamf, we believe in an open, flexible culture based on respect and trust. Our track record and thriving work environment all stem from the freedom we grant ourselves to get the job done right. We take pride in helping tens of thousands of customers around the globe succeed with Apple. The secret to our&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
+      "verdict": "review",
+      "fit": 46,
+      "reasons": [
+        "Poland-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
       "title": "Senior DevOps Engineer",
       "company": "Cision",
       "location": "Bulgaria",
@@ -1123,23 +1185,6 @@
       ]
     },
     {
-      "title": "Associate Solutions Architect (French or German fluency)",
-      "company": "GitLab",
-      "location": "Ireland",
-      "url": "https://jobicy.com/jobs/152701-associate-solutions-architect-french-or-german-fluency",
-      "source": "Jobicy",
-      "description": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster. The same principles built into&hellip;",
-      "tags": [
-        "sales"
-      ],
-      "verdict": "review",
-      "fit": 42,
-      "reasons": [
-        "Africa-friendly employer (Gitlab) — role location unconfirmed",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
       "title": "Senior Customer Success Architect - Singapore",
       "company": "GitLab",
       "location": "Singapore",
@@ -1162,7 +1207,7 @@
       "location": "Warangal Rural,",
       "url": "https://remoteOK.com/remote-jobs/remote-employee-hartmann-group-international-1137232",
       "source": "RemoteOK",
-      "description": "404 This page doesnât exist. Beware, our IT man might be in a bad mood! You better take a look here. Please mention the word **DUMBFOUNDING** and tag RMTMwLjEzMS4yMTUuMjEy when applying to show you read the job post completely (#RMTMwLjEzMS4yMTUuMjEy). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "404 This page doesnât exist. Beware, our IT man might be in a bad mood! You better take a look here. Please mention the word **DUMBFOUNDING** and tag RMjAuNDAuMjIyLjIxNA== when applying to show you read the job post completely (#RMjAuNDAuMjIyLjIxNA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "tags": [
         "education",
         "exec",
@@ -1185,7 +1230,7 @@
       "location": "Telangana,",
       "url": "https://remoteOK.com/remote-jobs/remote-cloud-computing-amazon-web-services-aws-1137231",
       "source": "RemoteOK",
-      "description": "Roles and Responsibilities - AWS cloud computing Location - Hyderabad, Chennai, Kolkata, Pune, Bengaluru Exp - 6 - 8 yrs Please mention the word **LOVE** and tag RMTMwLjEzMS4yMTUuMjEy when applying to show you read the job post completely (#RMTMwLjEzMS4yMTUuMjEy). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Roles and Responsibilities - AWS cloud computing Location - Hyderabad, Chennai, Kolkata, Pune, Bengaluru Exp - 6 - 8 yrs Please mention the word **LOVE** and tag RMjAuNDAuMjIyLjIxNA== when applying to show you read the job post completely (#RMjAuNDAuMjIyLjIxNA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "tags": [
         "education",
         "exec",
@@ -1354,6 +1399,22 @@
       ]
     },
     {
+      "title": "Business Systems Engineer",
+      "company": "ClickUp",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/152814-business-systems-engineer",
+      "source": "Jobicy",
+      "description": "At ClickUp, we're building the future of work: the first truly converged AI workspace unifying tasks, docs, chat, calendar, and enterprise search, all supercharged by context-driven AI. We are an AI-native company. Every team member is expected to leverage AI daily, and we evaluate AI fluency as part of our hiring process. Join us and&hellip;",
+      "tags": [
+        "software engineering"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
       "title": "Data Scientist, AI/ML",
       "company": "Gremlin",
       "location": "USA",
@@ -1487,7 +1548,7 @@
       "location": "Guntur,",
       "url": "https://remoteOK.com/remote-jobs/remote-production-lead-itc-limited-1137233",
       "source": "RemoteOK",
-      "description": "Production Lead - G3 Please mention the word **HOT** and tag RMTMwLjEzMS4yMTUuMjEy when applying to show you read the job post completely (#RMTMwLjEzMS4yMTUuMjEy). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Production Lead - G3 Please mention the word **HOT** and tag RMjAuNDAuMjIyLjIxNA== when applying to show you read the job post completely (#RMjAuNDAuMjIyLjIxNA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "tags": [
         "education",
         "exec",
@@ -1762,22 +1823,6 @@
       ]
     },
     {
-      "title": "Staff DevOps Engineer",
-      "company": "Hubstaff",
-      "location": "LATAM, Brazil, Canada, USA",
-      "url": "https://jobicy.com/jobs/151872-staff-devops-engineer",
-      "source": "Jobicy",
-      "description": "About Hubstaff At Hubstaff, our mission is to empower people to have their most productive workday. We do this by providing the industry-leading workforce analytics and time tracking platform for remote and distributed teams. We've been fully remote for over a decade—long before it became a trend—and we continue to believe that remote work represents&hellip;",
-      "tags": [
-        "devops & infrastructure"
-      ],
-      "verdict": "blocked",
-      "fit": 0,
-      "reasons": [
-        "Staff-level — usually 5–10+ yrs, you have ~4"
-      ]
-    },
-    {
       "title": "Director, Enterprise Sales Engineering - US Central",
       "company": "Datadog",
       "location": "USA",
@@ -1823,6 +1868,36 @@
       "fit": 0,
       "reasons": [
         "Director-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
+      "title": "Staff Machine Learning Engineer - ML Training Infrastructure",
+      "company": "General Motors",
+      "location": "United States",
+      "url": "https://himalayas.app/companies/general-motors/jobs/staff-machine-learning-engineer-ml-training-infrastructure-9684616079",
+      "source": "Himalayas",
+      "description": "Job Description The Role: We are seeking an experienced, technically strong, impact-driven expert in ML Training Infrastructure with a demonstrated ability to lead through hands-on technical work. In this role, you will be responsible for defining the technical direction and driving the design and development of scalable, reliable, and high-performance AI/ML platform infrastructure that enables advanced AI research and model development at scale. As a Staff ML Engineer, you will operate as a technical leader across initiatives, partnering closely with machine learning engineers, research scien",
+      "tags": [
+        "machine-learning-engineering",
+        "ml-infrastructure",
+        "ai-infrastructure-engineering",
+        "software-engineer",
+        "distributed-systems-engineering",
+        "staff-machine-learning-engineer",
+        "machine-learning-infrastructure-engineer",
+        "staff-ml-engineer",
+        "staff-machine-learning-engineering",
+        "ml-ai-infrastructure-engineer",
+        "ai-ml-infrastructure-engineer",
+        "ml-infrastructure-engineer",
+        "sr.-staff-machine-learning-engineer",
+        "senior-staff-machine-learning-engineer",
+        "machine-learning-engineer"
+      ],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Staff-level — usually 5–10+ yrs, you have ~4"
       ]
     }
   ]
