@@ -1,11 +1,11 @@
 {
-  "generated": "2026-09-09 10:18 UTC",
-  "count": 93,
+  "generated": "2026-09-10 10:12 UTC",
+  "count": 113,
   "summary": {
-    "scanned": 93,
+    "scanned": 113,
     "eligible": 29,
-    "review": 57,
-    "blocked": 7
+    "review": 73,
+    "blocked": 11
   },
   "jobs": [
     {
@@ -24,6 +24,39 @@
         "education",
         "cloud",
         "engineer",
+        "digital nomad"
+      ],
+      "verdict": "eligible",
+      "fit": 66,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
+    {
+      "title": "DESARROLLADOR FULL STACK",
+      "company": "Kruger NearShore LLC - Rekluti",
+      "location": "Worldwide",
+      "url": "https://remoteOK.com/remote-jobs/remote-desarrollador-full-stack-kruger-nearshore-llc-rekluti-1137062",
+      "source": "RemoteOK",
+      "description": "Desarrollador/a Full Stack â Python / Angular / Go En Rekluti , consultora especializada en talento tecnolÃ³gico en LATAM, buscamos un/a Desarrollador/a Full Stack para integrarse a proyectos de alta complejidad y participar en el desarrollo de soluciones web escalables. Buscamos un perfil con sÃ³lida experiencia en Python, Angular y Go , capaz de desenvolverse de manera autÃ³noma, aportar en decisiones tÃ©cnicas y colaborar con equipos multidisciplinarios. ð¯ Principales responsabilidades DiseÃ±ar, desarrollar y mantener aplicaciones Full Stack, participando en frontend y backend. Desarro",
+      "tags": [
+        "full stack",
+        "front end",
+        "python",
+        "dev",
+        "testing",
+        "web dev",
+        "quality assurance",
+        "devops",
+        "c",
+        "cloud",
+        "nosql",
+        "git",
+        "flutter",
+        "angular",
+        "mobile",
+        "golang",
+        "backend",
         "digital nomad"
       ],
       "verdict": "eligible",
@@ -272,17 +305,31 @@
       ]
     },
     {
-      "title": "Inside Sales Contractor",
-      "company": "Credit Wellness, LLC",
-      "location": "Worldwide",
-      "url": "https://remotive.com/remote-jobs/sales/inside-sales-contractor-2086540",
-      "source": "Remotive",
-      "description": "About Us We are a financial services start up focusing on helping to improve consumer credit profiles. We are currently seeking KPI driven sales representatives looking to earn up to 45K in their first year while working remotely. We offer comprehensive training and continuous sales coaching to help you meet your financial goals. During our training period we offer a guaranteed training stipend while our trainees are acclimating to the position (*see weekly pay below). If you are a seasoned sales professional looking for the autonomy of a remote position combined with great compensation, we wa",
+      "title": "Marketing Specialist",
+      "company": "INNERGY",
+      "location": "Austin, Austin, Texas, United States",
+      "url": "https://remoteOK.com/remote-jobs/remote-marketing-specialist-innergy-1136094",
+      "source": "RemoteOK",
+      "description": "INNERGY is transforming the woodworking industry with purpose built, cloud based ERP software designed exclusively for custom manufacturers. Our platform helps businesses operate smarter, faster, and more efficiently while seamlessly connecting design, production, and delivery for teams creating architectural millwork, cabinetry, and casework. What truly sets INNERGY apart is our people. Founded in 2016, we are a globally distributed team of 200 plus professionals united by deep software expertise and a shared passion for solving meaningful, real world problems. We value collaboration, creativ",
       "tags": [
-        "crm",
-        "google sheets",
-        "financial services",
-        "inside sales"
+        "design",
+        "saas",
+        "salesforce",
+        "wordpress",
+        "customer support",
+        "dev",
+        "testing",
+        "marketing",
+        "web dev",
+        "travel",
+        "cloud",
+        "ads",
+        "exec",
+        "content writing",
+        "stats",
+        "sales",
+        "recruiter",
+        "digital nomad"
       ],
       "verdict": "eligible",
       "fit": 50,
@@ -405,22 +452,6 @@
       ]
     },
     {
-      "title": "AppSec Engineer",
-      "company": "Karbon",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/152273-appsec-engineer",
-      "source": "Jobicy",
-      "description": "About Karbon Karbon is the global leader in AI-powered practice management software for accounting firms. We provide an award-winning cloud platform that helps tens of thousands of accounting professionals work more efficiently and collaboratively every day. With customers in 40 countries, we have grown into a globally distributed team across the US, Australia, New Zealand,&hellip;",
-      "tags": [
-        "cybersecurity"
-      ],
-      "verdict": "eligible",
-      "fit": 50,
-      "reasons": [
-        "remote — anywhere / global"
-      ]
-    },
-    {
       "title": "Senior Software Engineer",
       "company": "CircleCI",
       "location": "Anywhere in the World",
@@ -428,6 +459,23 @@
       "source": "WeWorkRemotely",
       "description": "Headquarters: Remote, Ontario, Canada About CircleCI Engineering CI/CD has been solved. Now it's being reinvented. AI agents don't just run pipelines. They write code, trigger builds, interpret failures, and propose fixes. The interfaces that developers use to understand and trust that work don't exist yet. We're building them. At CircleCI, our guiding principles aren't posters on a wall. We learn fast: we run experiments, accept failure, and scale what works. We think like the customer: every decision connects back to the developer sitting in front of a failing build at 2 am. We own the outco",
       "tags": [],
+      "verdict": "eligible",
+      "fit": 48,
+      "reasons": [
+        "remote — anywhere / global",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Partner Solutions Architect (Pan-EMEA GSI)",
+      "company": "Datadog",
+      "location": "Germany, Italy, Netherlands, Spain, Sweden, UK",
+      "url": "https://jobicy.com/jobs/152955-partner-solutions-architect-pan-emea-gsi",
+      "source": "Jobicy",
+      "description": "We are Datadog's in-house product experts. The technical solutions team enables Datadog's worldwide growth by educating potential clients and ensuring that existing customers are happy and successful. The Partner Solution Architect (PSA) is a Datadog expert who will work closely with Datadog’s Director of Partner Solutions Architects, and is aligned to our Channels &amp; Alliances&hellip;",
+      "tags": [
+        "technical support"
+      ],
       "verdict": "eligible",
       "fit": 48,
       "reasons": [
@@ -495,23 +543,6 @@
       ]
     },
     {
-      "title": "Senior Security Engineer",
-      "company": "Karbon",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/152293-senior-security-engineer-3",
-      "source": "Jobicy",
-      "description": "About Karbon Karbon is the global leader in AI-powered practice management software for accounting firms. We provide an award-winning cloud platform that helps tens of thousands of accounting professionals work more efficiently and collaboratively every day. With customers in 40 countries, we have grown into a globally distributed team across the US, Australia, New Zealand,&hellip;",
-      "tags": [
-        "cybersecurity"
-      ],
-      "verdict": "eligible",
-      "fit": 44,
-      "reasons": [
-        "remote — anywhere / global",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
       "title": "GitOps Engineering Manager",
       "company": "Canonical",
       "location": "APAC, EMEA",
@@ -541,6 +572,34 @@
       "fit": 64,
       "reasons": [
         "EMEA-tagged — verify it's open to Africa first"
+      ]
+    },
+    {
+      "title": "Java Developer",
+      "company": "Clera",
+      "location": "Los Angeles",
+      "url": "https://remoteOK.com/remote-jobs/remote-java-developer-clera-1136188",
+      "source": "RemoteOK",
+      "description": "About the Role We are an early-stage, venture-backed AI infrastructure company building production-ready Kubernetes-based systems for GPU-intensive workloads. Our platform helps companies go from bare metal to fully operational AI clusters in days, and we're looking for a Java Developer to join our small, high-impact engineering team. What You'll Do Understand customer requirements and translate them into robust, scalable Java-based solutions. Design, develop, and maintain backend services and infrastructure tooling that supports our distributed systems platform. Collaborate closely with produ",
+      "tags": [
+        "dev",
+        "design",
+        "education",
+        "docker",
+        "java",
+        "cloud",
+        "ops",
+        "sys admin",
+        "golang",
+        "engineer",
+        "backend",
+        "full time",
+        "digital nomad"
+      ],
+      "verdict": "review",
+      "fit": 60,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa"
       ]
     },
     {
@@ -710,6 +769,22 @@
       ]
     },
     {
+      "title": "Backend Engineer (.NET) (f/m/d)",
+      "company": "Apaleo",
+      "location": "Germany",
+      "url": "https://jobicy.com/jobs/152887-backend-engineer-net-f-m-d",
+      "source": "Jobicy",
+      "description": "Join Apaleo and Shape the Future of Hospitality Tech! Apaleo is the world's most open, API-first property management platform, powering the next generation of hospitality operations. Our modular, AI-powered infrastructure lets hoteliers customise their tech stack, automate routine work and deliver seamless, personalised guest experiences, backed by best-in-class apps and autonomous AI agents that adapt&hellip;",
+      "tags": [
+        "software engineering"
+      ],
+      "verdict": "review",
+      "fit": 52,
+      "reasons": [
+        "Germany-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
       "title": "Engineering Manager - Python and K8s",
       "company": "Canonical",
       "location": "APAC, EMEA",
@@ -723,34 +798,6 @@
       "fit": 52,
       "reasons": [
         "EMEA-tagged — verify it's open to Africa first"
-      ]
-    },
-    {
-      "title": "Cloud Service Security Platform DevOps & Maintenance",
-      "company": "Bitdeer Technologies Group",
-      "location": "United States",
-      "url": "https://himalayas.app/companies/bitdeer-technologies-group/jobs/cloud-service-security-platform-devops-maintenance",
-      "source": "Himalayas",
-      "description": "About Bitdeer Technologies Group Bitdeer is a world-leading technology company for AI and Bitcoin mining infrastructure. Bitdeer is committed to providing comprehensive Bitcoin mining solutions for its customers and building AI computational infrastructure to support the AI revolution. Bitdeer handles complex processes involved in computing such as equipment procurement, transport logistics, data center design and construction, equipment management, and daily operations. Bitdeer also offers advanced cloud capabilities to customers with high demand for artificial intelligence. Headquartered in ",
-      "tags": [
-        "devops-engineer",
-        "site-reliability-engineering",
-        "cloud-infrastructure",
-        "platform-engineering",
-        "mlops",
-        "cloud-devsecops",
-        "cloud-security-operations",
-        "cloud-devsecops-engineer",
-        "devsecops-services",
-        "devops-and-cloud-operations",
-        "cloud-devops",
-        "security-devops-engineer",
-        "cloud-devops-engineering"
-      ],
-      "verdict": "review",
-      "fit": 52,
-      "reasons": [
-        "United states-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -973,6 +1020,40 @@
       ]
     },
     {
+      "title": "Customer Solutions Architect, Amazon Connect",
+      "company": "Caylent",
+      "location": "Canada",
+      "url": "https://jobicy.com/jobs/149035-customer-solutions-architect-amazon-connect",
+      "source": "Jobicy",
+      "description": "Caylent is a cloud native services company that helps organizations bring the best out of their people and technology using Amazon Web Services (AWS). We provide a full-range of AWS services including workload migrations and modernization, cloud native application development, DevOps, data engineering, security and compliance, and everything in between. At Caylent, our people always&hellip;",
+      "tags": [
+        "customer support & success"
+      ],
+      "verdict": "review",
+      "fit": 50,
+      "reasons": [
+        "Canada-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Senior Engineer (Software), Enterprise",
+      "company": "NetBox Labs",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/152949-senior-engineer-software-enterprise",
+      "source": "Jobicy",
+      "description": "NetBox Labs seeks a Senior Software Engineer with strong DevOps experience to build and drive NetBox Enterprise, our on-premises product suite. You'll own installation, configuration, and lifecycle management for our customers, tackle complex technical challenges, proactively address deployment issues unique to on-prem environments, and collaborate closely with high-performing, cross-functional teams. In this role you will:&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
+      "verdict": "review",
+      "fit": 50,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
       "title": "Pre-Sales Solution Architect – AI Infrastructure (remote in the EU)",
       "company": "Mirantis",
       "location": "Europe",
@@ -987,6 +1068,22 @@
       "reasons": [
         "Europe-tagged — verify it's open to Africa first",
         "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Software Engineer - Python - Container Images",
+      "company": "Canonical",
+      "location": "APAC, EMEA, LATAM, Canada, USA",
+      "url": "https://jobicy.com/jobs/150364-software-engineer-python-container-images",
+      "source": "Jobicy",
+      "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders&hellip;",
+      "tags": [
+        "software engineering"
+      ],
+      "verdict": "review",
+      "fit": 48,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -1083,6 +1180,23 @@
       ]
     },
     {
+      "title": "Senior DevOps Engineer",
+      "company": "Nextiva",
+      "location": "Mexico",
+      "url": "https://jobicy.com/jobs/152901-senior-devops-engineer-7",
+      "source": "Jobicy",
+      "description": "Redefine the future of customer experiences. One conversation at a time. At Nextiva, we’re reimagining how businesses connect, bringing together customer experience and team collaboration on a single, conversation centric platform. Powered by AI, driven by human innovation. Our culture is forward thinking, customer obsessed and built on the belief that meaningful connections drive better&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
+      "verdict": "review",
+      "fit": 46,
+      "reasons": [
+        "Mexico-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
       "title": "B2B Senior DevOps Engineer",
       "company": "Jamf",
       "location": "Poland",
@@ -1113,6 +1227,40 @@
       "fit": 46,
       "reasons": [
         "location unconfirmed — verify it's open to Africa",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Senior Platform Engineer",
+      "company": "Polar",
+      "location": "Europe",
+      "url": "https://jobicy.com/jobs/152935-senior-platform-engineer-3",
+      "source": "Jobicy",
+      "description": "Why Polar? It's never been easier to build, ship and scale software. But it's never been harder to monetize it. Modern startups look fundamentally different than prior generations: Smaller teams Exponential revenue growth relative to headcount Higher variability in costs (LLMs) requiring more frequent pricing iterations Laser focused on product development and distribution Delegating and&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
+      "verdict": "review",
+      "fit": 46,
+      "reasons": [
+        "Europe-tagged — verify it's open to Africa first",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Senior Software Engineer (.NET) (f/m/d)",
+      "company": "Apaleo",
+      "location": "Germany",
+      "url": "https://jobicy.com/jobs/152912-senior-software-engineer-net-f-m-d",
+      "source": "Jobicy",
+      "description": "Join Apaleo and Shape the Future of Hospitality Tech! Apaleo is the world’s most open, API-first property management platform powering the next generation of hospitality operations. Its modular, AI-powered infrastructure enables hoteliers to customise their tech stack, automate routine work, and deliver seamless, personalised guest experiences, powered by best-in-class apps and autonomous AI agents that&hellip;",
+      "tags": [
+        "software engineering"
+      ],
+      "verdict": "review",
+      "fit": 46,
+      "reasons": [
+        "Germany-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -1168,23 +1316,6 @@
       ]
     },
     {
-      "title": "Senior Software Engineer (Cloud Infrastructure)",
-      "company": "YipitData",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/152179-senior-software-engineer-cloud-infrastructure",
-      "source": "Jobicy",
-      "description": "About Us: YipitData is the leading market research and analytics firm for the disruptive economy and recently raised up to $475M from The Carlyle Group at a valuation over $1B. We analyze billions of alternative data points every day to provide accurate, detailed insights on ridesharing, e-commerce marketplaces, payments and more. Our on-demand insights team&hellip;",
-      "tags": [
-        "devops & infrastructure"
-      ],
-      "verdict": "review",
-      "fit": 46,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
       "title": "Senior Customer Success Architect - Singapore",
       "company": "GitLab",
       "location": "Singapore",
@@ -1199,52 +1330,6 @@
       "reasons": [
         "Singapore-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
         "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Employee",
-      "company": "HARTMANN GROUP International",
-      "location": "Warangal Rural,",
-      "url": "https://remoteOK.com/remote-jobs/remote-employee-hartmann-group-international-1137232",
-      "source": "RemoteOK",
-      "description": "404 This page doesnât exist. Beware, our IT man might be in a bad mood! You better take a look here. Please mention the word **DUMBFOUNDING** and tag RMjAuNDAuMjIyLjIxNA== when applying to show you read the job post completely (#RMjAuNDAuMjIyLjIxNA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
-      "tags": [
-        "education",
-        "exec",
-        "ops",
-        "engineer",
-        "amazon",
-        "web dev",
-        "cloud",
-        "aws"
-      ],
-      "verdict": "review",
-      "fit": 40,
-      "reasons": [
-        "location unconfirmed — verify it's open to Africa"
-      ]
-    },
-    {
-      "title": "Cloud Computing",
-      "company": "Amazon Web Services (AWS)",
-      "location": "Telangana,",
-      "url": "https://remoteOK.com/remote-jobs/remote-cloud-computing-amazon-web-services-aws-1137231",
-      "source": "RemoteOK",
-      "description": "Roles and Responsibilities - AWS cloud computing Location - Hyderabad, Chennai, Kolkata, Pune, Bengaluru Exp - 6 - 8 yrs Please mention the word **LOVE** and tag RMjAuNDAuMjIyLjIxNA== when applying to show you read the job post completely (#RMjAuNDAuMjIyLjIxNA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
-      "tags": [
-        "education",
-        "exec",
-        "ops",
-        "engineer",
-        "amazon",
-        "web dev",
-        "cloud",
-        "aws"
-      ],
-      "verdict": "review",
-      "fit": 40,
-      "reasons": [
-        "location unconfirmed — verify it's open to Africa"
       ]
     },
     {
@@ -1277,22 +1362,6 @@
       "fit": 40,
       "reasons": [
         "Brazil-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Full Stack Product Engineer Intern, Agent Native",
-      "company": "Mactores",
-      "location": "Anywhere",
-      "url": "https://jobicy.com/jobs/152300-full-stack-product-engineer-intern-agent-native",
-      "source": "Jobicy",
-      "description": "About Mactores Mactores is the agent-native AWS modernization firm. Most enterprise modernization stalls at pilots and handoffs; ours ships, production systems running, legacy retired, outcomes measured. Our delivery is built on Aedeon, the agent platform built by Mactores' founders' sister company, Aedeon Inc. Aedeon absorbs the repetitive 60–70% of engagement work, discovery, mapping, validation, test&hellip;",
-      "tags": [
-        "software engineering"
-      ],
-      "verdict": "review",
-      "fit": 40,
-      "reasons": [
-        "location unconfirmed — verify it's open to Africa"
       ]
     },
     {
@@ -1396,6 +1465,698 @@
       "fit": 36,
       "reasons": [
         "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "Engineering Manager Thailand",
+      "company": "Bjak",
+      "location": "Bangkok",
+      "url": "https://remoteOK.com/remote-jobs/remote-engineering-manager-thailand-bjak-1136670",
+      "source": "RemoteOK",
+      "description": "About KIRA Our mission is to make money smart, reliable and within reach for everyone. In 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible online by millions in the region. Today, it's the leading insurance platform in Southeast Asia. Today, we are expanding ways to help people in Asia and it includes spending, saving, investing, exchanging, travelling, and more. Our objective is to build tools that will help people get more from their money and at ease and self reliance, become an expert. We believe AI will help us achieve this in our generation. ",
+      "tags": [
+        "exec",
+        "design",
+        "sys admin",
+        "front end",
+        "infosec",
+        "technical",
+        "dev",
+        "testing",
+        "finance",
+        "cloud",
+        "mobile",
+        "engineer",
+        "backend",
+        "digital nomad"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
+      "title": "Jenni AI",
+      "company": "AI Supermarket",
+      "location": "Research,",
+      "url": "https://remoteOK.com/remote-jobs/remote-jenni-ai-ai-supermarket-1136602",
+      "source": "RemoteOK",
+      "description": "Professional forex trading simulator that replays historical market data so traders can practise strategies risk-free. Test and backtest trading systems across years of tick-level data at any speed, then review statistics on win rate, drawdown and risk-reward. Used by aspiring and experienced traders to build discipline and refine their edge.Text-to-3D and image-to-3D AI platform that generates game-ready 3D models and textures in minutes. Simply describe what you want or upload a reference image and Meshy produces a fully textured, exportable 3D asset. Used by game developers, product designe",
+      "tags": [
+        "dev",
+        "digital nomad",
+        "medical",
+        "wordpress",
+        "vfx",
+        "teaching",
+        "education",
+        "game dev",
+        "full stack",
+        "writer",
+        "transcribing",
+        "testing",
+        "marketing",
+        "web dev",
+        "speech",
+        "virtual assistant",
+        "video",
+        "serverless",
+        "cloud",
+        "git",
+        "seo",
+        "content writing",
+        "stats",
+        "sales",
+        "golang",
+        "non tech"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
+      "title": "Typefully",
+      "company": "AI Supermarket",
+      "location": "Heartâs Content,",
+      "url": "https://remoteOK.com/remote-jobs/remote-typefully-ai-supermarket-1136391",
+      "source": "RemoteOK",
+      "description": "Professional forex trading simulator that replays historical market data so traders can practise strategies risk-free. Test and backtest trading systems across years of tick-level data at any speed, then review statistics on win rate, drawdown and risk-reward. Used by aspiring and experienced traders to build discipline and refine their edge.Text-to-3D and image-to-3D AI platform that generates game-ready 3D models and textures in minutes. Simply describe what you want or upload a reference image and Meshy produces a fully textured, exportable 3D asset. Used by game developers, product designe",
+      "tags": [
+        "wordpress",
+        "vfx",
+        "teaching",
+        "education",
+        "game dev",
+        "full stack",
+        "writer",
+        "transcribing",
+        "dev",
+        "testing",
+        "marketing",
+        "web dev",
+        "speech",
+        "virtual assistant",
+        "video",
+        "serverless",
+        "cloud",
+        "git",
+        "seo",
+        "content writing",
+        "stats",
+        "sales",
+        "golang",
+        "non tech",
+        "digital nomad"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
+      "title": "Apify",
+      "company": "AI Supermarket",
+      "location": "Ajmer,",
+      "url": "https://remoteOK.com/remote-jobs/remote-apify-ai-supermarket-1136554",
+      "source": "RemoteOK",
+      "description": "Professional forex trading simulator that replays historical market data so traders can practise strategies risk-free. Test and backtest trading systems across years of tick-level data at any speed, then review statistics on win rate, drawdown and risk-reward. Used by aspiring and experienced traders to build discipline and refine their edge.Text-to-3D and image-to-3D AI platform that generates game-ready 3D models and textures in minutes. Simply describe what you want or upload a reference image and Meshy produces a fully textured, exportable 3D asset. Used by game developers, product designe",
+      "tags": [
+        "wordpress",
+        "vfx",
+        "teaching",
+        "education",
+        "game dev",
+        "full stack",
+        "writer",
+        "transcribing",
+        "dev",
+        "testing",
+        "marketing",
+        "web dev",
+        "speech",
+        "virtual assistant",
+        "video",
+        "serverless",
+        "cloud",
+        "git",
+        "seo",
+        "content writing",
+        "stats",
+        "sales",
+        "golang",
+        "non tech",
+        "digital nomad"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
+      "title": "Aragon AI",
+      "company": "AI Supermarket",
+      "location": "Good Design,",
+      "url": "https://remoteOK.com/remote-jobs/remote-aragon-ai-ai-supermarket-1136388",
+      "source": "RemoteOK",
+      "description": "Professional forex trading simulator that replays historical market data so traders can practise strategies risk-free. Test and backtest trading systems across years of tick-level data at any speed, then review statistics on win rate, drawdown and risk-reward. Used by aspiring and experienced traders to build discipline and refine their edge.Text-to-3D and image-to-3D AI platform that generates game-ready 3D models and textures in minutes. Simply describe what you want or upload a reference image and Meshy produces a fully textured, exportable 3D asset. Used by game developers, product designe",
+      "tags": [
+        "wordpress",
+        "vfx",
+        "teaching",
+        "education",
+        "game dev",
+        "full stack",
+        "writer",
+        "transcribing",
+        "dev",
+        "testing",
+        "marketing",
+        "web dev",
+        "speech",
+        "virtual assistant",
+        "video",
+        "serverless",
+        "cloud",
+        "git",
+        "seo",
+        "content writing",
+        "stats",
+        "sales",
+        "golang",
+        "non tech",
+        "digital nomad",
+        "sys admin",
+        "technical",
+        "supervisor",
+        "customer support",
+        "microsoft",
+        "exec",
+        "medical"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
+      "title": "Beehiiv",
+      "company": "AI Supermarket",
+      "location": "Heartâs Content,",
+      "url": "https://remoteOK.com/remote-jobs/remote-beehiiv-ai-supermarket-1136389",
+      "source": "RemoteOK",
+      "description": "Professional forex trading simulator that replays historical market data so traders can practise strategies risk-free. Test and backtest trading systems across years of tick-level data at any speed, then review statistics on win rate, drawdown and risk-reward. Used by aspiring and experienced traders to build discipline and refine their edge.Text-to-3D and image-to-3D AI platform that generates game-ready 3D models and textures in minutes. Simply describe what you want or upload a reference image and Meshy produces a fully textured, exportable 3D asset. Used by game developers, product designe",
+      "tags": [
+        "wordpress",
+        "vfx",
+        "teaching",
+        "education",
+        "game dev",
+        "full stack",
+        "writer",
+        "transcribing",
+        "dev",
+        "testing",
+        "marketing",
+        "web dev",
+        "speech",
+        "virtual assistant",
+        "video",
+        "serverless",
+        "cloud",
+        "git",
+        "seo",
+        "content writing",
+        "stats",
+        "sales",
+        "golang",
+        "non tech",
+        "digital nomad"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
+      "title": "Meshy",
+      "company": "AI Supermarket",
+      "location": "Good Design,",
+      "url": "https://remoteOK.com/remote-jobs/remote-meshy-ai-supermarket-1136386",
+      "source": "RemoteOK",
+      "description": "Professional forex trading simulator that replays historical market data so traders can practise strategies risk-free. Test and backtest trading systems across years of tick-level data at any speed, then review statistics on win rate, drawdown and risk-reward. Used by aspiring and experienced traders to build discipline and refine their edge.Text-to-3D and image-to-3D AI platform that generates game-ready 3D models and textures in minutes. Simply describe what you want or upload a reference image and Meshy produces a fully textured, exportable 3D asset. Used by game developers, product designe",
+      "tags": [
+        "wordpress",
+        "vfx",
+        "teaching",
+        "education",
+        "game dev",
+        "full stack",
+        "writer",
+        "transcribing",
+        "dev",
+        "testing",
+        "marketing",
+        "web dev",
+        "speech",
+        "virtual assistant",
+        "video",
+        "serverless",
+        "cloud",
+        "git",
+        "seo",
+        "content writing",
+        "stats",
+        "sales",
+        "golang",
+        "non tech",
+        "digital nomad"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
+      "title": "GetResponse",
+      "company": "AI Supermarket",
+      "location": "Rajkot,",
+      "url": "https://remoteOK.com/remote-jobs/remote-getresponse-ai-supermarket-1136556",
+      "source": "RemoteOK",
+      "description": "Professional forex trading simulator that replays historical market data so traders can practise strategies risk-free. Test and backtest trading systems across years of tick-level data at any speed, then review statistics on win rate, drawdown and risk-reward. Used by aspiring and experienced traders to build discipline and refine their edge.Text-to-3D and image-to-3D AI platform that generates game-ready 3D models and textures in minutes. Simply describe what you want or upload a reference image and Meshy produces a fully textured, exportable 3D asset. Used by game developers, product designe",
+      "tags": [
+        "wordpress",
+        "vfx",
+        "teaching",
+        "education",
+        "game dev",
+        "full stack",
+        "writer",
+        "transcribing",
+        "dev",
+        "testing",
+        "marketing",
+        "web dev",
+        "speech",
+        "virtual assistant",
+        "video",
+        "serverless",
+        "cloud",
+        "git",
+        "seo",
+        "content writing",
+        "stats",
+        "sales",
+        "golang",
+        "non tech",
+        "digital nomad",
+        "artificial intelligence"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
+      "title": "AskYourPDF",
+      "company": "AI Supermarket",
+      "location": "Heartâs Content,",
+      "url": "https://remoteOK.com/remote-jobs/remote-askyourpdf-ai-supermarket-1136704",
+      "source": "RemoteOK",
+      "description": "Professional forex trading simulator that replays historical market data so traders can practise strategies risk-free. Test and backtest trading systems across years of tick-level data at any speed, then review statistics on win rate, drawdown and risk-reward. Used by aspiring and experienced traders to build discipline and refine their edge.Text-to-3D and image-to-3D AI platform that generates game-ready 3D models and textures in minutes. Simply describe what you want or upload a reference image and Meshy produces a fully textured, exportable 3D asset. Used by game developers, product designe",
+      "tags": [
+        "golang",
+        "wordpress",
+        "vfx",
+        "teaching",
+        "education",
+        "game dev",
+        "full stack",
+        "writer",
+        "transcribing",
+        "dev",
+        "testing",
+        "marketing",
+        "web dev",
+        "speech",
+        "virtual assistant",
+        "video",
+        "serverless",
+        "cloud",
+        "git",
+        "seo",
+        "content writing",
+        "stats",
+        "sales",
+        "non tech",
+        "digital nomad"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
+      "title": "Sales Development Representative Attributeâ",
+      "company": "DoiT",
+      "location": "Remote UK",
+      "url": "https://remoteOK.com/remote-jobs/",
+      "source": "RemoteOK",
+      "description": "Our Sales Development Representative will be an integral part of our sales team. This role is fully remote in the EMEA region in the UK, Ireland, the Netherlands, and Sweden. Who We Are DoiT is a global technology company that works with cloud-driven organizations to leverage the cloud to drive business growth and innovation. We combine data, technology, and human expertise to ensure our customers operate in a well-architected and scalable state - from planning to production. Delivering DoiT Cloud Intelligence, the only solution that integrates advanced technology with human intelligence, we h",
+      "tags": [
+        "technical",
+        "marketing",
+        "cloud",
+        "microsoft",
+        "exec",
+        "sales"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "Uk-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "Future Shaprs",
+      "company": "Shapr3D",
+      "location": "Budapest,",
+      "url": "https://remoteOK.com/remote-jobs/remote-future-shaprs-shapr3d-1136770",
+      "source": "RemoteOK",
+      "description": "Here at Shapr3D we donât just innovate. We create a new status quo in 3D design. To achieve this, weâre completely reimagining legacy computer-aided design (CAD) tools with an iconic, mobile-first product. Weâre backed by top European VCs Point9 Capital and Creandum. We're constantly looking for talented individuals to join our team, so even if our current postings haven't piqued your interest, don't hesitate to hit us up. We are where we are because of the extraordinary people who build our product, so we are always happy to talk to experts whose ambition matches our vision. \"By joining",
+      "tags": [
+        "testing",
+        "education",
+        "customer support",
+        "finance",
+        "c",
+        "scheme",
+        "exec",
+        "medical",
+        "marketing",
+        "full time",
+        "design",
+        "infosec",
+        "music",
+        "digital nomad",
+        "technical",
+        "engineer",
+        "teaching",
+        "math",
+        "recruiter",
+        "sys admin",
+        "golang",
+        "microsoft",
+        "excel",
+        "sales",
+        "travel",
+        "ops",
+        "virtual assistant",
+        "supervisor",
+        "serverless",
+        "cloud",
+        "legal",
+        "senior",
+        "dev",
+        "mobile",
+        "hr",
+        "game dev",
+        "stats",
+        "part time",
+        "vfx"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
+      "title": "Freelance Designer",
+      "company": "Control Shift Video",
+      "location": "Texas,",
+      "url": "https://remoteOK.com/remote-jobs/remote-freelance-designer-control-shift-video-1136213",
+      "source": "RemoteOK",
+      "description": "Job Description And Requirements Project-based | Remote | United States | Contract Pay based on freelancer's rate Control Shift Video is looking for a freelance designer to collaborate with our creative team on project-based work across video, motion graphics, web visuals, and brand content. Our projects span technology, healthcare, energy, consumer brands, nonprofits, and passion projects. What Youâll Do Design visual systems, frames, and assets for video and motion projects Support branding, layout, and visual storytelling needs Translate concepts into clean, purposeful designs Prepare fil",
+      "tags": [
+        "exec",
+        "design",
+        "architecture",
+        "recruiter",
+        "customer support",
+        "marketing",
+        "content writing",
+        "ops",
+        "golang",
+        "full time",
+        "digital nomad",
+        "dev",
+        "senior",
+        "medical",
+        "engineer",
+        "infosec",
+        "react",
+        "embedded",
+        "technical",
+        "finance",
+        "cloud",
+        "postgres",
+        "typescript",
+        "ruby",
+        "stats",
+        "accounting",
+        "designer",
+        "web dev",
+        "video",
+        "ads"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
+      "title": "Clinical Coordination Manager",
+      "company": "Enable Dental",
+      "location": "Austin, Austin, Texas, United States",
+      "url": "https://remoteOK.com/remote-jobs/remote-clinical-coordination-manager-enable-dental-1136096",
+      "source": "RemoteOK",
+      "description": "Department: Support Operations Reports To: Director, Support Operations Location: Remote (U.S.) Position Type: Full-Time, Exempt Position Summary The Clinical Coordinator Department Manager oversees the Clinical Coordination team responsible for maintaining accurate, appropriately filled provider schedules across all markets. This role provides leadership, operational oversight, training, workload management, process improvement, and cross-department collaboration to support consistent scheduling performance. This leader sets daily and weekly priorities, delegates work, holds the team accounta",
+      "tags": [
+        "design",
+        "saas",
+        "salesforce",
+        "wordpress",
+        "customer support",
+        "dev",
+        "testing",
+        "marketing",
+        "web dev",
+        "travel",
+        "cloud",
+        "ads",
+        "exec",
+        "content writing",
+        "stats",
+        "sales",
+        "recruiter",
+        "digital nomad",
+        "embedded",
+        "hr",
+        "sys admin",
+        "game dev",
+        "technical",
+        "payroll",
+        "finance",
+        "api",
+        "ops",
+        "engineer",
+        "education",
+        "coordinator",
+        "medical",
+        "full time"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "United states-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "Regional Sales Manager",
+      "company": "Balco, Inc.",
+      "location": "Wichita,",
+      "url": "https://remoteOK.com/remote-jobs/remote-regional-sales-manager-balco-inc-1136097",
+      "source": "RemoteOK",
+      "description": "Company Information CSWâs Engineered Building Solutions segment manufactures custom architectural building components and innovative firestopping and smoke-rated products that help protect people. Safety and code compliance are top of mind for architects, engineers and contractors. Our purposeful brands combine functionality with aesthetically pleasing designs for the construction, refurbishment, and modernization of buildings.â¯Our brands include Balco, Greco Architectural Metal Products, and Smoke Guard. Position Summary Balco is seeking a dynamic, motivated, and results-driven Regional S",
+      "tags": [
+        "design",
+        "saas",
+        "salesforce",
+        "wordpress",
+        "customer support",
+        "dev",
+        "testing",
+        "marketing",
+        "web dev",
+        "travel",
+        "cloud",
+        "ads",
+        "exec",
+        "content writing",
+        "stats",
+        "sales",
+        "recruiter",
+        "digital nomad",
+        "embedded",
+        "hr",
+        "sys admin",
+        "game dev",
+        "technical",
+        "payroll",
+        "finance",
+        "api",
+        "ops",
+        "engineer",
+        "education",
+        "coordinator",
+        "medical",
+        "full time",
+        "microsoft",
+        "excel"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
+      "title": "BMS Service Technician",
+      "company": "Johnson Controls",
+      "location": "Warana,",
+      "url": "https://remoteOK.com/remote-jobs/remote-bms-service-technician-johnson-controls-1135997",
+      "source": "RemoteOK",
+      "description": "Job Description Johnson Controls , a global leader in thermal management, mission-critical building systems, energy efficiency, and decarbonization, helps customers use energy more productively, reduce carbon emissions, and operate with the precision and resilience required in rapidly expanding industries such as data centers, healthcare, pharmaceuticals, advanced manufacturing, and higher education. For more than 140 years, Johnson Controls has delivered performance where it really matters. Backed by advanced technology, lifecycle services and an industry-leading field organization, we elevat",
+      "tags": [
+        "design",
+        "technical",
+        "customer support",
+        "dev",
+        "microsoft",
+        "senior",
+        "ops",
+        "engineer",
+        "digital nomad",
+        "sys admin",
+        "education",
+        "testing",
+        "exec",
+        "excel",
+        "payroll",
+        "medical",
+        "video",
+        "marketing",
+        "travel",
+        "finance",
+        "mobile",
+        "hr",
+        "recruiter",
+        "supervisor",
+        "consulting",
+        "assembly",
+        "saas",
+        "golang",
+        "coordinator",
+        "product manager",
+        "bus dev",
+        "sales",
+        "amazon",
+        "salesforce",
+        "infosec",
+        "embedded",
+        "java",
+        "c",
+        "c plus plus",
+        "cloud",
+        "linux",
+        "speech"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
+      "title": "Machine Operator &amp; Labourers",
+      "company": "Total Environmental Concepts Pty ltd",
+      "location": "Brisbane City,",
+      "url": "https://remoteOK.com/remote-jobs/remote-machine-operator-amp-labourers-total-environmental-concepts-pty-ltd-1136001",
+      "source": "RemoteOK",
+      "description": "Company Description Total Environmental Concepts Pty Ltd is a commercial specialist in environmental maintenance and management, servicing the Sunshine Coast, Brisbane, Scenic Rim, Gold Coast, Northern NSW, and surrounding regions. With more than 40 years of experience, the company delivers services such as environmental rehabilitation, hydro mulching and seeding, stormwater management, track and fire trail construction, bioretention basin management, and broader land management. The team has worked on large-scale projects for clients including Redland City Council, Scenic Rim Regional Council",
+      "tags": [
+        "design",
+        "technical",
+        "customer support",
+        "dev",
+        "microsoft",
+        "senior",
+        "ops",
+        "engineer",
+        "digital nomad",
+        "sys admin",
+        "education",
+        "testing",
+        "exec",
+        "excel",
+        "payroll",
+        "medical",
+        "video",
+        "marketing",
+        "travel",
+        "finance",
+        "mobile",
+        "hr",
+        "recruiter",
+        "supervisor",
+        "consulting",
+        "assembly",
+        "saas",
+        "golang",
+        "coordinator",
+        "product manager",
+        "bus dev",
+        "sales",
+        "amazon",
+        "salesforce",
+        "infosec",
+        "embedded",
+        "java",
+        "c",
+        "c plus plus",
+        "cloud",
+        "linux",
+        "speech",
+        "adult",
+        "junior",
+        "admin",
+        "full time"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa"
       ]
     },
     {
@@ -1511,76 +2272,32 @@
       ]
     },
     {
-      "title": "QA Analyst (Future Roles)",
-      "company": "Testlio",
-      "location": "Argentina, Brazil, Canada, Czechia, Estonia, Ireland, Mexico, Poland, Portugal, Romania, Spain, UK, Ukraine, USA",
-      "url": "https://jobicy.com/jobs/152333-qa-analyst-future-roles",
-      "source": "Jobicy",
-      "description": "About Testlio Testlio’s fully managed crowdsourced testing platform, powered by our proprietary intelligence technology – LeoAI EngineTM, integrates expert, on-demand testers directly into your release process. Ship faster and more confidently with global coverage across 600,000+ devices, 800+ payment methods, 150+ countries, and 100+ languages. To learn more, visit www.testlio.com. This job post is to&hellip;",
+      "title": "Data Engineer – AI Value & DX Platform",
+      "company": "Qualysoft",
+      "location": "Hungary",
+      "url": "https://himalayas.app/companies/qualysoft/jobs/data-engineer-ai-value-dx-platform",
+      "source": "Himalayas",
+      "description": "Founded in 1999 in Vienna, the Qualysoft Group is a manufacturer-independent IT consulting and services company, which successfully provides support for its international customers with the aim of boosting their competitiveness and economic efficiency through innovative IT solutions. Its focus is on financial services providers, telecommunications companies, the automotive industry and energy service providers. Over 400 employees in 6 subsidiaries work together to ensure state of the art solutions for our clients. We are looking for new colleagues in Qualysoft teams for diverse projects provid",
       "tags": [
-        "qa & testing"
+        "data-engineering",
+        "ai-value-measurement",
+        "data-platform-engineering",
+        "technical-consulting",
+        "ai-data-platform-engineer",
+        "ai-data-engineer",
+        "ai-ml-data-engineer",
+        "data-+-ai-engineer",
+        "data-and-ai-engineer",
+        "data-platform-engineer",
+        "senior-ai-data-engineer",
+        "ai-data-platform-engineering",
+        "lead-data-and-ai-platform-engineer",
+        "data-engineer"
       ],
       "verdict": "review",
       "fit": 36,
       "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Quality Engineer",
-      "company": "StackAdapt",
-      "location": "Canada",
-      "url": "https://jobicy.com/jobs/152330-quality-engineer-2",
-      "source": "Jobicy",
-      "description": "StackAdapt is the leading technology company that empowers marketers to reach, engage, and convert audiences with precision. With 465 billion automated optimizations per second, the AI-powered StackAdapt Marketing Platform seamlessly connects brand and performance marketing to drive measurable results across the entire customer journey. The most forward-thinking marketers choose StackAdapt to orchestrate high-impact campaigns across&hellip;",
-      "tags": [
-        "qa & testing"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Canada-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Production Lead",
-      "company": "ITC Limited",
-      "location": "Guntur,",
-      "url": "https://remoteOK.com/remote-jobs/remote-production-lead-itc-limited-1137233",
-      "source": "RemoteOK",
-      "description": "Production Lead - G3 Please mention the word **HOT** and tag RMjAuNDAuMjIyLjIxNA== when applying to show you read the job post completely (#RMjAuNDAuMjIyLjIxNA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
-      "tags": [
-        "education",
-        "exec",
-        "ops",
-        "engineer",
-        "amazon",
-        "web dev",
-        "cloud",
-        "aws"
-      ],
-      "verdict": "review",
-      "fit": 34,
-      "reasons": [
-        "location unconfirmed — verify it's open to Africa",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Senior QA Engineer",
-      "company": "Caylent",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/152325-senior-qa-engineer-2",
-      "source": "Jobicy",
-      "description": "Caylent is an AI-first cloud services company that helps organizations turn ambitious ideas into meaningful business impact. As an AWS Premier Tier Services Partner and a charter member of Anthropic’s Claude Partner Network, we combine deep expertise in AWS, artificial intelligence, and Anthropic’s Claude platform to help customers modernize their technology, build intelligent products, and&hellip;",
-      "tags": [
-        "qa & testing"
-      ],
-      "verdict": "review",
-      "fit": 34,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
+        "location unconfirmed — verify it's open to Africa"
       ]
     },
     {
@@ -1603,6 +2320,36 @@
       "fit": 30,
       "reasons": [
         "Europe-tagged — verify it's open to Africa first",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Senior Governance Risk and Compliance Analyst",
+      "company": "RainFocus",
+      "location": "Orem, UT",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-governance-risk-and-compliance-analyst-rainfocus-1137061",
+      "source": "RemoteOK",
+      "description": "RainFocus, one of the most innovative software companies, is in search of an exceptional Senior Governance, Risk, and Compliance (GRC) Analyst .&nbsp; &nbsp; About RainFocus &nbsp; RainFocus cares about its employees, customers, and the world in which we live. Our rapidly growing team serves Fortune 500 companies like Adobe, Cisco, IBM, Oracle, VMware, and others to prepare and execute in-person, virtual, and hybrid events across the world. Those events are delivered through our industry-disrupting software platform, with groundbreaking business intelligence, to elevate the attendee experience",
+      "tags": [
+        "analyst",
+        "design",
+        "saas",
+        "infosec",
+        "education",
+        "technical",
+        "dev",
+        "cloud",
+        "exec",
+        "senior",
+        "ops",
+        "marketing",
+        "engineer",
+        "digital nomad"
+      ],
+      "verdict": "review",
+      "fit": 30,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -1743,23 +2490,6 @@
       ]
     },
     {
-      "title": "Senior Technical Writer",
-      "company": "Ping Identity",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/152264-senior-technical-writer",
-      "source": "Jobicy",
-      "description": "About Ping Identity: At Ping Identity, we believe in making digital experiences both secure and seamless for all users, without compromise. We call this digital freedom. And it's not just something we provide our customers. It's something that inspires our company. People don't come here to join a culture that's built on digital freedom. They&hellip;",
-      "tags": [
-        "content & editorial"
-      ],
-      "verdict": "review",
-      "fit": 30,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
       "title": "Senior Independent Software Developer",
       "company": "A.Team",
       "location": "Americas, Europe, Israel",
@@ -1807,14 +2537,190 @@
       ]
     },
     {
-      "title": "Principal DevOps Engineer",
-      "company": "NBCUniversal",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/148200-principal-devops-engineer-2",
+      "title": "Principal Data Engineer",
+      "company": "Vomela",
+      "location": "Worldwide",
+      "url": "https://remoteOK.com/remote-jobs/remote-principal-data-engineer-vomela-1136860",
+      "source": "RemoteOK",
+      "description": "At Vomela our greatest asset is our people. As a full-service visual communications company, we are looking for creative and intellectual thinkers that work with our customers to create compelling brand solutions and foster meaningful connections. And while you're focused on creating big things for global and local brands, we will help you build a career you can be passionate about. Apply now to find your place at Vomela. Pay Range:Â $180 - 200k USD Job Summary The Principal Data Engineer is the highest-performing contributor on our data engineering team - the person who sets the technical bar",
+      "tags": [
+        "design",
+        "sys admin",
+        "education",
+        "technical",
+        "dev",
+        "speech",
+        "devops",
+        "cloud",
+        "git",
+        "microsoft",
+        "exec",
+        "senior",
+        "ops",
+        "stats",
+        "sales",
+        "medical",
+        "engineer",
+        "apache",
+        "digital nomad"
+      ],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Principal-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
+      "title": "Member of Technical Staff Engineering",
+      "company": "Physical Superintelligence",
+      "location": "Boston",
+      "url": "https://remoteOK.com/remote-jobs/remote-member-of-technical-staff-engineering-physical-superintelligence-1136798",
+      "source": "RemoteOK",
+      "description": "Overview Physical Superintelligence is a startup with roots at Google, NVIDIA, Harvard, Meta, MIT, Oxford, Johns Hopkins, Cambridge, and the Perimeter Institute building AI systems to discover new physics at scale. We are seeking engineers to build platform infrastructure at the intersection of computational science, AI systems, and software engineering. Our mission is to discover and commercialize transformative physics breakthroughs at scale with artificial superintelligence, safely, verifiably, and for broad public benefit. The last century's golden age of physics gave us transistors, laser",
+      "tags": [
+        "design",
+        "infosec",
+        "technical",
+        "dev",
+        "testing",
+        "cloud",
+        "exec",
+        "engineer",
+        "digital nomad"
+      ],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Staff-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
+      "title": "Staff Software Development Engineer SDM",
+      "company": "Delinea",
+      "location": "Redwood City",
+      "url": "https://remoteOK.com/remote-jobs/remote-staff-software-development-engineer-sdm-delinea-1136796",
+      "source": "RemoteOK",
+      "description": "About Delinea: Delinea is a pioneer in securing human and machine identities through intelligent, centralized authorization, empowering organizations to seamlessly govern their interactions across the modern enterprise. Leveraging AI-powered intelligence, Delineaâs leading cloud-native Identity Security Platform applies context throughout the entire identity lifecycle â across cloud and traditional infrastructure, data, SaaS applications, and AI. It is the only platform that enables you to discover all identities â including workforce, IT administrator, developers, and machines â assig",
+      "tags": [
+        "dev",
+        "design",
+        "saas",
+        "sys admin",
+        "infosec",
+        "vfx",
+        "technical",
+        "web dev",
+        "exec",
+        "devops",
+        "education",
+        "finance",
+        "cloud",
+        "api",
+        "admin",
+        "ops",
+        "golang",
+        "medical",
+        "engineer",
+        "backend",
+        "digital nomad"
+      ],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Staff-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
+      "title": "Staff Software Engineer",
+      "company": "Evolve",
+      "location": "Remote - US",
+      "url": "https://remoteOK.com/remote-jobs/remote-staff-software-engineer-evolve-1136447",
+      "source": "RemoteOK",
+      "description": "At Evolve, weâre on a mission to make vacation rental easy for everyone. Our high-performing, customer-obsessed team runs on curiosity, communication, and accountabilityâworking together to create exceptional experiences for our owners and guests. Whether solving big challenges, delivering outstanding results, or celebrating wins, we approach every day with purpose and passion. If youâre ready to join a mission-driven company where every teammate has the opportunity to thrive, Evolve might just be the place for you. Why this role We're looking for a highly motivated Staff Engineer to joi",
+      "tags": [
+        "dev",
+        "design",
+        "embedded",
+        "sys admin",
+        "infosec",
+        "architecture",
+        "testing",
+        "devops",
+        "cloud",
+        "exec",
+        "engineer",
+        "digital nomad"
+      ],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Staff-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
+      "title": "Head of Security",
+      "company": "Tremendous",
+      "location": "New York, New York, New York, United States",
+      "url": "https://remoteOK.com/remote-jobs/remote-head-of-security-tremendous-1136210",
+      "source": "RemoteOK",
+      "description": "Tremendous is the global platform built for businesses to send payoutsâgift cards and moneyâto anyone, anywhere, instantly. We're trusted by 20,000+ organizations, from startups to giants like Atlassian, MIT, and United Way, to reach millions of recipients worldwide. We're profitable and growing without outside investors. We're fully remote, with a high-documentation, low-meeting culture that leaves more time for the work that mattersâand for your life outside it. Our employee NPS sits in the high 80s. We move billions of dollars through our systems. That makes security existential, and ",
+      "tags": [
+        "exec",
+        "design",
+        "architecture",
+        "recruiter",
+        "customer support",
+        "marketing",
+        "content writing",
+        "ops",
+        "golang",
+        "full time",
+        "digital nomad",
+        "dev",
+        "senior",
+        "medical",
+        "engineer",
+        "infosec",
+        "react",
+        "embedded",
+        "technical",
+        "finance",
+        "cloud",
+        "postgres",
+        "typescript",
+        "ruby"
+      ],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Head of-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
+      "title": "Staff DevOps Engineer",
+      "company": "Nextiva",
+      "location": "Mexico",
+      "url": "https://jobicy.com/jobs/152908-staff-devops-engineer-2",
       "source": "Jobicy",
-      "description": "Company DescriptionNBCUniversal is one of the world's leading media and entertainment companies. We create world-class content, which we distribute across our portfolio of film, television, and streaming, and bring to life through our global theme park destinations, consumer products, and experiences. We own and operate leading entertainment and news brands, including NBC, NBC News, NBC&hellip;",
+      "description": "Redefine the future of customer experiences. One conversation at a time. At Nextiva, we’re reimagining how businesses connect, bringing together customer experience and team collaboration on a single, conversation centric platform. Powered by AI, driven by human innovation. Our culture is forward thinking, customer obsessed and built on the belief that meaningful connections drive better&hellip;",
       "tags": [
         "devops & infrastructure"
+      ],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Staff-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
+      "title": "Principal Partner Manager - Channels (GSI)",
+      "company": "Datadog",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/152957-principal-partner-manager-channels-gsi",
+      "source": "Jobicy",
+      "description": "We are looking for an experienced Partner Sales Manager to ignite partnerships by identifying and recruiting new partners for long-term success and nurture ongoing relationships with key strategic Global Systems Integrator partners. Our ultimate goal is building channels and alliances that drive new customer adoption and revenue. This is a great opportunity for you to&hellip;",
+      "tags": [
+        "business development"
       ],
       "verdict": "blocked",
       "fit": 0,
@@ -1852,52 +2758,6 @@
       "fit": 0,
       "reasons": [
         "Director-level — usually 5–10+ yrs, you have ~4"
-      ]
-    },
-    {
-      "title": "Director of Production Engineering",
-      "company": "Legion",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/152228-director-of-production-engineering",
-      "source": "Jobicy",
-      "description": "Director of Production Engineering Remote, United States About this Position Are you passionate about building the reliability, automation, and security foundations that let engineering teams move fast with confidence? At Legion, we are seeking a Director of Engineering, DevOps &amp; SRE to lead the teams responsible for the availability, scalability, and security of our production&hellip;",
-      "tags": [
-        "devops & infrastructure"
-      ],
-      "verdict": "blocked",
-      "fit": 0,
-      "reasons": [
-        "Director-level — usually 5–10+ yrs, you have ~4"
-      ]
-    },
-    {
-      "title": "Staff Machine Learning Engineer - ML Training Infrastructure",
-      "company": "General Motors",
-      "location": "United States",
-      "url": "https://himalayas.app/companies/general-motors/jobs/staff-machine-learning-engineer-ml-training-infrastructure-9684616079",
-      "source": "Himalayas",
-      "description": "Job Description The Role: We are seeking an experienced, technically strong, impact-driven expert in ML Training Infrastructure with a demonstrated ability to lead through hands-on technical work. In this role, you will be responsible for defining the technical direction and driving the design and development of scalable, reliable, and high-performance AI/ML platform infrastructure that enables advanced AI research and model development at scale. As a Staff ML Engineer, you will operate as a technical leader across initiatives, partnering closely with machine learning engineers, research scien",
-      "tags": [
-        "machine-learning-engineering",
-        "ml-infrastructure",
-        "ai-infrastructure-engineering",
-        "software-engineer",
-        "distributed-systems-engineering",
-        "staff-machine-learning-engineer",
-        "machine-learning-infrastructure-engineer",
-        "staff-ml-engineer",
-        "staff-machine-learning-engineering",
-        "ml-ai-infrastructure-engineer",
-        "ai-ml-infrastructure-engineer",
-        "ml-infrastructure-engineer",
-        "sr.-staff-machine-learning-engineer",
-        "senior-staff-machine-learning-engineer",
-        "machine-learning-engineer"
-      ],
-      "verdict": "blocked",
-      "fit": 0,
-      "reasons": [
-        "Staff-level — usually 5–10+ yrs, you have ~4"
       ]
     }
   ]
