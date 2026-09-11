@@ -1,37 +1,13 @@
 {
-  "generated": "2026-09-10 10:12 UTC",
-  "count": 113,
+  "generated": "2026-09-11 10:08 UTC",
+  "count": 110,
   "summary": {
-    "scanned": 113,
+    "scanned": 110,
     "eligible": 29,
-    "review": 73,
-    "blocked": 11
+    "review": 69,
+    "blocked": 12
   },
   "jobs": [
-    {
-      "title": "QA Engineer",
-      "company": "SunnyData",
-      "location": "Worldwide",
-      "url": "https://remoteOK.com/remote-jobs/remote-qa-engineer-sunnydata-1137300",
-      "source": "RemoteOK",
-      "description": "About SunnyData At SunnyData, a leading DataBricks technology partner, our mission is to empower customers with scalable architectures, robust data engineering pipelines, seamless data consumption layers, and advanced ML and AI applications. As a QA Engineer with a strong focus on Data, you will understand requirements and translate them into effective test cases, execute and automate those tests, and track testing progress and defects. Â The Impact Youâll Have Understand requirements and translate them into test plans and test cases, ensuring requirements traceability. Execute test cases, i",
-      "tags": [
-        "technical",
-        "dev",
-        "testing",
-        "marketing",
-        "quality assurance",
-        "education",
-        "cloud",
-        "engineer",
-        "digital nomad"
-      ],
-      "verdict": "eligible",
-      "fit": 66,
-      "reasons": [
-        "remote — anywhere / global"
-      ]
-    },
     {
       "title": "DESARROLLADOR FULL STACK",
       "company": "Kruger NearShore LLC - Rekluti",
@@ -177,6 +153,25 @@
       "tags": [],
       "verdict": "eligible",
       "fit": 54,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
+    {
+      "title": "Inside Sales Contractor",
+      "company": "Credit Wellness, LLC",
+      "location": "Worldwide",
+      "url": "https://remotive.com/remote-jobs/sales/inside-sales-contractor-2086540",
+      "source": "Remotive",
+      "description": "About Us We are a financial services start up focusing on helping to improve consumer credit profiles. We are currently seeking KPI driven sales representatives looking to earn up to 45K in their first year while working remotely. We offer comprehensive training and continuous sales coaching to help you meet your financial goals. During our training period we offer a guaranteed training stipend while our trainees are acclimating to the position (*see weekly pay below). If you are a seasoned sales professional looking for the autonomy of a remote position combined with great compensation, we wa",
+      "tags": [
+        "crm",
+        "google sheets",
+        "financial services",
+        "inside sales"
+      ],
+      "verdict": "eligible",
+      "fit": 50,
       "reasons": [
         "remote — anywhere / global"
       ]
@@ -543,22 +538,6 @@
       ]
     },
     {
-      "title": "GitOps Engineering Manager",
-      "company": "Canonical",
-      "location": "APAC, EMEA",
-      "url": "https://jobicy.com/jobs/149939-gitops-engineering-manager",
-      "source": "Jobicy",
-      "description": "Canonical is a leading provider of open-source software and operating systems for global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in many&hellip;",
-      "tags": [
-        "devops & infrastructure"
-      ],
-      "verdict": "review",
-      "fit": 68,
-      "reasons": [
-        "EMEA-tagged — verify it's open to Africa first"
-      ]
-    },
-    {
       "title": "Site Reliability Engineering Manager",
       "company": "Canonical",
       "location": "APAC, EMEA",
@@ -734,6 +713,52 @@
       "fit": 56,
       "reasons": [
         "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
+      "title": "AI Intern",
+      "company": "CertifyOS",
+      "location": "Pune",
+      "url": "https://remoteOK.com/remote-jobs/remote-ai-intern-certifyos-1135555",
+      "source": "RemoteOK",
+      "description": "About CertifyOS CertifyOS is building the data infrastructure that powers modern healthcare. Today, healthcare organizations rely on fragmented and outdated provider data. This creates unnecessary administrative work, regulatory risk, and higher costs across the system. Weâre solving that problem. Our API-first platform automates provider licensing, enrollment, credentialing, and network monitoring by connecting directly to hundreds of primary data sources. We help healthcare organizations maintain accurate, compliant, and reliable provider networks at scale. Our vision is simple: One API. O",
+      "tags": [
+        "design",
+        "sys admin",
+        "python",
+        "technical",
+        "dev",
+        "testing",
+        "java",
+        "cloud",
+        "git",
+        "api",
+        "ops",
+        "medical",
+        "recruiter",
+        "engineer",
+        "digital nomad"
+      ],
+      "verdict": "review",
+      "fit": 52,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
+      "title": "DevOps Engineer",
+      "company": "Cloudbeds",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/152990-devops-engineer-4",
+      "source": "Jobicy",
+      "description": "What Makes Cloudbeds UniqueAt Cloudbeds, we're not just building software, we’re transforming hospitality. Our intelligently designed platform powers properties across 150 countries, processing billions in bookings annually. From independent properties to hotel groups, we help hoteliers transform operations and uplevel their commercial strategy through a unified platform that integrates with hundreds of partners. And we&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
+      "verdict": "review",
+      "fit": 52,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -1071,6 +1096,36 @@
       ]
     },
     {
+      "title": "Senior DevOps Engineer (Platform)",
+      "company": "Physitrack",
+      "location": "Poland",
+      "url": "https://himalayas.app/companies/physitrack/jobs/senior-devops-engineer-platform",
+      "source": "Himalayas",
+      "description": "Senior DevOps Engineer (Platform) Physitrack PLC · Fully remote, based in Poland Contract: B2B contractor, EUR 8,000 per month About us Physitrack PLC builds digital health software used by clinicians, physiotherapists and employers in over 100 countries. Our two product lines, Physitrack (exercise prescription, telehealth and patient engagement) and Champion Health (workplace wellbeing), run on a multi-region AWS platform serving Europe, the UK, North America, Australia and the Middle East. We are ISO 27001:2022 certified. Healthcare data brings real constraints: data residency, auditability ",
+      "tags": [
+        "devops-engineer",
+        "platform-engineering",
+        "cloud-infrastructure-engineer",
+        "devops",
+        "infrastructure-engineering",
+        "senior-devops-platform-engineer",
+        "senior-platform-engineer",
+        "senior-platform-engineering",
+        "senior-developer-platform-engineer",
+        "senior-cloud-platform-engineer",
+        "senior-staff-devops-engineer",
+        "senior-principal-platform-engineer",
+        "senior-techops-engineer",
+        "senior-engineer-cloud-and-devops-(p)"
+      ],
+      "verdict": "review",
+      "fit": 50,
+      "reasons": [
+        "Poland-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
       "title": "Software Engineer - Python - Container Images",
       "company": "Canonical",
       "location": "APAC, EMEA, LATAM, Canada, USA",
@@ -1100,22 +1155,6 @@
       "fit": 48,
       "reasons": [
         "Germany-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Software Engineer - Cloud Images",
-      "company": "Canonical",
-      "location": "EMEA, LATAM, Canada, USA",
-      "url": "https://jobicy.com/jobs/149978-software-engineer-cloud-images",
-      "source": "Jobicy",
-      "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders&hellip;",
-      "tags": [
-        "software engineering"
-      ],
-      "verdict": "review",
-      "fit": 48,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -1497,335 +1536,6 @@
       ]
     },
     {
-      "title": "Jenni AI",
-      "company": "AI Supermarket",
-      "location": "Research,",
-      "url": "https://remoteOK.com/remote-jobs/remote-jenni-ai-ai-supermarket-1136602",
-      "source": "RemoteOK",
-      "description": "Professional forex trading simulator that replays historical market data so traders can practise strategies risk-free. Test and backtest trading systems across years of tick-level data at any speed, then review statistics on win rate, drawdown and risk-reward. Used by aspiring and experienced traders to build discipline and refine their edge.Text-to-3D and image-to-3D AI platform that generates game-ready 3D models and textures in minutes. Simply describe what you want or upload a reference image and Meshy produces a fully textured, exportable 3D asset. Used by game developers, product designe",
-      "tags": [
-        "dev",
-        "digital nomad",
-        "medical",
-        "wordpress",
-        "vfx",
-        "teaching",
-        "education",
-        "game dev",
-        "full stack",
-        "writer",
-        "transcribing",
-        "testing",
-        "marketing",
-        "web dev",
-        "speech",
-        "virtual assistant",
-        "video",
-        "serverless",
-        "cloud",
-        "git",
-        "seo",
-        "content writing",
-        "stats",
-        "sales",
-        "golang",
-        "non tech"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "location unconfirmed — verify it's open to Africa"
-      ]
-    },
-    {
-      "title": "Typefully",
-      "company": "AI Supermarket",
-      "location": "Heartâs Content,",
-      "url": "https://remoteOK.com/remote-jobs/remote-typefully-ai-supermarket-1136391",
-      "source": "RemoteOK",
-      "description": "Professional forex trading simulator that replays historical market data so traders can practise strategies risk-free. Test and backtest trading systems across years of tick-level data at any speed, then review statistics on win rate, drawdown and risk-reward. Used by aspiring and experienced traders to build discipline and refine their edge.Text-to-3D and image-to-3D AI platform that generates game-ready 3D models and textures in minutes. Simply describe what you want or upload a reference image and Meshy produces a fully textured, exportable 3D asset. Used by game developers, product designe",
-      "tags": [
-        "wordpress",
-        "vfx",
-        "teaching",
-        "education",
-        "game dev",
-        "full stack",
-        "writer",
-        "transcribing",
-        "dev",
-        "testing",
-        "marketing",
-        "web dev",
-        "speech",
-        "virtual assistant",
-        "video",
-        "serverless",
-        "cloud",
-        "git",
-        "seo",
-        "content writing",
-        "stats",
-        "sales",
-        "golang",
-        "non tech",
-        "digital nomad"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "location unconfirmed — verify it's open to Africa"
-      ]
-    },
-    {
-      "title": "Apify",
-      "company": "AI Supermarket",
-      "location": "Ajmer,",
-      "url": "https://remoteOK.com/remote-jobs/remote-apify-ai-supermarket-1136554",
-      "source": "RemoteOK",
-      "description": "Professional forex trading simulator that replays historical market data so traders can practise strategies risk-free. Test and backtest trading systems across years of tick-level data at any speed, then review statistics on win rate, drawdown and risk-reward. Used by aspiring and experienced traders to build discipline and refine their edge.Text-to-3D and image-to-3D AI platform that generates game-ready 3D models and textures in minutes. Simply describe what you want or upload a reference image and Meshy produces a fully textured, exportable 3D asset. Used by game developers, product designe",
-      "tags": [
-        "wordpress",
-        "vfx",
-        "teaching",
-        "education",
-        "game dev",
-        "full stack",
-        "writer",
-        "transcribing",
-        "dev",
-        "testing",
-        "marketing",
-        "web dev",
-        "speech",
-        "virtual assistant",
-        "video",
-        "serverless",
-        "cloud",
-        "git",
-        "seo",
-        "content writing",
-        "stats",
-        "sales",
-        "golang",
-        "non tech",
-        "digital nomad"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "location unconfirmed — verify it's open to Africa"
-      ]
-    },
-    {
-      "title": "Aragon AI",
-      "company": "AI Supermarket",
-      "location": "Good Design,",
-      "url": "https://remoteOK.com/remote-jobs/remote-aragon-ai-ai-supermarket-1136388",
-      "source": "RemoteOK",
-      "description": "Professional forex trading simulator that replays historical market data so traders can practise strategies risk-free. Test and backtest trading systems across years of tick-level data at any speed, then review statistics on win rate, drawdown and risk-reward. Used by aspiring and experienced traders to build discipline and refine their edge.Text-to-3D and image-to-3D AI platform that generates game-ready 3D models and textures in minutes. Simply describe what you want or upload a reference image and Meshy produces a fully textured, exportable 3D asset. Used by game developers, product designe",
-      "tags": [
-        "wordpress",
-        "vfx",
-        "teaching",
-        "education",
-        "game dev",
-        "full stack",
-        "writer",
-        "transcribing",
-        "dev",
-        "testing",
-        "marketing",
-        "web dev",
-        "speech",
-        "virtual assistant",
-        "video",
-        "serverless",
-        "cloud",
-        "git",
-        "seo",
-        "content writing",
-        "stats",
-        "sales",
-        "golang",
-        "non tech",
-        "digital nomad",
-        "sys admin",
-        "technical",
-        "supervisor",
-        "customer support",
-        "microsoft",
-        "exec",
-        "medical"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "location unconfirmed — verify it's open to Africa"
-      ]
-    },
-    {
-      "title": "Beehiiv",
-      "company": "AI Supermarket",
-      "location": "Heartâs Content,",
-      "url": "https://remoteOK.com/remote-jobs/remote-beehiiv-ai-supermarket-1136389",
-      "source": "RemoteOK",
-      "description": "Professional forex trading simulator that replays historical market data so traders can practise strategies risk-free. Test and backtest trading systems across years of tick-level data at any speed, then review statistics on win rate, drawdown and risk-reward. Used by aspiring and experienced traders to build discipline and refine their edge.Text-to-3D and image-to-3D AI platform that generates game-ready 3D models and textures in minutes. Simply describe what you want or upload a reference image and Meshy produces a fully textured, exportable 3D asset. Used by game developers, product designe",
-      "tags": [
-        "wordpress",
-        "vfx",
-        "teaching",
-        "education",
-        "game dev",
-        "full stack",
-        "writer",
-        "transcribing",
-        "dev",
-        "testing",
-        "marketing",
-        "web dev",
-        "speech",
-        "virtual assistant",
-        "video",
-        "serverless",
-        "cloud",
-        "git",
-        "seo",
-        "content writing",
-        "stats",
-        "sales",
-        "golang",
-        "non tech",
-        "digital nomad"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "location unconfirmed — verify it's open to Africa"
-      ]
-    },
-    {
-      "title": "Meshy",
-      "company": "AI Supermarket",
-      "location": "Good Design,",
-      "url": "https://remoteOK.com/remote-jobs/remote-meshy-ai-supermarket-1136386",
-      "source": "RemoteOK",
-      "description": "Professional forex trading simulator that replays historical market data so traders can practise strategies risk-free. Test and backtest trading systems across years of tick-level data at any speed, then review statistics on win rate, drawdown and risk-reward. Used by aspiring and experienced traders to build discipline and refine their edge.Text-to-3D and image-to-3D AI platform that generates game-ready 3D models and textures in minutes. Simply describe what you want or upload a reference image and Meshy produces a fully textured, exportable 3D asset. Used by game developers, product designe",
-      "tags": [
-        "wordpress",
-        "vfx",
-        "teaching",
-        "education",
-        "game dev",
-        "full stack",
-        "writer",
-        "transcribing",
-        "dev",
-        "testing",
-        "marketing",
-        "web dev",
-        "speech",
-        "virtual assistant",
-        "video",
-        "serverless",
-        "cloud",
-        "git",
-        "seo",
-        "content writing",
-        "stats",
-        "sales",
-        "golang",
-        "non tech",
-        "digital nomad"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "location unconfirmed — verify it's open to Africa"
-      ]
-    },
-    {
-      "title": "GetResponse",
-      "company": "AI Supermarket",
-      "location": "Rajkot,",
-      "url": "https://remoteOK.com/remote-jobs/remote-getresponse-ai-supermarket-1136556",
-      "source": "RemoteOK",
-      "description": "Professional forex trading simulator that replays historical market data so traders can practise strategies risk-free. Test and backtest trading systems across years of tick-level data at any speed, then review statistics on win rate, drawdown and risk-reward. Used by aspiring and experienced traders to build discipline and refine their edge.Text-to-3D and image-to-3D AI platform that generates game-ready 3D models and textures in minutes. Simply describe what you want or upload a reference image and Meshy produces a fully textured, exportable 3D asset. Used by game developers, product designe",
-      "tags": [
-        "wordpress",
-        "vfx",
-        "teaching",
-        "education",
-        "game dev",
-        "full stack",
-        "writer",
-        "transcribing",
-        "dev",
-        "testing",
-        "marketing",
-        "web dev",
-        "speech",
-        "virtual assistant",
-        "video",
-        "serverless",
-        "cloud",
-        "git",
-        "seo",
-        "content writing",
-        "stats",
-        "sales",
-        "golang",
-        "non tech",
-        "digital nomad",
-        "artificial intelligence"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "location unconfirmed — verify it's open to Africa"
-      ]
-    },
-    {
-      "title": "AskYourPDF",
-      "company": "AI Supermarket",
-      "location": "Heartâs Content,",
-      "url": "https://remoteOK.com/remote-jobs/remote-askyourpdf-ai-supermarket-1136704",
-      "source": "RemoteOK",
-      "description": "Professional forex trading simulator that replays historical market data so traders can practise strategies risk-free. Test and backtest trading systems across years of tick-level data at any speed, then review statistics on win rate, drawdown and risk-reward. Used by aspiring and experienced traders to build discipline and refine their edge.Text-to-3D and image-to-3D AI platform that generates game-ready 3D models and textures in minutes. Simply describe what you want or upload a reference image and Meshy produces a fully textured, exportable 3D asset. Used by game developers, product designe",
-      "tags": [
-        "golang",
-        "wordpress",
-        "vfx",
-        "teaching",
-        "education",
-        "game dev",
-        "full stack",
-        "writer",
-        "transcribing",
-        "dev",
-        "testing",
-        "marketing",
-        "web dev",
-        "speech",
-        "virtual assistant",
-        "video",
-        "serverless",
-        "cloud",
-        "git",
-        "seo",
-        "content writing",
-        "stats",
-        "sales",
-        "non tech",
-        "digital nomad"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "location unconfirmed — verify it's open to Africa"
-      ]
-    },
-    {
       "title": "Sales Development Representative Attributeâ",
       "company": "DoiT",
       "location": "Remote UK",
@@ -2160,6 +1870,185 @@
       ]
     },
     {
+      "title": "Healthcare Virtual Assistant Athena EMR Experience",
+      "company": "Snapscale Philippines",
+      "location": "Davao,",
+      "url": "https://remoteOK.com/remote-jobs/remote-healthcare-virtual-assistant-athena-emr-experience-snapscale-philippines-1135688",
+      "source": "RemoteOK",
+      "description": "Overview Snapscale is seeking a highly skilled Healthcare Virtual Assistant to support day-to-day U.S. clinic operations in a remote setup and ensure a seamless patient experience. This role requires strong communication skills, attention to detail, and hands-on experience in U.S. healthcare processes. The ideal candidate must have proven expertise in EMR systems, specifically Athena EMR , and the ability to manage multiple clinical and administrative tasks efficiently while working remotely. Key Responsibilities Verify patient benefits and insurance coverage accurately and efficiently Reactiv",
+      "tags": [
+        "virtual assistant",
+        "coordinator",
+        "customer support",
+        "marketing",
+        "ops",
+        "medical",
+        "non tech",
+        "dev",
+        "video",
+        "cloud",
+        "microsoft",
+        "exec",
+        "digital nomad",
+        "design",
+        "education",
+        "content writing",
+        "sales",
+        "full time",
+        "part time",
+        "c sharp",
+        "react",
+        "hr",
+        "sys admin",
+        "infosec",
+        "python",
+        "teaching",
+        "technical",
+        "testing",
+        "web dev",
+        "scrum",
+        "javascript",
+        "java",
+        "c",
+        "c plus plus",
+        "css",
+        "html",
+        "git",
+        "angular",
+        "node",
+        "node.js",
+        "senior",
+        "engineer",
+        "internship"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
+      "title": "Graphic Designer",
+      "company": "Miranda Creative, Inc.",
+      "location": "Norwich, Norwich, Connecticut, United States",
+      "url": "https://remoteOK.com/remote-jobs/remote-graphic-designer-miranda-creative-inc-1135610",
+      "source": "RemoteOK",
+      "description": "We are looking for a talented and detail-oriented Graphic Designer to join our creative team part-time (25 hours per week), with the potential to grow into a full-time opportunity. Since 1988, Miranda Creative has partnered with more than 6,000 clients across finance, hospitality, healthcare, manufacturing, tourism, and government. We're a full-service, award-winning, New England-based creative and strategic agency. We pride ourselves on being a highly inclusive, collaborative community built on creativity, trust, and joy. We welcome you to Miranda Creative and look forward to learning more ab",
+      "tags": [
+        "design",
+        "music",
+        "technical",
+        "travel",
+        "speech",
+        "video",
+        "exec",
+        "content writing",
+        "medical",
+        "engineer",
+        "digital nomad",
+        "sys admin",
+        "consulting",
+        "testing",
+        "virtual assistant",
+        "finance",
+        "senior",
+        "ops",
+        "customer support",
+        "dev",
+        "microsoft",
+        "excel",
+        "legal",
+        "designer",
+        "web dev",
+        "cloud",
+        "marketing",
+        "photoshop",
+        "illustrator",
+        "full time",
+        "part time"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "United states-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "Area Sales Manager",
+      "company": "ROAR Organic",
+      "location": "New York City Metropolitan Area",
+      "url": "https://remoteOK.com/remote-jobs/remote-area-sales-manager-roar-organic-1135611",
+      "source": "RemoteOK",
+      "description": "Job Title: Area Sales Manager Reports to: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Director of Sales- East Location: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Remote- New York Metro Status:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; FT/Exempt Compensation: $70,000 â $80,000 annual base salary, plus a competitive bonus opportunity. Final compensation will be commensurate with experience, skills, and qualifications. ABOUT THE COMPANY ROAR is redefining hydration for a new generation. In a category that has become overly serious and hardco",
+      "tags": [
+        "design",
+        "music",
+        "technical",
+        "travel",
+        "speech",
+        "video",
+        "exec",
+        "content writing",
+        "medical",
+        "engineer",
+        "digital nomad",
+        "sys admin",
+        "consulting",
+        "testing",
+        "virtual assistant",
+        "finance",
+        "senior",
+        "ops",
+        "customer support",
+        "dev",
+        "microsoft",
+        "excel",
+        "legal",
+        "designer",
+        "web dev",
+        "cloud",
+        "marketing",
+        "photoshop",
+        "illustrator",
+        "full time",
+        "part time",
+        "sales"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
+      "title": "Virtual Assistant",
+      "company": "RippedBoxStation",
+      "location": "Manila, Manila, National Capital Region, Philippines",
+      "url": "https://remoteOK.com/remote-jobs/remote-virtual-assistant-rippedboxstation-1135685",
+      "source": "RemoteOK",
+      "description": "Key Responsibilities Provide comprehensive administrative support by managing calendars, emails, appointments, and daily schedules for clients or executives. Organize and maintain digital files, documents, spreadsheets, and databases to ensure information is accurate and easily accessible. Conduct online research and compile relevant information to support business operations and decision-making. Prepare reports, presentations, business correspondence, and other administrative documents with a high level of accuracy. Coordinate virtual meetings by scheduling appointments, sending invitations, ",
+      "tags": [
+        "virtual assistant",
+        "coordinator",
+        "customer support",
+        "marketing",
+        "ops",
+        "medical",
+        "non tech",
+        "dev",
+        "video",
+        "cloud",
+        "microsoft",
+        "exec",
+        "digital nomad"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
       "title": "Business Systems Engineer",
       "company": "ClickUp",
       "location": "USA",
@@ -2269,35 +2158,6 @@
       "fit": 36,
       "reasons": [
         "Uk-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Data Engineer – AI Value & DX Platform",
-      "company": "Qualysoft",
-      "location": "Hungary",
-      "url": "https://himalayas.app/companies/qualysoft/jobs/data-engineer-ai-value-dx-platform",
-      "source": "Himalayas",
-      "description": "Founded in 1999 in Vienna, the Qualysoft Group is a manufacturer-independent IT consulting and services company, which successfully provides support for its international customers with the aim of boosting their competitiveness and economic efficiency through innovative IT solutions. Its focus is on financial services providers, telecommunications companies, the automotive industry and energy service providers. Over 400 employees in 6 subsidiaries work together to ensure state of the art solutions for our clients. We are looking for new colleagues in Qualysoft teams for diverse projects provid",
-      "tags": [
-        "data-engineering",
-        "ai-value-measurement",
-        "data-platform-engineering",
-        "technical-consulting",
-        "ai-data-platform-engineer",
-        "ai-data-engineer",
-        "ai-ml-data-engineer",
-        "data-+-ai-engineer",
-        "data-and-ai-engineer",
-        "data-platform-engineer",
-        "senior-ai-data-engineer",
-        "ai-data-platform-engineering",
-        "lead-data-and-ai-platform-engineer",
-        "data-engineer"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "location unconfirmed — verify it's open to Africa"
       ]
     },
     {
@@ -2705,6 +2565,22 @@
       "description": "Redefine the future of customer experiences. One conversation at a time. At Nextiva, we’re reimagining how businesses connect, bringing together customer experience and team collaboration on a single, conversation centric platform. Powered by AI, driven by human innovation. Our culture is forward thinking, customer obsessed and built on the belief that meaningful connections drive better&hellip;",
       "tags": [
         "devops & infrastructure"
+      ],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Staff-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
+      "title": "SecOps Security Engineer (Staff-level, L6)",
+      "company": "Synthesia",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/152968-secops-security-engineer-staff-level-l6",
+      "source": "Jobicy",
+      "description": "Synthesia is the world’s leading AI video platform for business, used by over 90% of the Fortune 100. Founded in 2017, the company is headquartered in London, with offices and teams across Europe and the US. As AI continues to shape the way we live and work, Synthesia develops products to enhance visual communication and&hellip;",
+      "tags": [
+        "cybersecurity"
       ],
       "verdict": "blocked",
       "fit": 0,
