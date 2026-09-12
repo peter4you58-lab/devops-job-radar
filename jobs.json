@@ -1,10 +1,10 @@
 {
-  "generated": "2026-09-11 10:08 UTC",
-  "count": 110,
+  "generated": "2026-09-12 09:43 UTC",
+  "count": 108,
   "summary": {
-    "scanned": 110,
-    "eligible": 29,
-    "review": 69,
+    "scanned": 108,
+    "eligible": 28,
+    "review": 68,
     "blocked": 12
   },
   "jobs": [
@@ -196,27 +196,6 @@
         "ticketing",
         "microsoft 365",
         "it systems"
-      ],
-      "verdict": "eligible",
-      "fit": 50,
-      "reasons": [
-        "remote — anywhere / global"
-      ]
-    },
-    {
-      "title": "Sales Jedi",
-      "company": "Creative Force",
-      "location": "Europe",
-      "url": "https://remotive.com/remote-jobs/sales/sales-jedi-2091088",
-      "source": "Remotive",
-      "description": "Great salary | Profit share | 100% remote | Work from anywhere in Europe | SaaS Awesome opportunity for a self-motivated and energetic people person to join our remote team and help sell our world-leading SaaS products, from anywhere in Europe. We pay a great salary, based on experience and location. We don’t pay commissions, because good sales are a team effort—from engineering, to operations, marketing, and support, our high-performing team all contribute to a great product and service that our clients love. Everybody in the company is rewarded with a share of profit each December—we succeed",
-      "tags": [
-        "saas",
-        "video",
-        "solid",
-        "chat",
-        "saas sales",
-        "mental health"
       ],
       "verdict": "eligible",
       "fit": 50,
@@ -651,23 +630,6 @@
       ]
     },
     {
-      "title": "Information Systems - Open Source Technical Architect",
-      "company": "Canonical",
-      "location": "EMEA",
-      "url": "https://jobicy.com/jobs/149979-information-systems-open-source-technical-architect",
-      "source": "Jobicy",
-      "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders&hellip;",
-      "tags": [
-        "devops & infrastructure"
-      ],
-      "verdict": "review",
-      "fit": 58,
-      "reasons": [
-        "EMEA-tagged — verify it's open to Africa first",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
       "title": "DevOps Engineer (Intern)",
       "company": "Mactores",
       "location": "Anywhere",
@@ -711,36 +673,6 @@
       ],
       "verdict": "review",
       "fit": 56,
-      "reasons": [
-        "location unconfirmed — verify it's open to Africa"
-      ]
-    },
-    {
-      "title": "AI Intern",
-      "company": "CertifyOS",
-      "location": "Pune",
-      "url": "https://remoteOK.com/remote-jobs/remote-ai-intern-certifyos-1135555",
-      "source": "RemoteOK",
-      "description": "About CertifyOS CertifyOS is building the data infrastructure that powers modern healthcare. Today, healthcare organizations rely on fragmented and outdated provider data. This creates unnecessary administrative work, regulatory risk, and higher costs across the system. Weâre solving that problem. Our API-first platform automates provider licensing, enrollment, credentialing, and network monitoring by connecting directly to hundreds of primary data sources. We help healthcare organizations maintain accurate, compliant, and reliable provider networks at scale. Our vision is simple: One API. O",
-      "tags": [
-        "design",
-        "sys admin",
-        "python",
-        "technical",
-        "dev",
-        "testing",
-        "java",
-        "cloud",
-        "git",
-        "api",
-        "ops",
-        "medical",
-        "recruiter",
-        "engineer",
-        "digital nomad"
-      ],
-      "verdict": "review",
-      "fit": 52,
       "reasons": [
         "location unconfirmed — verify it's open to Africa"
       ]
@@ -794,6 +726,38 @@
       ]
     },
     {
+      "title": "Engineering Manager, SRE",
+      "company": "Remote",
+      "location": "APAC, EMEA",
+      "url": "https://jobicy.com/jobs/153081-engineering-manager-sre",
+      "source": "Jobicy",
+      "description": "About Remote Remote is solving modern organizations’ biggest challenge – navigating global employment compliantly with ease. We make it possible for businesses of all sizes to recruit, pay, and manage international teams. With our core values at heart and future focused work culture, our team works tirelessly on ambitious problems, asynchronously, around the world. You&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
+      "verdict": "review",
+      "fit": 52,
+      "reasons": [
+        "EMEA-tagged — verify it's open to Africa first"
+      ]
+    },
+    {
+      "title": "Manager, Engineering | ML Infrastructure & Tooling",
+      "company": "ExtraHop",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/153008-manager-engineering-ml-infrastructure-tooling",
+      "source": "Jobicy",
+      "description": "At ExtraHop, we’re on a mission to protect and empower the connected enterprise. We reveal what is happening in the very infrastructure that sustains businesses, lives, and communities, and ensure the integrity of networks, data, systems, and processes. Organizations rely on ExtraHop to provide visibility into the cyber threats, vulnerabilities, and network performance issues that&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
+      "verdict": "review",
+      "fit": 52,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
       "title": "Backend Engineer (.NET) (f/m/d)",
       "company": "Apaleo",
       "location": "Germany",
@@ -823,6 +787,27 @@
       "fit": 52,
       "reasons": [
         "EMEA-tagged — verify it's open to Africa first"
+      ]
+    },
+    {
+      "title": "Product Engineer — AI Infrastructure / Devtools",
+      "company": "Lavendo",
+      "location": "United States",
+      "url": "https://himalayas.app/companies/lavendo/jobs/product-engineer-ai-infrastructure-devtools",
+      "source": "Himalayas",
+      "description": "Lavendo partners with startups and high‑growth companies to help them hire top‑tier sales, GTM, and technical talent. This role is with one of our clients; we’ll share full details about the company and interview process as we get to know you and confirm mutual fit. About the Company Our client builds the data layer that AI agents actually run on. One API call turns any URL into clean, LLM-ready markdown or structured data — the boring-hard problem every team building with AI eventually slams into, solved for good. They hit eight figures in ARR in year one, then more than doubled it. 150,000+ ",
+      "tags": [
+        "ai-product-engineer",
+        "product-infrastructure-engineer",
+        "ai-tools-engineer",
+        "ai-infrastructure-engineer",
+        "ai-products-engineering",
+        "product-engineer"
+      ],
+      "verdict": "review",
+      "fit": 52,
+      "reasons": [
+        "United states-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -1096,36 +1081,6 @@
       ]
     },
     {
-      "title": "Senior DevOps Engineer (Platform)",
-      "company": "Physitrack",
-      "location": "Poland",
-      "url": "https://himalayas.app/companies/physitrack/jobs/senior-devops-engineer-platform",
-      "source": "Himalayas",
-      "description": "Senior DevOps Engineer (Platform) Physitrack PLC · Fully remote, based in Poland Contract: B2B contractor, EUR 8,000 per month About us Physitrack PLC builds digital health software used by clinicians, physiotherapists and employers in over 100 countries. Our two product lines, Physitrack (exercise prescription, telehealth and patient engagement) and Champion Health (workplace wellbeing), run on a multi-region AWS platform serving Europe, the UK, North America, Australia and the Middle East. We are ISO 27001:2022 certified. Healthcare data brings real constraints: data residency, auditability ",
-      "tags": [
-        "devops-engineer",
-        "platform-engineering",
-        "cloud-infrastructure-engineer",
-        "devops",
-        "infrastructure-engineering",
-        "senior-devops-platform-engineer",
-        "senior-platform-engineer",
-        "senior-platform-engineering",
-        "senior-developer-platform-engineer",
-        "senior-cloud-platform-engineer",
-        "senior-staff-devops-engineer",
-        "senior-principal-platform-engineer",
-        "senior-techops-engineer",
-        "senior-engineer-cloud-and-devops-(p)"
-      ],
-      "verdict": "review",
-      "fit": 50,
-      "reasons": [
-        "Poland-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
       "title": "Software Engineer - Python - Container Images",
       "company": "Canonical",
       "location": "APAC, EMEA, LATAM, Canada, USA",
@@ -1253,23 +1208,6 @@
       ]
     },
     {
-      "title": "Senior DevOps Engineer",
-      "company": "Cision",
-      "location": "Bulgaria",
-      "url": "https://jobicy.com/jobs/151871-senior-devops-engineer-4",
-      "source": "Jobicy",
-      "description": "At Cision, we believe in empowering every individual to make an impact. Here, your voice is heard, your ideas are valued, and your unique perspective fuels our collective success. As part of our global team, you'll thrive in an environment that champions curiosity, collaboration, and innovation, all while making meaningful contributions to the brands we&hellip;",
-      "tags": [
-        "devops & infrastructure"
-      ],
-      "verdict": "review",
-      "fit": 46,
-      "reasons": [
-        "location unconfirmed — verify it's open to Africa",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
       "title": "Senior Platform Engineer",
       "company": "Polar",
       "location": "Europe",
@@ -1372,6 +1310,35 @@
       ]
     },
     {
+      "title": "Engineering Manager TLM Platform",
+      "company": "Harper",
+      "location": "San Francisco",
+      "url": "https://remoteOK.com/remote-jobs/remote-engineering-manager-tlm-platform-harper-1137380",
+      "source": "RemoteOK",
+      "description": "The Problem 36 million businesses in America need insuranceâit's not optional. 77% are underinsured. 40% have no coverage at all. The distribution system failed them: too slow, too opaque, too confusing. Over 90% of commercial insurance is still human-led. We're building the inverse: 90%+ AI-led, pushing toward the higher 90s. Not by patching legacy workflowsâby building AI that makes humans more effective, improves the customer experience, and eliminates friction at every step. We're adding ~1,000 customers per month. We've grown 100x since last year. We're looking to do even more this ye",
+      "tags": [
+        "exec",
+        "design",
+        "sys admin",
+        "docker",
+        "technical",
+        "customer support",
+        "dev",
+        "marketing",
+        "video",
+        "finance",
+        "cloud",
+        "medical",
+        "engineer",
+        "digital nomad"
+      ],
+      "verdict": "review",
+      "fit": 40,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
       "title": "AI/ML Engineering Manager",
       "company": "Caylent",
       "location": "Argentina",
@@ -1444,34 +1411,6 @@
       ]
     },
     {
-      "title": "SaaS Product Support Jedi",
-      "company": "Creative Force",
-      "location": "Europe, EMEA, UK, Germany, France, European timezones",
-      "url": "https://remotive.com/remote-jobs/customer-service/saas-product-support-jedi-2091087",
-      "source": "Remotive",
-      "description": "We’re on the hunt for a sharp, self-driven SaaS pro who’s as comfortable troubleshooting API and integrations as they are navigating human conversations. Our European client base is growing fast and we need someone who can keep up. Our software isn’t your average plug-and-play; it has a steep learning curve so you’ll need to be technically savvy while also being the kind of person clients genuinely enjoy talking to. If you’ve got SaaS in your DNA, thrive in async/remote environments, and can juggle multiple threads without breaking a sweat — keep reading. The role You’ll join a lean, high-perf",
-      "tags": [
-        "api",
-        "css",
-        "go",
-        "html",
-        "javascript",
-        "saas",
-        "onboarding",
-        "chat",
-        "startup",
-        "troubleshooting",
-        "product support",
-        "testing",
-        "github"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Uk-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
       "title": "Content Reviewer - English US",
       "company": "TELUS Digital",
       "location": "USA",
@@ -1504,6 +1443,24 @@
       "fit": 36,
       "reasons": [
         "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "External Data Specialist",
+      "company": "eClinical Solutions",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-external-data-specialist-eclinical-solutions-1137375",
+      "source": "RemoteOK",
+      "description": "eClinical Solutions helps life sciences organizations around the world accelerate clinical development initiatives with expert data services and the elluminate Clinical Data Cloud â the foundation of digital trials. Together, the elluminate platform and digital data services give clients self-service access to all their data from one centralized location plus advanced analytics that help them make smarter, faster business decisions. eClinical Solutions is committed to driving innovation in clinical trials through a better approach to data management and data analytics. We use the eClinical S",
+      "tags": [
+        "cloud",
+        "exec",
+        "stats"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa"
       ]
     },
     {
@@ -2013,34 +1970,6 @@
         "full time",
         "part time",
         "sales"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "location unconfirmed — verify it's open to Africa"
-      ]
-    },
-    {
-      "title": "Virtual Assistant",
-      "company": "RippedBoxStation",
-      "location": "Manila, Manila, National Capital Region, Philippines",
-      "url": "https://remoteOK.com/remote-jobs/remote-virtual-assistant-rippedboxstation-1135685",
-      "source": "RemoteOK",
-      "description": "Key Responsibilities Provide comprehensive administrative support by managing calendars, emails, appointments, and daily schedules for clients or executives. Organize and maintain digital files, documents, spreadsheets, and databases to ensure information is accurate and easily accessible. Conduct online research and compile relevant information to support business operations and decision-making. Prepare reports, presentations, business correspondence, and other administrative documents with a high level of accuracy. Coordinate virtual meetings by scheduling appointments, sending invitations, ",
-      "tags": [
-        "virtual assistant",
-        "coordinator",
-        "customer support",
-        "marketing",
-        "ops",
-        "medical",
-        "non tech",
-        "dev",
-        "video",
-        "cloud",
-        "microsoft",
-        "exec",
-        "digital nomad"
       ],
       "verdict": "review",
       "fit": 36,
