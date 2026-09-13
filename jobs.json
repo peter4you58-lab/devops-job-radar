@@ -1,11 +1,11 @@
 {
-  "generated": "2026-09-12 09:43 UTC",
-  "count": 108,
+  "generated": "2026-09-13 10:44 UTC",
+  "count": 107,
   "summary": {
-    "scanned": 108,
-    "eligible": 28,
-    "review": 68,
-    "blocked": 12
+    "scanned": 107,
+    "eligible": 27,
+    "review": 67,
+    "blocked": 13
   },
   "jobs": [
     {
@@ -237,40 +237,6 @@
         "data entry",
         "insurance",
         "g suite"
-      ],
-      "verdict": "eligible",
-      "fit": 50,
-      "reasons": [
-        "remote — anywhere / global"
-      ]
-    },
-    {
-      "title": "Remote Office Assistant",
-      "company": "Coalition Technologies",
-      "location": "Worldwide",
-      "url": "https://remotive.com/remote-jobs/marketing/remote-office-assistant-1680495",
-      "source": "Remotive",
-      "description": "Coalition Technologies is seeking a reliable, detail-oriented, and highly organized Remote Office Assistant to support administrative, bookkeeping, billing, reporting, data entry, and internal operations tasks. This role is ideal for someone with strong communication skills, discretion, attention to detail, and a willingness to learn and grow within a fast-paced remote work environment. As an Office Assistant, you will help support daily administrative operations, assist with entry-level bookkeeping, organize client documents, support internal reporting, and help maintain accurate company reco",
-      "tags": [
-        "css",
-        "excel",
-        "frontend",
-        "git",
-        "html",
-        "illustrator",
-        "magento",
-        "photoshop",
-        "php",
-        "shopify",
-        "wordpress",
-        "mysql",
-        "startup",
-        "responsive",
-        "themes",
-        "bootstrap",
-        "insurance",
-        "jquery",
-        "ajax"
       ],
       "verdict": "eligible",
       "fit": 50,
@@ -517,22 +483,6 @@
       ]
     },
     {
-      "title": "Site Reliability Engineering Manager",
-      "company": "Canonical",
-      "location": "APAC, EMEA",
-      "url": "https://jobicy.com/jobs/149986-site-reliability-engineering-manager",
-      "source": "Jobicy",
-      "description": "Canonical is a leading provider of open-source software and operating systems for global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in many&hellip;",
-      "tags": [
-        "devops & infrastructure"
-      ],
-      "verdict": "review",
-      "fit": 64,
-      "reasons": [
-        "EMEA-tagged — verify it's open to Africa first"
-      ]
-    },
-    {
       "title": "Java Developer",
       "company": "Clera",
       "location": "Los Angeles",
@@ -726,6 +676,22 @@
       ]
     },
     {
+      "title": "IT Automation Engineer - Business Technology (Central/Mountain Time - US)",
+      "company": "Rithum",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/153100-it-automation-engineer-business-technology-central-mountain-time-us",
+      "source": "Jobicy",
+      "description": "Rithum™ is the world’s most trusted commerce network, accelerating how brands, suppliers, and retailers work together to deliver seamless e-commerce experiences. We provide an unmatched platform for brands and retailers, enabling them to accelerate growth, optimize operations across channels, scale product offerings and enhance margins. Today, more than 40,000 companies trust Rithum to grow their&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
+      "verdict": "review",
+      "fit": 52,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
       "title": "Engineering Manager, SRE",
       "company": "Remote",
       "location": "APAC, EMEA",
@@ -787,27 +753,6 @@
       "fit": 52,
       "reasons": [
         "EMEA-tagged — verify it's open to Africa first"
-      ]
-    },
-    {
-      "title": "Product Engineer — AI Infrastructure / Devtools",
-      "company": "Lavendo",
-      "location": "United States",
-      "url": "https://himalayas.app/companies/lavendo/jobs/product-engineer-ai-infrastructure-devtools",
-      "source": "Himalayas",
-      "description": "Lavendo partners with startups and high‑growth companies to help them hire top‑tier sales, GTM, and technical talent. This role is with one of our clients; we’ll share full details about the company and interview process as we get to know you and confirm mutual fit. About the Company Our client builds the data layer that AI agents actually run on. One API call turns any URL into clean, LLM-ready markdown or structured data — the boring-hard problem every team building with AI eventually slams into, solved for good. They hit eight figures in ARR in year one, then more than doubled it. 150,000+ ",
-      "tags": [
-        "ai-product-engineer",
-        "product-infrastructure-engineer",
-        "ai-tools-engineer",
-        "ai-infrastructure-engineer",
-        "ai-products-engineering",
-        "product-engineer"
-      ],
-      "verdict": "review",
-      "fit": 52,
-      "reasons": [
-        "United states-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -1408,6 +1353,24 @@
       "reasons": [
         "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
         "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "AI Response Evaluator",
+      "company": "iMerit Technology",
+      "location": "France, Japan, Turkey, Vietnam, Mexico, Norway",
+      "url": "https://remotive.com/remote-jobs/artificial-intelligence/ai-response-evaluator-2091126",
+      "source": "Remotive",
+      "description": "iMerit is looking for detail oriented analysts to evaluate and rank AI generated responses to image based prompts. You will judge answers on accuracy, relevance, clarity, conciseness, safety, localization, and how well they follow the user's instructions, then explain your reasoning in writing. Much of the job comes down to this: look at the image, look at what the model said about it, and decide whether the two actually match. What you will do Interpret conversational context and identify what the user really wanted Rate and rank responses against defined quality criteria Compare multiple ans",
+      "tags": [
+        "ai/ml",
+        "research",
+        "solid"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "France-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -2074,22 +2037,6 @@
       ]
     },
     {
-      "title": "Sales Engineer, EMEA",
-      "company": "Sonatype",
-      "location": "Germany, Singapore, UK",
-      "url": "https://jobicy.com/jobs/152363-sales-engineer-emea-2",
-      "source": "Jobicy",
-      "description": "Sonatype is the software supply chain security company. Sonatype is accelerating the future of agentic software development. As developers and AI agents build faster than ever, enterprises need a new level of control, visibility, and confidence at the moment software is assembled. Our Nexus One platform helps development, security, and platform teams govern the components,&hellip;",
-      "tags": [
-        "sales"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Uk-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
       "title": "Senior Independent AI Engineer / Architect",
       "company": "A.Team",
       "location": "Americas, Europe, Israel",
@@ -2139,6 +2086,23 @@
       "fit": 30,
       "reasons": [
         "location unconfirmed — verify it's open to Africa",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "QA Automation Lead [gn] Data Intelligence",
+      "company": "Actian",
+      "location": "Europe",
+      "url": "https://jobicy.com/jobs/149048-qa-automation-lead-gn-data-intelligence",
+      "source": "Jobicy",
+      "description": "The QA Automation Team is the ultimate guardian of our platform’s reliability, scalability, and deployment velocity. In a complex, data-heavy ecosystem, manual testing is a bottleneck; continuous, intelligent, and bulletproof automation is the only way forward. We are looking for a QA Automation Lead who will architect, scale, and own our automated testing strategy end-to-end.&hellip;",
+      "tags": [
+        "qa & testing"
+      ],
+      "verdict": "review",
+      "fit": 30,
+      "reasons": [
+        "Europe-tagged — verify it's open to Africa first",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -2258,23 +2222,6 @@
       "fit": 30,
       "reasons": [
         "Uk-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Senior Software Engineer (Golang)",
-      "company": "Zartis",
-      "location": "Europe",
-      "url": "https://jobicy.com/jobs/149948-senior-software-engineer-golang",
-      "source": "Jobicy",
-      "description": "The company and our mission: Zartis is a digital solutions provider working across technology strategy, software engineering, and product development. We partner with firms across financial services, MedTech, media, logistics technology, renewable energy, EdTech, e-commerce, and more. Our engineering hubs in EMEA and LATAM are full of talented professionals delivering business success and digital improvement&hellip;",
-      "tags": [
-        "software engineering"
-      ],
-      "verdict": "review",
-      "fit": 30,
-      "reasons": [
-        "Europe-tagged — verify it's open to Africa first",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -2483,6 +2430,22 @@
       "fit": 0,
       "reasons": [
         "Head of-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
+      "title": "Staff DevOps Engineer (Platform)",
+      "company": "Phantom",
+      "location": "Europe, USA",
+      "url": "https://jobicy.com/jobs/153130-staff-devops-engineer-platform",
+      "source": "Jobicy",
+      "description": "Phantom is on a mission to connect the world to the freedom of open markets. Tens of millions of people all over the world use Phantom to access global markets that never close, including perpetuals, prediction markets, tokenized assets, stablecoins and memes. Phantom users are able to discover the markets that matter and the cultural&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Staff-level — usually 5–10+ yrs, you have ~4"
       ]
     },
     {
