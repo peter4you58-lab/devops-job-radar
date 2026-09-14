@@ -1,13 +1,27 @@
 {
-  "generated": "2026-09-13 10:44 UTC",
-  "count": 107,
+  "generated": "2026-09-14 11:09 UTC",
+  "count": 108,
   "summary": {
-    "scanned": 107,
-    "eligible": 27,
-    "review": 67,
-    "blocked": 13
+    "scanned": 108,
+    "eligible": 29,
+    "review": 64,
+    "blocked": 15
   },
   "jobs": [
+    {
+      "title": "Developer Advocate - Service Management",
+      "company": "Datadog",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/datadog-developer-advocate-service-management",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: California, USA, Remote; New York, USA, Remote &nbsp; We are a team of engineers that translate our real-world experience to help our user communities solve problems. With a focus on service management, helping teams respond to incidents, run on-call, and automate their operations, you will work with practitioners and leaders across the industry and broaden your impact to the SRE, Engineer, DevOps, and Operations community at large. This is a unique opportunity to use both your engineering and creative storytelling skills to shape the landscape in cloud observability, incident re",
+      "tags": [],
+      "verdict": "eligible",
+      "fit": 70,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
     {
       "title": "DESARROLLADOR FULL STACK",
       "company": "Kruger NearShore LLC - Rekluti",
@@ -153,6 +167,40 @@
       "tags": [],
       "verdict": "eligible",
       "fit": 54,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
+    {
+      "title": "Remote Office Assistant",
+      "company": "Coalition Technologies",
+      "location": "Worldwide",
+      "url": "https://remotive.com/remote-jobs/marketing/remote-office-assistant-1680495",
+      "source": "Remotive",
+      "description": "Coalition Technologies is seeking a reliable, detail-oriented, and highly organized Remote Office Assistant to support administrative, bookkeeping, billing, reporting, data entry, and internal operations tasks. This role is ideal for someone with strong communication skills, discretion, attention to detail, and a willingness to learn and grow within a fast-paced remote work environment. As an Office Assistant, you will help support daily administrative operations, assist with entry-level bookkeeping, organize client documents, support internal reporting, and help maintain accurate company reco",
+      "tags": [
+        "css",
+        "excel",
+        "frontend",
+        "git",
+        "html",
+        "illustrator",
+        "magento",
+        "photoshop",
+        "php",
+        "shopify",
+        "wordpress",
+        "mysql",
+        "startup",
+        "responsive",
+        "themes",
+        "bootstrap",
+        "insurance",
+        "jquery",
+        "ajax"
+      ],
+      "verdict": "eligible",
+      "fit": 50,
       "reasons": [
         "remote — anywhere / global"
       ]
@@ -1153,6 +1201,23 @@
       ]
     },
     {
+      "title": "Senior Full Stack Engineer",
+      "company": "infisical",
+      "location": "Brazil, Canada, France, UK, USA",
+      "url": "https://jobicy.com/jobs/145861-senior-full-stack-engineer-5",
+      "source": "Jobicy",
+      "description": "Infisical is looking to hire exceptional talent to join our teams in building the open source security infrastructure stack for the AI era.We're building a generational company with a world-class team. This isn’t a place to coast — but if you want to grow fast, take ownership, and solve tough problems, you’ll be challenged like&hellip;",
+      "tags": [
+        "software engineering"
+      ],
+      "verdict": "review",
+      "fit": 46,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
       "title": "Senior Platform Engineer",
       "company": "Polar",
       "location": "Europe",
@@ -1238,23 +1303,6 @@
       ]
     },
     {
-      "title": "Senior Customer Success Architect - Singapore",
-      "company": "GitLab",
-      "location": "Singapore",
-      "url": "https://jobicy.com/jobs/150102-senior-customer-success-architect-singapore",
-      "source": "Jobicy",
-      "description": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster. The same principles built into&hellip;",
-      "tags": [
-        "customer support & success"
-      ],
-      "verdict": "review",
-      "fit": 42,
-      "reasons": [
-        "Singapore-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
       "title": "Engineering Manager TLM Platform",
       "company": "Harper",
       "location": "San Francisco",
@@ -1281,38 +1329,6 @@
       "fit": 40,
       "reasons": [
         "location unconfirmed — verify it's open to Africa"
-      ]
-    },
-    {
-      "title": "AI/ML Engineering Manager",
-      "company": "Caylent",
-      "location": "Argentina",
-      "url": "https://jobicy.com/jobs/152435-ai-ml-engineering-manager",
-      "source": "Jobicy",
-      "description": "Caylent is an AI-first cloud services company that helps organizations turn ambitious ideas into meaningful business impact. As an AWS Premier Tier Services Partner and a charter member of Anthropic’s Claude Partner Network, we combine deep expertise in AWS, artificial intelligence, and Anthropic’s Claude platform to help customers modernize their technology, build intelligent products, and&hellip;",
-      "tags": [
-        "data science & analytics"
-      ],
-      "verdict": "review",
-      "fit": 40,
-      "reasons": [
-        "Argentina-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Web Automation Test Engineer",
-      "company": "Caylent",
-      "location": "Brazil",
-      "url": "https://jobicy.com/jobs/152405-web-automation-test-engineer",
-      "source": "Jobicy",
-      "description": "Caylent is an AI-first cloud services company that helps organizations turn ambitious ideas into meaningful business impact. As an AWS Premier Tier Services Partner and a charter member of Anthropic’s Claude Partner Network, we combine deep expertise in AWS, artificial intelligence, and Anthropic’s Claude platform to help customers modernize their technology, build intelligent products, and&hellip;",
-      "tags": [
-        "qa & testing"
-      ],
-      "verdict": "review",
-      "fit": 40,
-      "reasons": [
-        "Brazil-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -1385,22 +1401,6 @@
         "ios",
         "social media",
         "ai/ml"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Face Deduplication Collection",
-      "company": "TELUS Digital",
-      "location": "USA",
-      "url": "https://remotive.com/remote-jobs/all-others/face-deduplication-collection-2091093",
-      "source": "Remotive",
-      "description": "The project compensation rate is $0.55 USD per accepted image. The objective of this project is to collect a large and diverse dataset of current neutral selfies, head-pose captures, and historical facial images to support machine-learning research and facial recognition model training at TELUS. The focus is on capturing real-world variation across lighting, poses, expressions, accessories, environments, and aging to improve model accuracy and robustness. The collection includes: • Current Neutral Selfies – clean frontal selfies serving as high-quality identity references, with natural variati",
-      "tags": [
-        "research"
       ],
       "verdict": "review",
       "fit": 36,
@@ -2021,22 +2021,6 @@
       ]
     },
     {
-      "title": "Product Engineer, Internal Tools - LATAM",
-      "company": "Luxury Presence",
-      "location": "LATAM",
-      "url": "https://jobicy.com/jobs/152452-product-engineer-internal-tools-latam",
-      "source": "Jobicy",
-      "description": "Luxury Presence is building the AI growth platform for real estate. Backed by Bessemer Venture Partners and other top investors, we're a Series C company that has hit $100M in annual recurring revenue. More than 90,000 real estate professionals, including over 30% of the WSJ Real Trends top 100 agents in the United States, use&hellip;",
-      "tags": [
-        "software engineering"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Latam-tagged — verify it's open to Africa first"
-      ]
-    },
-    {
       "title": "Senior Independent AI Engineer / Architect",
       "company": "A.Team",
       "location": "Americas, Europe, Israel",
@@ -2086,6 +2070,40 @@
       "fit": 30,
       "reasons": [
         "location unconfirmed — verify it's open to Africa",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Senior+ Backend Software Engineer - Asia",
+      "company": "Palmstreet",
+      "location": "China",
+      "url": "https://jobicy.com/jobs/153195-senior-backend-software-engineer-asia",
+      "source": "Jobicy",
+      "description": "About Palmstreet: Palmstreet is the #1 live shopping platform for rare plants, handmade crafts, &amp; unique goods. Founded in 2020 by Instagram and Apple veterans, Palmstreet began as a plant identification app and quickly evolved into a trailblazer in live shopping, beginning with plant sellers. Fueled by a passionate, plant-loving community, we rapidly expanded into&hellip;",
+      "tags": [
+        "software engineering"
+      ],
+      "verdict": "review",
+      "fit": 30,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Senior Software Architect (C# / AI First) - GovTech SaaS company",
+      "company": "Truelogic",
+      "location": "LATAM",
+      "url": "https://jobicy.com/jobs/149164-senior-software-architect-c-ai-first-govtech-saas-company",
+      "source": "Jobicy",
+      "description": "About TruelogicAt Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of all sizes, from innovative startups to industry leaders, helping them achieve their digital transformation goals.Our team of 600+ highly skilled tech professionals, based in Latin&hellip;",
+      "tags": [
+        "software engineering"
+      ],
+      "verdict": "review",
+      "fit": 30,
+      "reasons": [
+        "Latam-tagged — verify it's open to Africa first",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -2205,23 +2223,6 @@
       "fit": 30,
       "reasons": [
         "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Senior Account Executive, Nordics & Baltics",
-      "company": "Sonatype",
-      "location": "Germany, UK",
-      "url": "https://jobicy.com/jobs/152368-senior-account-executive-nordics-baltics",
-      "source": "Jobicy",
-      "description": "Sonatype is the software supply chain security company. We provide the world’s best end-to-end software supply chain security solution, combining the only proactive protection against malicious open source, the only enterprise grade SBOM management and the leading open source dependency management platform. This empowers enterprises to create and maintain secure, quality, and innovative software at&hellip;",
-      "tags": [
-        "sales"
-      ],
-      "verdict": "review",
-      "fit": 30,
-      "reasons": [
-        "Uk-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -2462,6 +2463,38 @@
       "fit": 0,
       "reasons": [
         "Staff-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
+      "title": "Head of Engineering",
+      "company": "saas.group",
+      "location": "Europe",
+      "url": "https://jobicy.com/jobs/150588-head-of-engineering",
+      "source": "Jobicy",
+      "description": "This role is part of our Seobility team, one of our growing brands at saas.group.Seobility joined saas.group in 2022. The Seobility all-in-one SEO suite empowers businesses and marketers around the world to boost their website visibility with professional SEO tools. Starting in 2013 with a commitment to usability and actionable advice to make professional-grade SEO&hellip;",
+      "tags": [
+        "software engineering"
+      ],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Head of-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
+      "title": "Principal Full-Stack Engineer (.NET/Angular) (AI-First Development) - Software",
+      "company": "Truelogic",
+      "location": "LATAM",
+      "url": "https://jobicy.com/jobs/149155-principal-full-stack-engineer-net-angular-ai-first-development-software",
+      "source": "Jobicy",
+      "description": "About TruelogicAt Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of all sizes, from innovative startups to industry leaders, helping them achieve their digital transformation goals.Our team of 600+ highly skilled tech professionals, based in Latin&hellip;",
+      "tags": [
+        "software engineering"
+      ],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Principal-level — usually 5–10+ yrs, you have ~4"
       ]
     },
     {
