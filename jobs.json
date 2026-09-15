@@ -1,11 +1,11 @@
 {
-  "generated": "2026-09-14 11:09 UTC",
-  "count": 108,
+  "generated": "2026-09-15 10:37 UTC",
+  "count": 109,
   "summary": {
-    "scanned": 108,
+    "scanned": 109,
     "eligible": 29,
-    "review": 64,
-    "blocked": 15
+    "review": 66,
+    "blocked": 14
   },
   "jobs": [
     {
@@ -326,6 +326,20 @@
       ]
     },
     {
+      "title": "Bilingual Channel Account Manager, Arabic (MEA) - UK",
+      "company": "Keeper Security",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/keeper-security-bilingual-channel-account-manager-arabic-mea-uk",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Remote, UK Description Keeper is hiring a driven, Arabic speaking Channel Account Manager to join the Keeper Global Channel Sales team. Qualified candidates must permanently reside in the UK (London). This is a fully remote position for those residing in London. Keeper's cybersecurity software is trusted by millions of people and thousands of organisations, globally. Keeper is published in 23 languages and is sold in over 150 countries. Join one of the fastest-growing cybersecurity companies and be responsible for building pipeline and channel revenue with high performance partne",
+      "tags": [],
+      "verdict": "eligible",
+      "fit": 50,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
+    {
       "title": "AEM Developer",
       "company": "Vonage",
       "location": "Anywhere in the World",
@@ -417,22 +431,6 @@
       "source": "WeWorkRemotely",
       "description": "Headquarters: ignitionit.com URL: https://ignitionit.com APPLY HERE: https://go.cultureindex.com/p/bLvP56CvGHU Fully Remote · Work from home · Full-time (Eastern or Pacific time zones) · Apple-first&nbsp; TL;DR ignitionit.com is a seasoned, Apple-first MSP — in business for almost 30 years — and we're hiring a Help Desk Technician to be the friendly, capable first voice our clients reach when something isn't working. This position is a remote, work-from-home, full-time role. We've written this as a junior-to-mid-level job description because that's where most great people start on our team. Bu",
       "tags": [],
-      "verdict": "eligible",
-      "fit": 50,
-      "reasons": [
-        "remote — anywhere / global"
-      ]
-    },
-    {
-      "title": "AEM Developer",
-      "company": "Vonage",
-      "location": "Anywhere",
-      "url": "https://jobicy.com/jobs/152458-aem-developer",
-      "source": "Jobicy",
-      "description": "Join Vonage and help us innovate cloud communications for businesses worldwide! Why this role matters: We are seeking an experienced and technically skilled Senior AEM Developer to join our digital engineering team. In this role, you will lead the design, development, and implementation of enterprise-level web applications using Adobe Experience Manager (AEM / AEM as&hellip;",
-      "tags": [
-        "software engineering"
-      ],
       "verdict": "eligible",
       "fit": 50,
       "reasons": [
@@ -716,6 +714,22 @@
       "description": "Sonatype is privileged to work with customers who rely on us to improve the quality, security, and speed of their software development lifecycle. The Federal Customer Success Manager (CSM) is the strategic post-sales advisor responsible for helping federal customers realize measurable value from their investment in Sonatype by driving adoption, retention, growth, and long-term customer&hellip;",
       "tags": [
         "customer support & success"
+      ],
+      "verdict": "review",
+      "fit": 52,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "Growth Marketing Manager",
+      "company": "infisical",
+      "location": "Canada, USA",
+      "url": "https://jobicy.com/jobs/150760-growth-marketing-manager",
+      "source": "Jobicy",
+      "description": "Infisical is the open source security infrastructure platform that engineers use for secrets management, certificates, and privileged access management. We help developers and organizations securely manage billions of secrets every month including application configuration, database credentials, certificates, and more. We’ve raised $19M from Y Combinator, Google, and Elad Gil, and our customers include Hugging Face,&hellip;",
+      "tags": [
+        "marketing & sales"
       ],
       "verdict": "review",
       "fit": 52,
@@ -1163,6 +1177,23 @@
       "fit": 46,
       "reasons": [
         "Europe-tagged — verify it's open to Africa first",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Senior DevOps Lead",
+      "company": "LivePerson",
+      "location": "Germany",
+      "url": "https://jobicy.com/jobs/153313-senior-devops-lead",
+      "source": "Jobicy",
+      "description": "Location: Berlin, Germany Remote Status: Fully Remote (#LI-Remote) LivePerson (NASDAQ: LPSN) is a leader in trusted enterprise conversational AI and digital transformation. The world's leading brands use our award-winning Conversational Cloud platform to connect with millions of consumers. We power nearly a billion conversational interactions every month, providing uniquely rich data analytics and safety tools&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
+      "verdict": "review",
+      "fit": 46,
+      "reasons": [
+        "Germany-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -1894,53 +1925,6 @@
       ]
     },
     {
-      "title": "Area Sales Manager",
-      "company": "ROAR Organic",
-      "location": "New York City Metropolitan Area",
-      "url": "https://remoteOK.com/remote-jobs/remote-area-sales-manager-roar-organic-1135611",
-      "source": "RemoteOK",
-      "description": "Job Title: Area Sales Manager Reports to: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Director of Sales- East Location: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Remote- New York Metro Status:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; FT/Exempt Compensation: $70,000 â $80,000 annual base salary, plus a competitive bonus opportunity. Final compensation will be commensurate with experience, skills, and qualifications. ABOUT THE COMPANY ROAR is redefining hydration for a new generation. In a category that has become overly serious and hardco",
-      "tags": [
-        "design",
-        "music",
-        "technical",
-        "travel",
-        "speech",
-        "video",
-        "exec",
-        "content writing",
-        "medical",
-        "engineer",
-        "digital nomad",
-        "sys admin",
-        "consulting",
-        "testing",
-        "virtual assistant",
-        "finance",
-        "senior",
-        "ops",
-        "customer support",
-        "dev",
-        "microsoft",
-        "excel",
-        "legal",
-        "designer",
-        "web dev",
-        "cloud",
-        "marketing",
-        "photoshop",
-        "illustrator",
-        "full time",
-        "part time",
-        "sales"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "location unconfirmed — verify it's open to Africa"
-      ]
-    },
-    {
       "title": "Business Systems Engineer",
       "company": "ClickUp",
       "location": "USA",
@@ -2070,6 +2054,23 @@
       "fit": 30,
       "reasons": [
         "location unconfirmed — verify it's open to Africa",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Canada- Sr Application Engineer (Salesforce-Agentforce Ai)",
+      "company": "PointClickCare",
+      "location": "Canada",
+      "url": "https://jobicy.com/jobs/149241-canada-sr-application-engineer-salesforce-agentforce-ai",
+      "source": "Jobicy",
+      "description": "At PointClickCare our mission is simple: to help providers deliver exceptional care. And that starts with our people. As a leading health tech company that’s founder-led and privately held, we empower our employees to push boundaries, innovate, and shape the future of healthcare. With the largest long-term and post-acute care dataset and a Marketplace of&hellip;",
+      "tags": [
+        "software engineering"
+      ],
+      "verdict": "review",
+      "fit": 30,
+      "reasons": [
+        "Canada-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -2210,19 +2211,27 @@
       ]
     },
     {
-      "title": "Web Strategy, SEO & AI Lead",
-      "company": "Harness",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/152486-web-strategy-seo-ai-lead",
-      "source": "Jobicy",
-      "description": "Harness is the AI Software Delivery Platform company, led by technologist and entrepreneur Jyoti Bansal (founder of AppDynamics, acquired by Cisco for $3.7B). Harness has raised approximately $570M in funding and is valued at $5.5B, backed by leading investors including Goldman Sachs, Menlo Ventures, IVP, Unusual Ventures, Citi Ventures, and more. As AI accelerates code&hellip;",
+      "title": "Senior Product Manager, Media & Entertainment AI Platform",
+      "company": "Autodesk",
+      "location": "Canada",
+      "url": "https://himalayas.app/companies/autodesk/jobs/senior-product-manager-media-entertainment-ai-platform-6957992717",
+      "source": "Himalayas",
+      "description": "Job Requisition ID # 26WD98600 French posting follows Senior Product Manager, Media &amp; Entertainment AI Platform Position Overview At Autodesk , we help our customers design and make anything. Within Autodesk Interactive Graphics, Media &amp; Entertainment, that mission comes to life through products that helpfilm, games, and animationteamstell amazing stories, buildincredible worlds, andcoordinate complex work acrossproductionpipelines. As Senior Product Manager, you will work on Autodesk ’s next-generation AInativeplatformin Media &amp; Entertainment,“Flow,”andwill play a key role in defi",
       "tags": [
-        "seo"
+        "senior-product-management",
+        "ai-product-management",
+        "media-product-management",
+        "saas-product-management",
+        "product-management",
+        "senior-product-manager-ai-platform",
+        "senior-ai-product-manager",
+        "senior-ai-product-management",
+        "ai-platform-product-manager"
       ],
       "verdict": "review",
       "fit": 30,
       "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "Canada-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -2538,22 +2547,6 @@
       "description": "As a Director, Enterprise Sales Engineering, you will lead a team of frontline leaders, driving account strategy, deal execution, operational excellence, and team development across your region. This is a strategic leadership role with regional impact within North America. You will act as a force multiplier by owning team and region performance, shaping execution standards,&hellip;",
       "tags": [
         "sales"
-      ],
-      "verdict": "blocked",
-      "fit": 0,
-      "reasons": [
-        "Director-level — usually 5–10+ yrs, you have ~4"
-      ]
-    },
-    {
-      "title": "Director of Engineering, Cloud & Reliability",
-      "company": "Boulevard",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/152496-director-of-engineering-cloud-reliability-2",
-      "source": "Jobicy",
-      "description": "Who is Boulevard? Boulevard provides the first and only client experience platform for appointment-based, self-care businesses. We empower our customers to give their clients more of the magical moments that matter most. Before launching in 2016, our founders spent months interviewing salon managers and working behind front desks to understand their pain points so we&hellip;",
-      "tags": [
-        "devops & infrastructure"
       ],
       "verdict": "blocked",
       "fit": 0,
