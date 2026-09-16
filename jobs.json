@@ -1,10 +1,10 @@
 {
-  "generated": "2026-09-15 10:37 UTC",
-  "count": 109,
+  "generated": "2026-09-16 10:25 UTC",
+  "count": 106,
   "summary": {
-    "scanned": 109,
-    "eligible": 29,
-    "review": 66,
+    "scanned": 106,
+    "eligible": 28,
+    "review": 64,
     "blocked": 14
   },
   "jobs": [
@@ -332,20 +332,6 @@
       "url": "https://weworkremotely.com/remote-jobs/keeper-security-bilingual-channel-account-manager-arabic-mea-uk",
       "source": "WeWorkRemotely",
       "description": "Headquarters: Remote, UK Description Keeper is hiring a driven, Arabic speaking Channel Account Manager to join the Keeper Global Channel Sales team. Qualified candidates must permanently reside in the UK (London). This is a fully remote position for those residing in London. Keeper's cybersecurity software is trusted by millions of people and thousands of organisations, globally. Keeper is published in 23 languages and is sold in over 150 countries. Join one of the fastest-growing cybersecurity companies and be responsible for building pipeline and channel revenue with high performance partne",
-      "tags": [],
-      "verdict": "eligible",
-      "fit": 50,
-      "reasons": [
-        "remote — anywhere / global"
-      ]
-    },
-    {
-      "title": "AEM Developer",
-      "company": "Vonage",
-      "location": "Anywhere in the World",
-      "url": "https://weworkremotely.com/remote-jobs/vonage-aem-developer",
-      "source": "WeWorkRemotely",
-      "description": "Headquarters: Remote Join Vonage and help us innovate cloud communications for businesses worldwide! Why this role matters: We are seeking an experienced and technically skilled Senior AEM Developer to join our digital engineering team. In this role, you will lead the design, development, and implementation of enterprise-level web applications using Adobe Experience Manager (AEM / AEM as a Cloud Service). You will collaborate closely with product owners, UI/UX designers, and front-end developers to deliver high-performing, scalable, and secure digital experiences.&nbsp; Your key responsibiliti",
       "tags": [],
       "verdict": "eligible",
       "fit": 50,
@@ -799,22 +785,6 @@
       "fit": 52,
       "reasons": [
         "Germany-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Engineering Manager - Python and K8s",
-      "company": "Canonical",
-      "location": "APAC, EMEA",
-      "url": "https://jobicy.com/jobs/150121-engineering-manager-python-and-k8s",
-      "source": "Jobicy",
-      "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders&hellip;",
-      "tags": [
-        "product & operations"
-      ],
-      "verdict": "review",
-      "fit": 52,
-      "reasons": [
-        "EMEA-tagged — verify it's open to Africa first"
       ]
     },
     {
@@ -1317,23 +1287,6 @@
       ]
     },
     {
-      "title": "Senior Platform Engineer",
-      "company": "saas.group",
-      "location": "Europe",
-      "url": "https://jobicy.com/jobs/150132-senior-platform-engineer-2",
-      "source": "Jobicy",
-      "description": "This role is part of our Central Platform Engineering Team at saas.group.What is saas.group?Think of us as the driving catalyst behind your favorite software success stories. saas.group, established in 2017, is on a mission to turbocharge promising B2B SaaS ventures, unlocking their full potential. As a Software-as-a-Service portfolio powerhouse, we specialize in acquiring small software&hellip;",
-      "tags": [
-        "devops & infrastructure"
-      ],
-      "verdict": "review",
-      "fit": 46,
-      "reasons": [
-        "Europe-tagged — verify it's open to Africa first",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
       "title": "Engineering Manager TLM Platform",
       "company": "Harper",
       "location": "San Francisco",
@@ -1360,46 +1313,6 @@
       "fit": 40,
       "reasons": [
         "location unconfirmed — verify it's open to Africa"
-      ]
-    },
-    {
-      "title": "Tech Lead Full-Stack Rails Engineer",
-      "company": "Mitre Media",
-      "location": "USA, Canada, USA timezones",
-      "url": "https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746",
-      "source": "Remotive",
-      "description": "About Mitre Media Mitre Media is redefining FinTech with AI-driven tools that empower millions of investors. Our portfolio, including Dividend.com and MutualFunds.com, leverages LLMs to deliver novel data insights and visually rich user experiences. For over a decade, we’ve served individual investors, financial advisors, and top asset managers like BlackRock and Vanguard through our premium data, tools, and advertising solutions. Join our lean, entrepreneurial team to shape the future of AI-powered investing from your location ±3 hours from Eastern Time. Our users are deeply engaged, spending",
-      "tags": [
-        "api",
-        "css",
-        "docker",
-        "elasticsearch",
-        "fullstack",
-        "html",
-        "javascript",
-        "kubernetes",
-        "postgresql",
-        "react",
-        "ror",
-        "ruby/rails",
-        "ai/ml",
-        "cad",
-        "advertising",
-        "redis",
-        "es6",
-        "web applications",
-        "mysql",
-        "nlp",
-        "fintech",
-        "micro services",
-        "github",
-        "system architecture"
-      ],
-      "verdict": "review",
-      "fit": 38,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
     {
@@ -1925,6 +1838,70 @@
       ]
     },
     {
+      "title": "Data Engineer",
+      "company": "Gopuff",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/150836-data-engineer",
+      "source": "Jobicy",
+      "description": "At Gopuff, data sits at the heart of our strategy. We are reimagining how people purchase everyday essentials, from snacks to household goods to alcohol, all delivered in minutes. To fuel this mission, we are seeking a Data Engineer to design, build, and scale the data systems that power insights, experimentation, and operational excellence across&hellip;",
+      "tags": [
+        "data science & analytics"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "Support Engineering Manager (APAC)",
+      "company": "Supabase",
+      "location": "APAC",
+      "url": "https://jobicy.com/jobs/146230-support-engineering-manager-apac",
+      "source": "Jobicy",
+      "description": "About SupabaseSupabase is the Postgres development platform: Database, Auth, Storage, Edge Functions, Realtime, and Vector, deeply integrated and built for teams that need their backend to grow with them. We're open source, we move fast, and our users are developers who notice when things are off.About this roleWe're hiring a Support Manager on our global&hellip;",
+      "tags": [
+        "technical support"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "APAC-tagged — verify it's open to Africa first"
+      ]
+    },
+    {
+      "title": "Support Engineering Manager (APAC)",
+      "company": "Supabase",
+      "location": "APAC",
+      "url": "https://jobicy.com/jobs/149306-support-engineering-manager-apac-2",
+      "source": "Jobicy",
+      "description": "About SupabaseSupabase is the Postgres development platform: Database, Auth, Storage, Edge Functions, Realtime, and Vector, deeply integrated and built for teams that need their backend to grow with them. We're open source, we move fast, and our users are developers who notice when things are off.About this roleWe're hiring a Support Manager on our global&hellip;",
+      "tags": [
+        "technical support"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "APAC-tagged — verify it's open to Africa first"
+      ]
+    },
+    {
+      "title": "Forward Deployed Engineer, Python",
+      "company": "Socket",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/153341-forward-deployed-engineer-python",
+      "source": "Jobicy",
+      "description": "About Us Socket helps devs and security teams ship faster by cutting out security busywork. Thousands of orgs use Socket to safely find, audit, and manage open source code. Our customers - from Anthropic to xAI, and Figma to Vercel - love Socket (just check out their tweets to see for yourself!) Founded by Feross&hellip;",
+      "tags": [
+        "cybersecurity"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
       "title": "Business Systems Engineer",
       "company": "ClickUp",
       "location": "USA",
@@ -2173,65 +2150,6 @@
       "fit": 30,
       "reasons": [
         "Uk-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Senior Software Engineer (Revenue)",
-      "company": "Zuora",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/152529-senior-software-engineer-revenue",
-      "source": "Jobicy",
-      "description": "About Zuora At Zuora, we help businesses grow smarter and adapt faster. Our platform powers modern business models — from subscriptions and usage-based pricing to AI-driven and outcome-based offerings — helping companies launch new products, automate complex billing, and unlock predictable, recurring revenue. We’ve led the Subscription Economy for more than a decade. Now we’re&hellip;",
-      "tags": [
-        "software engineering"
-      ],
-      "verdict": "review",
-      "fit": 30,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Senior Java Engineer",
-      "company": "Zuora",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/152522-senior-java-engineer",
-      "source": "Jobicy",
-      "description": "About Zuora At Zuora, we help businesses grow smarter and adapt faster. Our platform powers modern business models — from subscriptions and usage-based pricing to AI-driven and outcome-based offerings — helping companies launch new products, automate complex billing, and unlock predictable, recurring revenue. We’ve led the Subscription Economy for more than a decade. Now we’re&hellip;",
-      "tags": [
-        "software engineering"
-      ],
-      "verdict": "review",
-      "fit": 30,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Senior Product Manager, Media & Entertainment AI Platform",
-      "company": "Autodesk",
-      "location": "Canada",
-      "url": "https://himalayas.app/companies/autodesk/jobs/senior-product-manager-media-entertainment-ai-platform-6957992717",
-      "source": "Himalayas",
-      "description": "Job Requisition ID # 26WD98600 French posting follows Senior Product Manager, Media &amp; Entertainment AI Platform Position Overview At Autodesk , we help our customers design and make anything. Within Autodesk Interactive Graphics, Media &amp; Entertainment, that mission comes to life through products that helpfilm, games, and animationteamstell amazing stories, buildincredible worlds, andcoordinate complex work acrossproductionpipelines. As Senior Product Manager, you will work on Autodesk ’s next-generation AInativeplatformin Media &amp; Entertainment,“Flow,”andwill play a key role in defi",
-      "tags": [
-        "senior-product-management",
-        "ai-product-management",
-        "media-product-management",
-        "saas-product-management",
-        "product-management",
-        "senior-product-manager-ai-platform",
-        "senior-ai-product-manager",
-        "senior-ai-product-management",
-        "ai-platform-product-manager"
-      ],
-      "verdict": "review",
-      "fit": 30,
-      "reasons": [
-        "Canada-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
