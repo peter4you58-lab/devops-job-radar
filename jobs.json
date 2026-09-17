@@ -1,11 +1,11 @@
 {
-  "generated": "2026-09-16 10:25 UTC",
-  "count": 106,
+  "generated": "2026-09-17 10:35 UTC",
+  "count": 105,
   "summary": {
-    "scanned": 106,
-    "eligible": 28,
-    "review": 64,
-    "blocked": 14
+    "scanned": 105,
+    "eligible": 29,
+    "review": 61,
+    "blocked": 15
   },
   "jobs": [
     {
@@ -150,6 +150,40 @@
       "source": "WeWorkRemotely",
       "description": "Headquarters: New York, NY URL: https://lemon.io Senior Developer? Work Remote. Get Paid Well. Build What Matters. Lemon.io connects hand-picked senior developers with vetted startups across the US and Europe — no bidding wars, no ghosting, just serious opportunities. We're currently hiring for a research-driven AI company on a mission to slash the cost of modern AI — co-designing hardware, software, algorithms, and models to make AI's benefits accessible to everyone. They're active open-source contributors, building the infrastructure behind next-generation AI at scale. Open roles: Senior Sof",
       "tags": [],
+      "verdict": "eligible",
+      "fit": 60,
+      "reasons": [
+        "remote — anywhere / global",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Senior DevOps Engineer - Storage Platforms",
+      "company": "Five9",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/153466-senior-devops-engineer-storage-platforms",
+      "source": "Jobicy",
+      "description": "Join us in bringing joy to customer experience. Five9 is a leading provider of cloud contact center software, bringing the power of cloud innovation to customers worldwide. Living our values everyday results in our team-first culture and enables us to innovate, grow, and thrive while enjoying the journey together. We celebrate diversity and foster an&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
+      "verdict": "eligible",
+      "fit": 60,
+      "reasons": [
+        "remote — anywhere / global",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Senior Cloud Architect (Network & SRE)",
+      "company": "LivePerson",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/153429-senior-cloud-architect-network-sre",
+      "source": "Jobicy",
+      "description": "Location: USA Remote Status: 100% remote LivePerson (NASDAQ: LPSN) is a leader in trusted enterprise conversational AI and digital transformation. The world's leading brands use our award-winning Conversational Cloud platform to connect with millions of consumers. We power nearly a billion conversational interactions every month, providing uniquely rich data analytics and safety tools to unlock&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
       "verdict": "eligible",
       "fit": 60,
       "reasons": [
@@ -485,21 +519,6 @@
       ]
     },
     {
-      "title": "Cyber Security GTM Leader",
-      "company": "Databricks",
-      "location": "Anywhere in the World",
-      "url": "https://weworkremotely.com/remote-jobs/databricks-cyber-security-gtm-leader",
-      "source": "WeWorkRemotely",
-      "description": "Headquarters: Remote - California; Remote - New York SLSQ327R408 As the Cybersecurity Go-to-market (GTM) Leader, you will drive the global GTM strategy and execution of the Cybersecurity business at Databricks. You will play a pivotal role in accelerating cyber revenue growth by building scalable assets for the field, designing enablement programs, and driving key partnerships. You will be the domain expert and business executive for cybersecurity use-cases across all verticals and regions. In this role, you will set a clear GTM vision for Cybersecurity, work with a cross-functional team and f",
-      "tags": [],
-      "verdict": "eligible",
-      "fit": 44,
-      "reasons": [
-        "remote — anywhere / global",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
       "title": "Senior Application Security Engineer",
       "company": "Temporal Technologies",
       "location": "Anywhere in the World",
@@ -661,6 +680,22 @@
     },
     {
       "title": "DevOps Engineer",
+      "company": "Cision",
+      "location": "Brazil, Mexico",
+      "url": "https://jobicy.com/jobs/153473-devops-engineer-5",
+      "source": "Jobicy",
+      "description": "At Cision, we believe in empowering every individual to make an impact. Here, your voice is heard, your ideas are valued, and your unique perspective fuels our collective success. As part of our global team, you'll thrive in an environment that champions curiosity, collaboration, and innovation, all while making meaningful contributions to the brands we&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
+      "verdict": "review",
+      "fit": 52,
+      "reasons": [
+        "Brazil-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "DevOps Engineer",
       "company": "Cloudbeds",
       "location": "USA",
       "url": "https://jobicy.com/jobs/152990-devops-engineer-4",
@@ -700,6 +735,38 @@
       "description": "Sonatype is privileged to work with customers who rely on us to improve the quality, security, and speed of their software development lifecycle. The Federal Customer Success Manager (CSM) is the strategic post-sales advisor responsible for helping federal customers realize measurable value from their investment in Sonatype by driving adoption, retention, growth, and long-term customer&hellip;",
       "tags": [
         "customer support & success"
+      ],
+      "verdict": "review",
+      "fit": 52,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "Atlassian Administrator 1726",
+      "company": "Softgic",
+      "location": "Anywhere",
+      "url": "https://jobicy.com/jobs/146254-atlassian-administrator-1726",
+      "source": "Jobicy",
+      "description": "This is a remote position. We are seeking an experienced Atlassian Administrator to manage, optimize, and continuously improve our Atlassian Cloud ecosystem. This role will be responsible for the administration, configuration, customization, and support of Jira Software, Confluence, and Jira Service Management (JSM) , ensuring these platforms effectively support business processes and operational goals across&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
+      "verdict": "review",
+      "fit": 52,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
+      "title": "Infrastructure Developer, Platform Engineering",
+      "company": "MaintainX",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/153437-infrastructure-developer-platform-engineering",
+      "source": "Jobicy",
+      "description": "MaintainX is a leading mobile-first work execution platform for industrial and frontline teams. More than 13,000 customers, including Duracell, McDonald's, Shell, DHL and Volvo, use MaintainX to cut unplanned downtime and run better operations, across 13.9 million managed assets and 79.5 million completed work orders. In August 2026 MaintainX became part of Autodesk, joining Autodesk&hellip;",
+      "tags": [
+        "devops & infrastructure"
       ],
       "verdict": "review",
       "fit": 52,
@@ -753,22 +820,6 @@
       "fit": 52,
       "reasons": [
         "EMEA-tagged — verify it's open to Africa first"
-      ]
-    },
-    {
-      "title": "Manager, Engineering | ML Infrastructure & Tooling",
-      "company": "ExtraHop",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/153008-manager-engineering-ml-infrastructure-tooling",
-      "source": "Jobicy",
-      "description": "At ExtraHop, we’re on a mission to protect and empower the connected enterprise. We reveal what is happening in the very infrastructure that sustains businesses, lives, and communities, and ensure the integrity of networks, data, systems, and processes. Organizations rely on ExtraHop to provide visibility into the cyber threats, vulnerabilities, and network performance issues that&hellip;",
-      "tags": [
-        "devops & infrastructure"
-      ],
-      "verdict": "review",
-      "fit": 52,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -1041,23 +1092,6 @@
       ]
     },
     {
-      "title": "Pre-Sales Solution Architect – AI Infrastructure (remote in the EU)",
-      "company": "Mirantis",
-      "location": "Europe",
-      "url": "https://jobicy.com/jobs/150239-pre-sales-solution-architect-ai-infrastructure-remote-in-the-eu",
-      "source": "Jobicy",
-      "description": "Company DescriptionAbout MirantisMirantis is the Kubernetes-native AI infrastructure company, enabling organizations to build and operate scalable, secure, and sovereign infrastructure for modern AI, machine learning, and data-intensive applications. By combining open source innovation with deep expertise in Kubernetes orchestration, Mirantis empowers platform engineering teams to deliver composable, production-ready developer platforms across any environment—on-premises, in the&hellip;",
-      "tags": [
-        "software engineering"
-      ],
-      "verdict": "review",
-      "fit": 50,
-      "reasons": [
-        "Europe-tagged — verify it's open to Africa first",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
       "title": "Software Engineer - Python - Container Images",
       "company": "Canonical",
       "location": "APAC, EMEA, LATAM, Canada, USA",
@@ -1270,23 +1304,6 @@
       ]
     },
     {
-      "title": "Senior Site Reliability Engineer I",
-      "company": "Braze",
-      "location": "Canada",
-      "url": "https://jobicy.com/jobs/152549-senior-site-reliability-engineer-i",
-      "source": "Jobicy",
-      "description": "At Braze, we have found our people. We’re a genuinely approachable, exceptionally kind, and intensely passionate crew. We seek to ignite that passion by setting high standards, championing teamwork, and creating work-life harmony as we collectively navigate rapid growth on a global scale while striving for greater equity and opportunity – inside and outside our&hellip;",
-      "tags": [
-        "devops & infrastructure"
-      ],
-      "verdict": "review",
-      "fit": 46,
-      "reasons": [
-        "Canada-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
       "title": "Engineering Manager TLM Platform",
       "company": "Harper",
       "location": "San Francisco",
@@ -1313,6 +1330,46 @@
       "fit": 40,
       "reasons": [
         "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
+      "title": "Tech Lead Full-Stack Rails Engineer",
+      "company": "Mitre Media",
+      "location": "USA, Canada, USA timezones",
+      "url": "https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746",
+      "source": "Remotive",
+      "description": "About Mitre Media Mitre Media is redefining FinTech with AI-driven tools that empower millions of investors. Our portfolio, including Dividend.com and MutualFunds.com, leverages LLMs to deliver novel data insights and visually rich user experiences. For over a decade, we’ve served individual investors, financial advisors, and top asset managers like BlackRock and Vanguard through our premium data, tools, and advertising solutions. Join our lean, entrepreneurial team to shape the future of AI-powered investing from your location ±3 hours from Eastern Time. Our users are deeply engaged, spending",
+      "tags": [
+        "api",
+        "css",
+        "docker",
+        "elasticsearch",
+        "fullstack",
+        "html",
+        "javascript",
+        "kubernetes",
+        "postgresql",
+        "react",
+        "ror",
+        "ruby/rails",
+        "ai/ml",
+        "cad",
+        "advertising",
+        "redis",
+        "es6",
+        "web applications",
+        "mysql",
+        "nlp",
+        "fintech",
+        "micro services",
+        "github",
+        "system architecture"
+      ],
+      "verdict": "review",
+      "fit": 38,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
     {
@@ -1838,6 +1895,22 @@
       ]
     },
     {
+      "title": "Agile Coach (FTC)",
+      "company": "TrustedHousesitters",
+      "location": "UK",
+      "url": "https://jobicy.com/jobs/153382-agile-coach-ftc",
+      "source": "Jobicy",
+      "description": "TrustedHousesitters is a fast growing, direct-to-consumer marketplace that is redefining pet care and travel. Here at TrustedHousesitters, we’re on a mission to make travel work better for pets, for their people, and for the global community of animal lovers who look after them. We’ve got big plans on becoming the world’s most-loved travel solution for&hellip;",
+      "tags": [
+        "project & program management"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "Uk-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
       "title": "Data Engineer",
       "company": "Gopuff",
       "location": "USA",
@@ -1966,45 +2039,6 @@
       ]
     },
     {
-      "title": "Software Engineer II - Poland",
-      "company": "Housecall Pro",
-      "location": "Poland",
-      "url": "https://jobicy.com/jobs/152625-software-engineer-ii-poland",
-      "source": "Jobicy",
-      "description": "Why Housecall Pro? Help us build solutions that build better lives. At Housecall Pro, we show up to work every day to make a difference for real people: the home service professionals that support America’s 100 million homes. We’re all about the Pro, and dedicate our days to helping them streamline operations, scale their businesses,&hellip;",
-      "tags": [
-        "software engineering"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Poland-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Senior Independent AI Engineer / Architect",
-      "company": "A.Team",
-      "location": "Americas, Europe, Israel",
-      "url": "https://remotive.com/remote-jobs/software-development/senior-independent-ai-engineer-architect-1919266",
-      "source": "Remotive",
-      "description": "Senior Independent AI Engineer / Architect Remote | Americas, Europe, or Israel Most AI engineers can find work. Finding work worth doing is harder. A.Team is an invite-only network of senior AI engineers, ML engineers, and AI architects building production AI systems for startups, enterprises, and global companies. Since 2020, builders in the network have earned more than $200M working with companies including Lyft, Google X, HCA, Unilever, Sightful, D-ID, and others. The Work You'll join small teams solving real problems. Not demos. Not proof-of-concepts that never ship. Not another thin wra",
-      "tags": [
-        "go",
-        "ui/ux",
-        "wordpress",
-        "chat",
-        "apple",
-        "testing",
-        "catalyst"
-      ],
-      "verdict": "review",
-      "fit": 30,
-      "reasons": [
-        "Europe-tagged — verify it's open to Africa first",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
       "title": "Senior Governance Risk and Compliance Analyst",
       "company": "RainFocus",
       "location": "Orem, UT",
@@ -2103,129 +2137,25 @@
       ]
     },
     {
-      "title": "Platform Architect",
-      "company": "Instructure",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/152637-platform-architect",
-      "source": "Jobicy",
-      "description": "At Instructure, we believe in the power of people to grow and succeed throughout their lives. Our goal is to amplify that power by creating intuitive products that simplify learning and personal development, facilitate meaningful relationships, and inspire people to go further in their education and careers.We do this by giving smart, creative, passionate people&hellip;",
-      "tags": [
-        "software engineering"
-      ],
-      "verdict": "review",
-      "fit": 30,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "RevTech Senior Salesforce Developer - LATAM",
-      "company": "Luxury Presence",
-      "location": "LATAM",
-      "url": "https://jobicy.com/jobs/152602-revtech-senior-salesforce-developer-latam",
-      "source": "Jobicy",
-      "description": "Luxury Presence is building the AI growth platform for real estate. Backed by Bessemer Venture Partners and other top investors, we're a Series C company that has hit $100M in annual recurring revenue. More than 90,000 real estate professionals, including over 30% of the WSJ Real Trends top 100 agents in the United States, use&hellip;",
-      "tags": [
-        "software engineering"
-      ],
-      "verdict": "review",
-      "fit": 30,
-      "reasons": [
-        "Latam-tagged — verify it's open to Africa first",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Senior Enterprise Account Executive",
-      "company": "Fastly",
-      "location": "UK",
-      "url": "https://jobicy.com/jobs/152564-senior-enterprise-account-executive-2",
-      "source": "Jobicy",
-      "description": "Fastly helps people stay better connected with the things they love. Fastly’s edge cloud platform enables customers to create great digital experiences quickly, securely, and reliably by processing, serving, and securing our customers’ applications as close to their end-users as possible — at the edge of the Internet. The platform is designed to take advantage&hellip;",
-      "tags": [
-        "sales"
-      ],
-      "verdict": "review",
-      "fit": 30,
-      "reasons": [
-        "Uk-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Senior Independent Software Developer",
-      "company": "A.Team",
-      "location": "Americas, Europe, Israel",
-      "url": "https://remotive.com/remote-jobs/software-development/senior-independent-software-developer-1919265",
-      "source": "Remotive",
-      "description": "You must be located in the Americas, Europe, or Israel to apply. A·Team is a VC-backed, stealth, application-only home on the internet for senior independent software builders to team up with hand-picked, high-growth companies on their next big thing. After talking with hundreds of independent engineers, designers, and product folks, we heard over and over that finding vetted, high-quality, consistent clients is hard, and projects are often too small to be rewarding. A·Team matches small teams of the most talented builders in the world with companies backed by a16z, YC, Softbank, General Catal",
-      "tags": [
-        "go",
-        "wordpress",
-        "chat",
-        "apple",
-        "testing",
-        "catalyst"
-      ],
-      "verdict": "blocked",
-      "fit": 0,
-      "reasons": [
-        "work-authorization wall (must be located in)"
-      ]
-    },
-    {
-      "title": "Head of Marketing & Communications",
-      "company": "garden3d",
+      "title": "Principal Product Manager",
+      "company": "DomainTools",
       "location": "Worldwide",
-      "url": "https://remotive.com/remote-jobs/marketing/head-of-marketing-communications-2091068",
-      "source": "Remotive",
-      "description": "We are hiring a Head of Marketing &amp; Communications to tell the garden3d story across the internet, from wherever in the world you happen to be. More details if you check our original job posting link About garden3d We are worker owned creative collective, innovating on everything from brands and IRL communities to IoT devices and cross platform apps. We share profit, open source everything, spin out new businesses, and invest in exciting ideas through financial and/or in-kind contributions. Our client roster includes Google , Stripe , Figma , Hinge , Black Socialists in America , ACLU , Pr",
-      "tags": [
-        "c",
-        "video",
-        "open source",
-        "ai/ml",
-        "figma",
-        "project management",
-        "editing",
-        "iot",
-        "testing",
-        "themes",
-        "mobile development"
-      ],
-      "verdict": "blocked",
-      "fit": 0,
-      "reasons": [
-        "Head of-level — usually 5–10+ yrs, you have ~4"
-      ]
-    },
-    {
-      "title": "Principal Data Engineer",
-      "company": "Vomela",
-      "location": "Worldwide",
-      "url": "https://remoteOK.com/remote-jobs/remote-principal-data-engineer-vomela-1136860",
+      "url": "https://remoteOK.com/remote-jobs/remote-principal-product-manager-domaintools-1137396",
       "source": "RemoteOK",
-      "description": "At Vomela our greatest asset is our people. As a full-service visual communications company, we are looking for creative and intellectual thinkers that work with our customers to create compelling brand solutions and foster meaningful connections. And while you're focused on creating big things for global and local brands, we will help you build a career you can be passionate about. Apply now to find your place at Vomela. Pay Range:Â $180 - 200k USD Job Summary The Principal Data Engineer is the highest-performing contributor on our data engineering team - the person who sets the technical bar",
+      "description": "DomainTools is looking for a Principal Product Manager to join its Product team. Data is the backbone of our products, and this role will be responsible for growing and refining the data products that drive our threat intelligence solutions, with API-first delivery and integration into UI, AI and third-party experiences and workflows. This is a strategic role for the company that has a high impact on the companyâs success, and has a great deal of visibility both inside and outside the company. The ideal candidate is a strong leader and successful product manager with a track record of delive",
       "tags": [
-        "design",
-        "sys admin",
-        "education",
-        "technical",
-        "dev",
-        "speech",
-        "devops",
-        "cloud",
-        "git",
-        "microsoft",
+        "product manager",
         "exec",
-        "senior",
-        "ops",
+        "infosec",
+        "marketing",
+        "design",
+        "web dev",
+        "scrum",
+        "cloud",
+        "api",
         "stats",
         "sales",
-        "medical",
         "engineer",
-        "apache",
         "digital nomad"
       ],
       "verdict": "blocked",
@@ -2361,6 +2291,36 @@
       ]
     },
     {
+      "title": "Principal Cloud Architect",
+      "company": "ZoomInfo Technologies LLC",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-principal-cloud-architect",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Remote-US-NY ZoomInfo is where careers accelerate. We move fast, think boldly, and empower you to do the best work of your life. You’ll be surrounded by teammates who care deeply, challenge each other, and celebrate wins. With tools that amplify your impact and a culture that backs your ambition, you won’t just contribute. You’ll make things happen–fast. What You'll Do Prototype and Hand Off: Design platform patterns end-to-end—build reference implementations, document the rationale, and partner with implementation teams to roll them out. Stay hands-on through proof-of-concept an",
+      "tags": [],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Principal-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
+      "title": "Staff DevOps Engineer",
+      "company": "Cision",
+      "location": "Brazil, Mexico",
+      "url": "https://jobicy.com/jobs/153477-staff-devops-engineer-3",
+      "source": "Jobicy",
+      "description": "At Cision, we believe in empowering every individual to make an impact. Here, your voice is heard, your ideas are valued, and your unique perspective fuels our collective success. As part of our global team, you'll thrive in an environment that champions curiosity, collaboration, and innovation, all while making meaningful contributions to the brands we&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Staff-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
       "title": "Staff DevOps Engineer (Platform)",
       "company": "Phantom",
       "location": "Europe, USA",
@@ -2470,6 +2430,33 @@
       "fit": 0,
       "reasons": [
         "Director-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
+      "title": "Staff Software Engineer - Platform and Cloud Services",
+      "company": "Agiloft",
+      "location": "Canada",
+      "url": "https://himalayas.app/companies/agiloft/jobs/staff-software-engineer-platform-and-cloud-services-5083308863",
+      "source": "Himalayas",
+      "description": "As the most trusted global leader in data-first contract lifecycle management (CLM) software, Agiloft helps organizations manage the end-to-end process of proposing, negotiating, signing, and leveraging contracts using our flexible Data-first Agreement Platform (DAP). With contract data as the foundation, customers quickly and collaboratively reach agreement and leverage contract visibility to thrive with competitive advantage. Employing powerful, pragmatic artificial intelligence as a legal force multiplier, and robust integration capabilities as a data liberator, organizations around the wor",
+      "tags": [
+        "software-engineer",
+        "platform-engineering",
+        "cloud-architecture",
+        "backend-engineering",
+        "distributed-systems-engineering",
+        "staff-platform-engineer",
+        "staff-cloud-engineer",
+        "staff-software-engineer-devops",
+        "platform-services-engineer",
+        "software-platform-engineer",
+        "senior-cloud-platform-engineer",
+        "staff-software-engineering"
+      ],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Staff-level — usually 5–10+ yrs, you have ~4"
       ]
     }
   ]
