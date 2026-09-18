@@ -1,13 +1,31 @@
 {
-  "generated": "2026-09-17 10:35 UTC",
-  "count": 105,
+  "generated": "2026-09-18 10:11 UTC",
+  "count": 106,
   "summary": {
-    "scanned": 105,
+    "scanned": 106,
     "eligible": 29,
-    "review": 61,
+    "review": 62,
     "blocked": 15
   },
   "jobs": [
+    {
+      "title": "Golang Kubernetes Engineer",
+      "company": "Arango",
+      "location": "Worldwide",
+      "url": "https://remoteOK.com/remote-jobs/remote-golang-kubernetes-engineer-arango-1137400",
+      "source": "RemoteOK",
+      "description": "Remote - Arango delivers a unified, natively multimodel contextual data platform that powers AI agents, assistants, and applications with the unified, current, and trusted business context needed to reason, decide, and act at scale.The Arango Contextual Data Platform connects... Please mention the word **FESTIVE** and tag RNTIuMjI2LjEyNC4xOA== when applying to show you read the job post completely (#RNTIuMjI2LjEyNC4xOA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "tags": [
+        "golang",
+        "golang",
+        "engineer"
+      ],
+      "verdict": "eligible",
+      "fit": 70,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
     {
       "title": "Developer Advocate - Service Management",
       "company": "Datadog",
@@ -76,20 +94,6 @@
       "url": "https://weworkremotely.com/remote-jobs/discord-engineering-manager-notifications",
       "source": "WeWorkRemotely",
       "description": "Headquarters: Remote Discord has a highly engaged community of millions of daily active users who use the platform for many different reasons, but there’s one thing that nearly everyone does: play video games. Discord plays a uniquely important role in the future of gaming, and we are focused on making it easier and more fun for people to hang out before, during, and after playing games. We're looking for a technical, hands-on, and infrastructure-minded Engineering Manager to lead our Notifications team within the Growth organization. Notifications is a full-stack team owning the platform and ",
-      "tags": [],
-      "verdict": "eligible",
-      "fit": 66,
-      "reasons": [
-        "remote — anywhere / global"
-      ]
-    },
-    {
-      "title": "DevOps & Security Engineer - AI-Native Healthcare SaaS",
-      "company": "Zenara Health",
-      "location": "Anywhere in the World",
-      "url": "https://weworkremotely.com/remote-jobs/zenara-health-devops-security-engineer-ai-native-healthcare-saas",
-      "source": "WeWorkRemotely",
-      "description": "Headquarters: India About the Company Zenara Health is a mental healthcare organization driven by technology, aiming to improve the accessibility and quality of mental wellness services. By integrating AI-driven platforms with professional clinical care, we deliver personalized and effective mental health solutions, creating a smooth digital experience for both patients and providers. We operate as a startup, distinct from a mere department. Why This Role Exists This position serves as the company's foremost line of defense. You will operate under the assumption that systems are constantly und",
       "tags": [],
       "verdict": "eligible",
       "fit": 66,
@@ -1236,6 +1240,23 @@
       ]
     },
     {
+      "title": "Senior Technical Product Manager, Token Factory",
+      "company": "Nebius",
+      "location": "Europe, Netherlands, UK",
+      "url": "https://jobicy.com/jobs/149361-senior-technical-product-manager-token-factory",
+      "source": "Jobicy",
+      "description": "About Nebius: Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-house AI/ML infrastructure. Built by engineers, for engineers. From&hellip;",
+      "tags": [
+        "product & operations"
+      ],
+      "verdict": "review",
+      "fit": 46,
+      "reasons": [
+        "Uk-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
       "title": "Senior Full Stack Engineer",
       "company": "infisical",
       "location": "Brazil, Canada, France, UK, USA",
@@ -1895,6 +1916,22 @@
       ]
     },
     {
+      "title": "Forward Deployed Engineer",
+      "company": "Kong Inc.",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/153504-forward-deployed-engineer-5",
+      "source": "Jobicy",
+      "description": "Are you ready to unlock intelligence? If you don’t think you meet all of the criteria below but are still interested in the job, please apply. Nobody checks every box - we’re looking for candidates that are particularly strong in a few areas, and have some interest and capabilities in others. About the Role: Join&hellip;",
+      "tags": [
+        "software engineering"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
       "title": "Agile Coach (FTC)",
       "company": "TrustedHousesitters",
       "location": "UK",
@@ -1991,51 +2028,26 @@
       ]
     },
     {
-      "title": "Data Scientist, AI/ML",
-      "company": "Gremlin",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/152746-data-scientist-ai-ml",
-      "source": "Jobicy",
-      "description": "Data Scientist, AI/ML Job Description: Today’s complex, fast-paced systems have become a minefield of reliability risks, any of which could cause an outage that costs millions and destroys customer confidence. That’s why high-availability teams use Gremlin to find and fix reliability risks before they become incidents. Gremlin Reliability Platform helps software teams proactively monitor and&hellip;",
+      "title": "Senior Independent AI Engineer / Architect",
+      "company": "A.Team",
+      "location": "Americas, Europe, Israel",
+      "url": "https://remotive.com/remote-jobs/software-development/senior-independent-ai-engineer-architect-1919266",
+      "source": "Remotive",
+      "description": "Senior Independent AI Engineer / Architect Remote | Americas, Europe, or Israel Most AI engineers can find work. Finding work worth doing is harder. A.Team is an invite-only network of senior AI engineers, ML engineers, and AI architects building production AI systems for startups, enterprises, and global companies. Since 2020, builders in the network have earned more than $200M working with companies including Lyft, Google X, HCA, Unilever, Sightful, D-ID, and others. The Work You'll join small teams solving real problems. Not demos. Not proof-of-concepts that never ship. Not another thin wra",
       "tags": [
-        "data science & analytics"
+        "go",
+        "ui/ux",
+        "wordpress",
+        "chat",
+        "apple",
+        "testing",
+        "catalyst"
       ],
       "verdict": "review",
-      "fit": 36,
+      "fit": 30,
       "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Forward Deployed Engineer",
-      "company": "Tailscale",
-      "location": "Canada",
-      "url": "https://jobicy.com/jobs/152680-forward-deployed-engineer-2",
-      "source": "Jobicy",
-      "description": "About Tailscale Tailscale is making safe connection effortless by delivering software that makes it easy to securely interconnect people and their devices, no matter where they are. From hobbyists to multinational corporations, teams of every size use Tailscale each day to protect their networks, share access to internal tools, and more. We're building a future&hellip;",
-      "tags": [
-        "technical support"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Canada-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Salesforce Developer (US-Remote)",
-      "company": "Tenable",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/152666-salesforce-developer-us-remote",
-      "source": "Jobicy",
-      "description": "Who is Tenable? Tenable® is the Exposure Management company. Over 40,000 organizations around the globe rely on Tenable to understand and reduce cyber risk. Our global employees support 65 percent of the Fortune 500, 50 percent of the Global 2000, and large government agencies. Come be part of our journey! What makes Tenable such a&hellip;",
-      "tags": [
-        "software engineering"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+        "Europe-tagged — verify it's open to Africa first",
+        "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
     {
@@ -2065,6 +2077,23 @@
       "fit": 30,
       "reasons": [
         "location unconfirmed — verify it's open to Africa",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Senior Software Architect (C#/Angular/AI First) - GovTech SaaS company",
+      "company": "Truelogic",
+      "location": "Mexico",
+      "url": "https://jobicy.com/jobs/153535-senior-software-architect-c-angular-ai-first-govtech-saas-company",
+      "source": "Jobicy",
+      "description": "About Truelogic At Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of all sizes, from innovative startups to industry leaders, helping them achieve their digital transformation goals. Our team of 600+ highly skilled tech professionals, based&hellip;",
+      "tags": [
+        "software engineering"
+      ],
+      "verdict": "review",
+      "fit": 30,
+      "reasons": [
+        "Mexico-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -2134,6 +2163,27 @@
       "reasons": [
         "Europe-tagged — verify it's open to Africa first",
         "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Senior Independent Software Developer",
+      "company": "A.Team",
+      "location": "Americas, Europe, Israel",
+      "url": "https://remotive.com/remote-jobs/software-development/senior-independent-software-developer-1919265",
+      "source": "Remotive",
+      "description": "You must be located in the Americas, Europe, or Israel to apply. A·Team is a VC-backed, stealth, application-only home on the internet for senior independent software builders to team up with hand-picked, high-growth companies on their next big thing. After talking with hundreds of independent engineers, designers, and product folks, we heard over and over that finding vetted, high-quality, consistent clients is hard, and projects are often too small to be rewarding. A·Team matches small teams of the most talented builders in the world with companies backed by a16z, YC, Softbank, General Catal",
+      "tags": [
+        "go",
+        "wordpress",
+        "chat",
+        "apple",
+        "testing",
+        "catalyst"
+      ],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "work-authorization wall (must be located in)"
       ]
     },
     {
@@ -2305,6 +2355,22 @@
       ]
     },
     {
+      "title": "Principal DevOps Engineer",
+      "company": "NBCUniversal",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/148200-principal-devops-engineer-2",
+      "source": "Jobicy",
+      "description": "Company DescriptionNBCUniversal is one of the world's leading media and entertainment companies. We create world-class content, which we distribute across our portfolio of film, television, and streaming, and bring to life through our global theme park destinations, consumer products, and experiences. We own and operate leading entertainment and news brands, including NBC, NBC News, NBC&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Principal-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
       "title": "Staff DevOps Engineer",
       "company": "Cision",
       "location": "Brazil, Mexico",
@@ -2414,49 +2480,6 @@
       "fit": 0,
       "reasons": [
         "Principal-level — usually 5–10+ yrs, you have ~4"
-      ]
-    },
-    {
-      "title": "Director, Enterprise Sales Engineering - US Central",
-      "company": "Datadog",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/152710-director-enterprise-sales-engineering-us-central",
-      "source": "Jobicy",
-      "description": "As a Director, Enterprise Sales Engineering, you will lead a team of frontline leaders, driving account strategy, deal execution, operational excellence, and team development across your region. This is a strategic leadership role with regional impact within North America. You will act as a force multiplier by owning team and region performance, shaping execution standards,&hellip;",
-      "tags": [
-        "sales"
-      ],
-      "verdict": "blocked",
-      "fit": 0,
-      "reasons": [
-        "Director-level — usually 5–10+ yrs, you have ~4"
-      ]
-    },
-    {
-      "title": "Staff Software Engineer - Platform and Cloud Services",
-      "company": "Agiloft",
-      "location": "Canada",
-      "url": "https://himalayas.app/companies/agiloft/jobs/staff-software-engineer-platform-and-cloud-services-5083308863",
-      "source": "Himalayas",
-      "description": "As the most trusted global leader in data-first contract lifecycle management (CLM) software, Agiloft helps organizations manage the end-to-end process of proposing, negotiating, signing, and leveraging contracts using our flexible Data-first Agreement Platform (DAP). With contract data as the foundation, customers quickly and collaboratively reach agreement and leverage contract visibility to thrive with competitive advantage. Employing powerful, pragmatic artificial intelligence as a legal force multiplier, and robust integration capabilities as a data liberator, organizations around the wor",
-      "tags": [
-        "software-engineer",
-        "platform-engineering",
-        "cloud-architecture",
-        "backend-engineering",
-        "distributed-systems-engineering",
-        "staff-platform-engineer",
-        "staff-cloud-engineer",
-        "staff-software-engineer-devops",
-        "platform-services-engineer",
-        "software-platform-engineer",
-        "senior-cloud-platform-engineer",
-        "staff-software-engineering"
-      ],
-      "verdict": "blocked",
-      "fit": 0,
-      "reasons": [
-        "Staff-level — usually 5–10+ yrs, you have ~4"
       ]
     }
   ]
