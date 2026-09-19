@@ -1,10 +1,10 @@
 {
-  "generated": "2026-09-18 10:11 UTC",
-  "count": 106,
+  "generated": "2026-09-19 09:52 UTC",
+  "count": 109,
   "summary": {
-    "scanned": 106,
-    "eligible": 29,
-    "review": 62,
+    "scanned": 109,
+    "eligible": 31,
+    "review": 63,
     "blocked": 15
   },
   "jobs": [
@@ -14,12 +14,26 @@
       "location": "Worldwide",
       "url": "https://remoteOK.com/remote-jobs/remote-golang-kubernetes-engineer-arango-1137400",
       "source": "RemoteOK",
-      "description": "Remote - Arango delivers a unified, natively multimodel contextual data platform that powers AI agents, assistants, and applications with the unified, current, and trusted business context needed to reason, decide, and act at scale.The Arango Contextual Data Platform connects... Please mention the word **FESTIVE** and tag RNTIuMjI2LjEyNC4xOA== when applying to show you read the job post completely (#RNTIuMjI2LjEyNC4xOA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Arango delivers a unified, natively multimodel contextual data platform that powers AI agents, assistants, and applications with the unified, current, and trusted business context needed to reason, decide, and act at scale.The Arango Contextual Data Platform connects... Please mention the word **FESTIVE** and tag RMTcyLjE3Mi4xMTkuMTAw when applying to show you read the job post completely (#RMTcyLjE3Mi4xMTkuMTAw). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "tags": [
         "golang",
         "golang",
         "engineer"
       ],
+      "verdict": "eligible",
+      "fit": 70,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
+    {
+      "title": "Security Operations Engineer",
+      "company": "CircleCI",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/circleci-security-operations-engineer",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Ontario, Canada (Remote) Security Operations Engineer About the Team The Security Operations team plays a critical role in protecting CircleCI’s infrastructure, product, and customer data against an evolving threat landscape. From incident response to hardening our cloud and CI/CD environments, the team works closely with engineering to keep CircleCI secure, resilient, and ready for what’s next. About the Role As a Security Operations Engineer, you’ll play a key role in protecting CircleCI’s infrastructure, product, and customer data against an evolving threat landscape increasin",
+      "tags": [],
       "verdict": "eligible",
       "fit": 70,
       "reasons": [
@@ -193,6 +207,20 @@
       "reasons": [
         "remote — anywhere / global",
         "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Software Engineer",
+      "company": "CircleCI",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/circleci-software-engineer",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Ontario, Canada (Remote) About CircleCI Engineering CI/CD has been solved. Now it's being reinvented. AI agents don't just run pipelines. They write code, trigger builds, interpret failures, and propose fixes. The interfaces that developers use to understand and trust that work don't exist yet. We're building them. At CircleCI, our guiding principles aren't posters on a wall. We learn fast: we run experiments, accept failure, and scale what works. We think like the customer: every decision connects back to the developer sitting in front of a failing build at 2 am. We own the outc",
+      "tags": [],
+      "verdict": "eligible",
+      "fit": 54,
+      "reasons": [
+        "remote — anywhere / global"
       ]
     },
     {
@@ -683,6 +711,22 @@
       ]
     },
     {
+      "title": "Infrastructure Engineer",
+      "company": "Bayesian Health",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/153599-infrastructure-engineer-3",
+      "source": "Jobicy",
+      "description": "In Brief We’re a rapidly growing startup on a mission to make healthcare proactive by empowering physicians, nurses, and care team members with real-time data to save lives. You will build and maintain the infrastructure for the Bayesian platform and develop CI/CD to enable other team members such as software engineers, data scientists, etc. to&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
+      "verdict": "review",
+      "fit": 56,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
       "title": "DevOps Engineer",
       "company": "Cision",
       "location": "Brazil, Mexico",
@@ -744,6 +788,22 @@
       "fit": 52,
       "reasons": [
         "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "Site Reliability Engineer",
+      "company": "MaintainX",
+      "location": "Canada",
+      "url": "https://jobicy.com/jobs/153549-site-reliability-engineer-3",
+      "source": "Jobicy",
+      "description": "MaintainX is a leading mobile-first work execution platform for industrial and frontline teams. More than 13,000 customers, including Duracell, McDonald's, Shell, DHL and Volvo, use MaintainX to cut unplanned downtime and run better operations, across 13.9 million managed assets and 79.5 million completed work orders. In August 2026 MaintainX became part of Autodesk, joining Autodesk&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
+      "verdict": "review",
+      "fit": 52,
+      "reasons": [
+        "Canada-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -1112,19 +1172,62 @@
       ]
     },
     {
-      "title": "Manager, Customer Success Managers, EMEA",
-      "company": "GitLab",
-      "location": "Austria, Germany",
-      "url": "https://jobicy.com/jobs/148783-manager-customer-success-managers-emea",
-      "source": "Jobicy",
-      "description": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster. The same principles built into&hellip;",
+      "title": "Senior Data Scientist",
+      "company": "Lemon.io",
+      "location": "Northern America, LATAM, Europe, APAC",
+      "url": "https://remotive.com/remote-jobs/data/senior-data-scientist-2091129",
+      "source": "Remotive",
+      "description": "Are you a talented Senior Data Scientist looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The rate depends on your skills and experience. We've already paid out over $11M to our engineers. No more hunting for clients or negotiating rates — let us handle the business side of things so you can focus on what you do best. We'll manually find the best project for you according to your skills and preferences. Choose a schedule that works",
       "tags": [
-        "customer support & success"
+        ".net",
+        "android",
+        "c",
+        "c#",
+        "c++",
+        "golang",
+        "ios",
+        "java",
+        "javascript",
+        "node.js",
+        "php",
+        "python",
+        "react",
+        "ruby/rails",
+        "scala",
+        "shopify",
+        "swift",
+        "ui/ux",
+        "wordpress",
+        "blockchain",
+        "ai/ml",
+        "automation",
+        "project management",
+        "react native",
+        "rust",
+        "product management",
+        "unity",
+        "electron",
+        "spring",
+        "data analysis",
+        "laravel",
+        "ethereum",
+        "graphic design",
+        "typescript",
+        "angular",
+        "firebase",
+        "data engineering",
+        "site reliability",
+        "symfony",
+        "startup",
+        "marketplace",
+        "next.js",
+        "flutter"
       ],
       "verdict": "review",
-      "fit": 48,
+      "fit": 46,
       "reasons": [
-        "Germany-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+        "Europe-tagged — verify it's open to Africa first",
+        "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
     {
@@ -1304,23 +1407,6 @@
       "fit": 46,
       "reasons": [
         "Germany-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Pre/Post Sales Solutions Architect",
-      "company": "Gremlin",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/152749-pre-post-sales-solutions-architect",
-      "source": "Jobicy",
-      "description": "Today’s complex, fast-paced systems have become a minefield of reliability risks—any of which could cause an outage that costs millions and destroys customer confidence. That’s why high-availability teams use Gremlin to find and fix ‌reliability risks before they become incidents. The Gremlin Reliability Platform helps software teams proactively monitor and test their systems for common&hellip;",
-      "tags": [
-        "devops & infrastructure"
-      ],
-      "verdict": "review",
-      "fit": 46,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
