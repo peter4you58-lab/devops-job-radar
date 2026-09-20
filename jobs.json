@@ -1,11 +1,11 @@
 {
-  "generated": "2026-09-19 09:52 UTC",
-  "count": 109,
+  "generated": "2026-09-20 10:14 UTC",
+  "count": 112,
   "summary": {
-    "scanned": 109,
-    "eligible": 31,
+    "scanned": 112,
+    "eligible": 32,
     "review": 63,
-    "blocked": 15
+    "blocked": 17
   },
   "jobs": [
     {
@@ -14,12 +14,26 @@
       "location": "Worldwide",
       "url": "https://remoteOK.com/remote-jobs/remote-golang-kubernetes-engineer-arango-1137400",
       "source": "RemoteOK",
-      "description": "Remote - Arango delivers a unified, natively multimodel contextual data platform that powers AI agents, assistants, and applications with the unified, current, and trusted business context needed to reason, decide, and act at scale.The Arango Contextual Data Platform connects... Please mention the word **FESTIVE** and tag RMTcyLjE3Mi4xMTkuMTAw when applying to show you read the job post completely (#RMTcyLjE3Mi4xMTkuMTAw). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Arango delivers a unified, natively multimodel contextual data platform that powers AI agents, assistants, and applications with the unified, current, and trusted business context needed to reason, decide, and act at scale.The Arango Contextual Data Platform connects... Please mention the word **FESTIVE** and tag RMTcyLjE3NC4xNjUuMjMx when applying to show you read the job post completely (#RMTcyLjE3NC4xNjUuMjMx). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "tags": [
         "golang",
         "golang",
         "engineer"
       ],
+      "verdict": "eligible",
+      "fit": 70,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
+    {
+      "title": "Developer Advocate - Service Management EMEA",
+      "company": "Datadog",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/datadog-developer-advocate-service-management-emea",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: France, Remote; Portugal, Remote; Spain, Remote; The Netherlands, Remote We are a team of engineers that translate our real-world experience to help our user communities solve problems. With a focus on service management, helping teams respond to incidents, run on-call, and automate their operations, you will work with practitioners and leaders across the industry and broaden your impact to the SRE, Engineer, DevOps, and Operations community at large. This is a unique opportunity to use both your engineering and creative storytelling skills to shape the landscape in cloud observa",
+      "tags": [],
       "verdict": "eligible",
       "fit": 70,
       "reasons": [
@@ -490,6 +504,22 @@
       ]
     },
     {
+      "title": "Backend Software Engineer",
+      "company": "Northflank",
+      "location": "Europe",
+      "url": "https://jobicy.com/jobs/150975-backend-software-engineer-2",
+      "source": "Jobicy",
+      "description": "Northflank is a cutting-edge cloud platform enabling developers to build and ship highly scalable, full-stack applications faster than ever before. We are a venture-backed company, and our platform is used by tens of thousands of developers worldwide in production. We are currently looking for a backend software engineer to join our team of passionate, dedicated professionals.&hellip;",
+      "tags": [
+        "software engineering"
+      ],
+      "verdict": "eligible",
+      "fit": 50,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
+    {
       "title": "Senior Software Engineer",
       "company": "CircleCI",
       "location": "Anywhere in the World",
@@ -497,23 +527,6 @@
       "source": "WeWorkRemotely",
       "description": "Headquarters: Remote, Ontario, Canada About CircleCI Engineering CI/CD has been solved. Now it's being reinvented. AI agents don't just run pipelines. They write code, trigger builds, interpret failures, and propose fixes. The interfaces that developers use to understand and trust that work don't exist yet. We're building them. At CircleCI, our guiding principles aren't posters on a wall. We learn fast: we run experiments, accept failure, and scale what works. We think like the customer: every decision connects back to the developer sitting in front of a failing build at 2 am. We own the outco",
       "tags": [],
-      "verdict": "eligible",
-      "fit": 48,
-      "reasons": [
-        "remote — anywhere / global",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Partner Solutions Architect (Pan-EMEA GSI)",
-      "company": "Datadog",
-      "location": "Germany, Italy, Netherlands, Spain, Sweden, UK",
-      "url": "https://jobicy.com/jobs/152955-partner-solutions-architect-pan-emea-gsi",
-      "source": "Jobicy",
-      "description": "We are Datadog's in-house product experts. The technical solutions team enables Datadog's worldwide growth by educating potential clients and ensuring that existing customers are happy and successful. The Partner Solution Architect (PSA) is a Datadog expert who will work closely with Datadog’s Director of Partner Solutions Architects, and is aligned to our Channels &amp; Alliances&hellip;",
-      "tags": [
-        "technical support"
-      ],
       "verdict": "eligible",
       "fit": 48,
       "reasons": [
@@ -711,6 +724,22 @@
       ]
     },
     {
+      "title": "Technical Product Marketer, k0rdent AI - remote in the US",
+      "company": "Mirantis",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/146688-technical-product-marketer-k0rdent-ai-remote-in-the-us",
+      "source": "Jobicy",
+      "description": "Company DescriptionMirantis is the Kubernetes-native AI infrastructure company, enabling organizations to build and operate scalable, secure, and sovereign infrastructure for modern AI, machine learning, and data-intensive applications. By combining open source innovation with deep expertise in Kubernetes orchestration, Mirantis empowers platform engineering teams to deliver composable, production-ready developer platforms across any environment—on-premises, in the cloud,&hellip;",
+      "tags": [
+        "marketing & sales"
+      ],
+      "verdict": "review",
+      "fit": 56,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
       "title": "Infrastructure Engineer",
       "company": "Bayesian Health",
       "location": "USA",
@@ -724,6 +753,22 @@
       "fit": 56,
       "reasons": [
         "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "DevOps Engineer, Blockchain Infra (Fully Remote)",
+      "company": "Binance",
+      "location": "Europe, UAE",
+      "url": "https://jobicy.com/jobs/153653-devops-engineer-blockchain-infra-fully-remote",
+      "source": "Jobicy",
+      "description": "Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. We are trusted by 300+ million people in 100+ countries for our industry-leading security, user fund transparency, trading engine speed, deep liquidity, and an unmatched portfolio of digital-asset products. Binance offerings range from trading and finance&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
+      "verdict": "review",
+      "fit": 52,
+      "reasons": [
+        "Europe-tagged — verify it's open to Africa first"
       ]
     },
     {
@@ -884,22 +929,6 @@
       "fit": 52,
       "reasons": [
         "EMEA-tagged — verify it's open to Africa first"
-      ]
-    },
-    {
-      "title": "Backend Engineer (.NET) (f/m/d)",
-      "company": "Apaleo",
-      "location": "Germany",
-      "url": "https://jobicy.com/jobs/152887-backend-engineer-net-f-m-d",
-      "source": "Jobicy",
-      "description": "Join Apaleo and Shape the Future of Hospitality Tech! Apaleo is the world's most open, API-first property management platform, powering the next generation of hospitality operations. Our modular, AI-powered infrastructure lets hoteliers customise their tech stack, automate routine work and deliver seamless, personalised guest experiences, backed by best-in-class apps and autonomous AI agents that adapt&hellip;",
-      "tags": [
-        "software engineering"
-      ],
-      "verdict": "review",
-      "fit": 52,
-      "reasons": [
-        "Germany-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -1139,23 +1168,6 @@
       ]
     },
     {
-      "title": "Senior Engineer (Software), Enterprise",
-      "company": "NetBox Labs",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/152949-senior-engineer-software-enterprise",
-      "source": "Jobicy",
-      "description": "NetBox Labs seeks a Senior Software Engineer with strong DevOps experience to build and drive NetBox Enterprise, our on-premises product suite. You'll own installation, configuration, and lifecycle management for our customers, tackle complex technical challenges, proactively address deployment issues unique to on-prem environments, and collaborate closely with high-performing, cross-functional teams. In this role you will:&hellip;",
-      "tags": [
-        "devops & infrastructure"
-      ],
-      "verdict": "review",
-      "fit": 50,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
       "title": "Software Engineer - Python - Container Images",
       "company": "Canonical",
       "location": "APAC, EMEA, LATAM, Canada, USA",
@@ -1169,6 +1181,65 @@
       "fit": 48,
       "reasons": [
         "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "Senior .NET Full-stack Developer",
+      "company": "Lemon.io",
+      "location": "Northern America, LATAM, Europe, APAC",
+      "url": "https://remotive.com/remote-jobs/software-development/senior-net-full-stack-developer-2091130",
+      "source": "Remotive",
+      "description": "Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The rate depends on your seniority level, skills and experience. We've already paid out over $11M to our engineers. No more hunting for clients or negotiating rates — let us handle the business side of things so you can focus on what you do best. Choose a schedule that works best for you. It’s possible to communicate async or minimally overlap with",
+      "tags": [
+        ".net",
+        "android",
+        "c",
+        "c#",
+        "c++",
+        "data science",
+        "fullstack",
+        "golang",
+        "ios",
+        "java",
+        "javascript",
+        "node.js",
+        "php",
+        "python",
+        "react",
+        "ruby/rails",
+        "scala",
+        "shopify",
+        "swift",
+        "ui/ux",
+        "wordpress",
+        "blockchain",
+        "ai/ml",
+        "automation",
+        "project management",
+        "react native",
+        "rust",
+        "unity",
+        "electron",
+        "spring",
+        "laravel",
+        "ethereum",
+        "graphic design",
+        "typescript",
+        "angular",
+        "firebase",
+        "data engineering",
+        "site reliability",
+        "symfony",
+        "startup",
+        "marketplace",
+        "next.js",
+        "flutter"
+      ],
+      "verdict": "review",
+      "fit": 46,
+      "reasons": [
+        "Europe-tagged — verify it's open to Africa first",
+        "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
     {
@@ -1343,6 +1414,23 @@
       ]
     },
     {
+      "title": "Cloud Solution Architect - Educational Content Author, Nebius Academy",
+      "company": "Nebius",
+      "location": "Europe",
+      "url": "https://jobicy.com/jobs/153678-cloud-solution-architect-educational-content-author-nebius-academy",
+      "source": "Jobicy",
+      "description": "About Nebius: Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-house AI/ML infrastructure. Built by engineers, for engineers. From&hellip;",
+      "tags": [
+        "education & e-learning"
+      ],
+      "verdict": "review",
+      "fit": 46,
+      "reasons": [
+        "Europe-tagged — verify it's open to Africa first",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
       "title": "Senior Technical Product Manager, Token Factory",
       "company": "Nebius",
       "location": "Europe, Netherlands, UK",
@@ -1377,36 +1465,30 @@
       ]
     },
     {
-      "title": "Senior Platform Engineer",
-      "company": "Polar",
-      "location": "Europe",
-      "url": "https://jobicy.com/jobs/152935-senior-platform-engineer-3",
-      "source": "Jobicy",
-      "description": "Why Polar? It's never been easier to build, ship and scale software. But it's never been harder to monetize it. Modern startups look fundamentally different than prior generations: Smaller teams Exponential revenue growth relative to headcount Higher variability in costs (LLMs) requiring more frequent pricing iterations Laser focused on product development and distribution Delegating and&hellip;",
+      "title": "Senior Windows Administator / Platform Engineer IV",
+      "company": "Hudson Manpower",
+      "location": "United States",
+      "url": "https://himalayas.app/companies/hudson-manpower/jobs/senior-windows-administator-platform-engineer-iv",
+      "source": "Himalayas",
+      "description": "Greetings, We're hiring a Platform Engineer IV with deep expertise in Windows Administration and enterprise application support. This role supports mission-critical environments and tools like IBM FileNet and DataCap. You'll be instrumental in ensuring system stability, security, and performance across a complex, remote infrastructure. Job Title: Platform Engineer IV Location: REMOTE - USA MUST HAVES: Must Have BAW DataCap DataCap implementation experience FileNet upgrade experience IBM FileNet ICN What You’ll Do Job Overview: We are seeking a highly skilled and experienced Platform Engineer s",
       "tags": [
-        "devops & infrastructure"
+        "platform-engineering",
+        "windows-administration",
+        "systems-administrator",
+        "devops",
+        "it-infrastructure",
+        "enterprise-application-support",
+        "senior-windows-systems-engineer",
+        "windows-platform-engineer",
+        "senior-systems-administrator",
+        "senior-systems-administration",
+        "senior-platform-engineer",
+        "platform-engineer"
       ],
       "verdict": "review",
       "fit": 46,
       "reasons": [
-        "Europe-tagged — verify it's open to Africa first",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Senior Software Engineer (.NET) (f/m/d)",
-      "company": "Apaleo",
-      "location": "Germany",
-      "url": "https://jobicy.com/jobs/152912-senior-software-engineer-net-f-m-d",
-      "source": "Jobicy",
-      "description": "Join Apaleo and Shape the Future of Hospitality Tech! Apaleo is the world’s most open, API-first property management platform powering the next generation of hospitality operations. Its modular, AI-powered infrastructure enables hoteliers to customise their tech stack, automate routine work, and deliver seamless, personalised guest experiences, powered by best-in-class apps and autonomous AI agents that&hellip;",
-      "tags": [
-        "software engineering"
-      ],
-      "verdict": "review",
-      "fit": 46,
-      "reasons": [
-        "Germany-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "United states-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -1956,49 +2038,19 @@
       ]
     },
     {
-      "title": "Graphic Designer",
-      "company": "Miranda Creative, Inc.",
-      "location": "Norwich, Norwich, Connecticut, United States",
-      "url": "https://remoteOK.com/remote-jobs/remote-graphic-designer-miranda-creative-inc-1135610",
-      "source": "RemoteOK",
-      "description": "We are looking for a talented and detail-oriented Graphic Designer to join our creative team part-time (25 hours per week), with the potential to grow into a full-time opportunity. Since 1988, Miranda Creative has partnered with more than 6,000 clients across finance, hospitality, healthcare, manufacturing, tourism, and government. We're a full-service, award-winning, New England-based creative and strategic agency. We pride ourselves on being a highly inclusive, collaborative community built on creativity, trust, and joy. We welcome you to Miranda Creative and look forward to learning more ab",
+      "title": "Product Engineering - Future Opportunities",
+      "company": "Tenable",
+      "location": "France, Ireland, Israel, USA",
+      "url": "https://jobicy.com/jobs/153679-product-engineering-future-opportunities",
+      "source": "Jobicy",
+      "description": "Who is Tenable? Tenable® is the Exposure Management company. Over 40,000 organizations around the globe rely on Tenable to understand and reduce cyber risk. Our global employees support 65 percent of the Fortune 500, 50 percent of the Global 2000, and large government agencies. Come be part of our journey! What makes Tenable such a&hellip;",
       "tags": [
-        "design",
-        "music",
-        "technical",
-        "travel",
-        "speech",
-        "video",
-        "exec",
-        "content writing",
-        "medical",
-        "engineer",
-        "digital nomad",
-        "sys admin",
-        "consulting",
-        "testing",
-        "virtual assistant",
-        "finance",
-        "senior",
-        "ops",
-        "customer support",
-        "dev",
-        "microsoft",
-        "excel",
-        "legal",
-        "designer",
-        "web dev",
-        "cloud",
-        "marketing",
-        "photoshop",
-        "illustrator",
-        "full time",
-        "part time"
+        "software engineering"
       ],
       "verdict": "review",
       "fit": 36,
       "reasons": [
-        "United states-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -2090,22 +2142,6 @@
       "description": "About Us Socket helps devs and security teams ship faster by cutting out security busywork. Thousands of orgs use Socket to safely find, audit, and manage open source code. Our customers - from Anthropic to xAI, and Figma to Vercel - love Socket (just check out their tweets to see for yourself!) Founded by Feross&hellip;",
       "tags": [
         "cybersecurity"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Business Systems Engineer",
-      "company": "ClickUp",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/152814-business-systems-engineer",
-      "source": "Jobicy",
-      "description": "At ClickUp, we're building the future of work: the first truly converged AI workspace unifying tasks, docs, chat, calendar, and enterprise search, all supercharged by context-driven AI. We are an AI-native company. Every team member is expected to leverage AI daily, and we evaluate AI fluency as part of our hiring process. Join us and&hellip;",
-      "tags": [
-        "software engineering"
       ],
       "verdict": "review",
       "fit": 36,
@@ -2270,6 +2306,37 @@
       "fit": 0,
       "reasons": [
         "work-authorization wall (must be located in)"
+      ]
+    },
+    {
+      "title": "VP Pricing & Packaging",
+      "company": "Delinea",
+      "location": "Redwood City",
+      "url": "https://remoteOK.com/remote-jobs/remote-vp-pricing-packaging-delinea-1137407",
+      "source": "RemoteOK",
+      "description": "About Delinea: Delinea is a pioneer in securing human and machine identities through intelligent, centralized authorization, empowering organizations to seamlessly govern their interactions across the modern enterprise. Leveraging AI-powered intelligence, Delineaâs leading cloud-native Identity Security Platform applies context throughout the entire identity lifecycle â across cloud and traditional infrastructure, data, SaaS applications, and AI. It is the only platform that enables you to discover all identities â including workforce, IT administrator, developers, and machines â assig",
+      "tags": [
+        "design",
+        "saas",
+        "salesforce",
+        "infosec",
+        "vfx",
+        "dev",
+        "finance",
+        "education",
+        "cloud",
+        "admin",
+        "exec",
+        "ops",
+        "marketing",
+        "sales",
+        "medical",
+        "digital nomad"
+      ],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Vp-level — usually 5–10+ yrs, you have ~4"
       ]
     },
     {
@@ -2502,6 +2569,22 @@
       "fit": 0,
       "reasons": [
         "Staff-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
+      "title": "Chief Marketing Officer",
+      "company": "Testlio",
+      "location": "Canada, USA",
+      "url": "https://jobicy.com/jobs/151209-chief-marketing-officer",
+      "source": "Jobicy",
+      "description": "Chief Marketing Officer (CMO) Location: REMOTE in the United States or Canada About the job Testlio’s fully managed crowdsourced testing platform, powered by our proprietary intelligence technology - LeoAI Engine™, integrates expert, on-demand testers directly into your release process. Ship faster and more confidently with global coverage across 600,000+ devices, 800+ payment methods, 150+ countries,&hellip;",
+      "tags": [
+        "marketing & sales"
+      ],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Chief-level — usually 5–10+ yrs, you have ~4"
       ]
     },
     {
