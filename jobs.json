@@ -1,11 +1,11 @@
 {
-  "generated": "2026-09-20 10:14 UTC",
-  "count": 112,
+  "generated": "2026-09-21 11:19 UTC",
+  "count": 113,
   "summary": {
-    "scanned": 112,
-    "eligible": 32,
+    "scanned": 113,
+    "eligible": 35,
     "review": 63,
-    "blocked": 17
+    "blocked": 15
   },
   "jobs": [
     {
@@ -14,7 +14,7 @@
       "location": "Worldwide",
       "url": "https://remoteOK.com/remote-jobs/remote-golang-kubernetes-engineer-arango-1137400",
       "source": "RemoteOK",
-      "description": "Remote - Arango delivers a unified, natively multimodel contextual data platform that powers AI agents, assistants, and applications with the unified, current, and trusted business context needed to reason, decide, and act at scale.The Arango Contextual Data Platform connects... Please mention the word **FESTIVE** and tag RMTcyLjE3NC4xNjUuMjMx when applying to show you read the job post completely (#RMTcyLjE3NC4xNjUuMjMx). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Arango delivers a unified, natively multimodel contextual data platform that powers AI agents, assistants, and applications with the unified, current, and trusted business context needed to reason, decide, and act at scale.The Arango Contextual Data Platform connects... Please mention the word **FESTIVE** and tag RMTcyLjIwOC42Mi4xNjA= when applying to show you read the job post completely (#RMTcyLjIwOC42Mi4xNjA=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "tags": [
         "golang",
         "golang",
@@ -406,6 +406,34 @@
       ]
     },
     {
+      "title": "Security Operations Analyst",
+      "company": "Huntress",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/huntress-security-operations-analyst",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Remote US Reports to: Manager, Security Operations Center Location: Remote, US Compensation Range: $100,000-$125,000 base plus bonus and equity. This role may be eligible for on-call/call-in pay in addition to base pay &nbsp; *The initial training period for this position will be Monday-Friday. Following training, the work schedule is subject to change and may include weekend or a 4x10 shift, depending on business requirements* What We Do: Huntress is a fully remote, global team of passionate experts and ethical badasses on a mission to break down the barriers to cybersecurity. W",
+      "tags": [],
+      "verdict": "eligible",
+      "fit": 50,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
+    {
+      "title": "Sales Development Representative - Mid-Market",
+      "company": "Huntress",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/huntress-sales-development-representative-mid-market",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Remote US Reports to: SDR Manager Location: Remote US Compensation Range: $58,500 base with on-target earnings at $78,000 plus equity &nbsp; What We Do:&nbsp; Cybercrime is growing, and more businesses are getting hit by threats that used to target only the biggest organizations. That pushes defenders like us to operate at the highest level, and it deepens our need for good people who want to make a meaningful impact. Founded in 2015 by former NSA cyber operators, Huntress is a remote-first team working to make enterprise-grade cybersecurity accessible to businesses of all sizes.",
+      "tags": [],
+      "verdict": "eligible",
+      "fit": 50,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
+    {
       "title": "Bilingual Channel Account Manager, Arabic (MEA) - UK",
       "company": "Keeper Security",
       "location": "Anywhere in the World",
@@ -535,6 +563,100 @@
       ]
     },
     {
+      "title": "Senior Shopify Developer",
+      "company": "Sanctuary Computer Inc",
+      "location": "Worldwide",
+      "url": "https://remotive.com/remote-jobs/software-development/senior-shopify-developer-2091140",
+      "source": "Remotive",
+      "description": "We are hiring a contract-based Senior Shopify Developer to contribute to our Design and Development Team. Original Job posting link here 🌎 About garden3d We are worker owned creative collective, innovating on everything from brands and IRL communities to IoT devices and cross platform apps. We share profit, open source everything, spin out new businesses, and invest in exciting ideas through financial and/or in-kind contributions. Our client roster includes Google, Stripe, Figma, Hinge, Black Socialists in America, ACLU, Pratt, Parsons, Mozilla, The Nobel Prize, MIT, Gnosis, Etsy &amp; Gagosia",
+      "tags": [
+        "admin",
+        "api",
+        "backend",
+        "css",
+        "frontend",
+        "fullstack",
+        "graphql",
+        "node.js",
+        "postgresql",
+        "redux",
+        "seo",
+        "shopify",
+        "video",
+        "open source",
+        "paas",
+        "figma",
+        "documentation",
+        "analytics",
+        "brand design",
+        "typescript",
+        "redis",
+        "cypress",
+        "iot",
+        "runtime",
+        "json",
+        "responsive",
+        "prismic",
+        "motion design",
+        "testing",
+        "themes",
+        "next.js",
+        "cms",
+        "jest",
+        "rest",
+        "web sockets",
+        "performance optimization",
+        "mobile development"
+      ],
+      "verdict": "eligible",
+      "fit": 44,
+      "reasons": [
+        "remote — anywhere / global",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Senior .NET Software Engineer",
+      "company": "OkWhen",
+      "location": "Worldwide",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-net-software-engineer-okwhen-1137411",
+      "source": "RemoteOK",
+      "description": "Please note. Directly emailing us will result in immediate disqualification. Use the application form to apply. About OkWhen OkWhen builds technology that powers live, virtual, and hybrid events. Our platform supports conference management, registration, payments, mobile apps, content libraries, webinars, LMS functionality, CEU tracking, sponsor management, and operational workflows. We are hiring a Senior .NET Software Engineer to help us improve, maintain, and extend a production platform used to run complex events. The Outcome Weâre Hiring For You will own meaningful parts of our applicat",
+      "tags": [
+        "dev",
+        "design",
+        "c sharp",
+        "saas",
+        "sys admin",
+        "infosec",
+        "education",
+        "technical",
+        "testing",
+        "web dev",
+        "xamarin",
+        "c",
+        "cloud",
+        "git",
+        "typescript",
+        "angular",
+        "mobile",
+        "exec",
+        "content writing",
+        "senior",
+        "ops",
+        "medical",
+        "engineer",
+        "backend",
+        "digital nomad"
+      ],
+      "verdict": "eligible",
+      "fit": 44,
+      "reasons": [
+        "remote — anywhere / global",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
       "title": "Oracle Fusion Cloud Lead â Logistics & Supply Chain Management",
       "company": "Tessera Labs",
       "location": "Worldwide",
@@ -556,21 +678,6 @@
         "full time",
         "digital nomad"
       ],
-      "verdict": "eligible",
-      "fit": 44,
-      "reasons": [
-        "remote — anywhere / global",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Senior Application Security Engineer",
-      "company": "Temporal Technologies",
-      "location": "Anywhere in the World",
-      "url": "https://weworkremotely.com/remote-jobs/temporal-technologies-senior-application-security-engineer",
-      "source": "WeWorkRemotely",
-      "description": "Headquarters: United States or Canada - Remote Opportunity About Us Temporal is an open source programming model that can simplify code, make applications more reliable, and help developers focus on the important things like delivering features faster. We are on a mission to be the reliable foundation of every developer’s toolbox, and are building the team that will make that happen. &nbsp; Our values guide us —they are present in how we show up, make decisions, and work together to make an impact. We’re curious, driven, collaborative, genuine and humble. &nbsp; Temporal is growing and we are ",
-      "tags": [],
       "verdict": "eligible",
       "fit": 44,
       "reasons": [
@@ -836,6 +943,22 @@
       ]
     },
     {
+      "title": "Infrastructure Engineer",
+      "company": "Airtm",
+      "location": "LATAM",
+      "url": "https://jobicy.com/jobs/153737-infrastructure-engineer-4",
+      "source": "Jobicy",
+      "description": "This role is open for LATAM based candidates About us: Airtm is a financial-infrastructure company building the future of the online-work economy. We are on a mission to empower the world's growing number of Digital Entrepreneurs in the Global South, giving them the financial freedom to thrive. The problem is clear: in emerging markets, accessing&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
+      "verdict": "review",
+      "fit": 52,
+      "reasons": [
+        "Latam-tagged — verify it's open to Africa first"
+      ]
+    },
+    {
       "title": "Site Reliability Engineer",
       "company": "MaintainX",
       "location": "Canada",
@@ -897,38 +1020,6 @@
       "fit": 52,
       "reasons": [
         "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "IT Automation Engineer - Business Technology (Central/Mountain Time - US)",
-      "company": "Rithum",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/153100-it-automation-engineer-business-technology-central-mountain-time-us",
-      "source": "Jobicy",
-      "description": "Rithum™ is the world’s most trusted commerce network, accelerating how brands, suppliers, and retailers work together to deliver seamless e-commerce experiences. We provide an unmatched platform for brands and retailers, enabling them to accelerate growth, optimize operations across channels, scale product offerings and enhance margins. Today, more than 40,000 companies trust Rithum to grow their&hellip;",
-      "tags": [
-        "devops & infrastructure"
-      ],
-      "verdict": "review",
-      "fit": 52,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Engineering Manager, SRE",
-      "company": "Remote",
-      "location": "APAC, EMEA",
-      "url": "https://jobicy.com/jobs/153081-engineering-manager-sre",
-      "source": "Jobicy",
-      "description": "About Remote Remote is solving modern organizations’ biggest challenge – navigating global employment compliantly with ease. We make it possible for businesses of all sizes to recruit, pay, and manage international teams. With our core values at heart and future focused work culture, our team works tirelessly on ambitious problems, asynchronously, around the world. You&hellip;",
-      "tags": [
-        "devops & infrastructure"
-      ],
-      "verdict": "review",
-      "fit": 52,
-      "reasons": [
-        "EMEA-tagged — verify it's open to Africa first"
       ]
     },
     {
@@ -994,129 +1085,6 @@
       ]
     },
     {
-      "title": "Senior Golang Developer",
-      "company": "Lemon.io",
-      "location": "Europe, USA, UK, Canada, Australia, Singapore",
-      "url": "https://remotive.com/remote-jobs/software-development/senior-golang-developer-2091098",
-      "source": "Remotive",
-      "description": "Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe. We are currently seeking a Senior Software Engineer for our client — a research-driven artificial intelligence company. The client’s mission is to cut the cost of modern AI by co-designing hardware, software, algorithms, and models — with the goal of making AI’s benefits accessible to society. They’re active contributors to open-source AI research and are looking",
-      "tags": [
-        ".net",
-        "android",
-        "c",
-        "c#",
-        "c++",
-        "data science",
-        "golang",
-        "ios",
-        "java",
-        "javascript",
-        "kubernetes",
-        "node.js",
-        "php",
-        "python",
-        "react",
-        "ruby/rails",
-        "scala",
-        "shopify",
-        "swift",
-        "ui/ux",
-        "wordpress",
-        "blockchain",
-        "ai/ml",
-        "automation",
-        "project management",
-        "react native",
-        "research",
-        "rust",
-        "product management",
-        "unity",
-        "electron",
-        "spring",
-        "data analysis",
-        "laravel",
-        "ethereum",
-        "graphic design",
-        "typescript",
-        "angular",
-        "data engineering",
-        "site reliability",
-        "symfony",
-        "marketplace",
-        "next.js",
-        "flutter"
-      ],
-      "verdict": "review",
-      "fit": 50,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Senior Data Engineer",
-      "company": "Lemon.io",
-      "location": "LATAM, Europe, USA, Canada, APAC",
-      "url": "https://remotive.com/remote-jobs/software-development/senior-data-engineer-2091097",
-      "source": "Remotive",
-      "description": "Are you a talented Senior Data Engineer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The rate depends on your skills and experience. We've already paid out over $11M to our engineers. No more hunting for clients or negotiating rates — let us handle the business side of things so you can focus on what you do best. We'll manually find the best project for you according to your skills and preferences. Choose a schedule that works ",
-      "tags": [
-        ".net",
-        "android",
-        "apache",
-        "aws",
-        "azure",
-        "c",
-        "c#",
-        "c++",
-        "data science",
-        "golang",
-        "ios",
-        "java",
-        "javascript",
-        "node.js",
-        "php",
-        "python",
-        "react",
-        "ruby/rails",
-        "scala",
-        "shopify",
-        "sql",
-        "swift",
-        "ui/ux",
-        "wordpress",
-        "blockchain",
-        "ai/ml",
-        "automation",
-        "project management",
-        "react native",
-        "rust",
-        "product management",
-        "unity",
-        "electron",
-        "spring",
-        "laravel",
-        "ethereum",
-        "graphic design",
-        "typescript",
-        "angular",
-        "gcp",
-        "snowflake",
-        "site reliability",
-        "symfony",
-        "startup",
-        "marketplace",
-        "next.js",
-        "flutter"
-      ],
-      "verdict": "review",
-      "fit": 50,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
       "title": "AWS DevOps Engineer (Senior) - Migration Project (VMware to AWS)",
       "company": "Mactores",
       "location": "Anywhere",
@@ -1151,36 +1119,62 @@
       ]
     },
     {
-      "title": "Customer Solutions Architect, Amazon Connect",
-      "company": "Caylent",
-      "location": "Canada",
-      "url": "https://jobicy.com/jobs/149035-customer-solutions-architect-amazon-connect",
-      "source": "Jobicy",
-      "description": "Caylent is a cloud native services company that helps organizations bring the best out of their people and technology using Amazon Web Services (AWS). We provide a full-range of AWS services including workload migrations and modernization, cloud native application development, DevOps, data engineering, security and compliance, and everything in between. At Caylent, our people always&hellip;",
+      "title": "Senior AI Engineer",
+      "company": "Lemon.io",
+      "location": "Northern America, LATAM, Europe, APAC",
+      "url": "https://remotive.com/remote-jobs/artificial-intelligence/senior-ai-engineer-2091131",
+      "source": "Remotive",
+      "description": "Are you a talented Senior AI Engineer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The rate depends on your skills and experience. We've already paid out over $11M to our engineers. No more hunting for clients or negotiating rates — let us handle the business side of things so you can focus on what you do best. We'll manually find the best project for you according to your skills and preferences. Choose a schedule that works be",
       "tags": [
-        "customer support & success"
+        ".net",
+        "android",
+        "c",
+        "c#",
+        "c++",
+        "data science",
+        "golang",
+        "ios",
+        "java",
+        "javascript",
+        "node.js",
+        "php",
+        "python",
+        "react",
+        "ruby/rails",
+        "scala",
+        "shopify",
+        "swift",
+        "ui/ux",
+        "wordpress",
+        "blockchain",
+        "ai/ml",
+        "automation",
+        "project management",
+        "react native",
+        "rust",
+        "unity",
+        "electron",
+        "spring",
+        "laravel",
+        "ethereum",
+        "graphic design",
+        "typescript",
+        "angular",
+        "firebase",
+        "data engineering",
+        "site reliability",
+        "solid",
+        "symfony",
+        "startup",
+        "marketplace",
+        "next.js",
+        "flutter"
       ],
       "verdict": "review",
-      "fit": 50,
+      "fit": 46,
       "reasons": [
-        "Canada-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "Europe-tagged — verify it's open to Africa first",
         "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Software Engineer - Python - Container Images",
-      "company": "Canonical",
-      "location": "APAC, EMEA, LATAM, Canada, USA",
-      "url": "https://jobicy.com/jobs/150364-software-engineer-python-container-images",
-      "source": "Jobicy",
-      "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders&hellip;",
-      "tags": [
-        "software engineering"
-      ],
-      "verdict": "review",
-      "fit": 48,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -1414,6 +1408,23 @@
       ]
     },
     {
+      "title": "Senior SRE - Networks",
+      "company": "Fastly",
+      "location": "UK",
+      "url": "https://jobicy.com/jobs/153756-senior-sre-networks",
+      "source": "Jobicy",
+      "description": "Fastly helps people stay better connected with the things they love. Fastly’s edge cloud platform enables customers to create great digital experiences quickly, securely, and reliably by processing, serving, and securing our customers’ applications as close to their end-users as possible — at the edge of the Internet. The platform is designed to take advantage&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
+      "verdict": "review",
+      "fit": 46,
+      "reasons": [
+        "Uk-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
       "title": "Cloud Solution Architect - Educational Content Author, Nebius Academy",
       "company": "Nebius",
       "location": "Europe",
@@ -1465,31 +1476,35 @@
       ]
     },
     {
-      "title": "Senior Windows Administator / Platform Engineer IV",
-      "company": "Hudson Manpower",
-      "location": "United States",
-      "url": "https://himalayas.app/companies/hudson-manpower/jobs/senior-windows-administator-platform-engineer-iv",
-      "source": "Himalayas",
-      "description": "Greetings, We're hiring a Platform Engineer IV with deep expertise in Windows Administration and enterprise application support. This role supports mission-critical environments and tools like IBM FileNet and DataCap. You'll be instrumental in ensuring system stability, security, and performance across a complex, remote infrastructure. Job Title: Platform Engineer IV Location: REMOTE - USA MUST HAVES: Must Have BAW DataCap DataCap implementation experience FileNet upgrade experience IBM FileNet ICN What You’ll Do Job Overview: We are seeking a highly skilled and experienced Platform Engineer s",
+      "title": "Frontend Web Application Developer",
+      "company": "KoboToolbox",
+      "location": "USA, Canada, Argentina, Mexico, Peru",
+      "url": "https://remotive.com/remote-jobs/design/frontend-web-application-developer-2091141",
+      "source": "Remotive",
+      "description": "Location: Remote Availability: 35-40 hours per week Working hours: US East business hours Reporting to: Lead developer KoboToolbox has an immediate opening for a Frontend Web Application Developer to fill a full-time position of approximately 35-40 hours per week, for a commitment of at least 1 year. As a member of our team, you will share in the challenge and excitement of writing code used by over 32,000 organizations around the world. These organizations create data-driven change through the collection and analysis of more than 20 million surveys per month. Only candidates who already have ",
       "tags": [
-        "platform-engineering",
-        "windows-administration",
-        "systems-administrator",
-        "devops",
-        "it-infrastructure",
-        "enterprise-application-support",
-        "senior-windows-systems-engineer",
-        "windows-platform-engineer",
-        "senior-systems-administrator",
-        "senior-systems-administration",
-        "senior-platform-engineer",
-        "platform-engineer"
+        "api",
+        "django",
+        "docker",
+        "frontend",
+        "git",
+        "python",
+        "react",
+        "security",
+        "video",
+        "ai/ml",
+        "documentation",
+        "typescript",
+        "web applications",
+        "backbone",
+        "diversity",
+        "rest",
+        "insurance"
       ],
       "verdict": "review",
-      "fit": 46,
+      "fit": 40,
       "reasons": [
-        "United states-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -1562,6 +1577,20 @@
       ]
     },
     {
+      "title": "🇩🇪 Kundenservice Mobilfunk Inbound - innerhalb der EU (ausgenommen: Deutschland)",
+      "company": "hey contact heroes GmbH",
+      "location": "Europe",
+      "url": "https://remotive.com/remote-jobs/customer-service/kundenservice-mobilfunk-inbound-innerhalb-der-eu-ausgenommen-deutschland-2091139",
+      "source": "Remotive",
+      "description": "🇩🇪 This job ad is written in German. 🇩🇪 Kennst du schon die hey contact heroes? Noch nicht? Dann wird’s Zeit! Die hey contact heroes stehen für echte Innovationen im Kundenservice! Wir haben uns auf die Bereitstellung erstklassiger Kundenservice-Lösungen spezialisiert hat. Mit über 500 Agent/innen sind wir in mittlerweile 17 Ländern rund um die Uhr und rund um den Globus im Einsatz. 100 % Remote - innerhalb der EU (ausgenommen: Deutschland) Die hey contact heroes starten für eine große und bekannte Mobilfunk-Marke ein neues, größeres Projekt im Bereich Prepaid-Kundenservice. Es handelt sich um",
+      "tags": [],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "Europe-tagged — verify it's open to Africa first"
+      ]
+    },
+    {
       "title": "AI Response Evaluator",
       "company": "iMerit Technology",
       "location": "France, Japan, Turkey, Vietnam, Mexico, Norway",
@@ -1577,25 +1606,6 @@
       "fit": 36,
       "reasons": [
         "France-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Content Reviewer - English US",
-      "company": "TELUS Digital",
-      "location": "USA",
-      "url": "https://remotive.com/remote-jobs/all-others/content-reviewer-english-us-2091105",
-      "source": "Remotive",
-      "description": "Our global AI Community is a vibrant network of more than one million contributors from diverse backgrounds who help customers collect, enhance, train, translate, and localize content to build better AI models. Become part of our growing community and contribute to the development of innovative AI technologies used by some of the world's largest brands. We are looking for an independent, flexible, remote opportunity where you can help improve AI-powered search technology from the comfort of your home? If you're curious, internet-savvy, and enjoy evaluating online content, this freelance projec",
-      "tags": [
-        "android",
-        "ios",
-        "social media",
-        "ai/ml"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -1980,61 +1990,51 @@
       ]
     },
     {
-      "title": "Healthcare Virtual Assistant Athena EMR Experience",
-      "company": "Snapscale Philippines",
-      "location": "Davao,",
-      "url": "https://remoteOK.com/remote-jobs/remote-healthcare-virtual-assistant-athena-emr-experience-snapscale-philippines-1135688",
-      "source": "RemoteOK",
-      "description": "Overview Snapscale is seeking a highly skilled Healthcare Virtual Assistant to support day-to-day U.S. clinic operations in a remote setup and ensure a seamless patient experience. This role requires strong communication skills, attention to detail, and hands-on experience in U.S. healthcare processes. The ideal candidate must have proven expertise in EMR systems, specifically Athena EMR , and the ability to manage multiple clinical and administrative tasks efficiently while working remotely. Key Responsibilities Verify patient benefits and insurance coverage accurately and efficiently Reactiv",
+      "title": "Field Marketing Manager, ASIA",
+      "company": "Chainguard",
+      "location": "Singapore",
+      "url": "https://jobicy.com/jobs/153761-field-marketing-manager-asia",
+      "source": "Jobicy",
+      "description": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. Our customers include Fortune 500 enterprises and global industry leaders, including Anduril, Canva, Fortinet, Hewlett Packard Enterprise, OpenAI,&hellip;",
       "tags": [
-        "virtual assistant",
-        "coordinator",
-        "customer support",
-        "marketing",
-        "ops",
-        "medical",
-        "non tech",
-        "dev",
-        "video",
-        "cloud",
-        "microsoft",
-        "exec",
-        "digital nomad",
-        "design",
-        "education",
-        "content writing",
-        "sales",
-        "full time",
-        "part time",
-        "c sharp",
-        "react",
-        "hr",
-        "sys admin",
-        "infosec",
-        "python",
-        "teaching",
-        "technical",
-        "testing",
-        "web dev",
-        "scrum",
-        "javascript",
-        "java",
-        "c",
-        "c plus plus",
-        "css",
-        "html",
-        "git",
-        "angular",
-        "node",
-        "node.js",
-        "senior",
-        "engineer",
-        "internship"
+        "marketing & sales"
       ],
       "verdict": "review",
       "fit": 36,
       "reasons": [
-        "location unconfirmed — verify it's open to Africa"
+        "Singapore-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "Field Marketing Specialist - ANZ",
+      "company": "Chainguard",
+      "location": "Australia, New Zealand",
+      "url": "https://jobicy.com/jobs/153763-field-marketing-specialist-anz",
+      "source": "Jobicy",
+      "description": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. Our customers include Fortune 500 enterprises and global industry leaders, including Anduril, Canva, Fortinet, Hewlett Packard Enterprise, OpenAI,&hellip;",
+      "tags": [
+        "marketing & sales"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "Australia-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "Security Engineering Manager",
+      "company": "SkySlope",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/153718-security-engineering-manager",
+      "source": "Jobicy",
+      "description": "OUR ORIGIN STORY In 2011 SkySlope started as an idea born at the kitchen table of our CEO, with just him and two others. Headquartered in Sacramento, California, we have since grown out of our previous 3 offices and many of our close to 150 employees are spread all across the United States. Those&hellip;",
+      "tags": [
+        "cybersecurity"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -2199,6 +2199,23 @@
       "fit": 30,
       "reasons": [
         "location unconfirmed — verify it's open to Africa",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Senior Technical Customer Success Manager",
+      "company": "Kong Inc.",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/153703-senior-technical-customer-success-manager",
+      "source": "Jobicy",
+      "description": "Are you ready to unlock intelligence? If you don’t think you meet all of the criteria below but are still interested in the job, please apply. Nobody checks every box - we’re looking for candidates that are particularly strong in a few areas, and have some interest and capabilities in others. About the Role: You&hellip;",
+      "tags": [
+        "customer support & success"
+      ],
+      "verdict": "review",
+      "fit": 30,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -2612,38 +2629,6 @@
       "description": "About TruelogicAt Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of all sizes, from innovative startups to industry leaders, helping them achieve their digital transformation goals.Our team of 600+ highly skilled tech professionals, based in Latin&hellip;",
       "tags": [
         "software engineering"
-      ],
-      "verdict": "blocked",
-      "fit": 0,
-      "reasons": [
-        "Principal-level — usually 5–10+ yrs, you have ~4"
-      ]
-    },
-    {
-      "title": "SecOps Security Engineer (Staff-level, L6)",
-      "company": "Synthesia",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/152968-secops-security-engineer-staff-level-l6",
-      "source": "Jobicy",
-      "description": "Synthesia is the world’s leading AI video platform for business, used by over 90% of the Fortune 100. Founded in 2017, the company is headquartered in London, with offices and teams across Europe and the US. As AI continues to shape the way we live and work, Synthesia develops products to enhance visual communication and&hellip;",
-      "tags": [
-        "cybersecurity"
-      ],
-      "verdict": "blocked",
-      "fit": 0,
-      "reasons": [
-        "Staff-level — usually 5–10+ yrs, you have ~4"
-      ]
-    },
-    {
-      "title": "Principal Partner Manager - Channels (GSI)",
-      "company": "Datadog",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/152957-principal-partner-manager-channels-gsi",
-      "source": "Jobicy",
-      "description": "We are looking for an experienced Partner Sales Manager to ignite partnerships by identifying and recruiting new partners for long-term success and nurture ongoing relationships with key strategic Global Systems Integrator partners. Our ultimate goal is building channels and alliances that drive new customer adoption and revenue. This is a great opportunity for you to&hellip;",
-      "tags": [
-        "business development"
       ],
       "verdict": "blocked",
       "fit": 0,
