@@ -1,9 +1,9 @@
 {
-  "generated": "2026-09-22 10:29 UTC",
-  "count": 113,
+  "generated": "2026-09-23 10:24 UTC",
+  "count": 109,
   "summary": {
-    "scanned": 113,
-    "eligible": 36,
+    "scanned": 109,
+    "eligible": 32,
     "review": 63,
     "blocked": 14
   },
@@ -14,7 +14,7 @@
       "location": "Worldwide",
       "url": "https://remoteOK.com/remote-jobs/remote-golang-kubernetes-engineer-arango-1137400",
       "source": "RemoteOK",
-      "description": "Remote - Arango delivers a unified, natively multimodel contextual data platform that powers AI agents, assistants, and applications with the unified, current, and trusted business context needed to reason, decide, and act at scale.The Arango Contextual Data Platform connects... Please mention the word **FESTIVE** and tag RMTMuODkuMTI2Ljcz when applying to show you read the job post completely (#RMTMuODkuMTI2Ljcz). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Arango delivers a unified, natively multimodel contextual data platform that powers AI agents, assistants, and applications with the unified, current, and trusted business context needed to reason, decide, and act at scale.The Arango Contextual Data Platform connects... Please mention the word **FESTIVE** and tag RMTcyLjE3MS4yNTQuMTQ2 when applying to show you read the job post completely (#RMTcyLjE3MS4yNTQuMTQ2). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "tags": [
         "golang",
         "golang",
@@ -207,43 +207,12 @@
       ]
     },
     {
-      "title": "Senior Cloud Architect (Network & SRE)",
-      "company": "LivePerson",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/153429-senior-cloud-architect-network-sre",
-      "source": "Jobicy",
-      "description": "Location: USA Remote Status: 100% remote LivePerson (NASDAQ: LPSN) is a leader in trusted enterprise conversational AI and digital transformation. The world's leading brands use our award-winning Conversational Cloud platform to connect with millions of consumers. We power nearly a billion conversational interactions every month, providing uniquely rich data analytics and safety tools to unlock&hellip;",
-      "tags": [
-        "devops & infrastructure"
-      ],
-      "verdict": "eligible",
-      "fit": 60,
-      "reasons": [
-        "remote — anywhere / global",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
       "title": "Software Engineer",
       "company": "CircleCI",
       "location": "Anywhere in the World",
       "url": "https://weworkremotely.com/remote-jobs/circleci-software-engineer",
       "source": "WeWorkRemotely",
       "description": "Headquarters: Ontario, Canada (Remote) About CircleCI Engineering CI/CD has been solved. Now it's being reinvented. AI agents don't just run pipelines. They write code, trigger builds, interpret failures, and propose fixes. The interfaces that developers use to understand and trust that work don't exist yet. We're building them. At CircleCI, our guiding principles aren't posters on a wall. We learn fast: we run experiments, accept failure, and scale what works. We think like the customer: every decision connects back to the developer sitting in front of a failing build at 2 am. We own the outc",
-      "tags": [],
-      "verdict": "eligible",
-      "fit": 54,
-      "reasons": [
-        "remote — anywhere / global"
-      ]
-    },
-    {
-      "title": "Application Security Engineer II",
-      "company": "Abnormal",
-      "location": "Anywhere in the World",
-      "url": "https://weworkremotely.com/remote-jobs/abnormal-application-security-engineer-ii",
-      "source": "WeWorkRemotely",
-      "description": "Headquarters: Remote - USA About the Role Abnormal AI is looking for an Application Security Engineer II to secure the AI-powered systems at the core of our AWS-based platform (LLM-integrated features, agentic workflows, MCP connectors, and the model supply chain) against threats like prompt injection at production scale. This is an individual contributor role that blends deep application security expertise with strong engineering fundamentals. You'll focus on integrating security into every phase of our software development lifecycle, conducting comprehensive security reviews, and partnering ",
       "tags": [],
       "verdict": "eligible",
       "fit": 54,
@@ -462,20 +431,6 @@
       ]
     },
     {
-      "title": "Evergreen - Sales Development Representative",
-      "company": "Huntress",
-      "location": "Anywhere in the World",
-      "url": "https://weworkremotely.com/remote-jobs/huntress-evergreen-sales-development-representative",
-      "source": "WeWorkRemotely",
-      "description": "Headquarters: Remote Australia Reports to: Manager, Sales Development Location: Remote Australia Please note that this is an evergreen requisition and is intended to help us build a pipeline of talented Sales Development Representatives for future opportunities at Huntress. Although there may not be an immediate opening, we’ll continue reviewing applications and may contact candidates whose experience aligns with future hiring needs. &nbsp; What We Do: Huntress is a fully remote, global team of passionate experts and ethical badasses on a mission to break down the barriers to cybersecurity. Wh",
-      "tags": [],
-      "verdict": "eligible",
-      "fit": 50,
-      "reasons": [
-        "remote — anywhere / global"
-      ]
-    },
-    {
       "title": "Associate Account Manager, SLED",
       "company": "Keeper Security",
       "location": "Anywhere in the World",
@@ -496,20 +451,6 @@
       "url": "https://weworkremotely.com/remote-jobs/keeper-security-associate-account-manager",
       "source": "WeWorkRemotely",
       "description": "Headquarters: Remote, US Description Keeper is hiring a driven Associate Account Manager to join a high producing team within our B2B sales division. This is a 100% remote position from select locations with an opportunity to work a hybrid schedule for candidates who live near our global headquarters in Chicago. Keeper’s cybersecurity software is trusted by millions of people and thousands of organizations, globally. Keeper is published in 23 languages and is sold in over 150 countries. Join one of the fastest-growing cybersecurity companies and gain valuable skills while expanding and develop",
-      "tags": [],
-      "verdict": "eligible",
-      "fit": 50,
-      "reasons": [
-        "remote — anywhere / global"
-      ]
-    },
-    {
-      "title": "Critical Situation Manager",
-      "company": "Abnormal",
-      "location": "Anywhere in the World",
-      "url": "https://weworkremotely.com/remote-jobs/abnormal-critical-situation-manager",
-      "source": "WeWorkRemotely",
-      "description": "Headquarters: Remote - USA The Critical Situation Manager owns the customer-facing response when a customer's trust in the platform has been shaken by a significant efficacy or product concern.&nbsp; This role engages when a customer's feedback is substantive and requires a coordinated investigation and response from R&amp;D and other technical teams. The Critical Situation Manager leads that investigation, translates technical findings into clear, confidence-restoring customer communication, and owns the engagement through to a formal resolution and close-out. As a Critical Situation Manager,",
       "tags": [],
       "verdict": "eligible",
       "fit": 50,
@@ -703,6 +644,51 @@
       ]
     },
     {
+      "title": "Site Reliability Engineer",
+      "company": "Canonical",
+      "location": "Anywhere",
+      "url": "https://jobicy.com/jobs/149547-site-reliability-engineer",
+      "source": "Jobicy",
+      "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
+      "verdict": "review",
+      "fit": 64,
+      "reasons": [
+        "Africa-friendly employer (Canonical) — role location unconfirmed"
+      ]
+    },
+    {
+      "title": "SRE (Site Reliability Engineer)",
+      "company": "ROUTE06",
+      "location": "Japan",
+      "url": "https://himalayas.app/companies/route06/jobs/sre-site-reliability-engineer-2454337679",
+      "source": "Himalayas",
+      "description": "募集要項 業務内容 ROUTE06 （ルートシックス）は、大手企業のビジネスモデル変革を支援するDXパートナーです。 エンタープライズ向けビジネスAPIプラットフォーム「Plain」の提供とアジャイルでの事業化支援によって商取引のプラットフォーム化を実現し、新たな企業価値を生み出すことに貢献します。 開発するプロダクトはモール型EC、OMOストア、マーケットプレイスなど多岐にわたり、事業フェーズも立ち上げからグロースまで幅広くあります。 お客様にいつでも安心してサービスを利用いただけるように、SREとしてサービスの安定性の向上に取り組んでいただきます。 具体的には、インフラの整備、サービスの監視、オペレーションの自動化、パフォーマンス改善やCI/CDの整備など開発生産性を向上するための開発などを含みます。また、ご興味があればバックエンドなどその他領域の開発をしていただくことも可能です。 ROUTE06 のSREは、相談しつつ適性、希望、需要に応じて柔軟に担当役割を選択し、お客様にとって最適かつ最善のUXを提供できるよう開発を進めます。 必須要件 パブリッククラウドサービス (AWS, GCP) での構築・運用経験がある OS の基本的な知識がある ネットワーク、セキュリティの基本的な知識がある 特定の開発言語での開発実績がある Docker を活用した開発環境の構築・運用経験がある",
+      "tags": [
+        "site-reliability-engineering",
+        "devops-engineer",
+        "cloud-engineer",
+        "infrastructure-engineering",
+        "sre",
+        "site-reliability-engineering-(sre)",
+        "site-reliability-engineer",
+        "sre-engineer",
+        "sre-jobs",
+        "site-reliability-engineering-jobs",
+        "site-reliability-operations-engineer",
+        "devops-site-reliability-engineer",
+        "senior-site-reliability-engineer",
+        "sre-system-engineer"
+      ],
+      "verdict": "review",
+      "fit": 64,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
       "title": "Java Developer",
       "company": "Clera",
       "location": "Los Angeles",
@@ -728,32 +714,6 @@
       "fit": 60,
       "reasons": [
         "location unconfirmed — verify it's open to Africa"
-      ]
-    },
-    {
-      "title": "AWS DevOps specialist - Full remote - in USD",
-      "company": "goPro Consultancy Group ltd.",
-      "location": "United States",
-      "url": "https://himalayas.app/companies/gopro-consultancy-group-ltd/jobs/aws-devops-specialist-full-remote-in-usd-8834118478",
-      "source": "Himalayas",
-      "description": "Category: IT Services Location: For an international organization in New York, we are urgently looking for a REMOTE AWS DevOps specialist with a history of working in an agile environment. Ideally, the applicant should have AWS experience in the Build, Release processes, Continuous Integration (CI) , Continuous Delivery/Deployment (CD) for the automated deployment of Microservices components using Docker Containers, AWS services and other technologies. Candidates need to be able to work +6 hours per day in the normal office hours of New York, US. Example 9AM NY time equals 7:30PM. Tasks and re",
-      "tags": [
-        "aws-devops-specialist",
-        "cloud-devops-engineer",
-        "ci-cd-engineer",
-        "infrastructure-engineer",
-        "devops-engineer",
-        "aws-devops-engineer",
-        "remote-devops-engineer",
-        "cloud-devops-specialist",
-        "devops-specialist",
-        "aws-devops-engineering",
-        "aws-platform-specialist"
-      ],
-      "verdict": "review",
-      "fit": 60,
-      "reasons": [
-        "United states-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -822,6 +782,23 @@
       "fit": 58,
       "reasons": [
         "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Senior Site Reliability Engineer",
+      "company": "Canonical",
+      "location": "Anywhere",
+      "url": "https://jobicy.com/jobs/149557-senior-site-reliability-engineer-5",
+      "source": "Jobicy",
+      "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
+      "verdict": "review",
+      "fit": 58,
+      "reasons": [
+        "Africa-friendly employer (Canonical) — role location unconfirmed",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -1066,54 +1043,6 @@
       ]
     },
     {
-      "title": "Atlassian Administrator 1726",
-      "company": "Softgic",
-      "location": "Anywhere",
-      "url": "https://jobicy.com/jobs/146254-atlassian-administrator-1726",
-      "source": "Jobicy",
-      "description": "This is a remote position. We are seeking an experienced Atlassian Administrator to manage, optimize, and continuously improve our Atlassian Cloud ecosystem. This role will be responsible for the administration, configuration, customization, and support of Jira Software, Confluence, and Jira Service Management (JSM) , ensuring these platforms effectively support business processes and operational goals across&hellip;",
-      "tags": [
-        "devops & infrastructure"
-      ],
-      "verdict": "review",
-      "fit": 52,
-      "reasons": [
-        "location unconfirmed — verify it's open to Africa"
-      ]
-    },
-    {
-      "title": "Infrastructure Developer, Platform Engineering",
-      "company": "MaintainX",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/153437-infrastructure-developer-platform-engineering",
-      "source": "Jobicy",
-      "description": "MaintainX is a leading mobile-first work execution platform for industrial and frontline teams. More than 13,000 customers, including Duracell, McDonald's, Shell, DHL and Volvo, use MaintainX to cut unplanned downtime and run better operations, across 13.9 million managed assets and 79.5 million completed work orders. In August 2026 MaintainX became part of Autodesk, joining Autodesk&hellip;",
-      "tags": [
-        "devops & infrastructure"
-      ],
-      "verdict": "review",
-      "fit": 52,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Growth Marketing Manager",
-      "company": "infisical",
-      "location": "Canada, USA",
-      "url": "https://jobicy.com/jobs/150760-growth-marketing-manager",
-      "source": "Jobicy",
-      "description": "Infisical is the open source security infrastructure platform that engineers use for secrets management, certificates, and privileged access management. We help developers and organizations securely manage billions of secrets every month including application configuration, database credentials, certificates, and more. We’ve raised $19M from Y Combinator, Google, and Elad Gil, and our customers include Hugging Face,&hellip;",
-      "tags": [
-        "marketing & sales"
-      ],
-      "verdict": "review",
-      "fit": 52,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
       "title": "Senior React Full-stack Developer",
       "company": "Lemon.io",
       "location": "LATAM, Europe, USA, Canada, APAC",
@@ -1207,6 +1136,54 @@
       "reasons": [
         "location unconfirmed — verify it's open to Africa",
         "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Microservices Engineer",
+      "company": "Canonical",
+      "location": "Anywhere",
+      "url": "https://jobicy.com/jobs/149558-microservices-engineer",
+      "source": "Jobicy",
+      "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders&hellip;",
+      "tags": [
+        "software engineering"
+      ],
+      "verdict": "review",
+      "fit": 48,
+      "reasons": [
+        "Africa-friendly employer (Canonical) — role location unconfirmed"
+      ]
+    },
+    {
+      "title": "Engineering Manager - Solutions Engineering",
+      "company": "Canonical",
+      "location": "Anywhere",
+      "url": "https://jobicy.com/jobs/149556-engineering-manager-solutions-engineering",
+      "source": "Jobicy",
+      "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders&hellip;",
+      "tags": [
+        "product & operations"
+      ],
+      "verdict": "review",
+      "fit": 48,
+      "reasons": [
+        "Africa-friendly employer (Canonical) — role location unconfirmed"
+      ]
+    },
+    {
+      "title": "Software Engineer - Solutions Engineering",
+      "company": "Canonical",
+      "location": "Anywhere",
+      "url": "https://jobicy.com/jobs/149560-software-engineer-solutions-engineering",
+      "source": "Jobicy",
+      "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders&hellip;",
+      "tags": [
+        "software engineering"
+      ],
+      "verdict": "review",
+      "fit": 48,
+      "reasons": [
+        "Africa-friendly employer (Canonical) — role location unconfirmed"
       ]
     },
     {
@@ -1499,6 +1476,57 @@
       ]
     },
     {
+      "title": "Senior Software Engineer - (Connect Platform)",
+      "company": "Enode",
+      "location": "Europe, Norway",
+      "url": "https://jobicy.com/jobs/149498-senior-software-engineer-connect-platform",
+      "source": "Jobicy",
+      "description": "About EnodeThe grid was built for predictable, centralised power. Today it's absorbing intermittent supply from grid scale solar and wind, alongside dynamic demand from EVs, heat pumps, and home batteries. The missing piece is software that can connect and orchestrate these devices at scale.Enode provides the infrastructure layer that makes this possible. Our Connect API&hellip;",
+      "tags": [
+        "software engineering"
+      ],
+      "verdict": "review",
+      "fit": 46,
+      "reasons": [
+        "Europe-tagged — verify it's open to Africa first",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Senior Account Executive (Enterprise)",
+      "company": "Mattermost",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/153856-senior-account-executive-enterprise-3",
+      "source": "Jobicy",
+      "description": "Mattermost is the leading collaborative workflow platform for defense, intelligence, security, and critical infrastructure. Trusted by the U.S. Department of War and Fortune 500s, our platform runs on-premises and in private clouds, delivering secure messaging, file sharing, workflow automation, audio/screenshare, and project management—all with full data and operational control. Mattermost powers high-stakes workflows across mission&hellip;",
+      "tags": [
+        "sales"
+      ],
+      "verdict": "review",
+      "fit": 46,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Lead Site Reliability Engineer",
+      "company": "Mattermost",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/153852-lead-site-reliability-engineer",
+      "source": "Jobicy",
+      "description": "Mattermost is the leading collaborative workflow platform for defense, intelligence, security, and critical infrastructure. Trusted by the U.S. Department of War and Fortune 500s, our platform runs on-premises and in private clouds, delivering secure messaging, file sharing, workflow automation, audio/screenshare, and project management—all with full data and operational control. Mattermost powers high-stakes workflows across mission&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
+      "verdict": "review",
+      "fit": 46,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
       "title": "Senior SRE - Networks",
       "company": "Fastly",
       "location": "UK",
@@ -1533,19 +1561,19 @@
       ]
     },
     {
-      "title": "Senior Technical Product Manager, Token Factory",
-      "company": "Nebius",
-      "location": "Europe, Netherlands, UK",
-      "url": "https://jobicy.com/jobs/149361-senior-technical-product-manager-token-factory",
+      "title": "Community Engineer (multiple roles and seniority levels)",
+      "company": "Canonical",
+      "location": "Anywhere",
+      "url": "https://jobicy.com/jobs/149577-community-engineer-multiple-roles-and-seniority-levels",
       "source": "Jobicy",
-      "description": "About Nebius: Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-house AI/ML infrastructure. Built by engineers, for engineers. From&hellip;",
+      "description": "Our ambition is to set a standard of excellence when it comes to serving the open source ecosystem. This is your chance to be a part of that as a Community Engineer at Canonical.We are building community management at scale. We have multiple positions available, at different seniority levels.All applications and candidates are handled through&hellip;",
       "tags": [
-        "product & operations"
+        "customer support & success"
       ],
       "verdict": "review",
-      "fit": 46,
+      "fit": 42,
       "reasons": [
-        "Uk-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "Africa-friendly employer (Canonical) — role location unconfirmed",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -2003,64 +2031,35 @@
       ]
     },
     {
-      "title": "Machine Operator &amp; Labourers",
-      "company": "Total Environmental Concepts Pty ltd",
-      "location": "Brisbane City,",
-      "url": "https://remoteOK.com/remote-jobs/remote-machine-operator-amp-labourers-total-environmental-concepts-pty-ltd-1136001",
-      "source": "RemoteOK",
-      "description": "Company Description Total Environmental Concepts Pty Ltd is a commercial specialist in environmental maintenance and management, servicing the Sunshine Coast, Brisbane, Scenic Rim, Gold Coast, Northern NSW, and surrounding regions. With more than 40 years of experience, the company delivers services such as environmental rehabilitation, hydro mulching and seeding, stormwater management, track and fire trail construction, bioretention basin management, and broader land management. The team has worked on large-scale projects for clients including Redland City Council, Scenic Rim Regional Council",
+      "title": "Engineering Manager",
+      "company": "NetBox Labs",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/153922-engineering-manager-8",
+      "source": "Jobicy",
+      "description": "At NetBox Labs, our mission is to make it easier to build and manage complex networks. As a product company, we do that by developing innovative software for network professionals delivered on-premises and in the cloud. We believe in the power of community and collaboration, and we are looking for a hands-on, player-coach Engineering Manager&hellip;",
       "tags": [
-        "design",
-        "technical",
-        "customer support",
-        "dev",
-        "microsoft",
-        "senior",
-        "ops",
-        "engineer",
-        "digital nomad",
-        "sys admin",
-        "education",
-        "testing",
-        "exec",
-        "excel",
-        "payroll",
-        "medical",
-        "video",
-        "marketing",
-        "travel",
-        "finance",
-        "mobile",
-        "hr",
-        "recruiter",
-        "supervisor",
-        "consulting",
-        "assembly",
-        "saas",
-        "golang",
-        "coordinator",
-        "product manager",
-        "bus dev",
-        "sales",
-        "amazon",
-        "salesforce",
-        "infosec",
-        "embedded",
-        "java",
-        "c",
-        "c plus plus",
-        "cloud",
-        "linux",
-        "speech",
-        "adult",
-        "junior",
-        "admin",
-        "full time"
+        "software engineering"
       ],
       "verdict": "review",
       "fit": 36,
       "reasons": [
-        "location unconfirmed — verify it's open to Africa"
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "Technical Program Manager",
+      "company": "Playson",
+      "location": "Europe",
+      "url": "https://jobicy.com/jobs/153901-technical-program-manager-5",
+      "source": "Jobicy",
+      "description": "About the role We're looking for someone who owns delivery - not tracks it, not reports it, owns it. You'll be responsible for a specific area: games, features, or platform work. From the first conversation about a requirement through to production - you're on the hook for the whole thing. This isn’t a coordination-only role.&hellip;",
+      "tags": [
+        "project & program management"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "Europe-tagged — verify it's open to Africa first"
       ]
     },
     {
@@ -2128,102 +2127,6 @@
       ]
     },
     {
-      "title": "Forward Deployed Engineer",
-      "company": "Kong Inc.",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/153504-forward-deployed-engineer-5",
-      "source": "Jobicy",
-      "description": "Are you ready to unlock intelligence? If you don’t think you meet all of the criteria below but are still interested in the job, please apply. Nobody checks every box - we’re looking for candidates that are particularly strong in a few areas, and have some interest and capabilities in others. About the Role: Join&hellip;",
-      "tags": [
-        "software engineering"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Agile Coach (FTC)",
-      "company": "TrustedHousesitters",
-      "location": "UK",
-      "url": "https://jobicy.com/jobs/153382-agile-coach-ftc",
-      "source": "Jobicy",
-      "description": "TrustedHousesitters is a fast growing, direct-to-consumer marketplace that is redefining pet care and travel. Here at TrustedHousesitters, we’re on a mission to make travel work better for pets, for their people, and for the global community of animal lovers who look after them. We’ve got big plans on becoming the world’s most-loved travel solution for&hellip;",
-      "tags": [
-        "project & program management"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Uk-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Data Engineer",
-      "company": "Gopuff",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/150836-data-engineer",
-      "source": "Jobicy",
-      "description": "At Gopuff, data sits at the heart of our strategy. We are reimagining how people purchase everyday essentials, from snacks to household goods to alcohol, all delivered in minutes. To fuel this mission, we are seeking a Data Engineer to design, build, and scale the data systems that power insights, experimentation, and operational excellence across&hellip;",
-      "tags": [
-        "data science & analytics"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Support Engineering Manager (APAC)",
-      "company": "Supabase",
-      "location": "APAC",
-      "url": "https://jobicy.com/jobs/146230-support-engineering-manager-apac",
-      "source": "Jobicy",
-      "description": "About SupabaseSupabase is the Postgres development platform: Database, Auth, Storage, Edge Functions, Realtime, and Vector, deeply integrated and built for teams that need their backend to grow with them. We're open source, we move fast, and our users are developers who notice when things are off.About this roleWe're hiring a Support Manager on our global&hellip;",
-      "tags": [
-        "technical support"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "APAC-tagged — verify it's open to Africa first"
-      ]
-    },
-    {
-      "title": "Support Engineering Manager (APAC)",
-      "company": "Supabase",
-      "location": "APAC",
-      "url": "https://jobicy.com/jobs/149306-support-engineering-manager-apac-2",
-      "source": "Jobicy",
-      "description": "About SupabaseSupabase is the Postgres development platform: Database, Auth, Storage, Edge Functions, Realtime, and Vector, deeply integrated and built for teams that need their backend to grow with them. We're open source, we move fast, and our users are developers who notice when things are off.About this roleWe're hiring a Support Manager on our global&hellip;",
-      "tags": [
-        "technical support"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "APAC-tagged — verify it's open to Africa first"
-      ]
-    },
-    {
-      "title": "Forward Deployed Engineer, Python",
-      "company": "Socket",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/153341-forward-deployed-engineer-python",
-      "source": "Jobicy",
-      "description": "About Us Socket helps devs and security teams ship faster by cutting out security busywork. Thousands of orgs use Socket to safely find, audit, and manage open source code. Our customers - from Anthropic to xAI, and Figma to Vercel - love Socket (just check out their tweets to see for yourself!) Founded by Feross&hellip;",
-      "tags": [
-        "cybersecurity"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
       "title": "Senior Independent AI Engineer / Architect",
       "company": "A.Team",
       "location": "Americas, Europe, Israel",
@@ -2243,6 +2146,23 @@
       "fit": 30,
       "reasons": [
         "Europe-tagged — verify it's open to Africa first",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Manager, Delivery Solutions Architects - Public Sector",
+      "company": "Databricks",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/153868-manager-delivery-solutions-architects-public-sector",
+      "source": "Jobicy",
+      "description": "CSQ427R326 PLEASE NOTE: Due to federal contract requirements and client site access obligations, U.S. citizenship is required to access classified information. Build and lead a team of Delivery Solution Architects. DSA’s lead the post sales technical strategy for our Public Sector customers, with a focus on ensuring use cases go into production as quickly and&hellip;",
+      "tags": [
+        "product & operations"
+      ],
+      "verdict": "review",
+      "fit": 30,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -2294,23 +2214,6 @@
       "fit": 30,
       "reasons": [
         "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Senior Software Architect (C#/Angular/AI First) - GovTech SaaS company",
-      "company": "Truelogic",
-      "location": "Mexico",
-      "url": "https://jobicy.com/jobs/153535-senior-software-architect-c-angular-ai-first-govtech-saas-company",
-      "source": "Jobicy",
-      "description": "About Truelogic At Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of all sizes, from innovative startups to industry leaders, helping them achieve their digital transformation goals. Our team of 600+ highly skilled tech professionals, based&hellip;",
-      "tags": [
-        "software engineering"
-      ],
-      "verdict": "review",
-      "fit": 30,
-      "reasons": [
-        "Mexico-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
