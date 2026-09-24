@@ -1,10 +1,10 @@
 {
-  "generated": "2026-09-23 10:24 UTC",
-  "count": 109,
+  "generated": "2026-09-24 10:41 UTC",
+  "count": 110,
   "summary": {
-    "scanned": 109,
-    "eligible": 32,
-    "review": 63,
+    "scanned": 110,
+    "eligible": 31,
+    "review": 65,
     "blocked": 14
   },
   "jobs": [
@@ -14,7 +14,7 @@
       "location": "Worldwide",
       "url": "https://remoteOK.com/remote-jobs/remote-golang-kubernetes-engineer-arango-1137400",
       "source": "RemoteOK",
-      "description": "Remote - Arango delivers a unified, natively multimodel contextual data platform that powers AI agents, assistants, and applications with the unified, current, and trusted business context needed to reason, decide, and act at scale.The Arango Contextual Data Platform connects... Please mention the word **FESTIVE** and tag RMTcyLjE3MS4yNTQuMTQ2 when applying to show you read the job post completely (#RMTcyLjE3MS4yNTQuMTQ2). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Arango delivers a unified, natively multimodel contextual data platform that powers AI agents, assistants, and applications with the unified, current, and trusted business context needed to reason, decide, and act at scale.The Arango Contextual Data Platform connects... Please mention the word **FESTIVE** and tag RMTcyLjIwOC4xMy44Mg== when applying to show you read the job post completely (#RMTcyLjIwOC4xMy44Mg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "tags": [
         "golang",
         "golang",
@@ -166,21 +166,6 @@
       "url": "https://weworkremotely.com/remote-jobs/fastly-senior-sre-networks",
       "source": "WeWorkRemotely",
       "description": "Headquarters: United Kingdom (Remote) Fastly helps people stay better connected with the things they love. Fastly’s edge cloud platform enables customers to create great digital experiences quickly, securely, and reliably by processing, serving, and securing our customers’ applications as close to their end-users as possible — at the edge of the Internet. The platform is designed to take advantage of the modern internet, to be programmable, and to support agile software development. Fastly’s customers include many of the world’s most prominent companies, including GitHub, Yelp, Paramount, and ",
-      "tags": [],
-      "verdict": "eligible",
-      "fit": 60,
-      "reasons": [
-        "remote — anywhere / global",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Senior DevOps Engineer",
-      "company": "Lemon.io",
-      "location": "Anywhere in the World",
-      "url": "https://weworkremotely.com/remote-jobs/lemon-io-senior-devops-engineer-3",
-      "source": "WeWorkRemotely",
-      "description": "Headquarters: New York, NY URL: https://lemon.io Senior Developer? Work Remote. Get Paid Well. Build What Matters. Lemon.io connects hand-picked senior developers with vetted startups across the US and Europe — no bidding wars, no ghosting, just serious opportunities. We're currently hiring for a research-driven AI company on a mission to slash the cost of modern AI — co-designing hardware, software, algorithms, and models to make AI's benefits accessible to everyone. They're active open-source contributors, building the infrastructure behind next-generation AI at scale. Open roles: Senior Sof",
       "tags": [],
       "verdict": "eligible",
       "fit": 60,
@@ -660,35 +645,6 @@
       ]
     },
     {
-      "title": "SRE (Site Reliability Engineer)",
-      "company": "ROUTE06",
-      "location": "Japan",
-      "url": "https://himalayas.app/companies/route06/jobs/sre-site-reliability-engineer-2454337679",
-      "source": "Himalayas",
-      "description": "募集要項 業務内容 ROUTE06 （ルートシックス）は、大手企業のビジネスモデル変革を支援するDXパートナーです。 エンタープライズ向けビジネスAPIプラットフォーム「Plain」の提供とアジャイルでの事業化支援によって商取引のプラットフォーム化を実現し、新たな企業価値を生み出すことに貢献します。 開発するプロダクトはモール型EC、OMOストア、マーケットプレイスなど多岐にわたり、事業フェーズも立ち上げからグロースまで幅広くあります。 お客様にいつでも安心してサービスを利用いただけるように、SREとしてサービスの安定性の向上に取り組んでいただきます。 具体的には、インフラの整備、サービスの監視、オペレーションの自動化、パフォーマンス改善やCI/CDの整備など開発生産性を向上するための開発などを含みます。また、ご興味があればバックエンドなどその他領域の開発をしていただくことも可能です。 ROUTE06 のSREは、相談しつつ適性、希望、需要に応じて柔軟に担当役割を選択し、お客様にとって最適かつ最善のUXを提供できるよう開発を進めます。 必須要件 パブリッククラウドサービス (AWS, GCP) での構築・運用経験がある OS の基本的な知識がある ネットワーク、セキュリティの基本的な知識がある 特定の開発言語での開発実績がある Docker を活用した開発環境の構築・運用経験がある",
-      "tags": [
-        "site-reliability-engineering",
-        "devops-engineer",
-        "cloud-engineer",
-        "infrastructure-engineering",
-        "sre",
-        "site-reliability-engineering-(sre)",
-        "site-reliability-engineer",
-        "sre-engineer",
-        "sre-jobs",
-        "site-reliability-engineering-jobs",
-        "site-reliability-operations-engineer",
-        "devops-site-reliability-engineer",
-        "senior-site-reliability-engineer",
-        "sre-system-engineer"
-      ],
-      "verdict": "review",
-      "fit": 64,
-      "reasons": [
-        "location unconfirmed — verify it's open to Africa"
-      ]
-    },
-    {
       "title": "Java Developer",
       "company": "Clera",
       "location": "Los Angeles",
@@ -867,19 +823,30 @@
       ]
     },
     {
-      "title": "Infrastructure Engineer",
-      "company": "Bayesian Health",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/153599-infrastructure-engineer-3",
-      "source": "Jobicy",
-      "description": "In Brief We’re a rapidly growing startup on a mission to make healthcare proactive by empowering physicians, nurses, and care team members with real-time data to save lives. You will build and maintain the infrastructure for the Bayesian platform and develop CI/CD to enable other team members such as software engineers, data scientists, etc. to&hellip;",
+      "title": "Spécialiste DevOps (Q4D)",
+      "company": "TEHORA",
+      "location": "United States",
+      "url": "https://himalayas.app/companies/tehora/jobs/specialiste-devops-q4d",
+      "source": "Himalayas",
+      "description": "Voici un poste à distance. TEHORA est présentement à la recherche d’un(e) spécialiste DevOps ayant d’excellentes aptitudes techniques, d’excellentes connaissances et qui souhaite mettre à profit ses compétences au sein d’une équipe polyvalente. Sans être exhaustifs, voici les services et livrables que devra fournir la personne retenue. Description des travaux ou des biens livrables : - Collaborer avec les membres des équipes Produits pour comprendre nos principaux besoins en matière d'efficacité et d'automatisation de développement, de déploiement et de gestion de la plateforme; - Travailler s",
       "tags": [
-        "devops & infrastructure"
+        "devops-specialist",
+        "infrastructure-automation",
+        "ci-cd-engineering",
+        "cloud-devops",
+        "agile-devops",
+        "cloud-devops-specialist",
+        "aws-devops-specialist",
+        "devops-engineer",
+        "devops-analyst",
+        "devops-consultant",
+        "devops-architect",
+        "java-devops-specialist"
       ],
       "verdict": "review",
       "fit": 56,
       "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+        "United states-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -1027,22 +994,6 @@
       ]
     },
     {
-      "title": "Site Reliability Engineer",
-      "company": "MaintainX",
-      "location": "Canada",
-      "url": "https://jobicy.com/jobs/153549-site-reliability-engineer-3",
-      "source": "Jobicy",
-      "description": "MaintainX is a leading mobile-first work execution platform for industrial and frontline teams. More than 13,000 customers, including Duracell, McDonald's, Shell, DHL and Volvo, use MaintainX to cut unplanned downtime and run better operations, across 13.9 million managed assets and 79.5 million completed work orders. In August 2026 MaintainX became part of Autodesk, joining Autodesk&hellip;",
-      "tags": [
-        "devops & infrastructure"
-      ],
-      "verdict": "review",
-      "fit": 52,
-      "reasons": [
-        "Canada-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
       "title": "Senior React Full-stack Developer",
       "company": "Lemon.io",
       "location": "LATAM, Europe, USA, Canada, APAC",
@@ -1135,6 +1086,35 @@
       "fit": 50,
       "reasons": [
         "location unconfirmed — verify it's open to Africa",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Senior Cloud Engineer (Azure, IaC, Terraform) - Projeto Internacional",
+      "company": "Deliver IT",
+      "location": "Brazil",
+      "url": "https://himalayas.app/companies/deliver-it/jobs/senior-cloud-engineer-azure-iac-terraform-projeto-internacional-267579421",
+      "source": "Himalayas",
+      "description": "Você se considera uma pessoa que tem sede poraprendizado, gosta de trabalhar em equipe e curte compartilhar conhecimento?Então essa oportunidade é para você! Estamos em busca de um(a) Engenheiro(a) de Cloud Sênior paraintegrar nossa equipe. O(a) profissional ideal possui sólida experiênciaprática na construção e gerenciamento de infraestrutura em Azure, com forteconhecimento em Engenharia de Infraestrutura e práticas de DevOps. Você será responsável por desenvolver, manter e otimizarsoluções de Infraestrutura como Código (Infrastructure as Code – IaC),integradas a ferramentas e pipelines autom",
+      "tags": [
+        "cloud-engineer",
+        "devops-engineer",
+        "infrastructure-as-code",
+        "azure-cloud-engineer",
+        "site-reliability-engineering",
+        "senior-cloud-infrastructure-engineer",
+        "senior-cloud-engineer",
+        "senior-cloud-engineering",
+        "senior-engineer-cloud-and-devops-(p)",
+        "senior-cloud-infrastructure-developer",
+        "senior-cloud-platform-engineer",
+        "senior-azure-engineer",
+        "engenheiro-de-cloud"
+      ],
+      "verdict": "review",
+      "fit": 50,
+      "reasons": [
+        "Brazil-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -1425,23 +1405,6 @@
       ]
     },
     {
-      "title": "Senior DevOps Lead",
-      "company": "LivePerson",
-      "location": "Germany",
-      "url": "https://jobicy.com/jobs/153313-senior-devops-lead",
-      "source": "Jobicy",
-      "description": "Location: Berlin, Germany Remote Status: Fully Remote (#LI-Remote) LivePerson (NASDAQ: LPSN) is a leader in trusted enterprise conversational AI and digital transformation. The world's leading brands use our award-winning Conversational Cloud platform to connect with millions of consumers. We power nearly a billion conversational interactions every month, providing uniquely rich data analytics and safety tools&hellip;",
-      "tags": [
-        "devops & infrastructure"
-      ],
-      "verdict": "review",
-      "fit": 46,
-      "reasons": [
-        "Germany-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
       "title": "Senior DevOps Engineer",
       "company": "Nextiva",
       "location": "Mexico",
@@ -1676,6 +1639,25 @@
       "reasons": [
         "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
         "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Content Reviewer - United States",
+      "company": "TELUS Digital",
+      "location": "USA",
+      "url": "https://remotive.com/remote-jobs/all-others/content-reviewer-united-states-2091144",
+      "source": "Remotive",
+      "description": "We are looking for an independent, flexible, remote opportunity where you can help improve AI-powered search technology from the comfort of your home? If you're curious, internet-savvy, and enjoy evaluating online content, this freelance project could be a great fit. A Day in the Life of a Content Reviewer - US In this role, you will analyze and provide feedback on text, webpages, images, and other types of online content for leading search engines using a specialized online platform. By reviewing and rating search results for relevance and quality, you will help improve the overall search exp",
+      "tags": [
+        "android",
+        "ios",
+        "social media",
+        "ai/ml"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -2028,6 +2010,54 @@
       "fit": 36,
       "reasons": [
         "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
+      "title": "Project Manager",
+      "company": "Verra Mobility",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/151512-project-manager-4",
+      "source": "Jobicy",
+      "description": "Position Overview As a Project Manager, you will play a key role in providing world class support to our external clients and internal teams by managing the end-to-end implementation of contracted technical programs and ensuring they are delivered in a timely manner. No challenge will be too big, and no issue will go unsolved! You&hellip;",
+      "tags": [
+        "project & program management"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "Corporate Account Executive",
+      "company": "LaunchDarkly",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/153977-corporate-account-executive",
+      "source": "Jobicy",
+      "description": "About the Job: The Corporate Account Executive is a hunter-focused role responsible for driving net new business and expanding existing accounts within the mid-market segment. This role requires strong outbound prospecting instincts, the ability to self-generate pipeline, and a proven track record of quota attainment in a SaaS environment. LaunchDarkly is looking for product-oriented, customer-focused,&hellip;",
+      "tags": [
+        "sales"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "Backend Engineer, Observability",
+      "company": "LaunchDarkly",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/153974-backend-engineer-observability",
+      "source": "Jobicy",
+      "description": "About the Job: LaunchDarkly is looking for a Backend Engineer to help build and expand Vega, our AI-powered platform that surfaces insights and automates actions across LaunchDarkly products. This is a greenfield opportunity: you'll help evolve Vega from an Observability-focused assistant into a cross-product platform that serves Feature Management customers and powers a new, usage-based&hellip;",
+      "tags": [
+        "software engineering"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
