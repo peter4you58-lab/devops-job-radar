@@ -1,11 +1,11 @@
 {
-  "generated": "2026-09-26 10:27 UTC",
-  "count": 106,
+  "generated": "2026-09-27 10:58 UTC",
+  "count": 107,
   "summary": {
-    "scanned": 106,
+    "scanned": 107,
     "eligible": 28,
-    "review": 64,
-    "blocked": 14
+    "review": 63,
+    "blocked": 16
   },
   "jobs": [
     {
@@ -14,7 +14,7 @@
       "location": "Worldwide",
       "url": "https://remoteOK.com/remote-jobs/remote-golang-kubernetes-engineer-arango-1137400",
       "source": "RemoteOK",
-      "description": "Remote - Arango delivers a unified, natively multimodel contextual data platform that powers AI agents, assistants, and applications with the unified, current, and trusted business context needed to reason, decide, and act at scale.The Arango Contextual Data Platform connects... Please mention the word **FESTIVE** and tag RNzQuMjQ5Ljc5LjU1 when applying to show you read the job post completely (#RNzQuMjQ5Ljc5LjU1). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Arango delivers a unified, natively multimodel contextual data platform that powers AI agents, assistants, and applications with the unified, current, and trusted business context needed to reason, decide, and act at scale.The Arango Contextual Data Platform connects... Please mention the word **FESTIVE** and tag RNjQuMjM2LjE3Ni4yMzI= when applying to show you read the job post completely (#RNjQuMjM2LjE3Ni4yMzI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "tags": [
         "golang",
         "golang",
@@ -629,75 +629,6 @@
       ]
     },
     {
-      "title": "Senior DevOps Engineer",
-      "company": "Lemon.io",
-      "location": "LATAM, Europe, USA, Canada, APAC",
-      "url": "https://remotive.com/remote-jobs/devops/senior-devops-engineer-2091099",
-      "source": "Remotive",
-      "description": "Are you a talented Senior DevOps looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe. We currently have multiple DevOps openings open at once, each with a different setup, stack, and benefits. Check which one fits you: Direct hire for our client in the gambling industry. Relocation and visa assistance included. This role bridges infrastructure and application operations: you’ll keep environments reliable, redundant, and secure, investigate production",
-      "tags": [
-        ".net",
-        "android",
-        "aws",
-        "azure",
-        "c",
-        "c#",
-        "c++",
-        "data science",
-        "golang",
-        "heroku",
-        "ios",
-        "java",
-        "javascript",
-        "kubernetes",
-        "node.js",
-        "php",
-        "python",
-        "react",
-        "ruby/rails",
-        "scala",
-        "shopify",
-        "sql",
-        "swift",
-        "ui/ux",
-        "wordpress",
-        "blockchain",
-        "ai/ml",
-        "automation",
-        "project management",
-        "react native",
-        "rust",
-        "product management",
-        "unity",
-        "electron",
-        "spring",
-        "data analysis",
-        "bash",
-        "laravel",
-        "ethereum",
-        "graphic design",
-        "typescript",
-        "terraform",
-        "angular",
-        "gcp",
-        "firebase",
-        "data engineering",
-        "site reliability",
-        "symfony",
-        "linux/unix",
-        "marketplace",
-        "next.js",
-        "infrastructure",
-        "flutter"
-      ],
-      "verdict": "review",
-      "fit": 58,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
       "title": "Senior Site Reliability Engineer",
       "company": "Canonical",
       "location": "Anywhere",
@@ -763,17 +694,33 @@
       ]
     },
     {
-      "title": "Technical Product Marketer, k0rdent AI - remote in the US",
-      "company": "Mirantis",
+      "title": "Developer Advocate - Service Management",
+      "company": "Datadog",
       "location": "USA",
-      "url": "https://jobicy.com/jobs/146688-technical-product-marketer-k0rdent-ai-remote-in-the-us",
+      "url": "https://jobicy.com/jobs/151723-developer-advocate-service-management",
       "source": "Jobicy",
-      "description": "Company DescriptionMirantis is the Kubernetes-native AI infrastructure company, enabling organizations to build and operate scalable, secure, and sovereign infrastructure for modern AI, machine learning, and data-intensive applications. By combining open source innovation with deep expertise in Kubernetes orchestration, Mirantis empowers platform engineering teams to deliver composable, production-ready developer platforms across any environment—on-premises, in the cloud,&hellip;",
+      "description": "We are a team of engineers that translate our real-world experience to help our user communities solve problems. With a focus on service management, helping teams respond to incidents, run on-call, and automate their operations, you will work with practitioners and leaders across the industry and broaden your impact to the SRE, Engineer, DevOps, and&hellip;",
       "tags": [
-        "marketing & sales"
+        "devops & infrastructure"
       ],
       "verdict": "review",
       "fit": 56,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "DevOps Engineer",
+      "company": "Oddball",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/153779-devops-engineer-6",
+      "source": "Jobicy",
+      "description": "Oddball believes that the best products are built when companies understand and value the things they are working on. We value learning and growth and the ability to make a big impact at a small company. We believe that we can make big changes happen and improve the daily lives of millions of people by&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
+      "verdict": "review",
+      "fit": 52,
       "reasons": [
         "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
@@ -792,22 +739,6 @@
       "fit": 52,
       "reasons": [
         "Latam-tagged — verify it's open to Africa first"
-      ]
-    },
-    {
-      "title": "DevOps Engineer",
-      "company": "Oddball",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/153779-devops-engineer-6",
-      "source": "Jobicy",
-      "description": "Oddball believes that the best products are built when companies understand and value the things they are working on. We value learning and growth and the ability to make a big impact at a small company. We believe that we can make big changes happen and improve the daily lives of millions of people by&hellip;",
-      "tags": [
-        "devops & infrastructure"
-      ],
-      "verdict": "review",
-      "fit": 52,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -1407,6 +1338,33 @@
       ]
     },
     {
+      "title": "Senior Security Infrastructure Engineer",
+      "company": "Sezzle",
+      "location": "Chile",
+      "url": "https://himalayas.app/companies/sezzle/jobs/senior-security-infrastructure-engineer-9638861734",
+      "source": "Himalayas",
+      "description": "The salary range for this role is $5,000 - $9,500 per month (Gross in USD) About Sezzle : With a mission to financially empower the next generation, Sezzle is revolutionizing the shopping experience beyond payments, blending cutting-edge tech with seamless, interest-free installment plans that make shopping smarter and more accessible. We’re not just transforming payments; we’re redefining how people discover, interact with, and purchase the things they love while driving real impact on merchant sales through increased conversions and higher order values. As we continue to shape the future of ",
+      "tags": [
+        "security-engineer",
+        "devsecops-engineer",
+        "cloud-security-engineer",
+        "infrastructure-security-engineer",
+        "information-security-engineer",
+        "sr.-infrastructure-security-engineer",
+        "security-infrastructure-engineer",
+        "senior-cloud-infrastructure-security-engineer",
+        "senior-security-data-infrastructure-engineer",
+        "senior-infrastructure-engineer",
+        "senior-information-security-engineer"
+      ],
+      "verdict": "review",
+      "fit": 46,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
       "title": "Community Engineer (multiple roles and seniority levels)",
       "company": "Canonical",
       "location": "Anywhere",
@@ -1839,6 +1797,63 @@
       ]
     },
     {
+      "title": "BMS Service Technician",
+      "company": "Johnson Controls",
+      "location": "Warana,",
+      "url": "https://remoteOK.com/remote-jobs/remote-bms-service-technician-johnson-controls-1135997",
+      "source": "RemoteOK",
+      "description": "Job Description Johnson Controls , a global leader in thermal management, mission-critical building systems, energy efficiency, and decarbonization, helps customers use energy more productively, reduce carbon emissions, and operate with the precision and resilience required in rapidly expanding industries such as data centers, healthcare, pharmaceuticals, advanced manufacturing, and higher education. For more than 140 years, Johnson Controls has delivered performance where it really matters. Backed by advanced technology, lifecycle services and an industry-leading field organization, we elevat",
+      "tags": [
+        "design",
+        "technical",
+        "customer support",
+        "dev",
+        "microsoft",
+        "senior",
+        "ops",
+        "engineer",
+        "digital nomad",
+        "sys admin",
+        "education",
+        "testing",
+        "exec",
+        "excel",
+        "payroll",
+        "medical",
+        "video",
+        "marketing",
+        "travel",
+        "finance",
+        "mobile",
+        "hr",
+        "recruiter",
+        "supervisor",
+        "consulting",
+        "assembly",
+        "saas",
+        "golang",
+        "coordinator",
+        "product manager",
+        "bus dev",
+        "sales",
+        "amazon",
+        "salesforce",
+        "infosec",
+        "embedded",
+        "java",
+        "c",
+        "c plus plus",
+        "cloud",
+        "linux",
+        "speech"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
       "title": "Commercial Account Executive - Benelux",
       "company": "Chainguard",
       "location": "Netherlands",
@@ -1999,22 +2014,6 @@
       ]
     },
     {
-      "title": "Security Engineering Manager",
-      "company": "SkySlope",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/153718-security-engineering-manager",
-      "source": "Jobicy",
-      "description": "OUR ORIGIN STORY In 2011 SkySlope started as an idea born at the kitchen table of our CEO, with just him and two others. Headquartered in Sacramento, California, we have since grown out of our previous 3 offices and many of our close to 150 employees are spread all across the United States. Those&hellip;",
-      "tags": [
-        "cybersecurity"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
       "title": "Senior Independent AI Engineer / Architect",
       "company": "A.Team",
       "location": "Americas, Europe, Israel",
@@ -2097,23 +2096,6 @@
       "description": "Oddball believes that the best products are built when companies understand and value the things they are working on. We value learning and growth and the ability to make a big impact at a small company. We believe that we can make big changes happen and improve the daily lives of millions of people by&hellip;",
       "tags": [
         "software engineering"
-      ],
-      "verdict": "review",
-      "fit": 30,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Senior Technical Customer Success Manager",
-      "company": "Kong Inc.",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/153703-senior-technical-customer-success-manager",
-      "source": "Jobicy",
-      "description": "Are you ready to unlock intelligence? If you don’t think you meet all of the criteria below but are still interested in the job, please apply. Nobody checks every box - we’re looking for candidates that are particularly strong in a few areas, and have some interest and capabilities in others. About the Role: You&hellip;",
-      "tags": [
-        "customer support & success"
       ],
       "verdict": "review",
       "fit": 30,
@@ -2413,6 +2395,38 @@
       "description": "Redefine the future of customer experiences. One conversation at a time. At Nextiva, we’re reimagining how businesses connect, bringing together customer experience and team collaboration on a single, conversation centric platform. Powered by AI, driven by human innovation. Our culture is forward thinking, customer obsessed and built on the belief that meaningful connections drive better&hellip;",
       "tags": [
         "devops & infrastructure"
+      ],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Staff-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
+      "title": "Principal Cloud Security Engineer",
+      "company": "LastPass",
+      "location": "UK",
+      "url": "https://jobicy.com/jobs/151831-principal-cloud-security-engineer",
+      "source": "Jobicy",
+      "description": "About LastPassLastPass delivers Secure Access Essentials, helping individuals and organizations manage and protect access to AI, applications, and credentials straight from the browser. Trusted by more than 100,000 businesses and millions of users worldwide, LastPass blends strong security with everyday simplicity. From discovering unapproved AI and applications to reducing login friction and securing credentials across&hellip;",
+      "tags": [
+        "cybersecurity"
+      ],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Principal-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
+      "title": "Staff Backend Engineer",
+      "company": "TeamSnap",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/151779-staff-backend-engineer-2",
+      "source": "Jobicy",
+      "description": "About Us At TeamSnap, we believe when the world connects through sports; the world becomes better. TeamSnap is a sports and communication platform dedicated to taking the work out of play in youth sports. We also believe our jobs should excite us, our teammates should support us and our bosses should inspire us. We&hellip;",
+      "tags": [
+        "software engineering"
       ],
       "verdict": "blocked",
       "fit": 0,
