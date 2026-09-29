@@ -1,11 +1,11 @@
 {
-  "generated": "2026-09-28 12:14 UTC",
-  "count": 106,
+  "generated": "2026-09-29 11:44 UTC",
+  "count": 105,
   "summary": {
-    "scanned": 106,
-    "eligible": 33,
-    "review": 57,
-    "blocked": 16
+    "scanned": 105,
+    "eligible": 30,
+    "review": 58,
+    "blocked": 17
   },
   "jobs": [
     {
@@ -14,7 +14,7 @@
       "location": "Worldwide",
       "url": "https://remoteOK.com/remote-jobs/remote-golang-kubernetes-engineer-arango-1137400",
       "source": "RemoteOK",
-      "description": "Remote - Arango delivers a unified, natively multimodel contextual data platform that powers AI agents, assistants, and applications with the unified, current, and trusted business context needed to reason, decide, and act at scale.The Arango Contextual Data Platform connects... Please mention the word **FESTIVE** and tag RNDAuNzYuMTI3LjY2 when applying to show you read the job post completely (#RNDAuNzYuMTI3LjY2). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Arango delivers a unified, natively multimodel contextual data platform that powers AI agents, assistants, and applications with the unified, current, and trusted business context needed to reason, decide, and act at scale.The Arango Contextual Data Platform connects... Please mention the word **FESTIVE** and tag RNjQuMjM2LjE0NS44Mw== when applying to show you read the job post completely (#RNjQuMjM2LjE0NS44Mw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "tags": [
         "golang",
         "golang",
@@ -33,20 +33,6 @@
       "url": "https://weworkremotely.com/remote-jobs/datadog-developer-advocate-service-management-emea",
       "source": "WeWorkRemotely",
       "description": "Headquarters: France, Remote; Portugal, Remote; Spain, Remote; The Netherlands, Remote We are a team of engineers that translate our real-world experience to help our user communities solve problems. With a focus on service management, helping teams respond to incidents, run on-call, and automate their operations, you will work with practitioners and leaders across the industry and broaden your impact to the SRE, Engineer, DevOps, and Operations community at large. This is a unique opportunity to use both your engineering and creative storytelling skills to shape the landscape in cloud observa",
-      "tags": [],
-      "verdict": "eligible",
-      "fit": 70,
-      "reasons": [
-        "remote — anywhere / global"
-      ]
-    },
-    {
-      "title": "Security Operations Engineer",
-      "company": "CircleCI",
-      "location": "Anywhere in the World",
-      "url": "https://weworkremotely.com/remote-jobs/circleci-security-operations-engineer",
-      "source": "WeWorkRemotely",
-      "description": "Headquarters: Ontario, Canada (Remote) Security Operations Engineer About the Team The Security Operations team plays a critical role in protecting CircleCI’s infrastructure, product, and customer data against an evolving threat landscape. From incident response to hardening our cloud and CI/CD environments, the team works closely with engineering to keep CircleCI secure, resilient, and ready for what’s next. About the Role As a Security Operations Engineer, you’ll play a key role in protecting CircleCI’s infrastructure, product, and customer data against an evolving threat landscape increasin",
       "tags": [],
       "verdict": "eligible",
       "fit": 70,
@@ -108,20 +94,6 @@
       "url": "https://weworkremotely.com/remote-jobs/thehivecareers-co-devops-engineer-remote",
       "source": "WeWorkRemotely",
       "description": "Headquarters: Bridgetown, Saint Michael, Barbados URL: http://thehivecareers.co Job brief The ideal candidate will guide DevOps teams on speed of delivery, improving quality/security of code, and optimizing processes. Job Level: Full-Time/Remote Location: Barbados Key Responsibilities Mentors and coaches the technical team. Constantly looking for better ways of solving technical problems and designing the solution, not afraid of challenging the status quo. Provides the team a roadmap for implementing software engineering practices for higher code quality Identifies bottlenecks in coding develo",
-      "tags": [],
-      "verdict": "eligible",
-      "fit": 66,
-      "reasons": [
-        "remote — anywhere / global"
-      ]
-    },
-    {
-      "title": "Professional Services DevOps Engineer",
-      "company": "JFrog",
-      "location": "Anywhere in the World",
-      "url": "https://weworkremotely.com/remote-jobs/jfrog-professional-services-devops-engineer",
-      "source": "WeWorkRemotely",
-      "description": "Headquarters: Remote, US &nbsp; ** Open to remote within the East Coast only** At JFrog, we’re reinventing DevOps to help the world’s greatest companies innovate -- and we want you along for the ride. This is a special place with a unique combination of brilliance, spirit and just all-around great people. Here, if you’re willing to do more, your career can take off. And since software plays a central role in everyone’s lives, you’ll be part of an important mission. Thousands of customers, including the majority of the Fortune 100, trust JFrog to manage, accelerate, and secure their software de",
       "tags": [],
       "verdict": "eligible",
       "fit": 66,
@@ -430,20 +402,6 @@
       ]
     },
     {
-      "title": "Manager, Security Operations Center - EMEA",
-      "company": "Huntress",
-      "location": "Anywhere in the World",
-      "url": "https://weworkremotely.com/remote-jobs/huntress-manager-security-operations-center-emea",
-      "source": "WeWorkRemotely",
-      "description": "Headquarters: Remote Ireland Reports to: Director, Security Operations Center Location: Remote Ireland Compensation Range: €115,200 to €133,000 base plus bonus and equity What We Do: Cybercrime is growing, and more businesses are getting hit by threats that used to target only the biggest organizations. That pushes defenders like us to operate at the highest level, and it deepens our need for good people who want to make a meaningful impact. Founded in 2015 by former NSA cyber operators, Huntress is a remote-first team working to make enterprise-grade cybersecurity accessible to businesses of ",
-      "tags": [],
-      "verdict": "eligible",
-      "fit": 50,
-      "reasons": [
-        "remote — anywhere / global"
-      ]
-    },
-    {
       "title": "Account Executive 4",
       "company": "Twilio",
       "location": "Singapore",
@@ -483,23 +441,6 @@
       "source": "WeWorkRemotely",
       "description": "Headquarters: Remote, Ontario, Canada About CircleCI Engineering CI/CD has been solved. Now it's being reinvented. AI agents don't just run pipelines. They write code, trigger builds, interpret failures, and propose fixes. The interfaces that developers use to understand and trust that work don't exist yet. We're building them. At CircleCI, our guiding principles aren't posters on a wall. We learn fast: we run experiments, accept failure, and scale what works. We think like the customer: every decision connects back to the developer sitting in front of a failing build at 2 am. We own the outco",
       "tags": [],
-      "verdict": "eligible",
-      "fit": 48,
-      "reasons": [
-        "remote — anywhere / global",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Partner Solutions Architect (EMEA)",
-      "company": "Datadog",
-      "location": "EMEA, Europe, Germany, Netherlands",
-      "url": "https://jobicy.com/jobs/151395-partner-solutions-architect-emea",
-      "source": "Jobicy",
-      "description": "The Team: We are Datadog's in-house product experts. The technical solutions team enables Datadog's worldwide growth by educating potential clients and ensuring that existing customers are happy and successful. We share our technical and product expertise with customers through demos, presentations, technical evaluations, and ongoing support. Technical solutions is a growing global team that collaborates&hellip;",
-      "tags": [
-        "technical support"
-      ],
       "verdict": "eligible",
       "fit": 48,
       "reasons": [
@@ -623,6 +564,21 @@
         "full time",
         "digital nomad"
       ],
+      "verdict": "eligible",
+      "fit": 44,
+      "reasons": [
+        "remote — anywhere / global",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Senior Software Engineer, Application Security",
+      "company": "Discord",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/discord-senior-software-engineer-application-security",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: San Francisco Bay Area or Remote Discord has a highly engaged community of millions of daily active users who use the platform for many different reasons, but there’s one thing that nearly everyone does: play video games. Discord plays a uniquely important role in the future of gaming, and we are focused on making it easier and more fun for people to hang out before, during, and after playing games. Discord empowers people to create spaces where they can find a sense of belonging in their lives. Millions of people trust Discord to keep their communications secure, private, and ou",
+      "tags": [],
       "verdict": "eligible",
       "fit": 44,
       "reasons": [
@@ -802,22 +758,6 @@
       ]
     },
     {
-      "title": "1128 - Cloud / DevOps (SRE) Engineer",
-      "company": "GoFasti",
-      "location": "LATAM",
-      "url": "https://jobicy.com/jobs/153782-1128-cloud-devops-sre-engineer",
-      "source": "Jobicy",
-      "description": "We Make Remote Work Remarkable • TopTalent from LatAm Hello! We are GoFasti, a Talent-as-a-Service. GoFasti bridges the gap between world-class developers and designers from LatAm and first-class companies around the globe. We need an English-fluent Mid Level Cloud / DevOps (SRE) Engineer, based in Latin America, available to work remotely. We are looking for&hellip;",
-      "tags": [
-        "devops & infrastructure"
-      ],
-      "verdict": "review",
-      "fit": 52,
-      "reasons": [
-        "Latam-tagged — verify it's open to Africa first"
-      ]
-    },
-    {
       "title": "DevOps Engineer",
       "company": "Oddball",
       "location": "USA",
@@ -831,6 +771,22 @@
       "fit": 52,
       "reasons": [
         "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "1128 - Cloud / DevOps (SRE) Engineer",
+      "company": "GoFasti",
+      "location": "LATAM",
+      "url": "https://jobicy.com/jobs/153782-1128-cloud-devops-sre-engineer",
+      "source": "Jobicy",
+      "description": "We Make Remote Work Remarkable • TopTalent from LatAm Hello! We are GoFasti, a Talent-as-a-Service. GoFasti bridges the gap between world-class developers and designers from LatAm and first-class companies around the globe. We need an English-fluent Mid Level Cloud / DevOps (SRE) Engineer, based in Latin America, available to work remotely. We are looking for&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
+      "verdict": "review",
+      "fit": 52,
+      "reasons": [
+        "Latam-tagged — verify it's open to Africa first"
       ]
     },
     {
@@ -1219,57 +1175,6 @@
       "fit": 46,
       "reasons": [
         "Poland-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Senior Software Engineer - (Connect Platform)",
-      "company": "Enode",
-      "location": "Europe, Norway",
-      "url": "https://jobicy.com/jobs/149498-senior-software-engineer-connect-platform",
-      "source": "Jobicy",
-      "description": "About EnodeThe grid was built for predictable, centralised power. Today it's absorbing intermittent supply from grid scale solar and wind, alongside dynamic demand from EVs, heat pumps, and home batteries. The missing piece is software that can connect and orchestrate these devices at scale.Enode provides the infrastructure layer that makes this possible. Our Connect API&hellip;",
-      "tags": [
-        "software engineering"
-      ],
-      "verdict": "review",
-      "fit": 46,
-      "reasons": [
-        "Europe-tagged — verify it's open to Africa first",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Senior Account Executive (Enterprise)",
-      "company": "Mattermost",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/153856-senior-account-executive-enterprise-3",
-      "source": "Jobicy",
-      "description": "Mattermost is the leading collaborative workflow platform for defense, intelligence, security, and critical infrastructure. Trusted by the U.S. Department of War and Fortune 500s, our platform runs on-premises and in private clouds, delivering secure messaging, file sharing, workflow automation, audio/screenshare, and project management—all with full data and operational control. Mattermost powers high-stakes workflows across mission&hellip;",
-      "tags": [
-        "sales"
-      ],
-      "verdict": "review",
-      "fit": 46,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Lead Site Reliability Engineer",
-      "company": "Mattermost",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/153852-lead-site-reliability-engineer",
-      "source": "Jobicy",
-      "description": "Mattermost is the leading collaborative workflow platform for defense, intelligence, security, and critical infrastructure. Trusted by the U.S. Department of War and Fortune 500s, our platform runs on-premises and in private clouds, delivering secure messaging, file sharing, workflow automation, audio/screenshare, and project management—all with full data and operational control. Mattermost powers high-stakes workflows across mission&hellip;",
-      "tags": [
-        "devops & infrastructure"
-      ],
-      "verdict": "review",
-      "fit": 46,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -1703,6 +1608,70 @@
       "fit": 36,
       "reasons": [
         "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
+      "title": "Enterprise Account Executive - Nordics",
+      "company": "Chainguard",
+      "location": "Sweden",
+      "url": "https://jobicy.com/jobs/151988-enterprise-account-executive-nordics",
+      "source": "Jobicy",
+      "description": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. Our customers include Fortune 500 enterprises and global industry leaders, including Anduril, Canva, Fortinet, Hewlett Packard Enterprise, OpenAI,&hellip;",
+      "tags": [
+        "sales"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
+      "title": "Enterprise Account Executive - DACH",
+      "company": "Chainguard",
+      "location": "Germany",
+      "url": "https://jobicy.com/jobs/151985-enterprise-account-executive-dach-2",
+      "source": "Jobicy",
+      "description": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. Our customers include Fortune 500 enterprises and global industry leaders, including Anduril, Canva, Fortinet, Hewlett Packard Enterprise, OpenAI,&hellip;",
+      "tags": [
+        "sales"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "Germany-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "Enterprise Business Development Representative - East",
+      "company": "Chainguard",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/151992-enterprise-business-development-representative-east",
+      "source": "Jobicy",
+      "description": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. Our customers include Fortune 500 enterprises and global industry leaders, including Anduril, Canva, Fortinet, Hewlett Packard Enterprise, OpenAI,&hellip;",
+      "tags": [
+        "business development"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "Professional Services Engagement Manager",
+      "company": "Harness",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/147874-professional-services-engagement-manager",
+      "source": "Jobicy",
+      "description": "Harness is the AI Software Delivery Platform company, led by technologist and entrepreneur Jyoti Bansal (founder of AppDynamics, acquired by Cisco for $3.7B). Harness has raised approximately $570M in funding and is valued at $5.5B, backed by leading investors including Goldman Sachs, Menlo Ventures, IVP, Unusual Ventures, Citi Ventures, and more. As AI accelerates code&hellip;",
+      "tags": [
+        "business development"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -2143,6 +2112,20 @@
       "fit": 0,
       "reasons": [
         "Head of-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
+      "title": "Principal Infrastructure Architect: Data Platform",
+      "company": "ZoomInfo Technologies LLC",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-principal-infrastructure-architect-data-platform",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Remote ZoomInfo is where careers accelerate. We move fast, think boldly, and empower you to do the best work of your life. You’ll be surrounded by teammates who care deeply, challenge each other, and celebrate wins. With tools that amplify your impact and a culture that backs your ambition, you won’t just contribute. You’ll make things happen–fast. &nbsp; As a Principal Infrastructure Architect on our Infrastructure Architecture team, you will be the architecture team's partner to ZoomInfo's data engineering organization. Data engineering owns the platforms and the products built",
+      "tags": [],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Principal-level — usually 5–10+ yrs, you have ~4"
       ]
     },
     {
