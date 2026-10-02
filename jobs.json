@@ -1,10 +1,10 @@
 {
-  "generated": "2026-10-01 11:59 UTC",
-  "count": 85,
+  "generated": "2026-10-02 11:30 UTC",
+  "count": 84,
   "summary": {
-    "scanned": 85,
-    "eligible": 28,
-    "review": 42,
+    "scanned": 84,
+    "eligible": 25,
+    "review": 44,
     "blocked": 15
   },
   "jobs": [
@@ -14,7 +14,7 @@
       "location": "Worldwide",
       "url": "https://remoteOK.com/remote-jobs/remote-golang-kubernetes-engineer-arango-1137400",
       "source": "RemoteOK",
-      "description": "Remote - Arango delivers a unified, natively multimodel contextual data platform that powers AI agents, assistants, and applications with the unified, current, and trusted business context needed to reason, decide, and act at scale.The Arango Contextual Data Platform connects... Please mention the word **FESTIVE** and tag RNjQuMjM2LjEzMy4xMzU= when applying to show you read the job post completely (#RNjQuMjM2LjEzMy4xMzU=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Arango delivers a unified, natively multimodel contextual data platform that powers AI agents, assistants, and applications with the unified, current, and trusted business context needed to reason, decide, and act at scale.The Arango Contextual Data Platform connects... Please mention the word **FESTIVE** and tag RNTIuMTczLjEzLjIzMw== when applying to show you read the job post completely (#RNTIuMTczLjEzLjIzMw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "tags": [
         "golang",
         "golang",
@@ -94,20 +94,6 @@
       "url": "https://weworkremotely.com/remote-jobs/thehivecareers-co-devops-engineer-remote",
       "source": "WeWorkRemotely",
       "description": "Headquarters: Bridgetown, Saint Michael, Barbados URL: http://thehivecareers.co Job brief The ideal candidate will guide DevOps teams on speed of delivery, improving quality/security of code, and optimizing processes. Job Level: Full-Time/Remote Location: Barbados Key Responsibilities Mentors and coaches the technical team. Constantly looking for better ways of solving technical problems and designing the solution, not afraid of challenging the status quo. Provides the team a roadmap for implementing software engineering practices for higher code quality Identifies bottlenecks in coding develo",
-      "tags": [],
-      "verdict": "eligible",
-      "fit": 66,
-      "reasons": [
-        "remote — anywhere / global"
-      ]
-    },
-    {
-      "title": "Engineering Manager, Notifications",
-      "company": "Discord",
-      "location": "Anywhere in the World",
-      "url": "https://weworkremotely.com/remote-jobs/discord-engineering-manager-notifications",
-      "source": "WeWorkRemotely",
-      "description": "Headquarters: Remote Discord has a highly engaged community of millions of daily active users who use the platform for many different reasons, but there’s one thing that nearly everyone does: play video games. Discord plays a uniquely important role in the future of gaming, and we are focused on making it easier and more fun for people to hang out before, during, and after playing games. We're looking for a technical, hands-on, and infrastructure-minded Engineering Manager to lead our Notifications team within the Growth organization. Notifications is a full-stack team owning the platform and ",
       "tags": [],
       "verdict": "eligible",
       "fit": 66,
@@ -329,20 +315,6 @@
       ]
     },
     {
-      "title": "Information Security Engineer",
-      "company": "Algolia",
-      "location": "Anywhere in the World",
-      "url": "https://weworkremotely.com/remote-jobs/algolia-information-security-engineer",
-      "source": "WeWorkRemotely",
-      "description": "Headquarters: Remote - United Kingdom Algolia is the retrieval intelligence layer that turns intent into trusted, decision-grade outcomes. Powering more than 1.7 trillion queries a year for over 18,000 customers with millisecond latency and 99.999% reliability, we are the recognized leader for Search and Product Discovery by top industry analyst firms. The Algolia platform turns a company's products, content, and business rules into data that humans, applications and AI agents can act upon. The result is trusted customer experiences with stronger conversions for measurable business impact. &nb",
-      "tags": [],
-      "verdict": "eligible",
-      "fit": 50,
-      "reasons": [
-        "remote — anywhere / global"
-      ]
-    },
-    {
       "title": "Security Operations Analyst",
       "company": "Huntress",
       "location": "Anywhere in the World",
@@ -378,22 +350,6 @@
       "source": "WeWorkRemotely",
       "description": "Headquarters: Remote, UK Description Keeper is hiring a driven, Arabic speaking Channel Account Manager to join the Keeper Global Channel Sales team. Qualified candidates must permanently reside in the UK (London). This is a fully remote position for those residing in London. Keeper's cybersecurity software is trusted by millions of people and thousands of organisations, globally. Keeper is published in 23 languages and is sold in over 150 countries. Join one of the fastest-growing cybersecurity companies and be responsible for building pipeline and channel revenue with high performance partne",
       "tags": [],
-      "verdict": "eligible",
-      "fit": 50,
-      "reasons": [
-        "remote — anywhere / global"
-      ]
-    },
-    {
-      "title": "Account Executive 4",
-      "company": "Twilio",
-      "location": "Singapore",
-      "url": "https://jobicy.com/jobs/151944-account-executive-4-2",
-      "source": "Jobicy",
-      "description": "Who we are At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to hundreds of thousands of businesses and empower millions of developers worldwide to craft personalized customer experiences. Our dedication to remote-first work, and strong culture of connection and global inclusion means that no&hellip;",
-      "tags": [
-        "sales"
-      ],
       "verdict": "eligible",
       "fit": 50,
       "reasons": [
@@ -613,6 +569,22 @@
       ]
     },
     {
+      "title": "AWS DevOps Engineer (Freelancer)",
+      "company": "Mactores",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/152278-aws-devops-engineer-freelancer",
+      "source": "Jobicy",
+      "description": "Mactores is the agent-native AWS modernization firm. Most modernization work doesn't ship, it stalls in pilots, slips a year, or lands at three times the budget. We exist to ship it: production systems running, legacy retired, outcomes measured. Our delivery is built on Aedeon, the agent platform built by Mactores' founders' sister company, which absorbs&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
+      "verdict": "review",
+      "fit": 56,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
       "title": "Developer Advocate - Service Management EMEA",
       "company": "Datadog",
       "location": "France, Netherlands, Spain",
@@ -640,6 +612,22 @@
       ],
       "verdict": "review",
       "fit": 56,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "Site Reliability Engineer (SRE), Data Products",
+      "company": "CentralReach",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/154368-site-reliability-engineer-sre-data-products",
+      "source": "Jobicy",
+      "description": "CentralReach is a leading provider of autism and IDD care software for Applied Behavior Analysis (ABA), multidisciplinary therapy, and special education. Trusted by more than 200,000 users, we enable therapy providers, educators, and employers to scale the way they deliver ABA and related therapies with innovative technology, market-leading industry expertise, and world-class customer satisfaction. We&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
+      "verdict": "review",
+      "fit": 52,
       "reasons": [
         "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
@@ -674,6 +662,66 @@
       "fit": 52,
       "reasons": [
         "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "Senior back-end Engineer",
+      "company": "Lemon.io",
+      "location": "Europe, USA, UK, Canada, Australia, Ireland, Switzerland, Singapore, Mexico, Iceland, Norway",
+      "url": "https://remotive.com/remote-jobs/software-development/senior-back-end-engineer-2091132",
+      "source": "Remotive",
+      "description": "Senior Developer? Work Remote. Get Paid Well. Build What Matters. Lemon.io connects hand-picked senior developers with vetted startups across the US and Europe — no bidding wars, no ghosting, just serious opportunities. We're currently hiring for a research-driven AI company on a mission to slash the cost of modern AI — co-designing hardware, software, algorithms, and models to make AI's benefits accessible to everyone. They're active open-source contributors, building the infrastructure behind next-generation AI at scale. Open roles: Senior Back-end Engineer (Golang), Senior DevOps Engineer, ",
+      "tags": [
+        ".net",
+        "android",
+        "c",
+        "c#",
+        "c++",
+        "data science",
+        "golang",
+        "ios",
+        "java",
+        "javascript",
+        "kubernetes",
+        "node.js",
+        "php",
+        "python",
+        "react",
+        "ruby/rails",
+        "scala",
+        "shopify",
+        "swift",
+        "ui/ux",
+        "wordpress",
+        "blockchain",
+        "ai/ml",
+        "automation",
+        "project management",
+        "react native",
+        "research",
+        "rust",
+        "unity",
+        "electron",
+        "spring",
+        "laravel",
+        "ethereum",
+        "graphic design",
+        "typescript",
+        "hardware",
+        "angular",
+        "firebase",
+        "data engineering",
+        "site reliability",
+        "symfony",
+        "next.js",
+        "infrastructure",
+        "flutter"
+      ],
+      "verdict": "review",
+      "fit": 50,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
     {
@@ -883,6 +931,23 @@
       "fit": 46,
       "reasons": [
         "Europe-tagged — verify it's open to Africa first",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Sr. Site Reliability Engineer",
+      "company": "CentralReach",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/154372-sr-site-reliability-engineer",
+      "source": "Jobicy",
+      "description": "CentralReach is a leading provider of autism and IDD care software for Applied Behavior Analysis (ABA), multidisciplinary therapy, and special education. Trusted by more than 200,000 users, we enable therapy providers, educators, and employers to scale the way they deliver ABA and related therapies with innovative technology, market-leading industry expertise, and world-class customer satisfaction. The&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
+      "verdict": "review",
+      "fit": 46,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -1318,6 +1383,38 @@
       ]
     },
     {
+      "title": "QA Analyst (Future Roles)",
+      "company": "Testlio",
+      "location": "Argentina, Brazil, Canada, Czechia, Estonia, Ireland, Mexico, Poland, Portugal, Romania, Spain, UK, Ukraine, USA",
+      "url": "https://jobicy.com/jobs/152333-qa-analyst-future-roles",
+      "source": "Jobicy",
+      "description": "About Testlio Testlio’s fully managed crowdsourced testing platform, powered by our proprietary intelligence technology – LeoAI EngineTM, integrates expert, on-demand testers directly into your release process. Ship faster and more confidently with global coverage across 600,000+ devices, 800+ payment methods, 150+ countries, and 100+ languages. To learn more, visit www.testlio.com. This job post is to&hellip;",
+      "tags": [
+        "qa & testing"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "Quality Engineer",
+      "company": "StackAdapt",
+      "location": "Canada",
+      "url": "https://jobicy.com/jobs/152330-quality-engineer-2",
+      "source": "Jobicy",
+      "description": "StackAdapt is the leading technology company that empowers marketers to reach, engage, and convert audiences with precision. With 465 billion automated optimizations per second, the AI-powered StackAdapt Marketing Platform seamlessly connects brand and performance marketing to drive measurable results across the entire customer journey. The most forward-thinking marketers choose StackAdapt to orchestrate high-impact campaigns across&hellip;",
+      "tags": [
+        "qa & testing"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "Canada-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
       "title": "Professional Services Engineer",
       "company": "BigID",
       "location": "USA",
@@ -1478,51 +1575,20 @@
       ]
     },
     {
-      "title": "Commercial Account Executive - Benelux",
-      "company": "Chainguard",
-      "location": "Netherlands",
-      "url": "https://jobicy.com/jobs/151547-commercial-account-executive-benelux",
-      "source": "Jobicy",
-      "description": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. Our customers include Fortune 500 enterprises and global industry leaders, including Anduril, Canva, Fortinet, Hewlett Packard Enterprise, OpenAI,&hellip;",
-      "tags": [
-        "sales"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Netherlands-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Software Engineer (All Levels)",
-      "company": "Fieldguide",
+      "title": "Senior QA Engineer",
+      "company": "Caylent",
       "location": "USA",
-      "url": "https://jobicy.com/jobs/151601-software-engineer-all-levels",
+      "url": "https://jobicy.com/jobs/152325-senior-qa-engineer-2",
       "source": "Jobicy",
-      "description": "About Fieldguide Fieldguide is redefining trust in global commerce by modernizing how cybersecurity, privacy, and financial audits are done. We build software that empowers the practitioners who enable trust between businesses—automating and streamlining their work to deliver faster, higher-quality results. We’re a remote-first company headquartered in San Francisco, CA, backed by top investors including Bessemer&hellip;",
+      "description": "Caylent is an AI-first cloud services company that helps organizations turn ambitious ideas into meaningful business impact. As an AWS Premier Tier Services Partner and a charter member of Anthropic’s Claude Partner Network, we combine deep expertise in AWS, artificial intelligence, and Anthropic’s Claude platform to help customers modernize their technology, build intelligent products, and&hellip;",
       "tags": [
-        "software engineering"
+        "qa & testing"
       ],
       "verdict": "review",
-      "fit": 36,
+      "fit": 34,
       "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Sales Engineer (French) SMB",
-      "company": "1Password",
-      "location": "UK",
-      "url": "https://jobicy.com/jobs/151538-sales-engineer-french-smb",
-      "source": "Jobicy",
-      "description": "1Password is growing. We’ve surpassed $400M in ARR and we’re continuing to accelerate, earning a spot on the Forbes Cloud 100 for four years in a row and teaming up with iconic partners like Oracle Red Bull Racing. About 1Password At 1Password, we’re building the foundation for a safe, productive digital future. Our mission is&hellip;",
-      "tags": [
-        "sales"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Uk-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
     {
@@ -1549,6 +1615,23 @@
       ]
     },
     {
+      "title": "Frontend Engineering Team Lead - MarTech",
+      "company": "Sporty Group",
+      "location": "Europe",
+      "url": "https://jobicy.com/jobs/149869-frontend-engineering-team-lead-martech",
+      "source": "Jobicy",
+      "description": "About the roleAs the Team Lead for our Frontend development team, you will play a key role in driving the architecture, development, and delivery of high-quality software solutions. You will lead a group of talented developers, ensuring smooth collaboration, technical innovation, and strong delivery results. Your responsibilities will encompass both hands-on coding and line management,&hellip;",
+      "tags": [
+        "software engineering"
+      ],
+      "verdict": "review",
+      "fit": 30,
+      "reasons": [
+        "Europe-tagged — verify it's open to Africa first",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
       "title": "Senior Technical Writer",
       "company": "Ping Identity",
       "location": "USA",
@@ -1566,23 +1649,6 @@
       ]
     },
     {
-      "title": "Senior Full Stack Engineer II",
-      "company": "Teachable",
-      "location": "Brazil",
-      "url": "https://jobicy.com/jobs/152092-senior-full-stack-engineer-ii",
-      "source": "Jobicy",
-      "description": "What is Teachable? Teachable is the platform for experts and businesses who take education seriously. In a world where anyone can ask AI for information, we're the home for those who educate with purpose, modernity, and humanity. We help experts and businesses scale their impact and operations through courses, coaching, and digital downloads that students&hellip;",
-      "tags": [
-        "software engineering"
-      ],
-      "verdict": "review",
-      "fit": 30,
-      "reasons": [
-        "Brazil-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
       "title": "Power BI Architect",
       "company": "Tiger Analytics",
       "location": "USA",
@@ -1596,51 +1662,6 @@
       "fit": 30,
       "reasons": [
         "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Sr. Quality Engineer",
-      "company": "CentralReach",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/153999-sr-quality-engineer",
-      "source": "Jobicy",
-      "description": "CentralReach is a leading provider of autism and IDD care software for Applied Behavior Analysis (ABA), multidisciplinary therapy, and special education. Trusted by more than 200,000 users, we enable therapy providers, educators, and employers to scale the way they deliver ABA and related therapies with innovative technology, market-leading industry expertise, and world-class customer satisfaction. CentralReach&hellip;",
-      "tags": [
-        "qa & testing"
-      ],
-      "verdict": "review",
-      "fit": 30,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Senior Engineer, Mainframe",
-      "company": "Nagarro",
-      "location": "India",
-      "url": "https://himalayas.app/companies/nagarro/jobs/senior-engineer-mainframe",
-      "source": "Himalayas",
-      "description": "You have begun to prove your worth in our industry! How has the experience been so far? We hope it has been rewarding. At Nagarro , we want to take the word “hope” out of that sentence. At Nagarro , if you are ready to take the next step, we are ready to take you to the next level. Want to work with the coolest tech, the brightest minds, and be able to solve the most challenging problems, then look no further. Click here to access the application privacy notice 👋🏼 We're Nagarro . We are a digital product engineering company that is scaling in a big way! We build products, services, and experie",
-      "tags": [
-        "senior-mainframe-engineer",
-        "mainframe-developer",
-        "mainframe-engineer",
-        "mainframe-engineering",
-        "senior-engineer",
-        "senior-staff-mainframe-engineer",
-        "senior-mainframe-developer",
-        "senior-mainframe-development",
-        "lead-mainframe-platform-engineer",
-        "senior-mainframe-systems-programmer",
-        "senior-mainframe-system-administrator",
-        "mainframe-systems-engineer"
-      ],
-      "verdict": "review",
-      "fit": 30,
-      "reasons": [
-        "location unconfirmed — verify it's open to Africa",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -1879,13 +1900,15 @@
       ]
     },
     {
-      "title": "Principal Cloud Architect",
-      "company": "ZoomInfo Technologies LLC",
-      "location": "Anywhere in the World",
-      "url": "https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-principal-cloud-architect",
-      "source": "WeWorkRemotely",
-      "description": "Headquarters: Remote-US-NY ZoomInfo is where careers accelerate. We move fast, think boldly, and empower you to do the best work of your life. You’ll be surrounded by teammates who care deeply, challenge each other, and celebrate wins. With tools that amplify your impact and a culture that backs your ambition, you won’t just contribute. You’ll make things happen–fast. What You'll Do Prototype and Hand Off: Design platform patterns end-to-end—build reference implementations, document the rationale, and partner with implementation teams to roll them out. Stay hands-on through proof-of-concept an",
-      "tags": [],
+      "title": "Principal Platform Engineer",
+      "company": "CentralReach",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/154365-principal-platform-engineer",
+      "source": "Jobicy",
+      "description": "CentralReach is a leading provider of autism and IDD care software for Applied Behavior Analysis (ABA), multidisciplinary therapy, and special education. Trusted by more than 200,000 users, we enable therapy providers, educators, and employers to scale the way they deliver ABA and related therapies with innovative technology, market-leading industry expertise, and world-class customer satisfaction. CentralReach’s&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
       "verdict": "blocked",
       "fit": 0,
       "reasons": [
