@@ -1,10 +1,10 @@
 {
-  "generated": "2026-10-02 11:30 UTC",
-  "count": 84,
+  "generated": "2026-10-03 10:46 UTC",
+  "count": 89,
   "summary": {
-    "scanned": 84,
-    "eligible": 25,
-    "review": 44,
+    "scanned": 89,
+    "eligible": 27,
+    "review": 47,
     "blocked": 15
   },
   "jobs": [
@@ -14,7 +14,7 @@
       "location": "Worldwide",
       "url": "https://remoteOK.com/remote-jobs/remote-golang-kubernetes-engineer-arango-1137400",
       "source": "RemoteOK",
-      "description": "Remote - Arango delivers a unified, natively multimodel contextual data platform that powers AI agents, assistants, and applications with the unified, current, and trusted business context needed to reason, decide, and act at scale.The Arango Contextual Data Platform connects... Please mention the word **FESTIVE** and tag RNTIuMTczLjEzLjIzMw== when applying to show you read the job post completely (#RNTIuMTczLjEzLjIzMw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Arango delivers a unified, natively multimodel contextual data platform that powers AI agents, assistants, and applications with the unified, current, and trusted business context needed to reason, decide, and act at scale.The Arango Contextual Data Platform connects... Please mention the word **FESTIVE** and tag RNDguMjE0LjU0LjU3 when applying to show you read the job post completely (#RNDguMjE0LjU0LjU3). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "tags": [
         "golang",
         "golang",
@@ -88,6 +88,20 @@
       ]
     },
     {
+      "title": "Security Engineer, Cloud",
+      "company": "Vercel",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/vercel-security-engineer-cloud",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Remote - United States About Vercel: Vercel is the agentic infrastructure company, freeing people and agents to ship what's next. For more than a decade we've helped builders move from idea to production with speed, security, and exceptional developer experience. Now we're scaling our products for both agents and people to ship and run software, built in the open and trusted by OpenAI, PayPal, Ramp, Supreme, and millions of developers worldwide. About the role: We're looking for a Security Engineer to join our Cloud Security Engineering team. In this role, you'll help strengthen ",
+      "tags": [],
+      "verdict": "eligible",
+      "fit": 66,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
+    {
       "title": "DevOps Engineer (Remote)",
       "company": "thehivecareers.co",
       "location": "Anywhere in the World",
@@ -99,6 +113,21 @@
       "fit": 66,
       "reasons": [
         "remote — anywhere / global"
+      ]
+    },
+    {
+      "title": "Senior Manager, Solutions Architect",
+      "company": "Vercel",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/vercel-senior-manager-solutions-architect",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Remote - Australia About Vercel: Vercel is the agentic infrastructure company, freeing people and agents to ship what's next. For more than a decade we've helped builders move from idea to production with speed, security, and exceptional developer experience. Now we're scaling our products for both agents and people to ship and run software, built in the open and trusted by OpenAI, PayPal, Ramp, Supreme, and millions of developers worldwide. About The Role: We are looking for a Senior Manager of Solutions Architecture to join and lead our our APAC SA team. In this role, you will ",
+      "tags": [],
+      "verdict": "eligible",
+      "fit": 60,
+      "reasons": [
+        "remote — anywhere / global",
+        "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
     {
@@ -541,6 +570,38 @@
       ]
     },
     {
+      "title": "GitOps Engineering Manager",
+      "company": "Canonical",
+      "location": "APAC, EMEA",
+      "url": "https://jobicy.com/jobs/149939-gitops-engineering-manager",
+      "source": "Jobicy",
+      "description": "Canonical is a leading provider of open-source software and operating systems for global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in many&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
+      "verdict": "review",
+      "fit": 68,
+      "reasons": [
+        "EMEA-tagged — verify it's open to Africa first"
+      ]
+    },
+    {
+      "title": "Site Reliability Engineering Manager",
+      "company": "Canonical",
+      "location": "APAC, EMEA",
+      "url": "https://jobicy.com/jobs/149986-site-reliability-engineering-manager",
+      "source": "Jobicy",
+      "description": "Canonical is a leading provider of open-source software and operating systems for global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in many&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
+      "verdict": "review",
+      "fit": 64,
+      "reasons": [
+        "EMEA-tagged — verify it's open to Africa first"
+      ]
+    },
+    {
       "title": "Java Developer",
       "company": "Clera",
       "location": "Los Angeles",
@@ -566,6 +627,23 @@
       "fit": 60,
       "reasons": [
         "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
+      "title": "Information Systems - Open Source Technical Architect",
+      "company": "Canonical",
+      "location": "EMEA",
+      "url": "https://jobicy.com/jobs/149979-information-systems-open-source-technical-architect",
+      "source": "Jobicy",
+      "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
+      "verdict": "review",
+      "fit": 58,
+      "reasons": [
+        "EMEA-tagged — verify it's open to Africa first",
+        "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
     {
@@ -739,6 +817,22 @@
       "reasons": [
         "Brazil-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
         "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Software Engineer - Cloud Images",
+      "company": "Canonical",
+      "location": "EMEA, LATAM, Canada, USA",
+      "url": "https://jobicy.com/jobs/149978-software-engineer-cloud-images",
+      "source": "Jobicy",
+      "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders&hellip;",
+      "tags": [
+        "software engineering"
+      ],
+      "verdict": "review",
+      "fit": 48,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -1628,23 +1722,6 @@
       "fit": 30,
       "reasons": [
         "Europe-tagged — verify it's open to Africa first",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Senior Technical Writer",
-      "company": "Ping Identity",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/152264-senior-technical-writer",
-      "source": "Jobicy",
-      "description": "About Ping Identity: At Ping Identity, we believe in making digital experiences both secure and seamless for all users, without compromise. We call this digital freedom. And it's not just something we provide our customers. It's something that inspires our company. People don't come here to join a culture that's built on digital freedom. They&hellip;",
-      "tags": [
-        "content & editorial"
-      ],
-      "verdict": "review",
-      "fit": 30,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
