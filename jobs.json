@@ -1,10 +1,10 @@
 {
-  "generated": "2026-10-04 11:28 UTC",
-  "count": 93,
+  "generated": "2026-10-05 12:54 UTC",
+  "count": 94,
   "summary": {
-    "scanned": 93,
-    "eligible": 29,
-    "review": 51,
+    "scanned": 94,
+    "eligible": 28,
+    "review": 53,
     "blocked": 13
   },
   "jobs": [
@@ -14,7 +14,7 @@
       "location": "Worldwide",
       "url": "https://remoteOK.com/remote-jobs/remote-golang-kubernetes-engineer-arango-1137400",
       "source": "RemoteOK",
-      "description": "Remote - Arango delivers a unified, natively multimodel contextual data platform that powers AI agents, assistants, and applications with the unified, current, and trusted business context needed to reason, decide, and act at scale.The Arango Contextual Data Platform connects... Please mention the word **FESTIVE** and tag RNTcuMTUxLjgzLjY= when applying to show you read the job post completely (#RNTcuMTUxLjgzLjY=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Arango delivers a unified, natively multimodel contextual data platform that powers AI agents, assistants, and applications with the unified, current, and trusted business context needed to reason, decide, and act at scale.The Arango Contextual Data Platform connects... Please mention the word **FESTIVE** and tag RMTcyLjE4NC4yMTQuMjEx when applying to show you read the job post completely (#RMTcyLjE4NC4yMTQuMjEx). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "tags": [
         "golang",
         "golang",
@@ -176,6 +176,20 @@
       ]
     },
     {
+      "title": "Enterprise Sales Engineer - FED",
+      "company": "Datadog",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/datadog-enterprise-sales-engineer-fed",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: District of Columbia, USA, Remote; Maryland, USA, Remote; Virginia, USA, Remote As an Enterprise Sales Engineer, you'll partner with Sales to help customers understand the value of Datadog and how it solves their most important technical and business challenges. You'll lead technical evaluations, deliver compelling demos, and guide customers through the journey from discovery to successful adoption. You'll act as a trusted advisor, bridging business goals with technical solutions, and play a key role in winning new business and expanding existing accounts. At Datadog, we place va",
+      "tags": [],
+      "verdict": "eligible",
+      "fit": 54,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
+    {
       "title": "Software Engineer",
       "company": "CircleCI",
       "location": "Anywhere in the World",
@@ -295,22 +309,6 @@
       ]
     },
     {
-      "title": "Freelance Writer",
-      "company": "IAPWE",
-      "location": "Worldwide",
-      "url": "https://remotive.com/remote-jobs/writing/freelance-writer-1185979",
-      "source": "Remotive",
-      "description": "Our organization is seeking content writers to create articles and blog posts on a variety of topics. The rate of pay is $20 per 100 words (this comes out to approximately $100 per article or $50 per hour). Some topics you may be asked to write about include the following (you can always turn down a topic if you do not feel comfortable writing about it, however if you have experience or expertise in a specific area, please let us know): Health &amp; beauty Fitness Home Decor Fashion Sports Do it yourself Finance Legal Medical Family/Parenting Relationships Real Estate Restaurants Contracting (",
-      "tags": [
-        "rest"
-      ],
-      "verdict": "eligible",
-      "fit": 50,
-      "reasons": [
-        "remote — anywhere / global"
-      ]
-    },
-    {
       "title": "Marketing Specialist",
       "company": "INNERGY",
       "location": "Austin, Austin, Texas, United States",
@@ -408,22 +406,6 @@
       "url": "https://jobicy.com/jobs/154448-engineering-manager-emea-platform",
       "source": "Jobicy",
       "description": "Location: This is a 100% remote role and is open to candidates residing in the United Kingdom, Spain, Portugal, Poland, the Czech Republic, Romania, and Estonia. Visa sponsorship is not available. About the job Testlio's fully managed crowdsourced testing platform integrates expert, on-demand testers directly into your release process. Ship faster and more confidently with&hellip;",
-      "tags": [
-        "software engineering"
-      ],
-      "verdict": "eligible",
-      "fit": 50,
-      "reasons": [
-        "remote — anywhere / global"
-      ]
-    },
-    {
-      "title": "Salesforce Developer - Service Cloud, Experience Cloud & AI (100% Remote within Poland)",
-      "company": "Docplanner",
-      "location": "Poland",
-      "url": "https://jobicy.com/jobs/154110-salesforce-developer-service-cloud-experience-cloud-ai-100-remote-within-poland",
-      "source": "Jobicy",
-      "description": "Welcome to the good side of tech You might have heard about us, but with a different name: ZnanyLekarz. It all started 12 years ago when we asked ourselves: is anyone in healthcare thinking about patients? We jumped in and we empowered patients by giving them access to leave and read reviews about their&hellip;",
       "tags": [
         "software engineering"
       ],
@@ -724,6 +706,22 @@
       "fit": 56,
       "reasons": [
         "France-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "Engineering Manager - Python and K8s",
+      "company": "Canonical",
+      "location": "APAC, EMEA",
+      "url": "https://jobicy.com/jobs/150121-engineering-manager-python-and-k8s",
+      "source": "Jobicy",
+      "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders&hellip;",
+      "tags": [
+        "product & operations"
+      ],
+      "verdict": "review",
+      "fit": 52,
+      "reasons": [
+        "EMEA-tagged — verify it's open to Africa first"
       ]
     },
     {
@@ -1105,6 +1103,57 @@
       "fit": 46,
       "reasons": [
         "Europe-tagged — verify it's open to Africa first",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Senior Software Engineer, Internal Tooling",
+      "company": "RevenueCat",
+      "location": "APAC, EMEA, USA",
+      "url": "https://jobicy.com/jobs/154567-senior-software-engineer-internal-tooling",
+      "source": "Jobicy",
+      "description": "RevenueCat gives app businesses the infrastructure and tools to build, run, and improve their monetization. Since graduating from YC's S18 batch, we've grown into the default monetization platform for mobile. We're in 50%+ of newly shipped subscription apps, we process $16B+ in annual purchase volume, and we help everyone from a solo developer to the&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
+      "verdict": "review",
+      "fit": 46,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Senior DevOps Engineer, Observability",
+      "company": "NetBox Labs",
+      "location": "LATAM, UK, USA",
+      "url": "https://jobicy.com/jobs/154542-senior-devops-engineer-observability",
+      "source": "Jobicy",
+      "description": "NetBox Labs is seeking a Senior Devops Engineer to join our rapidly expanding engineering team. We have multiple positions at different seniority levels open across several teams. A Senior DevOps Engineer at NetBox Labs is an infrastructure-minded engineer who treats operations like software - automating, instrumenting, and operating our systems with code. They focus on&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
+      "verdict": "review",
+      "fit": 46,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Senior Site Reliability Engineer I",
+      "company": "Braze",
+      "location": "Canada",
+      "url": "https://jobicy.com/jobs/152549-senior-site-reliability-engineer-i",
+      "source": "Jobicy",
+      "description": "At Braze, we have found our people. We’re a genuinely approachable, exceptionally kind, and intensely passionate crew. We seek to ignite that passion by setting high standards, championing teamwork, and creating work-life harmony as we collectively navigate rapid growth on a global scale while striving for greater equity and opportunity – inside and outside our&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
+      "verdict": "review",
+      "fit": 46,
+      "reasons": [
+        "Canada-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -1783,38 +1832,6 @@
       ]
     },
     {
-      "title": "Enterprise Account Executive - Benelux",
-      "company": "Chainguard",
-      "location": "Netherlands",
-      "url": "https://jobicy.com/jobs/151936-enterprise-account-executive-benelux",
-      "source": "Jobicy",
-      "description": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. Our customers include Fortune 500 enterprises and global industry leaders, including Anduril, Canva, Fortinet, Hewlett Packard Enterprise, OpenAI,&hellip;",
-      "tags": [
-        "sales"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Netherlands-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Customer Success Manager II - West",
-      "company": "Tines",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/147811-customer-success-manager-ii-west",
-      "source": "Jobicy",
-      "description": "Founded in 2018 with co-headquarters in Dublin and Boston, Tines powers some of the world's most important workflows. Our intelligent workflow platform applies AI, automation, and integration with human ingenuity to drive real business results. Tines serves a diverse range of customers, from startups to public companies, including Canva, Databricks, Elastic, Kayak, Intercom, and McKesson.&hellip;",
-      "tags": [
-        "customer support & success"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
       "title": "Senior QA Engineer",
       "company": "Caylent",
       "location": "USA",
@@ -1855,6 +1872,23 @@
       ]
     },
     {
+      "title": "Senior Software Engineer (Revenue)",
+      "company": "Zuora",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/152529-senior-software-engineer-revenue",
+      "source": "Jobicy",
+      "description": "About Zuora At Zuora, we help businesses grow smarter and adapt faster. Our platform powers modern business models — from subscriptions and usage-based pricing to AI-driven and outcome-based offerings — helping companies launch new products, automate complex billing, and unlock predictable, recurring revenue. We’ve led the Subscription Economy for more than a decade. Now we’re&hellip;",
+      "tags": [
+        "software engineering"
+      ],
+      "verdict": "review",
+      "fit": 30,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
       "title": "Frontend Engineering Team Lead - MarTech",
       "company": "Sporty Group",
       "location": "Europe",
@@ -1868,23 +1902,6 @@
       "fit": 30,
       "reasons": [
         "Europe-tagged — verify it's open to Africa first",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Power BI Architect",
-      "company": "Tiger Analytics",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/143584-power-bi-architect",
-      "source": "Jobicy",
-      "description": "Tiger Analytics is a fast-growing advanced analytics consulting firm. Our consultants bring deep expertise in Data Science, Machine Learning and AI. We are the trusted analytics partner for several Fortune 100 companies, enabling them to generate business value from data. Our business value and leadership has been recognized by various market research firms, including Forrester&hellip;",
-      "tags": [
-        "data science & analytics"
-      ],
-      "verdict": "review",
-      "fit": 30,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
