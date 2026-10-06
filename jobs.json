@@ -1,20 +1,34 @@
 {
-  "generated": "2026-10-05 12:54 UTC",
-  "count": 94,
+  "generated": "2026-10-06 12:21 UTC",
+  "count": 97,
   "summary": {
-    "scanned": 94,
-    "eligible": 28,
-    "review": 53,
-    "blocked": 13
+    "scanned": 97,
+    "eligible": 30,
+    "review": 52,
+    "blocked": 15
   },
   "jobs": [
+    {
+      "title": "Engineering Manager, Cloud Engineering",
+      "company": "LaunchDarkly",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/launchdarkly-engineering-manager-cloud-engineering",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Remote - US About the Job: We’re looking for an Engineering Manager to lead LaunchDarkly’s Cloud Engineering team, the team responsible for the foundational infrastructure our products and engineering teams depend on. Cloud Engineering owns LaunchDarkly’s AWS accounts and networking, multi-region Kubernetes infrastructure, Terraform and GitOps workflows, CockroachDB operations, disaster-recovery capabilities, and FedRAMP infrastructure posture. The team is small, senior, and recently rebuilt. This is a frontline leadership role for a manager who treats operational health as a top",
+      "tags": [],
+      "verdict": "eligible",
+      "fit": 82,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
     {
       "title": "Golang Kubernetes Engineer",
       "company": "Arango",
       "location": "Worldwide",
       "url": "https://remoteOK.com/remote-jobs/remote-golang-kubernetes-engineer-arango-1137400",
       "source": "RemoteOK",
-      "description": "Remote - Arango delivers a unified, natively multimodel contextual data platform that powers AI agents, assistants, and applications with the unified, current, and trusted business context needed to reason, decide, and act at scale.The Arango Contextual Data Platform connects... Please mention the word **FESTIVE** and tag RMTcyLjE4NC4yMTQuMjEx when applying to show you read the job post completely (#RMTcyLjE4NC4yMTQuMjEx). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Arango delivers a unified, natively multimodel contextual data platform that powers AI agents, assistants, and applications with the unified, current, and trusted business context needed to reason, decide, and act at scale.The Arango Contextual Data Platform connects... Please mention the word **FESTIVE** and tag RMjAuMTcxLjIwLjUw when applying to show you read the job post completely (#RMjAuMTcxLjIwLjUw). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "tags": [
         "golang",
         "golang",
@@ -168,6 +182,23 @@
       "source": "WeWorkRemotely",
       "description": "Headquarters: United Kingdom (Remote) Fastly helps people stay better connected with the things they love. Fastly’s edge cloud platform enables customers to create great digital experiences quickly, securely, and reliably by processing, serving, and securing our customers’ applications as close to their end-users as possible — at the edge of the Internet. The platform is designed to take advantage of the modern internet, to be programmable, and to support agile software development. Fastly’s customers include many of the world’s most prominent companies, including GitHub, Yelp, Paramount, and ",
       "tags": [],
+      "verdict": "eligible",
+      "fit": 60,
+      "reasons": [
+        "remote — anywhere / global",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Senior DevOps Engineer",
+      "company": "Five9",
+      "location": "Portugal",
+      "url": "https://jobicy.com/jobs/154677-senior-devops-engineer-8",
+      "source": "Jobicy",
+      "description": "Join us in bringing joy to customer experience. Five9 is a leading provider of cloud contact center software, bringing the power of cloud innovation to customers worldwide. Living our values everyday results in our team-first culture and enables us to innovate, grow, and thrive while enjoying the journey together. We celebrate diversity and foster an&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
       "verdict": "eligible",
       "fit": 60,
       "reasons": [
@@ -342,20 +373,6 @@
       ]
     },
     {
-      "title": "Security Operations Analyst",
-      "company": "Huntress",
-      "location": "Anywhere in the World",
-      "url": "https://weworkremotely.com/remote-jobs/huntress-security-operations-analyst",
-      "source": "WeWorkRemotely",
-      "description": "Headquarters: Remote US Reports to: Manager, Security Operations Center Location: Remote, US Compensation Range: $100,000-$125,000 base plus bonus and equity. This role may be eligible for on-call/call-in pay in addition to base pay &nbsp; *The initial training period for this position will be Monday-Friday. Following training, the work schedule is subject to change and may include weekend or a 4x10 shift, depending on business requirements* What We Do: Huntress is a fully remote, global team of passionate experts and ethical badasses on a mission to break down the barriers to cybersecurity. W",
-      "tags": [],
-      "verdict": "eligible",
-      "fit": 50,
-      "reasons": [
-        "remote — anywhere / global"
-      ]
-    },
-    {
       "title": "Sales Development Representative - Mid-Market",
       "company": "Huntress",
       "location": "Anywhere in the World",
@@ -377,6 +394,22 @@
       "source": "WeWorkRemotely",
       "description": "Headquarters: Remote, UK Description Keeper is hiring a driven, Arabic speaking Channel Account Manager to join the Keeper Global Channel Sales team. Qualified candidates must permanently reside in the UK (London). This is a fully remote position for those residing in London. Keeper's cybersecurity software is trusted by millions of people and thousands of organisations, globally. Keeper is published in 23 languages and is sold in over 150 countries. Join one of the fastest-growing cybersecurity companies and be responsible for building pipeline and channel revenue with high performance partne",
       "tags": [],
+      "verdict": "eligible",
+      "fit": 50,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
+    {
+      "title": "Cloud Governance Engineer",
+      "company": "Five9",
+      "location": "Portugal",
+      "url": "https://jobicy.com/jobs/154675-cloud-governance-engineer",
+      "source": "Jobicy",
+      "description": "Join us in bringing joy to customer experience. Five9 is a leading provider of cloud contact center software, bringing the power of cloud innovation to customers worldwide. Living our values everyday results in our team-first culture and enables us to innovate, grow, and thrive while enjoying the journey together. We celebrate diversity and foster an&hellip;",
+      "tags": [
+        "cybersecurity"
+      ],
       "verdict": "eligible",
       "fit": 50,
       "reasons": [
@@ -706,6 +739,43 @@
       "fit": 56,
       "reasons": [
         "France-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "Software Engineer / AI Code Trainer (Python, Web, Full Stack)",
+      "company": "CodeForAI",
+      "location": "USA, UK, India, Australia, Ireland, New Zealand, Philippines, Pakistan, Singapore, Mexico",
+      "url": "https://remotive.com/remote-jobs/software-development/software-engineer-ai-code-trainer-python-web-full-stack-2091149",
+      "source": "Remotive",
+      "description": "Who Should Apply We are looking for developers from all technical backgrounds and language specializations. If you write clean code and understand software design, you are a fit: Software Engineers &amp; Computer Scientists specializing in algorithms, data structures, or system design. Full-Stack &amp; Web Developers working with modern front-end or back-end frameworks (JavaScript, TypeScript, React, Node.js, Python, PHP, Ruby, etc.). Backend &amp; Systems Developers experienced in languages such as C++, Java, Go, Rust, or Python. DevOps &amp; Database Engineers familiar with API design, SQL/N",
+      "tags": [
+        "api",
+        "backend",
+        "c",
+        "c#",
+        "c++",
+        "fullstack",
+        "go",
+        "java",
+        "javascript",
+        "node.js",
+        "php",
+        "python",
+        "react",
+        "ruby/rails",
+        "security",
+        "sql",
+        "ai/ml",
+        "rust",
+        "nosql",
+        "typescript",
+        "debugging",
+        "scripting"
+      ],
+      "verdict": "review",
+      "fit": 52,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -1550,55 +1620,6 @@
       ]
     },
     {
-      "title": "Regional Sales Manager",
-      "company": "Balco, Inc.",
-      "location": "Wichita,",
-      "url": "https://remoteOK.com/remote-jobs/remote-regional-sales-manager-balco-inc-1136097",
-      "source": "RemoteOK",
-      "description": "Company Information CSWâs Engineered Building Solutions segment manufactures custom architectural building components and innovative firestopping and smoke-rated products that help protect people. Safety and code compliance are top of mind for architects, engineers and contractors. Our purposeful brands combine functionality with aesthetically pleasing designs for the construction, refurbishment, and modernization of buildings.â¯Our brands include Balco, Greco Architectural Metal Products, and Smoke Guard. Position Summary Balco is seeking a dynamic, motivated, and results-driven Regional S",
-      "tags": [
-        "design",
-        "saas",
-        "salesforce",
-        "wordpress",
-        "customer support",
-        "dev",
-        "testing",
-        "marketing",
-        "web dev",
-        "travel",
-        "cloud",
-        "ads",
-        "exec",
-        "content writing",
-        "stats",
-        "sales",
-        "recruiter",
-        "digital nomad",
-        "embedded",
-        "hr",
-        "sys admin",
-        "game dev",
-        "technical",
-        "payroll",
-        "finance",
-        "api",
-        "ops",
-        "engineer",
-        "education",
-        "coordinator",
-        "medical",
-        "full time",
-        "microsoft",
-        "excel"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "location unconfirmed — verify it's open to Africa"
-      ]
-    },
-    {
       "title": "BMS Service Technician",
       "company": "Johnson Controls",
       "location": "Warana,",
@@ -1768,70 +1789,6 @@
       ]
     },
     {
-      "title": "Enterprise Account Executive - Nordics",
-      "company": "Chainguard",
-      "location": "Sweden",
-      "url": "https://jobicy.com/jobs/151988-enterprise-account-executive-nordics",
-      "source": "Jobicy",
-      "description": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. Our customers include Fortune 500 enterprises and global industry leaders, including Anduril, Canva, Fortinet, Hewlett Packard Enterprise, OpenAI,&hellip;",
-      "tags": [
-        "sales"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "location unconfirmed — verify it's open to Africa"
-      ]
-    },
-    {
-      "title": "Enterprise Account Executive - DACH",
-      "company": "Chainguard",
-      "location": "Germany",
-      "url": "https://jobicy.com/jobs/151985-enterprise-account-executive-dach-2",
-      "source": "Jobicy",
-      "description": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. Our customers include Fortune 500 enterprises and global industry leaders, including Anduril, Canva, Fortinet, Hewlett Packard Enterprise, OpenAI,&hellip;",
-      "tags": [
-        "sales"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Germany-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Enterprise Business Development Representative - East",
-      "company": "Chainguard",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/151992-enterprise-business-development-representative-east",
-      "source": "Jobicy",
-      "description": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. Our customers include Fortune 500 enterprises and global industry leaders, including Anduril, Canva, Fortinet, Hewlett Packard Enterprise, OpenAI,&hellip;",
-      "tags": [
-        "business development"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Professional Services Engagement Manager",
-      "company": "Harness",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/147874-professional-services-engagement-manager",
-      "source": "Jobicy",
-      "description": "Harness is the AI Software Delivery Platform company, led by technologist and entrepreneur Jyoti Bansal (founder of AppDynamics, acquired by Cisco for $3.7B). Harness has raised approximately $570M in funding and is valued at $5.5B, backed by leading investors including Goldman Sachs, Menlo Ventures, IVP, Unusual Ventures, Citi Ventures, and more. As AI accelerates code&hellip;",
-      "tags": [
-        "business development"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
       "title": "Senior QA Engineer",
       "company": "Caylent",
       "location": "USA",
@@ -1868,6 +1825,57 @@
       "fit": 30,
       "reasons": [
         "Europe-tagged — verify it's open to Africa first",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Senior Application Security Engineer",
+      "company": "Beyond Finance",
+      "location": "Anywhere",
+      "url": "https://jobicy.com/jobs/154682-senior-application-security-engineer-3",
+      "source": "Jobicy",
+      "description": "At Beyond Finance, we've made it our mission to help everyday Americans escape the endless cycle of crippling debt and step into a brighter financial future. Through compassionate, individualized care, a culture focused on compliance and ethics, supportive user-centric technology, and customized financial solutions, we've helped over 1 million clients on their path to a&hellip;",
+      "tags": [
+        "cybersecurity"
+      ],
+      "verdict": "review",
+      "fit": 30,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Senior Enterprise Account Executive",
+      "company": "Fastly",
+      "location": "UK",
+      "url": "https://jobicy.com/jobs/152564-senior-enterprise-account-executive-2",
+      "source": "Jobicy",
+      "description": "Fastly helps people stay better connected with the things they love. Fastly’s edge cloud platform enables customers to create great digital experiences quickly, securely, and reliably by processing, serving, and securing our customers’ applications as close to their end-users as possible — at the edge of the Internet. The platform is designed to take advantage&hellip;",
+      "tags": [
+        "sales"
+      ],
+      "verdict": "review",
+      "fit": 30,
+      "reasons": [
+        "Uk-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "RevTech Senior Salesforce Developer - LATAM",
+      "company": "Luxury Presence",
+      "location": "LATAM",
+      "url": "https://jobicy.com/jobs/152602-revtech-senior-salesforce-developer-latam",
+      "source": "Jobicy",
+      "description": "Luxury Presence is building the AI growth platform for real estate. Backed by Bessemer Venture Partners and other top investors, we're a Series C company that has hit $100M in annual recurring revenue. More than 90,000 real estate professionals, including over 30% of the WSJ Real Trends top 100 agents in the United States, use&hellip;",
+      "tags": [
+        "software engineering"
+      ],
+      "verdict": "review",
+      "fit": 30,
+      "reasons": [
+        "Latam-tagged — verify it's open to Africa first",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -1924,6 +1932,33 @@
       "fit": 0,
       "reasons": [
         "work-authorization wall (must be located in)"
+      ]
+    },
+    {
+      "title": "Federal Business Development Director",
+      "company": "Fortanix",
+      "location": "Worldwide",
+      "url": "https://remoteOK.com/remote-jobs/remote-federal-business-development-director-fortanix-1137463",
+      "source": "RemoteOK",
+      "description": "About Fortanix In today's world, where data spreads across various clouds and devices, traditional security measures aren't enough. Businesses and Government need a dynamic approach to defend against constant cyber threats and ensure agile data security. Fortanix leads the way in data-centric cybersecurity for hybrid multicloud environments, using advanced cryptography, encryption, PQC and Confidential AI solutions.Â Â In an era where customers want solutions that allow their AI models to be close to the sensitive data they keep on premises, a unique solution is required.Â Fortanix harnesses t",
+      "tags": [
+        "exec",
+        "infosec",
+        "teaching",
+        "consulting",
+        "technical",
+        "customer support",
+        "marketing",
+        "speech",
+        "cloud",
+        "bus dev",
+        "sales",
+        "medical"
+      ],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Director-level — usually 5–10+ yrs, you have ~4"
       ]
     },
     {
@@ -2112,6 +2147,20 @@
       ]
     },
     {
+      "title": "Principal Solutions Consultant",
+      "company": "PagerDuty",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/pagerduty-principal-solutions-consultant",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Remote (USA) PagerDuty, Inc. (NYSE: PD) is the global leader in AI-first digital operations. By automatically detecting, diagnosing, and remediating issues, the PagerDuty Platform orchestrates AI agents and automated workflows with context from over 750 integrations. Trusted by approximately two-thirds of the Fortune 100 and nearly half of the Fortune 500, PagerDuty is the industry standard for organizations scaling resilient, autonomous operations. Notable customers include Chipotle, Cloudflare, Docusign, Fox, Nvidia, Salesforce, Spotify, Zoom and more. We are growing rapidly an",
+      "tags": [],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Principal-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
       "title": "Principal Infrastructure Architect: Data Platform",
       "company": "ZoomInfo Technologies LLC",
       "location": "Anywhere in the World",
@@ -2126,13 +2175,15 @@
       ]
     },
     {
-      "title": "Senior Staff Machine Learning Platform Engineer",
-      "company": "Faire",
-      "location": "Anywhere in the World",
-      "url": "https://weworkremotely.com/remote-jobs/faire-senior-staff-machine-learning-platform-engineer",
-      "source": "WeWorkRemotely",
-      "description": "Headquarters: Kitchener-Waterloo, ON; Remote - Ontario; Toronto, ON About Faire Faire is a technology wholesale platform built on the belief that the future is local. Independent retailers around the globe collectively represent a multi-hundred-billion-dollar wholesale market that has historically been fragmented and offline. At Faire, we're using the power of tech, data, and machine learning to connect this thriving community of entrepreneurs across the globe. Picture your favorite boutique in town — we help them discover the best products from around the world to sell in their stores. With t",
-      "tags": [],
+      "title": "Staff Solutions Engineer - Northeast",
+      "company": "Kong Inc.",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/154680-staff-solutions-engineer-northeast",
+      "source": "Jobicy",
+      "description": "Are you ready to unlock intelligence? If you don’t think you meet all of the criteria below but are still interested in the job, please apply. Nobody checks every box - we’re looking for candidates that are particularly strong in a few areas, and have some interest and capabilities in others. About the Role: Are&hellip;",
+      "tags": [
+        "sales"
+      ],
       "verdict": "blocked",
       "fit": 0,
       "reasons": [
