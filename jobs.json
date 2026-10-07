@@ -1,11 +1,11 @@
 {
-  "generated": "2026-10-06 12:21 UTC",
-  "count": 97,
+  "generated": "2026-10-07 12:14 UTC",
+  "count": 96,
   "summary": {
-    "scanned": 97,
+    "scanned": 96,
     "eligible": 30,
     "review": 52,
-    "blocked": 15
+    "blocked": 14
   },
   "jobs": [
     {
@@ -28,7 +28,7 @@
       "location": "Worldwide",
       "url": "https://remoteOK.com/remote-jobs/remote-golang-kubernetes-engineer-arango-1137400",
       "source": "RemoteOK",
-      "description": "Remote - Arango delivers a unified, natively multimodel contextual data platform that powers AI agents, assistants, and applications with the unified, current, and trusted business context needed to reason, decide, and act at scale.The Arango Contextual Data Platform connects... Please mention the word **FESTIVE** and tag RMjAuMTcxLjIwLjUw when applying to show you read the job post completely (#RMjAuMTcxLjIwLjUw). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Arango delivers a unified, natively multimodel contextual data platform that powers AI agents, assistants, and applications with the unified, current, and trusted business context needed to reason, decide, and act at scale.The Arango Contextual Data Platform connects... Please mention the word **FESTIVE** and tag RMjAuMTY5LjM4LjQ4 when applying to show you read the job post completely (#RMjAuMTY5LjM4LjQ4). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "tags": [
         "golang",
         "golang",
@@ -102,6 +102,20 @@
       ]
     },
     {
+      "title": "Cloud Engineer",
+      "company": "BeyondTrust",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/beyondtrust-cloud-engineer",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Remote Canada | Remote United States BeyondTrust is a place where you can bring your purpose to life through the work that you do, creating a safer world through our cybersecurity SaaS portfolio. Our culture of flexibility, trust, and continual learning means you will be recognized for your growth, and for the impact you make on our success. You will be surrounded by people who challenge, support, and inspire you to be the best version of yourself. The Role The Cloud Engineer designs, secures, and supports mission-critical cloud infrastructure that enables reliable services for u",
+      "tags": [],
+      "verdict": "eligible",
+      "fit": 66,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
+    {
       "title": "Security Engineer, Cloud",
       "company": "Vercel",
       "location": "Anywhere in the World",
@@ -166,21 +180,6 @@
       "url": "https://weworkremotely.com/remote-jobs/jfrog-senior-professional-services-devops-engineer",
       "source": "WeWorkRemotely",
       "description": "Headquarters: Remote, Canada ** Open to remote within the East Coast only** At JFrog, we’re reinventing DevOps to help the world’s greatest companies innovate -- and we want you along for the ride. This is a special place with a unique combination of brilliance, spirit and just all-around great people. Here, if you’re willing to do more, your career can take off. And since software plays a central role in everyone’s lives, you’ll be part of an important mission. Thousands of customers, including the majority of the Fortune 100, trust JFrog to manage, accelerate, and secure their software deliv",
-      "tags": [],
-      "verdict": "eligible",
-      "fit": 60,
-      "reasons": [
-        "remote — anywhere / global",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Senior SRE - Networks",
-      "company": "Fastly",
-      "location": "Anywhere in the World",
-      "url": "https://weworkremotely.com/remote-jobs/fastly-senior-sre-networks",
-      "source": "WeWorkRemotely",
-      "description": "Headquarters: United Kingdom (Remote) Fastly helps people stay better connected with the things they love. Fastly’s edge cloud platform enables customers to create great digital experiences quickly, securely, and reliably by processing, serving, and securing our customers’ applications as close to their end-users as possible — at the edge of the Internet. The platform is designed to take advantage of the modern internet, to be programmable, and to support agile software development. Fastly’s customers include many of the world’s most prominent companies, including GitHub, Yelp, Paramount, and ",
       "tags": [],
       "verdict": "eligible",
       "fit": 60,
@@ -313,25 +312,17 @@
       ]
     },
     {
-      "title": "Tier III Service Desk Engineer",
-      "company": "Unio Digital",
+      "title": "Platform and Integration Engineer Security Telemetry",
+      "company": "RedMimicry",
       "location": "Worldwide",
-      "url": "https://remotive.com/remote-jobs/information-technology/tier-iii-service-desk-engineer-2091045",
-      "source": "Remotive",
-      "description": "Unió Digital is an Arizona-based managed service provider (MSP) delivering Managed IT Services, Low Voltage Cabling, Access Control, Video Surveillance, and Intrusion Services. We believe technology should be intuitive, not intimidating. We are looking for an experienced Tier 3 Service Desk Technician with exceptional problem-solving skills. You will serve as the escalation point within the team, resolving complex technical issues while also leading client onboarding and project initiatives. You are expected to be involved in direct end-user support when required. If you have a passion for ens",
+      "url": "https://remoteOK.com/remote-jobs/remote-platform-and-integration-engineer-security-telemetry-redmimicry-1137465",
+      "source": "RemoteOK",
+      "description": "Remote - Location: Mostly remote (within Germany), with monthly in-person collaboration at our Berlin officeHours: Part-time, 32 hours per weekContract: Fixed-termSalary: EUR 53,000 â 59,000 (at 32 hours per week)We are building a new capability that turns fragmented,... Please mention the word **THRIFTY** and tag RMjAuMTY5LjM4LjQ4 when applying to show you read the job post completely (#RMjAuMTY5LjM4LjQ4). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "tags": [
-        "azure",
-        "cisco",
-        "security",
-        "video",
-        "documentation",
-        "hardware",
-        "helpdesk",
-        "onboarding",
-        "msp",
-        "ticketing",
-        "microsoft 365",
-        "it systems"
+        "golang",
+        "infosec",
+        "engineer",
+        "part time"
       ],
       "verdict": "eligible",
       "fit": 50,
@@ -827,22 +818,6 @@
       ]
     },
     {
-      "title": "Federal Customer Success Manager - DevOps",
-      "company": "Sonatype",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/152105-federal-customer-success-manager-devops",
-      "source": "Jobicy",
-      "description": "Sonatype is privileged to work with customers who rely on us to improve the quality, security, and speed of their software development lifecycle. The Federal Customer Success Manager (CSM) is the strategic post-sales advisor responsible for helping federal customers realize measurable value from their investment in Sonatype by driving adoption, retention, growth, and long-term customer&hellip;",
-      "tags": [
-        "customer support & success"
-      ],
-      "verdict": "review",
-      "fit": 52,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
       "title": "Senior React Full-stack Developer",
       "company": "Lemon.io",
       "location": "Europe, USA, Canada, APAC",
@@ -963,23 +938,6 @@
       "fit": 50,
       "reasons": [
         "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Cloud Senior Engineer",
-      "company": "Caylent",
-      "location": "Brazil",
-      "url": "https://jobicy.com/jobs/154203-cloud-senior-engineer",
-      "source": "Jobicy",
-      "description": "Caylent is an AI-first cloud services company that helps organizations turn ambitious ideas into meaningful business impact. As an AWS Premier Tier Services Partner and a charter member of Anthropic’s Claude Partner Network, we combine deep expertise in AWS, artificial intelligence, and Anthropic’s Claude platform to help customers modernize their technology, build intelligent products, and&hellip;",
-      "tags": [
-        "devops & infrastructure"
-      ],
-      "verdict": "review",
-      "fit": 50,
-      "reasons": [
-        "Brazil-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -1173,6 +1131,40 @@
       "fit": 46,
       "reasons": [
         "Europe-tagged — verify it's open to Africa first",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "1149 - Senior DevOps Engineer",
+      "company": "GoFasti",
+      "location": "LATAM",
+      "url": "https://jobicy.com/jobs/154737-1149-senior-devops-engineer",
+      "source": "Jobicy",
+      "description": "We Make Remote Work Remarkable • TopTalent from LatAm Hello! We are GoFasti, a Talent-as-a-Service. GoFasti bridges the gap between world-class developers and designers from LatAm and first-class companies around the globe. We need an English-fluent Senior DevOps Engineer, based in Latin America, available to work remotely. We are looking for someone with exceptional communication&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
+      "verdict": "review",
+      "fit": 46,
+      "reasons": [
+        "Latam-tagged — verify it's open to Africa first",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Senior Software Engineering Manager, Managed Gateways SREs",
+      "company": "Kong Inc.",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/154703-senior-software-engineering-manager-managed-gateways-sres",
+      "source": "Jobicy",
+      "description": "Are you ready to unlock intelligence? If you don’t think you meet all of the criteria below but are still interested in the job, please apply. Nobody checks every box - we’re looking for candidates that are particularly strong in a few areas, and have some interest and capabilities in others. Location:Washington The Mission: As&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
+      "verdict": "review",
+      "fit": 46,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -1677,6 +1669,38 @@
       ]
     },
     {
+      "title": "Salesforce Developer (US-Remote)",
+      "company": "Tenable",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/152666-salesforce-developer-us-remote",
+      "source": "Jobicy",
+      "description": "Who is Tenable? Tenable® is the Exposure Management company. Over 40,000 organizations around the globe rely on Tenable to understand and reduce cyber risk. Our global employees support 65 percent of the Fortune 500, 50 percent of the Global 2000, and large government agencies. Come be part of our journey! What makes Tenable such a&hellip;",
+      "tags": [
+        "software engineering"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "Forward Deployed Engineer",
+      "company": "Tailscale",
+      "location": "Canada",
+      "url": "https://jobicy.com/jobs/152680-forward-deployed-engineer-2",
+      "source": "Jobicy",
+      "description": "About Tailscale Tailscale is making safe connection effortless by delivering software that makes it easy to securely interconnect people and their devices, no matter where they are. From hobbyists to multinational corporations, teams of every size use Tailscale each day to protect their networks, share access to internal tools, and more. We're building a future&hellip;",
+      "tags": [
+        "technical support"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "Canada-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
       "title": "Product Engineer, Internal Tools - LATAM",
       "company": "Luxury Presence",
       "location": "LATAM",
@@ -1741,54 +1765,6 @@
       ]
     },
     {
-      "title": "Enterprise Account Executive - UK",
-      "company": "Chainguard",
-      "location": "UK",
-      "url": "https://jobicy.com/jobs/154276-enterprise-account-executive-uk-4",
-      "source": "Jobicy",
-      "description": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. Our customers include Fortune 500 enterprises and global industry leaders, including Anduril, Canva, Fortinet, Hewlett Packard Enterprise, OpenAI,&hellip;",
-      "tags": [
-        "sales"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Uk-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Software Engineer, Agentic AI",
-      "company": "Invisible Technologies",
-      "location": "Brazil",
-      "url": "https://jobicy.com/jobs/154246-software-engineer-agentic-ai",
-      "source": "Jobicy",
-      "description": "About Invisible Invisible Technologies makes AI work. Our end-to-end AI platform structures messy data, automates digital workflows, deploys agentic solutions, measures outcomes, and integrates human expertise where it matters most. Our platform cleans, labels, and structures company data so it is ready for AI. It adapts models to each business and adds human expertise when&hellip;",
-      "tags": [
-        "software engineering"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Brazil-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Enterprise Account Executive",
-      "company": "Quantum Metric",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/152080-enterprise-account-executive-17",
-      "source": "Jobicy",
-      "description": "Our Culture Quantum Metric's number one objective is happy people, diverse and inclusive culture. We’re passionate about empowering our people to become the best version of themselves, offering coaching and training programs designed to accelerate their career in whatever direction they choose. As a remote-first company, we understand the importance of building an engaged,&hellip;",
-      "tags": [
-        "sales"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
       "title": "Senior QA Engineer",
       "company": "Caylent",
       "location": "USA",
@@ -1825,6 +1801,23 @@
       "fit": 30,
       "reasons": [
         "Europe-tagged — verify it's open to Africa first",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Platform Architect",
+      "company": "Instructure",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/152637-platform-architect",
+      "source": "Jobicy",
+      "description": "At Instructure, we believe in the power of people to grow and succeed throughout their lives. Our goal is to amplify that power by creating intuitive products that simplify learning and personal development, facilitate meaningful relationships, and inspire people to go further in their education and careers.We do this by giving smart, creative, passionate people&hellip;",
+      "tags": [
+        "software engineering"
+      ],
+      "verdict": "review",
+      "fit": 30,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -2223,35 +2216,29 @@
       ]
     },
     {
-      "title": "Chief Technology Officer",
-      "company": "saas.group",
-      "location": "Europe",
-      "url": "https://jobicy.com/jobs/154291-chief-technology-officer-4",
-      "source": "Jobicy",
-      "description": "This role is part of our Prerender team, one of our largest brands at saas.group. Prerender is a dynamic rendering SaaS platform within the saas.group portfolio. Since 2017, we've revolutionized SEO practices by enabling search engines to crawl JavaScript-heavy sites seamlessly while preserving user experience. Thousands of companies worldwide trust our platform, which serves over&hellip;",
+      "title": "Staff Software Engineer (Platform - Identity IDV)",
+      "company": "Coinbase",
+      "location": "United States",
+      "url": "https://himalayas.app/companies/coinbase/jobs/staff-software-engineer-platform-identity-idv",
+      "source": "Himalayas",
+      "description": "Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.” learn more about working at Coinbase . S",
       "tags": [
-        "software engineering"
+        "software-engineer",
+        "backend-engineer",
+        "staff-engineer",
+        "identity-engineer",
+        "platform-engineer",
+        "staff-identity-engineer",
+        "identity-platform-engineer",
+        "staff-backend-identity-engineer",
+        "staff-identity-and-access-management-engineer",
+        "staff-platform-engineer",
+        "identity-infrastructure-engineer"
       ],
       "verdict": "blocked",
       "fit": 0,
       "reasons": [
-        "Chief-level — usually 5–10+ yrs, you have ~4"
-      ]
-    },
-    {
-      "title": "Principal Software Engineer, DevOps",
-      "company": "Legion",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/154248-principal-software-engineer-devops",
-      "source": "Jobicy",
-      "description": "Principal Software Engineer, DevOps Remote, United States ABOUT POSITION: Are you passionate about automation, DevOps, public cloud services, Kubernetes, and observability? As a site reliability engineer at Legion, you will be responsible for building the tools, infrastructure, and services to create a secure, highly scalable, and cost-effective AWS/Kubernetes-based cloud platform. You will be working with&hellip;",
-      "tags": [
-        "devops & infrastructure"
-      ],
-      "verdict": "blocked",
-      "fit": 0,
-      "reasons": [
-        "Principal-level — usually 5–10+ yrs, you have ~4"
+        "Staff-level — usually 5–10+ yrs, you have ~4"
       ]
     }
   ]
