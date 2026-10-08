@@ -1,11 +1,11 @@
 {
-  "generated": "2026-10-07 12:14 UTC",
-  "count": 96,
+  "generated": "2026-10-08 12:24 UTC",
+  "count": 97,
   "summary": {
-    "scanned": 96,
-    "eligible": 30,
-    "review": 52,
-    "blocked": 14
+    "scanned": 97,
+    "eligible": 31,
+    "review": 51,
+    "blocked": 15
   },
   "jobs": [
     {
@@ -28,7 +28,7 @@
       "location": "Worldwide",
       "url": "https://remoteOK.com/remote-jobs/remote-golang-kubernetes-engineer-arango-1137400",
       "source": "RemoteOK",
-      "description": "Remote - Arango delivers a unified, natively multimodel contextual data platform that powers AI agents, assistants, and applications with the unified, current, and trusted business context needed to reason, decide, and act at scale.The Arango Contextual Data Platform connects... Please mention the word **FESTIVE** and tag RMjAuMTY5LjM4LjQ4 when applying to show you read the job post completely (#RMjAuMTY5LjM4LjQ4). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Arango delivers a unified, natively multimodel contextual data platform that powers AI agents, assistants, and applications with the unified, current, and trusted business context needed to reason, decide, and act at scale.The Arango Contextual Data Platform connects... Please mention the word **FESTIVE** and tag RNTIuMTQ5LjIyMS4xOTI= when applying to show you read the job post completely (#RNTIuMTQ5LjIyMS4xOTI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "tags": [
         "golang",
         "golang",
@@ -95,6 +95,34 @@
         "backend",
         "digital nomad"
       ],
+      "verdict": "eligible",
+      "fit": 66,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
+    {
+      "title": "IT Infrastructure Engineer",
+      "company": "BlueGeko",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/bluegeko-it-infrastructure-engineer",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: London URL: http://bluegeko.com IT Infrastructure Engineer (Full-Time / Remote) We are looking for an experienced IT Infrastructure Engineer to manage, maintain, and improve our company's IT systems, networks, and infrastructure. What You'll Do Manage and maintain IT infrastructure, servers, and networks. Monitor system performance, security, and reliability. Troubleshoot infrastructure, hardware, and network issues. Manage access controls, backups, and system configurations. Support infrastructure upgrades, migrations, and improvements. Ensure systems remain secure, scalable, an",
+      "tags": [],
+      "verdict": "eligible",
+      "fit": 66,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
+    {
+      "title": "Security Software Engineer, IAM",
+      "company": "Vercel",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/vercel-security-software-engineer-iam",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Remote - United States About Vercel: Vercel is the agentic infrastructure company, freeing people and agents to ship what's next. For more than a decade we've helped builders move from idea to production with speed, security, and exceptional developer experience. Now we're scaling our products for both agents and people to ship and run software, built in the open and trusted by OpenAI, PayPal, Ramp, Supreme, and millions of developers worldwide. About the Role: Traditional IAM teams operate as an approval queue: a request comes in, someone reviews it, grants it, and (hopefully) r",
+      "tags": [],
       "verdict": "eligible",
       "fit": 66,
       "reasons": [
@@ -174,21 +202,6 @@
       ]
     },
     {
-      "title": "Senior Professional Services DevOps Engineer",
-      "company": "JFrog",
-      "location": "Anywhere in the World",
-      "url": "https://weworkremotely.com/remote-jobs/jfrog-senior-professional-services-devops-engineer",
-      "source": "WeWorkRemotely",
-      "description": "Headquarters: Remote, Canada ** Open to remote within the East Coast only** At JFrog, we’re reinventing DevOps to help the world’s greatest companies innovate -- and we want you along for the ride. This is a special place with a unique combination of brilliance, spirit and just all-around great people. Here, if you’re willing to do more, your career can take off. And since software plays a central role in everyone’s lives, you’ll be part of an important mission. Thousands of customers, including the majority of the Fortune 100, trust JFrog to manage, accelerate, and secure their software deliv",
-      "tags": [],
-      "verdict": "eligible",
-      "fit": 60,
-      "reasons": [
-        "remote — anywhere / global",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
       "title": "Senior DevOps Engineer",
       "company": "Five9",
       "location": "Portugal",
@@ -229,6 +242,49 @@
       "tags": [],
       "verdict": "eligible",
       "fit": 54,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
+    {
+      "title": "Tier III Service Desk Engineer",
+      "company": "Unio Digital",
+      "location": "Worldwide",
+      "url": "https://remotive.com/remote-jobs/information-technology/tier-iii-service-desk-engineer-2091045",
+      "source": "Remotive",
+      "description": "Unió Digital is an Arizona-based managed service provider (MSP) delivering Managed IT Services, Low Voltage Cabling, Access Control, Video Surveillance, and Intrusion Services. We believe technology should be intuitive, not intimidating. We are looking for an experienced Tier 3 Service Desk Technician with exceptional problem-solving skills. You will serve as the escalation point within the team, resolving complex technical issues while also leading client onboarding and project initiatives. You are expected to be involved in direct end-user support when required. If you have a passion for ens",
+      "tags": [
+        "azure",
+        "cisco",
+        "security",
+        "video",
+        "documentation",
+        "hardware",
+        "helpdesk",
+        "onboarding",
+        "msp",
+        "ticketing",
+        "microsoft 365",
+        "it systems"
+      ],
+      "verdict": "eligible",
+      "fit": 50,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
+    {
+      "title": "Freelance Writer",
+      "company": "IAPWE",
+      "location": "Worldwide",
+      "url": "https://remotive.com/remote-jobs/writing/freelance-writer-1185979",
+      "source": "Remotive",
+      "description": "Our organization is seeking content writers to create articles and blog posts on a variety of topics. The rate of pay is $20 per 100 words (this comes out to approximately $100 per article or $50 per hour). Some topics you may be asked to write about include the following (you can always turn down a topic if you do not feel comfortable writing about it, however if you have experience or expertise in a specific area, please let us know): Health &amp; beauty Fitness Home Decor Fashion Sports Do it yourself Finance Legal Medical Family/Parenting Relationships Real Estate Restaurants Contracting (",
+      "tags": [
+        "rest"
+      ],
+      "verdict": "eligible",
+      "fit": 50,
       "reasons": [
         "remote — anywhere / global"
       ]
@@ -317,7 +373,7 @@
       "location": "Worldwide",
       "url": "https://remoteOK.com/remote-jobs/remote-platform-and-integration-engineer-security-telemetry-redmimicry-1137465",
       "source": "RemoteOK",
-      "description": "Remote - Location: Mostly remote (within Germany), with monthly in-person collaboration at our Berlin officeHours: Part-time, 32 hours per weekContract: Fixed-termSalary: EUR 53,000 â 59,000 (at 32 hours per week)We are building a new capability that turns fragmented,... Please mention the word **THRIFTY** and tag RMjAuMTY5LjM4LjQ4 when applying to show you read the job post completely (#RMjAuMTY5LjM4LjQ4). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Location: Mostly remote (within Germany), with monthly in-person collaboration at our Berlin officeHours: Part-time, 32 hours per weekContract: Fixed-termSalary: EUR 53,000 â 59,000 (at 32 hours per week)We are building a new capability that turns fragmented,... Please mention the word **THRIFTY** and tag RNTIuMTQ5LjIyMS4xOTI= when applying to show you read the job post completely (#RNTIuMTQ5LjIyMS4xOTI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "tags": [
         "golang",
         "infosec",
@@ -357,20 +413,6 @@
         "recruiter",
         "digital nomad"
       ],
-      "verdict": "eligible",
-      "fit": 50,
-      "reasons": [
-        "remote — anywhere / global"
-      ]
-    },
-    {
-      "title": "Sales Development Representative - Mid-Market",
-      "company": "Huntress",
-      "location": "Anywhere in the World",
-      "url": "https://weworkremotely.com/remote-jobs/huntress-sales-development-representative-mid-market",
-      "source": "WeWorkRemotely",
-      "description": "Headquarters: Remote US Reports to: SDR Manager Location: Remote US Compensation Range: $58,500 base with on-target earnings at $78,000 plus equity &nbsp; What We Do:&nbsp; Cybercrime is growing, and more businesses are getting hit by threats that used to target only the biggest organizations. That pushes defenders like us to operate at the highest level, and it deepens our need for good people who want to make a meaningful impact. Founded in 2015 by former NSA cyber operators, Huntress is a remote-first team working to make enterprise-grade cybersecurity accessible to businesses of all sizes.",
-      "tags": [],
       "verdict": "eligible",
       "fit": 50,
       "reasons": [
@@ -581,21 +623,6 @@
       "title": "CPS Solution Architect",
       "company": "Collibra",
       "location": "Anywhere in the World",
-      "url": "https://weworkremotely.com/remote-jobs/collibra-cps-solution-architect-1",
-      "source": "WeWorkRemotely",
-      "description": "Headquarters: Remote, USA Joining Collibra’s CPS Solution Architect Team At Collibra Public Sector, our Professional Services team relies on Federal Solution Architects to deliver on customer expectations for the services we sell, working directly with customer key projects stakeholders throughout the entire customer journey. Ensuring growth, adoption and renewal, Federal Solution Architects act as customer champions, ensuring customers are onboarded and realizing value rapidly.&nbsp; Federal Solution Architects are responsible for Supporting federal customer engagements by delivering mission-",
-      "tags": [],
-      "verdict": "eligible",
-      "fit": 44,
-      "reasons": [
-        "remote — anywhere / global",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "CPS Solution Architect",
-      "company": "Collibra",
-      "location": "Anywhere in the World",
       "url": "https://weworkremotely.com/remote-jobs/collibra-cps-solution-architect",
       "source": "WeWorkRemotely",
       "description": "Headquarters: Remote, USA Joining Collibra’s CPS Solution Architect Team At Collibra Public Sector, our Professional Services team relies on Federal Solution Architects to deliver on customer expectations for the services we sell, working directly with customer key projects stakeholders throughout the entire customer journey. Ensuring growth, adoption and renewal, Federal Solution Architects act as customer champions, ensuring customers are onboarded and realizing value rapidly.&nbsp; Federal Solution Architects are responsible for Supporting federal customer engagements by delivering mission-",
@@ -717,22 +744,6 @@
       ]
     },
     {
-      "title": "Developer Advocate - Service Management EMEA",
-      "company": "Datadog",
-      "location": "France, Netherlands, Spain",
-      "url": "https://jobicy.com/jobs/154340-developer-advocate-service-management-emea",
-      "source": "Jobicy",
-      "description": "We are a team of engineers that translate our real-world experience to help our user communities solve problems. With a focus on service management, helping teams respond to incidents, run on-call, and automate their operations, you will work with practitioners and leaders across the industry and broaden your impact to the SRE, Engineer, DevOps, and&hellip;",
-      "tags": [
-        "devops & infrastructure"
-      ],
-      "verdict": "review",
-      "fit": 56,
-      "reasons": [
-        "France-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
       "title": "Software Engineer / AI Code Trainer (Python, Web, Full Stack)",
       "company": "CodeForAI",
       "location": "USA, UK, India, Australia, Ireland, New Zealand, Philippines, Pakistan, Singapore, Mexico",
@@ -799,22 +810,6 @@
       "fit": 52,
       "reasons": [
         "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Azure DevOps Engineer | KD Pharma",
-      "company": "GT",
-      "location": "Europe",
-      "url": "https://jobicy.com/jobs/152146-azure-devops-engineer-kd-pharma",
-      "source": "Jobicy",
-      "description": "GT was founded in 2019 by a former Apple, Nest, and Google executive. GT’s mission is to connect the world’s best talent with product careers offered by high-growth companies in the UK, USA, Canada, Germany, and the Netherlands. On behalf of KD Pharma, GT is looking for an experienced Azure DevOps Engineer to support the&hellip;",
-      "tags": [
-        "devops & infrastructure"
-      ],
-      "verdict": "review",
-      "fit": 52,
-      "reasons": [
-        "Europe-tagged — verify it's open to Africa first"
       ]
     },
     {
@@ -1135,6 +1130,23 @@
       ]
     },
     {
+      "title": "Pre/Post Sales Solutions Architect",
+      "company": "Gremlin",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/152749-pre-post-sales-solutions-architect",
+      "source": "Jobicy",
+      "description": "Today’s complex, fast-paced systems have become a minefield of reliability risks—any of which could cause an outage that costs millions and destroys customer confidence. That’s why high-availability teams use Gremlin to find and fix ‌reliability risks before they become incidents. The Gremlin Reliability Platform helps software teams proactively monitor and test their systems for common&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
+      "verdict": "review",
+      "fit": 46,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
       "title": "1149 - Senior DevOps Engineer",
       "company": "GoFasti",
       "location": "LATAM",
@@ -1250,23 +1262,6 @@
       "fit": 46,
       "reasons": [
         "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Senior Manager, Solutions Architect",
-      "company": "Vercel",
-      "location": "Australia",
-      "url": "https://jobicy.com/jobs/152130-senior-manager-solutions-architect-2",
-      "source": "Jobicy",
-      "description": "About Vercel: Vercel is the agentic infrastructure company. We free people and agents to ship what’s next. For more than a decade, Vercel has shaped how the web is built. As the team behind Next.js, v0, and AI SDK, we create products that help builders move from idea to production with speed, security, and exceptional&hellip;",
-      "tags": [
-        "technical support"
-      ],
-      "verdict": "review",
-      "fit": 46,
-      "reasons": [
-        "Australia-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -1669,6 +1664,22 @@
       ]
     },
     {
+      "title": "Data Scientist, AI/ML",
+      "company": "Gremlin",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/152746-data-scientist-ai-ml",
+      "source": "Jobicy",
+      "description": "Data Scientist, AI/ML Job Description: Today’s complex, fast-paced systems have become a minefield of reliability risks, any of which could cause an outage that costs millions and destroys customer confidence. That’s why high-availability teams use Gremlin to find and fix reliability risks before they become incidents. Gremlin Reliability Platform helps software teams proactively monitor and&hellip;",
+      "tags": [
+        "data science & analytics"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
       "title": "Salesforce Developer (US-Remote)",
       "company": "Tenable",
       "location": "USA",
@@ -1749,19 +1760,26 @@
       ]
     },
     {
-      "title": "Professional Services Engineer",
-      "company": "BigID",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/152173-professional-services-engineer",
-      "source": "Jobicy",
-      "description": "Who we are: BigID is an innovative tech startup that focuses on solutions for data security, compliance, privacy, and AI data management. We're leading the market in all things data: helping our customers reduce risk, drive business innovation, achieve compliance, build customer trust, make better decisions, and get more value from their data. We are&hellip;",
+      "title": "InsureMO Platform Configurator",
+      "company": "Exavalu",
+      "location": "United States",
+      "url": "https://himalayas.app/companies/exavalu/jobs/insuremo-platform-configurator",
+      "source": "Himalayas",
+      "description": "This is a remote position. ​ We are seeking an experienced and solutions-oriented InsureMO Platform Configurator to lead the configuration, integration, and orchestration of insurance products and microservices powered by the InsureMO (eBaoTech) middleware platform. In this role, you will be responsible for translating complex underwriting rules, product specifications, and policy administration lifecycles into InsureMO’s cloud-native digital insurance architecture. You will configure and maintain end-to-end insurance offerings across multiple core modules (Product Factory, Policy, Billing, Cl",
       "tags": [
-        "technical support"
+        "platform-configuration",
+        "insurance-technology-specialist",
+        "insurance-business-analyst",
+        "solution-configuration",
+        "technical-business-analyst",
+        "insurance-configuration",
+        "insurance-platform-developer",
+        "insurance-platform-development"
       ],
       "verdict": "review",
       "fit": 36,
       "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+        "United states-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -2140,6 +2158,20 @@
       ]
     },
     {
+      "title": "Director, Renewals",
+      "company": "Abnormal",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/abnormal-director-renewals",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Remote - USA About the Role Abnormal AI is looking for a Director of Renewals to own the strategy, performance, and operating model for our global renewals function. Reporting to the VP of Customer Success, you will lead the renewals organization and own revenue retention across Abnormal's multi-product behavioral security platform. You will build the renewals engine that makes retention and cross-product expansion predictable at scale, set the standard for how Abnormal renews and expands its customers, and turn customer obsession into measurable retention outcomes. What you will",
+      "tags": [],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Director-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
       "title": "Principal Solutions Consultant",
       "company": "PagerDuty",
       "location": "Anywhere in the World",
@@ -2165,6 +2197,22 @@
       "fit": 0,
       "reasons": [
         "Principal-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
+      "title": "Director, Enterprise Sales Engineering - US Central",
+      "company": "Datadog",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/152710-director-enterprise-sales-engineering-us-central",
+      "source": "Jobicy",
+      "description": "As a Director, Enterprise Sales Engineering, you will lead a team of frontline leaders, driving account strategy, deal execution, operational excellence, and team development across your region. This is a strategic leadership role with regional impact within North America. You will act as a force multiplier by owning team and region performance, shaping execution standards,&hellip;",
+      "tags": [
+        "sales"
+      ],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Director-level — usually 5–10+ yrs, you have ~4"
       ]
     },
     {
@@ -2213,32 +2261,6 @@
       "fit": 0,
       "reasons": [
         "Principal-level — usually 5–10+ yrs, you have ~4"
-      ]
-    },
-    {
-      "title": "Staff Software Engineer (Platform - Identity IDV)",
-      "company": "Coinbase",
-      "location": "United States",
-      "url": "https://himalayas.app/companies/coinbase/jobs/staff-software-engineer-platform-identity-idv",
-      "source": "Himalayas",
-      "description": "Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.” learn more about working at Coinbase . S",
-      "tags": [
-        "software-engineer",
-        "backend-engineer",
-        "staff-engineer",
-        "identity-engineer",
-        "platform-engineer",
-        "staff-identity-engineer",
-        "identity-platform-engineer",
-        "staff-backend-identity-engineer",
-        "staff-identity-and-access-management-engineer",
-        "staff-platform-engineer",
-        "identity-infrastructure-engineer"
-      ],
-      "verdict": "blocked",
-      "fit": 0,
-      "reasons": [
-        "Staff-level — usually 5–10+ yrs, you have ~4"
       ]
     }
   ]
