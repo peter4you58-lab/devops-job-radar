@@ -1,11 +1,11 @@
 {
-  "generated": "2026-10-08 12:24 UTC",
-  "count": 97,
+  "generated": "2026-10-09 12:13 UTC",
+  "count": 95,
   "summary": {
-    "scanned": 97,
-    "eligible": 31,
+    "scanned": 95,
+    "eligible": 30,
     "review": 51,
-    "blocked": 15
+    "blocked": 14
   },
   "jobs": [
     {
@@ -28,7 +28,7 @@
       "location": "Worldwide",
       "url": "https://remoteOK.com/remote-jobs/remote-golang-kubernetes-engineer-arango-1137400",
       "source": "RemoteOK",
-      "description": "Remote - Arango delivers a unified, natively multimodel contextual data platform that powers AI agents, assistants, and applications with the unified, current, and trusted business context needed to reason, decide, and act at scale.The Arango Contextual Data Platform connects... Please mention the word **FESTIVE** and tag RNTIuMTQ5LjIyMS4xOTI= when applying to show you read the job post completely (#RNTIuMTQ5LjIyMS4xOTI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Arango delivers a unified, natively multimodel contextual data platform that powers AI agents, assistants, and applications with the unified, current, and trusted business context needed to reason, decide, and act at scale.The Arango Contextual Data Platform connects... Please mention the word **FESTIVE** and tag RMjAuODQuMTU4Ljk3 when applying to show you read the job post completely (#RMjAuODQuMTU4Ljk3). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "tags": [
         "golang",
         "golang",
@@ -172,27 +172,28 @@
       ]
     },
     {
+      "title": "DevOps Engineer (Observability)",
+      "company": "Twilio",
+      "location": "Ireland",
+      "url": "https://jobicy.com/jobs/154900-devops-engineer-observability",
+      "source": "Jobicy",
+      "description": "Who we are At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to hundreds of thousands of businesses and empower millions of developers worldwide to craft personalized customer experiences. Our dedication to remote-first work, and strong culture of connection and global inclusion means that no&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
+      "verdict": "eligible",
+      "fit": 66,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
+    {
       "title": "Senior Manager, Solutions Architect",
       "company": "Vercel",
       "location": "Anywhere in the World",
       "url": "https://weworkremotely.com/remote-jobs/vercel-senior-manager-solutions-architect",
       "source": "WeWorkRemotely",
       "description": "Headquarters: Remote - Australia About Vercel: Vercel is the agentic infrastructure company, freeing people and agents to ship what's next. For more than a decade we've helped builders move from idea to production with speed, security, and exceptional developer experience. Now we're scaling our products for both agents and people to ship and run software, built in the open and trusted by OpenAI, PayPal, Ramp, Supreme, and millions of developers worldwide. About The Role: We are looking for a Senior Manager of Solutions Architecture to join and lead our our APAC SA team. In this role, you will ",
-      "tags": [],
-      "verdict": "eligible",
-      "fit": 60,
-      "reasons": [
-        "remote — anywhere / global",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Billing Systems Architect",
-      "company": "Platform.sh",
-      "location": "Anywhere in the World",
-      "url": "https://weworkremotely.com/remote-jobs/platform-sh-billing-systems-architect",
-      "source": "WeWorkRemotely",
-      "description": "Headquarters: Remote • Anywhere About Upsun (formerly Platform.sh)&nbsp; Upsun is the cloud application platform humans and robots love. It is built for today’s hybrid teams, where AI agents write and test code and humans focus on solving the problems that really matter. Developers, DevOps engineers, and platform teams use Upsun to build, ship, and scale confidently without wrestling with backend infrastructure. We give you your time back. You get: Predictable performance, even at scale Secure, compliant environments by default&nbsp; Real-time observability and profiling built in Cloning, conf",
       "tags": [],
       "verdict": "eligible",
       "fit": 60,
@@ -349,31 +350,12 @@
       ]
     },
     {
-      "title": "Inside Sales Contractor",
-      "company": "Credit Wellness, LLC",
-      "location": "Worldwide",
-      "url": "https://remotive.com/remote-jobs/sales/inside-sales-contractor-2086540",
-      "source": "Remotive",
-      "description": "About Us We are a financial services start up focusing on helping to improve consumer credit profiles. We are currently seeking KPI driven sales representatives looking to earn up to 45K in their first year while working remotely. We offer comprehensive training and continuous sales coaching to help you meet your financial goals. During our training period we offer a guaranteed training stipend while our trainees are acclimating to the position (*see weekly pay below). If you are a seasoned sales professional looking for the autonomy of a remote position combined with great compensation, we wa",
-      "tags": [
-        "crm",
-        "google sheets",
-        "financial services",
-        "inside sales"
-      ],
-      "verdict": "eligible",
-      "fit": 50,
-      "reasons": [
-        "remote — anywhere / global"
-      ]
-    },
-    {
       "title": "Platform and Integration Engineer Security Telemetry",
       "company": "RedMimicry",
       "location": "Worldwide",
       "url": "https://remoteOK.com/remote-jobs/remote-platform-and-integration-engineer-security-telemetry-redmimicry-1137465",
       "source": "RemoteOK",
-      "description": "Remote - Location: Mostly remote (within Germany), with monthly in-person collaboration at our Berlin officeHours: Part-time, 32 hours per weekContract: Fixed-termSalary: EUR 53,000 â 59,000 (at 32 hours per week)We are building a new capability that turns fragmented,... Please mention the word **THRIFTY** and tag RNTIuMTQ5LjIyMS4xOTI= when applying to show you read the job post completely (#RNTIuMTQ5LjIyMS4xOTI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Location: Mostly remote (within Germany), with monthly in-person collaboration at our Berlin officeHours: Part-time, 32 hours per weekContract: Fixed-termSalary: EUR 53,000 â 59,000 (at 32 hours per week)We are building a new capability that turns fragmented,... Please mention the word **THRIFTY** and tag RMjAuODQuMTU4Ljk3 when applying to show you read the job post completely (#RMjAuODQuMTU4Ljk3). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "tags": [
         "golang",
         "infosec",
@@ -728,22 +710,6 @@
       ]
     },
     {
-      "title": "AWS DevOps Engineer (Freelancer)",
-      "company": "Mactores",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/152278-aws-devops-engineer-freelancer",
-      "source": "Jobicy",
-      "description": "Mactores is the agent-native AWS modernization firm. Most modernization work doesn't ship, it stalls in pilots, slips a year, or lands at three times the budget. We exist to ship it: production systems running, legacy retired, outcomes measured. Our delivery is built on Aedeon, the agent platform built by Mactores' founders' sister company, which absorbs&hellip;",
-      "tags": [
-        "devops & infrastructure"
-      ],
-      "verdict": "review",
-      "fit": 56,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
       "title": "Software Engineer / AI Code Trainer (Python, Web, Full Stack)",
       "company": "CodeForAI",
       "location": "USA, UK, India, Australia, Ireland, New Zealand, Philippines, Pakistan, Singapore, Mexico",
@@ -797,19 +763,28 @@
       ]
     },
     {
-      "title": "Site Reliability Engineer (SRE), Data Products",
-      "company": "CentralReach",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/154368-site-reliability-engineer-sre-data-products",
-      "source": "Jobicy",
-      "description": "CentralReach is a leading provider of autism and IDD care software for Applied Behavior Analysis (ABA), multidisciplinary therapy, and special education. Trusted by more than 200,000 users, we enable therapy providers, educators, and employers to scale the way they deliver ABA and related therapies with innovative technology, market-leading industry expertise, and world-class customer satisfaction. We&hellip;",
+      "title": "Platform Tester (Back-end Systems) - Canada",
+      "company": "Intelerad",
+      "location": "Canada",
+      "url": "https://himalayas.app/companies/intelerad/jobs/platform-tester-back-end-systems-canada",
+      "source": "Himalayas",
+      "description": "As a Platform Tester, you'll safeguard the quality of the core platform behind Intelerad 's medical imaging solutions: the services, APIs, integrations, and infrastructure that healthcare providers rely on every day. Building on a strong testing foundation, you'll own test strategy for platform components, expand automated coverage across back-end and integration layers, and partner with Engineering, DevOps, and Product teams. Together you'll make sure every release is stable, scalable, and ready for clinical environments. Key Responsibilities Platform Test Strategy: Own test planning and exec",
       "tags": [
-        "devops & infrastructure"
+        "tester",
+        "qa-tester",
+        "software-test-engineer",
+        "automation-testing",
+        "backend-testing",
+        "platform-test-engineer",
+        "platform-testing-specialist",
+        "senior-qa-engineer-platform-engineering",
+        "platform-quality-engineer",
+        "backend-qa-engineer"
       ],
       "verdict": "review",
       "fit": 52,
       "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+        "Canada-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -934,6 +909,52 @@
       "reasons": [
         "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
         "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Cloud Architect",
+      "company": "Ergomed",
+      "location": "Spain",
+      "url": "https://himalayas.app/companies/ergomedplc/jobs/cloud-architect",
+      "source": "Himalayas",
+      "description": "We're looking for an experienced Cloud Architect to join our organization. In this role, you will be responsible for the architecture, governance, and cost-effective operation of Ergomed 's Cloud (Microsoft Azure) environment. This hands-on role leads the design of new and improvements to existing Azure projects, builds reusable deployment templates and standards, and provides architectural review across the tenant — collaborating with project teams on solution design and standards, with IT stakeholders on demonstrable compliance (e.g. SOC 2, ISO 27001, HIPAA), and with IT Operations on day-to",
+      "tags": [
+        "cloud-architect",
+        "azure-architect",
+        "solutions-architect",
+        "cloud-engineer",
+        "infrastructure-architect",
+        "cloud-platform-architect",
+        "cloud-application-architect",
+        "cloud-systems-architect",
+        "cloud-solution-architect",
+        "cloud-infrastructure-architect",
+        "cloud-technical-architect",
+        "cloud-solutions-architect",
+        "aws-cloud-architect",
+        "principal-cloud-architect"
+      ],
+      "verdict": "review",
+      "fit": 50,
+      "reasons": [
+        "Spain-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Manager, Customer Success Managers, EMEA",
+      "company": "GitLab",
+      "location": "Austria, Germany",
+      "url": "https://jobicy.com/jobs/148783-manager-customer-success-managers-emea",
+      "source": "Jobicy",
+      "description": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster. The same principles built into&hellip;",
+      "tags": [
+        "customer support & success"
+      ],
+      "verdict": "review",
+      "fit": 48,
+      "reasons": [
+        "Germany-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -1249,23 +1270,6 @@
       ]
     },
     {
-      "title": "Sr. Site Reliability Engineer",
-      "company": "CentralReach",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/154372-sr-site-reliability-engineer",
-      "source": "Jobicy",
-      "description": "CentralReach is a leading provider of autism and IDD care software for Applied Behavior Analysis (ABA), multidisciplinary therapy, and special education. Trusted by more than 200,000 users, we enable therapy providers, educators, and employers to scale the way they deliver ABA and related therapies with innovative technology, market-leading industry expertise, and world-class customer satisfaction. The&hellip;",
-      "tags": [
-        "devops & infrastructure"
-      ],
-      "verdict": "review",
-      "fit": 46,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
       "title": "Senior Customer Success Architect - Singapore",
       "company": "GitLab",
       "location": "Singapore",
@@ -1387,20 +1391,6 @@
       "fit": 36,
       "reasons": [
         "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "🇩🇪 Kundenservice Mobilfunk Inbound - innerhalb der EU (ausgenommen: Deutschland)",
-      "company": "hey contact heroes GmbH",
-      "location": "Europe",
-      "url": "https://remotive.com/remote-jobs/customer-service/kundenservice-mobilfunk-inbound-innerhalb-der-eu-ausgenommen-deutschland-2091139",
-      "source": "Remotive",
-      "description": "🇩🇪 This job ad is written in German. 🇩🇪 Kennst du schon die hey contact heroes? Noch nicht? Dann wird’s Zeit! Die hey contact heroes stehen für echte Innovationen im Kundenservice! Wir haben uns auf die Bereitstellung erstklassiger Kundenservice-Lösungen spezialisiert hat. Mit über 500 Agent/innen sind wir in mittlerweile 17 Ländern rund um die Uhr und rund um den Globus im Einsatz. 100 % Remote - innerhalb der EU (ausgenommen: Deutschland) Die hey contact heroes starten für eine große und bekannte Mobilfunk-Marke ein neues, größeres Projekt im Bereich Prepaid-Kundenservice. Es handelt sich um",
-      "tags": [],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Europe-tagged — verify it's open to Africa first"
       ]
     },
     {
@@ -1664,6 +1654,70 @@
       ]
     },
     {
+      "title": "Business Systems Engineer",
+      "company": "ClickUp",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/152814-business-systems-engineer",
+      "source": "Jobicy",
+      "description": "At ClickUp, we're building the future of work: the first truly converged AI workspace unifying tasks, docs, chat, calendar, and enterprise search, all supercharged by context-driven AI. We are an AI-native company. Every team member is expected to leverage AI daily, and we evaluate AI fluency as part of our hiring process. Join us and&hellip;",
+      "tags": [
+        "software engineering"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "Software Test Engineer",
+      "company": "Deepgram",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/154872-software-test-engineer",
+      "source": "Jobicy",
+      "description": "Company Overview Deepgram is the leading platform underpinning the emerging trillion-dollar Voice AI economy, providing real-time APIs for speech-to-text (STT), text-to-speech (TTS), and building production-grade voice agents at scale. More than 200,000 developers and 1,300+ organizations build voice offerings that are ‘Powered by Deepgram’, including Twilio, Cloudflare, Sierra, Decagon, Vapi, Daily, Cresta, Granola, and Jack&hellip;",
+      "tags": [
+        "qa & testing"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "Safety Engineer - Free Tier Abuse",
+      "company": "Elevenlabs",
+      "location": "Ireland, Japan, Poland, UK, USA",
+      "url": "https://jobicy.com/jobs/154823-safety-engineer-free-tier-abuse",
+      "source": "Jobicy",
+      "description": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deutsche Telekom and Meta. Our investors are some of&hellip;",
+      "tags": [
+        "cybersecurity"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "Engineering - Internal AI Transformation",
+      "company": "Elevenlabs",
+      "location": "Bulgaria, Canada, Germany, Ireland, Italy, Netherlands, Poland, Portugal, Sweden, UK, USA",
+      "url": "https://jobicy.com/jobs/154817-engineering-internal-ai-transformation",
+      "source": "Jobicy",
+      "description": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deutsche Telekom and Meta. Our investors are some of&hellip;",
+      "tags": [
+        "software engineering"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
       "title": "Data Scientist, AI/ML",
       "company": "Gremlin",
       "location": "USA",
@@ -1728,75 +1782,25 @@
       ]
     },
     {
-      "title": "QA Analyst (Future Roles)",
-      "company": "Testlio",
-      "location": "Argentina, Brazil, Canada, Czechia, Estonia, Ireland, Mexico, Poland, Portugal, Romania, Spain, UK, Ukraine, USA",
-      "url": "https://jobicy.com/jobs/152333-qa-analyst-future-roles",
-      "source": "Jobicy",
-      "description": "About Testlio Testlio’s fully managed crowdsourced testing platform, powered by our proprietary intelligence technology – LeoAI EngineTM, integrates expert, on-demand testers directly into your release process. Ship faster and more confidently with global coverage across 600,000+ devices, 800+ payment methods, 150+ countries, and 100+ languages. To learn more, visit www.testlio.com. This job post is to&hellip;",
-      "tags": [
-        "qa & testing"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Quality Engineer",
-      "company": "StackAdapt",
-      "location": "Canada",
-      "url": "https://jobicy.com/jobs/152330-quality-engineer-2",
-      "source": "Jobicy",
-      "description": "StackAdapt is the leading technology company that empowers marketers to reach, engage, and convert audiences with precision. With 465 billion automated optimizations per second, the AI-powered StackAdapt Marketing Platform seamlessly connects brand and performance marketing to drive measurable results across the entire customer journey. The most forward-thinking marketers choose StackAdapt to orchestrate high-impact campaigns across&hellip;",
-      "tags": [
-        "qa & testing"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Canada-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "InsureMO Platform Configurator",
-      "company": "Exavalu",
+      "title": "Mainframe Systems Programmer - DB2 Physical",
+      "company": "Ensono",
       "location": "United States",
-      "url": "https://himalayas.app/companies/exavalu/jobs/insuremo-platform-configurator",
+      "url": "https://himalayas.app/companies/ensono/jobs/mainframe-systems-programmer-db2-physical",
       "source": "Himalayas",
-      "description": "This is a remote position. ​ We are seeking an experienced and solutions-oriented InsureMO Platform Configurator to lead the configuration, integration, and orchestration of insurance products and microservices powered by the InsureMO (eBaoTech) middleware platform. In this role, you will be responsible for translating complex underwriting rules, product specifications, and policy administration lifecycles into InsureMO’s cloud-native digital insurance architecture. You will configure and maintain end-to-end insurance offerings across multiple core modules (Product Factory, Policy, Billing, Cl",
+      "description": "At Ensono , our Purpose is to be a relentless ally, disrupting the status quo and unleashing our clients to Do Great Things! We enable our clients to achieve key business outcomes that reshape how our world runs. As an expert technology adviser and managed service provider with cross-platform certifications, Ensono empowers our clients to keep up with continuous change and embrace innovation. We can Do Great Things because we have great Associates. The Ensono Core Values unify our diverse talents and are woven into how we do business. These five traits are the key to achieving our purpose. HON",
       "tags": [
-        "platform-configuration",
-        "insurance-technology-specialist",
-        "insurance-business-analyst",
-        "solution-configuration",
-        "technical-business-analyst",
-        "insurance-configuration",
-        "insurance-platform-developer",
-        "insurance-platform-development"
+        "db2-database-administration",
+        "mainframe-systems-programmer",
+        "mainframe-database-administrator",
+        "systems-programmer",
+        "database-administrator",
+        "db2-systems-programmer",
+        "senior-mainframe-systems-programmer"
       ],
       "verdict": "review",
       "fit": 36,
       "reasons": [
         "United states-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Senior QA Engineer",
-      "company": "Caylent",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/152325-senior-qa-engineer-2",
-      "source": "Jobicy",
-      "description": "Caylent is an AI-first cloud services company that helps organizations turn ambitious ideas into meaningful business impact. As an AWS Premier Tier Services Partner and a charter member of Anthropic’s Claude Partner Network, we combine deep expertise in AWS, artificial intelligence, and Anthropic’s Claude platform to help customers modernize their technology, build intelligent products, and&hellip;",
-      "tags": [
-        "qa & testing"
-      ],
-      "verdict": "review",
-      "fit": 34,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
     {
@@ -1819,6 +1823,23 @@
       "fit": 30,
       "reasons": [
         "Europe-tagged — verify it's open to Africa first",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Senior Quality Engineer",
+      "company": "StackAdapt",
+      "location": "Canada, USA",
+      "url": "https://jobicy.com/jobs/154871-senior-quality-engineer-3",
+      "source": "Jobicy",
+      "description": "StackAdapt is the leading technology company that empowers marketers to reach, engage, and convert audiences with precision. With 465 billion automated optimizations per second, the AI-powered StackAdapt Marketing Platform seamlessly connects brand and performance marketing to drive measurable results across the entire customer journey. The most forward-thinking marketers choose StackAdapt to orchestrate high-impact campaigns across&hellip;",
+      "tags": [
+        "qa & testing"
+      ],
+      "verdict": "review",
+      "fit": 30,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -1904,23 +1925,6 @@
       "fit": 30,
       "reasons": [
         "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Frontend Engineering Team Lead - MarTech",
-      "company": "Sporty Group",
-      "location": "Europe",
-      "url": "https://jobicy.com/jobs/149869-frontend-engineering-team-lead-martech",
-      "source": "Jobicy",
-      "description": "About the roleAs the Team Lead for our Frontend development team, you will play a key role in driving the architecture, development, and delivery of high-quality software solutions. You will lead a group of talented developers, ensuring smooth collaboration, technical innovation, and strong delivery results. Your responsibilities will encompass both hands-on coding and line management,&hellip;",
-      "tags": [
-        "software engineering"
-      ],
-      "verdict": "review",
-      "fit": 30,
-      "reasons": [
-        "Europe-tagged — verify it's open to Africa first",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -2245,22 +2249,6 @@
       "fit": 0,
       "reasons": [
         "Director-level — usually 5–10+ yrs, you have ~4"
-      ]
-    },
-    {
-      "title": "Principal Platform Engineer",
-      "company": "CentralReach",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/154365-principal-platform-engineer",
-      "source": "Jobicy",
-      "description": "CentralReach is a leading provider of autism and IDD care software for Applied Behavior Analysis (ABA), multidisciplinary therapy, and special education. Trusted by more than 200,000 users, we enable therapy providers, educators, and employers to scale the way they deliver ABA and related therapies with innovative technology, market-leading industry expertise, and world-class customer satisfaction. CentralReach’s&hellip;",
-      "tags": [
-        "devops & infrastructure"
-      ],
-      "verdict": "blocked",
-      "fit": 0,
-      "reasons": [
-        "Principal-level — usually 5–10+ yrs, you have ~4"
       ]
     }
   ]
