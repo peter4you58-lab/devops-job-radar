@@ -1,11 +1,11 @@
 {
-  "generated": "2026-10-09 12:13 UTC",
-  "count": 95,
+  "generated": "2026-10-10 11:31 UTC",
+  "count": 98,
   "summary": {
-    "scanned": 95,
-    "eligible": 30,
-    "review": 51,
-    "blocked": 14
+    "scanned": 98,
+    "eligible": 34,
+    "review": 47,
+    "blocked": 17
   },
   "jobs": [
     {
@@ -28,7 +28,7 @@
       "location": "Worldwide",
       "url": "https://remoteOK.com/remote-jobs/remote-golang-kubernetes-engineer-arango-1137400",
       "source": "RemoteOK",
-      "description": "Remote - Arango delivers a unified, natively multimodel contextual data platform that powers AI agents, assistants, and applications with the unified, current, and trusted business context needed to reason, decide, and act at scale.The Arango Contextual Data Platform connects... Please mention the word **FESTIVE** and tag RMjAuODQuMTU4Ljk3 when applying to show you read the job post completely (#RMjAuODQuMTU4Ljk3). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Arango delivers a unified, natively multimodel contextual data platform that powers AI agents, assistants, and applications with the unified, current, and trusted business context needed to reason, decide, and act at scale.The Arango Contextual Data Platform connects... Please mention the word **FESTIVE** and tag RNDAuNzQuMjA0LjI0MQ== when applying to show you read the job post completely (#RNDAuNzQuMjA0LjI0MQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "tags": [
         "golang",
         "golang",
@@ -248,6 +248,25 @@
       ]
     },
     {
+      "title": "Inside Sales Contractor",
+      "company": "Credit Wellness, LLC",
+      "location": "Worldwide",
+      "url": "https://remotive.com/remote-jobs/sales/inside-sales-contractor-2086540",
+      "source": "Remotive",
+      "description": "About Us We are a financial services start up focusing on helping to improve consumer credit profiles. We are currently seeking KPI driven sales representatives looking to earn up to 45K in their first year while working remotely. We offer comprehensive training and continuous sales coaching to help you meet your financial goals. During our training period we offer a guaranteed training stipend while our trainees are acclimating to the position (*see weekly pay below). If you are a seasoned sales professional looking for the autonomy of a remote position combined with great compensation, we wa",
+      "tags": [
+        "crm",
+        "google sheets",
+        "financial services",
+        "inside sales"
+      ],
+      "verdict": "eligible",
+      "fit": 50,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
+    {
       "title": "Tier III Service Desk Engineer",
       "company": "Unio Digital",
       "location": "Worldwide",
@@ -355,7 +374,7 @@
       "location": "Worldwide",
       "url": "https://remoteOK.com/remote-jobs/remote-platform-and-integration-engineer-security-telemetry-redmimicry-1137465",
       "source": "RemoteOK",
-      "description": "Remote - Location: Mostly remote (within Germany), with monthly in-person collaboration at our Berlin officeHours: Part-time, 32 hours per weekContract: Fixed-termSalary: EUR 53,000 â 59,000 (at 32 hours per week)We are building a new capability that turns fragmented,... Please mention the word **THRIFTY** and tag RMjAuODQuMTU4Ljk3 when applying to show you read the job post completely (#RMjAuODQuMTU4Ljk3). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Location: Mostly remote (within Germany), with monthly in-person collaboration at our Berlin officeHours: Part-time, 32 hours per weekContract: Fixed-termSalary: EUR 53,000 â 59,000 (at 32 hours per week)We are building a new capability that turns fragmented,... Please mention the word **THRIFTY** and tag RNDAuNzQuMjA0LjI0MQ== when applying to show you read the job post completely (#RNDAuNzQuMjA0LjI0MQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "tags": [
         "golang",
         "infosec",
@@ -395,6 +414,34 @@
         "recruiter",
         "digital nomad"
       ],
+      "verdict": "eligible",
+      "fit": 50,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
+    {
+      "title": "Cyber Defense Engineer",
+      "company": "BeyondTrust",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/beyondtrust-cyber-defense-engineer",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Remote Manchester, UK BeyondTrust is a place where you can bring your purpose to life through the work that you do, creating a safer world through our cybersecurity SaaS portfolio. Our culture of flexibility, trust, and continual learning means you will be recognized for your growth, and for the impact you make on our success. You will be surrounded by people who challenge, support, and inspire you to be the best version of yourself. The Role BeyondTrust is a global leader in privileged access management. Our products provide remote access and privileged control capabilities that",
+      "tags": [],
+      "verdict": "eligible",
+      "fit": 50,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
+    {
+      "title": "Customer Retention Executive",
+      "company": "BeyondTrust",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/beyondtrust-customer-retention-executive",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Remote United States | East Coast BeyondTrust is a place where you can bring your purpose to life through the work that you do, creating a safer world through our cybersecurity SaaS portfolio. Our culture of flexibility, trust, and continual learning means you will be recognized for your growth and for the impact you make on our success. You will be surrounded by people who challenge, support, and inspire you to be the best version of yourself. Please note: This is a remote role in the US but candidates must be located on the east coast in order to be considered. The Role The Cus",
+      "tags": [],
       "verdict": "eligible",
       "fit": 50,
       "reasons": [
@@ -461,6 +508,23 @@
       "fit": 50,
       "reasons": [
         "remote — anywhere / global"
+      ]
+    },
+    {
+      "title": "Partner Solutions Architect (Pan-EMEA GSI)",
+      "company": "Datadog",
+      "location": "Germany, Italy, Netherlands, Spain, Sweden, UK",
+      "url": "https://jobicy.com/jobs/152955-partner-solutions-architect-pan-emea-gsi",
+      "source": "Jobicy",
+      "description": "We are Datadog's in-house product experts. The technical solutions team enables Datadog's worldwide growth by educating potential clients and ensuring that existing customers are happy and successful. The Partner Solution Architect (PSA) is a Datadog expert who will work closely with Datadog’s Director of Partner Solutions Architects, and is aligned to our Channels &amp; Alliances&hellip;",
+      "tags": [
+        "technical support"
+      ],
+      "verdict": "eligible",
+      "fit": 48,
+      "reasons": [
+        "remote — anywhere / global",
+        "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
     {
@@ -617,22 +681,6 @@
       ]
     },
     {
-      "title": "GitOps Engineering Manager",
-      "company": "Canonical",
-      "location": "APAC, EMEA",
-      "url": "https://jobicy.com/jobs/149939-gitops-engineering-manager",
-      "source": "Jobicy",
-      "description": "Canonical is a leading provider of open-source software and operating systems for global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in many&hellip;",
-      "tags": [
-        "devops & infrastructure"
-      ],
-      "verdict": "review",
-      "fit": 68,
-      "reasons": [
-        "EMEA-tagged — verify it's open to Africa first"
-      ]
-    },
-    {
       "title": "Engineering Manager, Core DevOps",
       "company": "GitLab",
       "location": "Canada, USA",
@@ -646,22 +694,6 @@
       "fit": 64,
       "reasons": [
         "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Site Reliability Engineering Manager",
-      "company": "Canonical",
-      "location": "APAC, EMEA",
-      "url": "https://jobicy.com/jobs/149986-site-reliability-engineering-manager",
-      "source": "Jobicy",
-      "description": "Canonical is a leading provider of open-source software and operating systems for global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in many&hellip;",
-      "tags": [
-        "devops & infrastructure"
-      ],
-      "verdict": "review",
-      "fit": 64,
-      "reasons": [
-        "EMEA-tagged — verify it's open to Africa first"
       ]
     },
     {
@@ -690,23 +722,6 @@
       "fit": 60,
       "reasons": [
         "location unconfirmed — verify it's open to Africa"
-      ]
-    },
-    {
-      "title": "Information Systems - Open Source Technical Architect",
-      "company": "Canonical",
-      "location": "EMEA",
-      "url": "https://jobicy.com/jobs/149979-information-systems-open-source-technical-architect",
-      "source": "Jobicy",
-      "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders&hellip;",
-      "tags": [
-        "devops & infrastructure"
-      ],
-      "verdict": "review",
-      "fit": 58,
-      "reasons": [
-        "EMEA-tagged — verify it's open to Africa first",
-        "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
     {
@@ -760,31 +775,6 @@
       "fit": 52,
       "reasons": [
         "EMEA-tagged — verify it's open to Africa first"
-      ]
-    },
-    {
-      "title": "Platform Tester (Back-end Systems) - Canada",
-      "company": "Intelerad",
-      "location": "Canada",
-      "url": "https://himalayas.app/companies/intelerad/jobs/platform-tester-back-end-systems-canada",
-      "source": "Himalayas",
-      "description": "As a Platform Tester, you'll safeguard the quality of the core platform behind Intelerad 's medical imaging solutions: the services, APIs, integrations, and infrastructure that healthcare providers rely on every day. Building on a strong testing foundation, you'll own test strategy for platform components, expand automated coverage across back-end and integration layers, and partner with Engineering, DevOps, and Product teams. Together you'll make sure every release is stable, scalable, and ready for clinical environments. Key Responsibilities Platform Test Strategy: Own test planning and exec",
-      "tags": [
-        "tester",
-        "qa-tester",
-        "software-test-engineer",
-        "automation-testing",
-        "backend-testing",
-        "platform-test-engineer",
-        "platform-testing-specialist",
-        "senior-qa-engineer-platform-engineering",
-        "platform-quality-engineer",
-        "backend-qa-engineer"
-      ],
-      "verdict": "review",
-      "fit": 52,
-      "reasons": [
-        "Canada-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -912,32 +902,46 @@
       ]
     },
     {
-      "title": "Cloud Architect",
-      "company": "Ergomed",
-      "location": "Spain",
-      "url": "https://himalayas.app/companies/ergomedplc/jobs/cloud-architect",
-      "source": "Himalayas",
-      "description": "We're looking for an experienced Cloud Architect to join our organization. In this role, you will be responsible for the architecture, governance, and cost-effective operation of Ergomed 's Cloud (Microsoft Azure) environment. This hands-on role leads the design of new and improvements to existing Azure projects, builds reusable deployment templates and standards, and provides architectural review across the tenant — collaborating with project teams on solution design and standards, with IT stakeholders on demonstrable compliance (e.g. SOC 2, ISO 27001, HIPAA), and with IT Operations on day-to",
+      "title": "Senior Engineer (Software), Enterprise",
+      "company": "NetBox Labs",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/152949-senior-engineer-software-enterprise",
+      "source": "Jobicy",
+      "description": "NetBox Labs seeks a Senior Software Engineer with strong DevOps experience to build and drive NetBox Enterprise, our on-premises product suite. You'll own installation, configuration, and lifecycle management for our customers, tackle complex technical challenges, proactively address deployment issues unique to on-prem environments, and collaborate closely with high-performing, cross-functional teams. In this role you will:&hellip;",
       "tags": [
-        "cloud-architect",
-        "azure-architect",
-        "solutions-architect",
-        "cloud-engineer",
-        "infrastructure-architect",
-        "cloud-platform-architect",
-        "cloud-application-architect",
-        "cloud-systems-architect",
-        "cloud-solution-architect",
-        "cloud-infrastructure-architect",
-        "cloud-technical-architect",
-        "cloud-solutions-architect",
-        "aws-cloud-architect",
-        "principal-cloud-architect"
+        "devops & infrastructure"
       ],
       "verdict": "review",
       "fit": 50,
       "reasons": [
-        "Spain-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Senior DevOps Engineer",
+      "company": "Dynamo AI",
+      "location": "India",
+      "url": "https://himalayas.app/companies/dynamo-ai/jobs/senior-devops-engineer",
+      "source": "Himalayas",
+      "description": "About Dynamo AI Dynamo AI helps enterprises deploy AI systems that are reliable, secure, and production-ready . Our market-leading technical controls span AI evaluations, guardrails, agentic risk management, and observability. Backed by world-class talent, we partner with innovative, highly-regulated global organizations — across financial services, government, and beyond — to deploy meaningful AI use cases at scale, securely and compliantly. About the Role We are looking for a Senior DevOps Engineer to help build, scale, and operate the infrastructure powering our AI platform. This is a hands",
+      "tags": [
+        "devops-engineer",
+        "site-reliability-engineer",
+        "platform-engineer",
+        "cloud-infrastructure-engineer",
+        "senior-devops",
+        "senior-devops-developer",
+        "senior-staff-devops-engineer",
+        "senior-techops-engineer",
+        "senior-devops-platform-engineer",
+        "senior-aws-devops-engineer",
+        "senior-devops-architect"
+      ],
+      "verdict": "review",
+      "fit": 50,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -955,22 +959,6 @@
       "fit": 48,
       "reasons": [
         "Germany-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Software Engineer - Cloud Images",
-      "company": "Canonical",
-      "location": "EMEA, LATAM, Canada, USA",
-      "url": "https://jobicy.com/jobs/149978-software-engineer-cloud-images",
-      "source": "Jobicy",
-      "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders&hellip;",
-      "tags": [
-        "software engineering"
-      ],
-      "verdict": "review",
-      "fit": 48,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -1147,6 +1135,40 @@
       "fit": 46,
       "reasons": [
         "Europe-tagged — verify it's open to Africa first",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Senior Software Engineer (.NET) (f/m/d)",
+      "company": "Apaleo",
+      "location": "Germany",
+      "url": "https://jobicy.com/jobs/152912-senior-software-engineer-net-f-m-d",
+      "source": "Jobicy",
+      "description": "Join Apaleo and Shape the Future of Hospitality Tech! Apaleo is the world’s most open, API-first property management platform powering the next generation of hospitality operations. Its modular, AI-powered infrastructure enables hoteliers to customise their tech stack, automate routine work, and deliver seamless, personalised guest experiences, powered by best-in-class apps and autonomous AI agents that&hellip;",
+      "tags": [
+        "software engineering"
+      ],
+      "verdict": "review",
+      "fit": 46,
+      "reasons": [
+        "Germany-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Senior DevOps Engineer",
+      "company": "Nextiva",
+      "location": "Mexico",
+      "url": "https://jobicy.com/jobs/152901-senior-devops-engineer-7",
+      "source": "Jobicy",
+      "description": "Redefine the future of customer experiences. One conversation at a time. At Nextiva, we’re reimagining how businesses connect, bringing together customer experience and team collaboration on a single, conversation centric platform. Powered by AI, driven by human innovation. Our culture is forward thinking, customer obsessed and built on the belief that meaningful connections drive better&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
+      "verdict": "review",
+      "fit": 46,
+      "reasons": [
+        "Mexico-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -1702,22 +1724,6 @@
       ]
     },
     {
-      "title": "Engineering - Internal AI Transformation",
-      "company": "Elevenlabs",
-      "location": "Bulgaria, Canada, Germany, Ireland, Italy, Netherlands, Poland, Portugal, Sweden, UK, USA",
-      "url": "https://jobicy.com/jobs/154817-engineering-internal-ai-transformation",
-      "source": "Jobicy",
-      "description": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deutsche Telekom and Meta. Our investors are some of&hellip;",
-      "tags": [
-        "software engineering"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
       "title": "Data Scientist, AI/ML",
       "company": "Gremlin",
       "location": "USA",
@@ -1779,28 +1785,6 @@
       "fit": 36,
       "reasons": [
         "Latam-tagged — verify it's open to Africa first"
-      ]
-    },
-    {
-      "title": "Mainframe Systems Programmer - DB2 Physical",
-      "company": "Ensono",
-      "location": "United States",
-      "url": "https://himalayas.app/companies/ensono/jobs/mainframe-systems-programmer-db2-physical",
-      "source": "Himalayas",
-      "description": "At Ensono , our Purpose is to be a relentless ally, disrupting the status quo and unleashing our clients to Do Great Things! We enable our clients to achieve key business outcomes that reshape how our world runs. As an expert technology adviser and managed service provider with cross-platform certifications, Ensono empowers our clients to keep up with continuous change and embrace innovation. We can Do Great Things because we have great Associates. The Ensono Core Values unify our diverse talents and are woven into how we do business. These five traits are the key to achieving our purpose. HON",
-      "tags": [
-        "db2-database-administration",
-        "mainframe-systems-programmer",
-        "mainframe-database-administrator",
-        "systems-programmer",
-        "database-administrator",
-        "db2-systems-programmer",
-        "senior-mainframe-systems-programmer"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "United states-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -2201,6 +2185,54 @@
       "fit": 0,
       "reasons": [
         "Principal-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
+      "title": "Principal Partner Manager - Channels (GSI)",
+      "company": "Datadog",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/152957-principal-partner-manager-channels-gsi",
+      "source": "Jobicy",
+      "description": "We are looking for an experienced Partner Sales Manager to ignite partnerships by identifying and recruiting new partners for long-term success and nurture ongoing relationships with key strategic Global Systems Integrator partners. Our ultimate goal is building channels and alliances that drive new customer adoption and revenue. This is a great opportunity for you to&hellip;",
+      "tags": [
+        "business development"
+      ],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Principal-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
+      "title": "Staff DevOps Engineer",
+      "company": "Nextiva",
+      "location": "Mexico",
+      "url": "https://jobicy.com/jobs/152908-staff-devops-engineer-2",
+      "source": "Jobicy",
+      "description": "Redefine the future of customer experiences. One conversation at a time. At Nextiva, we’re reimagining how businesses connect, bringing together customer experience and team collaboration on a single, conversation centric platform. Powered by AI, driven by human innovation. Our culture is forward thinking, customer obsessed and built on the belief that meaningful connections drive better&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Staff-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
+      "title": "Staff Data Engineer",
+      "company": "Jobber",
+      "location": "Canada",
+      "url": "https://jobicy.com/jobs/154934-staff-data-engineer-2",
+      "source": "Jobicy",
+      "description": "Please note: Our Talent team at Jobber will be offline for Jobber Impact - our flagship event of the year, bringing Jobberinos together to connect, learn, and celebrate what we're building - starting October 6th and extending until October 9th. We’ll be back to go through applications and reach out with an update on your&hellip;",
+      "tags": [
+        "data science & analytics"
+      ],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Staff-level — usually 5–10+ yrs, you have ~4"
       ]
     },
     {
