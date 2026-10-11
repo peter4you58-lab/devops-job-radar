@@ -1,11 +1,11 @@
 {
-  "generated": "2026-10-10 11:31 UTC",
+  "generated": "2026-10-11 11:44 UTC",
   "count": 98,
   "summary": {
     "scanned": 98,
     "eligible": 34,
-    "review": 47,
-    "blocked": 17
+    "review": 46,
+    "blocked": 18
   },
   "jobs": [
     {
@@ -28,7 +28,7 @@
       "location": "Worldwide",
       "url": "https://remoteOK.com/remote-jobs/remote-golang-kubernetes-engineer-arango-1137400",
       "source": "RemoteOK",
-      "description": "Remote - Arango delivers a unified, natively multimodel contextual data platform that powers AI agents, assistants, and applications with the unified, current, and trusted business context needed to reason, decide, and act at scale.The Arango Contextual Data Platform connects... Please mention the word **FESTIVE** and tag RNDAuNzQuMjA0LjI0MQ== when applying to show you read the job post completely (#RNDAuNzQuMjA0LjI0MQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Arango delivers a unified, natively multimodel contextual data platform that powers AI agents, assistants, and applications with the unified, current, and trusted business context needed to reason, decide, and act at scale.The Arango Contextual Data Platform connects... Please mention the word **FESTIVE** and tag RNjQuMjM2LjE0Mi4yMjQ= when applying to show you read the job post completely (#RNjQuMjM2LjE0Mi4yMjQ=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "tags": [
         "golang",
         "golang",
@@ -369,12 +369,40 @@
       ]
     },
     {
+      "title": "Junior Sales Development Representative IT Industry",
+      "company": "Huzzle",
+      "location": "Worldwide",
+      "url": "https://remoteOK.com/remote-jobs/remote-junior-sales-development-representative-it-industry-huzzle-1137480",
+      "source": "RemoteOK",
+      "description": "About Huzzle At Huzzle, we connect exceptional talent with top opportunities at leading companies across the UK, US, Canada, Europe, and Australia. Our clients include fast-growing startups, digital agencies, SaaS companies, and tech-enabled businesses across industries such as MarTech, FinTech, EdTech, and eCommerce. Unlike traditional outsourcing agencies, we place you directly with innovative companies where you become a valued member of the team. Role Type: Full-time Engagement: Full-time (Offshore, EST Business Hours) Job Summary Join a cutting-edge AI company that is redefining the futur",
+      "tags": [
+        "saas",
+        "technical",
+        "marketing",
+        "finance",
+        "c",
+        "cloud",
+        "microsoft",
+        "senior",
+        "junior",
+        "ops",
+        "sales",
+        "ecommerce",
+        "full time"
+      ],
+      "verdict": "eligible",
+      "fit": 50,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
+    {
       "title": "Platform and Integration Engineer Security Telemetry",
       "company": "RedMimicry",
       "location": "Worldwide",
       "url": "https://remoteOK.com/remote-jobs/remote-platform-and-integration-engineer-security-telemetry-redmimicry-1137465",
       "source": "RemoteOK",
-      "description": "Remote - Location: Mostly remote (within Germany), with monthly in-person collaboration at our Berlin officeHours: Part-time, 32 hours per weekContract: Fixed-termSalary: EUR 53,000 â 59,000 (at 32 hours per week)We are building a new capability that turns fragmented,... Please mention the word **THRIFTY** and tag RNDAuNzQuMjA0LjI0MQ== when applying to show you read the job post completely (#RNDAuNzQuMjA0LjI0MQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Location: Mostly remote (within Germany), with monthly in-person collaboration at our Berlin officeHours: Part-time, 32 hours per weekContract: Fixed-termSalary: EUR 53,000 â 59,000 (at 32 hours per week)We are building a new capability that turns fragmented,... Please mention the word **THRIFTY** and tag RNjQuMjM2LjE0Mi4yMjQ= when applying to show you read the job post completely (#RNjQuMjM2LjE0Mi4yMjQ=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "tags": [
         "golang",
         "infosec",
@@ -479,38 +507,6 @@
       ]
     },
     {
-      "title": "Account Executive 3",
-      "company": "Twilio",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/154440-account-executive-3-2",
-      "source": "Jobicy",
-      "description": "Who we are At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to hundreds of thousands of businesses and empower millions of developers worldwide to craft personalized customer experiences. Our dedication to remote-first work, and strong culture of connection and global inclusion means that no&hellip;",
-      "tags": [
-        "sales"
-      ],
-      "verdict": "eligible",
-      "fit": 50,
-      "reasons": [
-        "remote — anywhere / global"
-      ]
-    },
-    {
-      "title": "Engineering Manager, EMEA (Platform)",
-      "company": "Testlio",
-      "location": "EMEA",
-      "url": "https://jobicy.com/jobs/154448-engineering-manager-emea-platform",
-      "source": "Jobicy",
-      "description": "Location: This is a 100% remote role and is open to candidates residing in the United Kingdom, Spain, Portugal, Poland, the Czech Republic, Romania, and Estonia. Visa sponsorship is not available. About the job Testlio's fully managed crowdsourced testing platform integrates expert, on-demand testers directly into your release process. Ship faster and more confidently with&hellip;",
-      "tags": [
-        "software engineering"
-      ],
-      "verdict": "eligible",
-      "fit": 50,
-      "reasons": [
-        "remote — anywhere / global"
-      ]
-    },
-    {
       "title": "Partner Solutions Architect (Pan-EMEA GSI)",
       "company": "Datadog",
       "location": "Germany, Italy, Netherlands, Spain, Sweden, UK",
@@ -572,6 +568,41 @@
         "web sockets",
         "performance optimization",
         "mobile development"
+      ],
+      "verdict": "eligible",
+      "fit": 44,
+      "reasons": [
+        "remote — anywhere / global",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Product Engineering Lead",
+      "company": "Tether Operations Limited",
+      "location": "Worldwide",
+      "url": "https://remoteOK.com/remote-jobs/remote-product-engineering-lead-tether-operations-limited-1137478",
+      "source": "RemoteOK",
+      "description": "Join Tether and Shape the Future of Digital Finance At Tether, weâre not just building products, weâre pioneering a global financial revolution. Our cutting-edge solutions empower businessesâfrom exchanges and wallets to payment processors and ATMsâto seamlessly integrate reserve-backed tokens across blockchains. By harnessing the power of blockchain technology, Tether enables you to store, send, and receive digital tokens instantly, securely, and globally, all at a fraction of the cost. Transparency is the bedrock of everything we do, ensuring trust in every transaction. Innovate with",
+      "tags": [
+        "design",
+        "bitcoin",
+        "react",
+        "exec",
+        "technical",
+        "recruiter",
+        "marketing",
+        "dev",
+        "virtual assistant",
+        "javascript",
+        "finance",
+        "education",
+        "cloud",
+        "api",
+        "mobile",
+        "ops",
+        "sys admin",
+        "engineer",
+        "digital nomad"
       ],
       "verdict": "eligible",
       "fit": 44,
@@ -681,22 +712,6 @@
       ]
     },
     {
-      "title": "Engineering Manager, Core DevOps",
-      "company": "GitLab",
-      "location": "Canada, USA",
-      "url": "https://jobicy.com/jobs/154498-engineering-manager-core-devops",
-      "source": "Jobicy",
-      "description": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster. The same principles built into&hellip;",
-      "tags": [
-        "devops & infrastructure"
-      ],
-      "verdict": "review",
-      "fit": 64,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
       "title": "Java Developer",
       "company": "Clera",
       "location": "Los Angeles",
@@ -754,6 +769,38 @@
         "typescript",
         "debugging",
         "scripting"
+      ],
+      "verdict": "review",
+      "fit": 52,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "IT Engineer",
+      "company": "Elevenlabs",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/155006-it-engineer-2",
+      "source": "Jobicy",
+      "description": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deutsche Telekom and Meta. Our investors are some of&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
+      "verdict": "review",
+      "fit": 52,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "DevOps Engineer",
+      "company": "WalkMe",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/154974-devops-engineer-7",
+      "source": "Jobicy",
+      "description": "Industry leader? Well, how about an industry creator?! WalkMe, an SAP company, pioneered the world's leading Digital Adoption Platform, helping organizations navigate change across any application or system. Today it is the platform that drives AI adoption across the enterprise. Enterprise work stays fragmented across applications, and that fragmentation compounds as AI advances. Traditional training&hellip;",
+      "tags": [
+        "devops & infrastructure"
       ],
       "verdict": "review",
       "fit": 52,
@@ -919,30 +966,19 @@
       ]
     },
     {
-      "title": "Senior DevOps Engineer",
-      "company": "Dynamo AI",
-      "location": "India",
-      "url": "https://himalayas.app/companies/dynamo-ai/jobs/senior-devops-engineer",
-      "source": "Himalayas",
-      "description": "About Dynamo AI Dynamo AI helps enterprises deploy AI systems that are reliable, secure, and production-ready . Our market-leading technical controls span AI evaluations, guardrails, agentic risk management, and observability. Backed by world-class talent, we partner with innovative, highly-regulated global organizations — across financial services, government, and beyond — to deploy meaningful AI use cases at scale, securely and compliantly. About the Role We are looking for a Senior DevOps Engineer to help build, scale, and operate the infrastructure powering our AI platform. This is a hands",
+      "title": "Software Engineer - Python - Container Images",
+      "company": "Canonical",
+      "location": "APAC, EMEA, LATAM, Canada, USA",
+      "url": "https://jobicy.com/jobs/150364-software-engineer-python-container-images",
+      "source": "Jobicy",
+      "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders&hellip;",
       "tags": [
-        "devops-engineer",
-        "site-reliability-engineer",
-        "platform-engineer",
-        "cloud-infrastructure-engineer",
-        "senior-devops",
-        "senior-devops-developer",
-        "senior-staff-devops-engineer",
-        "senior-techops-engineer",
-        "senior-devops-platform-engineer",
-        "senior-aws-devops-engineer",
-        "senior-devops-architect"
+        "software engineering"
       ],
       "verdict": "review",
-      "fit": 50,
+      "fit": 48,
       "reasons": [
-        "location unconfirmed — verify it's open to Africa",
-        "senior title — a stretch at ~4 yrs, but go for it"
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -1275,40 +1311,6 @@
       ]
     },
     {
-      "title": "Senior Full Stack Engineer",
-      "company": "infisical",
-      "location": "Brazil, Canada, Europe, USA",
-      "url": "https://jobicy.com/jobs/154483-senior-full-stack-engineer-4",
-      "source": "Jobicy",
-      "description": "Infisical is the open source security infrastructure platform that engineers use for secrets management, certificates, and privileged access management. We help developers and organizations securely manage billions of secrets every month including application configuration, database credentials, certificates, and more. We’ve raised $19M from Y Combinator, Google, and Elad Gil, and our customers include Hugging Face,&hellip;",
-      "tags": [
-        "software engineering"
-      ],
-      "verdict": "review",
-      "fit": 46,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Senior Customer Success Architect - Singapore",
-      "company": "GitLab",
-      "location": "Singapore",
-      "url": "https://jobicy.com/jobs/150102-senior-customer-success-architect-singapore",
-      "source": "Jobicy",
-      "description": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster. The same principles built into&hellip;",
-      "tags": [
-        "customer support & success"
-      ],
-      "verdict": "review",
-      "fit": 42,
-      "reasons": [
-        "Singapore-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
       "title": "Frontend Web Application Developer",
       "company": "KoboToolbox",
       "location": "USA, Canada, Argentina, Mexico, Peru",
@@ -1338,22 +1340,6 @@
       "fit": 40,
       "reasons": [
         "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "AI/ML Engineering Manager",
-      "company": "Caylent",
-      "location": "Argentina",
-      "url": "https://jobicy.com/jobs/152435-ai-ml-engineering-manager",
-      "source": "Jobicy",
-      "description": "Caylent is an AI-first cloud services company that helps organizations turn ambitious ideas into meaningful business impact. As an AWS Premier Tier Services Partner and a charter member of Anthropic’s Claude Partner Network, we combine deep expertise in AWS, artificial intelligence, and Anthropic’s Claude platform to help customers modernize their technology, build intelligent products, and&hellip;",
-      "tags": [
-        "data science & analytics"
-      ],
-      "verdict": "review",
-      "fit": 40,
-      "reasons": [
-        "Argentina-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -1619,60 +1605,51 @@
       ]
     },
     {
-      "title": "BMS Service Technician",
-      "company": "Johnson Controls",
-      "location": "Warana,",
-      "url": "https://remoteOK.com/remote-jobs/remote-bms-service-technician-johnson-controls-1135997",
-      "source": "RemoteOK",
-      "description": "Job Description Johnson Controls , a global leader in thermal management, mission-critical building systems, energy efficiency, and decarbonization, helps customers use energy more productively, reduce carbon emissions, and operate with the precision and resilience required in rapidly expanding industries such as data centers, healthcare, pharmaceuticals, advanced manufacturing, and higher education. For more than 140 years, Johnson Controls has delivered performance where it really matters. Backed by advanced technology, lifecycle services and an industry-leading field organization, we elevat",
+      "title": "Customer Experience Engineer I/II",
+      "company": "Harness",
+      "location": "Canada, USA",
+      "url": "https://jobicy.com/jobs/154968-customer-experience-engineer-i-ii",
+      "source": "Jobicy",
+      "description": "Harness is the AI Software Delivery Platform company, led by technologist and entrepreneur Jyoti Bansal (founder of AppDynamics, acquired by Cisco for $3.7B). Harness has raised approximately $570M in funding and is valued at $5.5B, backed by leading investors including Goldman Sachs, Menlo Ventures, IVP, Unusual Ventures, Citi Ventures, and more. As AI accelerates code&hellip;",
       "tags": [
-        "design",
-        "technical",
-        "customer support",
-        "dev",
-        "microsoft",
-        "senior",
-        "ops",
-        "engineer",
-        "digital nomad",
-        "sys admin",
-        "education",
-        "testing",
-        "exec",
-        "excel",
-        "payroll",
-        "medical",
-        "video",
-        "marketing",
-        "travel",
-        "finance",
-        "mobile",
-        "hr",
-        "recruiter",
-        "supervisor",
-        "consulting",
-        "assembly",
-        "saas",
-        "golang",
-        "coordinator",
-        "product manager",
-        "bus dev",
-        "sales",
-        "amazon",
-        "salesforce",
-        "infosec",
-        "embedded",
-        "java",
-        "c",
-        "c plus plus",
-        "cloud",
-        "linux",
-        "speech"
+        "technical support"
       ],
       "verdict": "review",
       "fit": 36,
       "reasons": [
-        "location unconfirmed — verify it's open to Africa"
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "Content Engineer, Developer Relations",
+      "company": "Harness",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/154965-content-engineer-developer-relations",
+      "source": "Jobicy",
+      "description": "Harness is the AI Software Delivery Platform company, led by technologist and entrepreneur Jyoti Bansal (founder of AppDynamics, acquired by Cisco for $3.7B). Harness has raised approximately $570M in funding and is valued at $5.5B, backed by leading investors including Goldman Sachs, Menlo Ventures, IVP, Unusual Ventures, Citi Ventures, and more. As AI accelerates code&hellip;",
+      "tags": [
+        "content & editorial"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "AppSec Sales Engineer",
+      "company": "Harness",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/154961-appsec-sales-engineer",
+      "source": "Jobicy",
+      "description": "Harness is the AI Software Delivery Platform company, led by technologist and entrepreneur Jyoti Bansal (founder of AppDynamics, acquired by Cisco for $3.7B). Harness has raised approximately $570M in funding and is valued at $5.5B, backed by leading investors including Goldman Sachs, Menlo Ventures, IVP, Unusual Ventures, Citi Ventures, and more. As AI accelerates code&hellip;",
+      "tags": [
+        "sales"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -1769,22 +1746,6 @@
       "fit": 36,
       "reasons": [
         "Canada-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Product Engineer, Internal Tools - LATAM",
-      "company": "Luxury Presence",
-      "location": "LATAM",
-      "url": "https://jobicy.com/jobs/152452-product-engineer-internal-tools-latam",
-      "source": "Jobicy",
-      "description": "Luxury Presence is building the AI growth platform for real estate. Backed by Bessemer Venture Partners and other top investors, we're a Series C company that has hit $100M in annual recurring revenue. More than 90,000 real estate professionals, including over 30% of the WSJ Real Trends top 100 agents in the United States, use&hellip;",
-      "tags": [
-        "software engineering"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Latam-tagged — verify it's open to Africa first"
       ]
     },
     {
@@ -2188,6 +2149,38 @@
       ]
     },
     {
+      "title": "Director of IT & Automation - Appen",
+      "company": "Appen",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/155007-director-of-it-automation-appen",
+      "source": "Jobicy",
+      "description": "About the Role Appen is looking for a Director of IT &amp; Automation to lead our IT function and help shape how a modern, AI-native company operates. This is a senior leadership role combining technical depth, operational judgement and people leadership. You will work closely with the CPTO and senior leaders across the business to&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Director-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
+      "title": "SecOps Security Engineer (Staff-level, L6)",
+      "company": "Synthesia",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/152968-secops-security-engineer-staff-level-l6",
+      "source": "Jobicy",
+      "description": "Synthesia is the world’s leading AI video platform for business, used by over 90% of the Fortune 100. Founded in 2017, the company is headquartered in London, with offices and teams across Europe and the US. As AI continues to shape the way we live and work, Synthesia develops products to enhance visual communication and&hellip;",
+      "tags": [
+        "cybersecurity"
+      ],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Staff-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
       "title": "Principal Partner Manager - Channels (GSI)",
       "company": "Datadog",
       "location": "USA",
@@ -2265,22 +2258,6 @@
       "fit": 0,
       "reasons": [
         "Staff-level — usually 5–10+ yrs, you have ~4"
-      ]
-    },
-    {
-      "title": "Director of Engineering, Cloud & Reliability",
-      "company": "Boulevard",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/152496-director-of-engineering-cloud-reliability-2",
-      "source": "Jobicy",
-      "description": "Who is Boulevard? Boulevard provides the first and only client experience platform for appointment-based, self-care businesses. We empower our customers to give their clients more of the magical moments that matter most. Before launching in 2016, our founders spent months interviewing salon managers and working behind front desks to understand their pain points so we&hellip;",
-      "tags": [
-        "devops & infrastructure"
-      ],
-      "verdict": "blocked",
-      "fit": 0,
-      "reasons": [
-        "Director-level — usually 5–10+ yrs, you have ~4"
       ]
     }
   ]
