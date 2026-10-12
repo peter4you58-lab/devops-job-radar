@@ -1,11 +1,11 @@
 {
-  "generated": "2026-10-11 11:44 UTC",
+  "generated": "2026-10-12 13:46 UTC",
   "count": 98,
   "summary": {
     "scanned": 98,
-    "eligible": 34,
-    "review": 46,
-    "blocked": 18
+    "eligible": 37,
+    "review": 42,
+    "blocked": 19
   },
   "jobs": [
     {
@@ -28,7 +28,7 @@
       "location": "Worldwide",
       "url": "https://remoteOK.com/remote-jobs/remote-golang-kubernetes-engineer-arango-1137400",
       "source": "RemoteOK",
-      "description": "Remote - Arango delivers a unified, natively multimodel contextual data platform that powers AI agents, assistants, and applications with the unified, current, and trusted business context needed to reason, decide, and act at scale.The Arango Contextual Data Platform connects... Please mention the word **FESTIVE** and tag RNjQuMjM2LjE0Mi4yMjQ= when applying to show you read the job post completely (#RNjQuMjM2LjE0Mi4yMjQ=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Arango delivers a unified, natively multimodel contextual data platform that powers AI agents, assistants, and applications with the unified, current, and trusted business context needed to reason, decide, and act at scale.The Arango Contextual Data Platform connects... Please mention the word **FESTIVE** and tag RMTcyLjE4Mi4yMjQuMTky when applying to show you read the job post completely (#RMTcyLjE4Mi4yMjQuMTky). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "tags": [
         "golang",
         "golang",
@@ -220,6 +220,20 @@
       ]
     },
     {
+      "title": "Enterprise Security Sales Specialist",
+      "company": "Datadog",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/datadog-enterprise-security-sales-specialist",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: District of Columbia, USA, Remote; North Carolina, USA, Remote As a Security Sales Specialist, you'll partner with Enterprise Account Executives to drive adoption of Datadog’s Security platform across key accounts. This is a high-impact role focused on positioning our Security solutions (Cloud SIEM, Cloud Workload Security, CSPM, and more) into new and existing customers—expanding our footprint and helping customers modernize their security stack in the cloud. At Datadog, we place value in our office culture - the relationships and collaboration it builds and the creativity it br",
+      "tags": [],
+      "verdict": "eligible",
+      "fit": 54,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
+    {
       "title": "Enterprise Sales Engineer - FED",
       "company": "Datadog",
       "location": "Anywhere in the World",
@@ -335,40 +349,6 @@
       ]
     },
     {
-      "title": "Remote Office Assistant",
-      "company": "Coalition Technologies",
-      "location": "Worldwide",
-      "url": "https://remotive.com/remote-jobs/marketing/remote-office-assistant-1680495",
-      "source": "Remotive",
-      "description": "Coalition Technologies is seeking a reliable, detail-oriented, and highly organized Remote Office Assistant to support administrative, bookkeeping, billing, reporting, data entry, and internal operations tasks. This role is ideal for someone with strong communication skills, discretion, attention to detail, and a willingness to learn and grow within a fast-paced remote work environment. As an Office Assistant, you will help support daily administrative operations, assist with entry-level bookkeeping, organize client documents, support internal reporting, and help maintain accurate company reco",
-      "tags": [
-        "css",
-        "excel",
-        "frontend",
-        "git",
-        "html",
-        "illustrator",
-        "magento",
-        "photoshop",
-        "php",
-        "shopify",
-        "wordpress",
-        "mysql",
-        "startup",
-        "responsive",
-        "themes",
-        "bootstrap",
-        "insurance",
-        "jquery",
-        "ajax"
-      ],
-      "verdict": "eligible",
-      "fit": 50,
-      "reasons": [
-        "remote — anywhere / global"
-      ]
-    },
-    {
       "title": "Junior Sales Development Representative IT Industry",
       "company": "Huzzle",
       "location": "Worldwide",
@@ -402,7 +382,7 @@
       "location": "Worldwide",
       "url": "https://remoteOK.com/remote-jobs/remote-platform-and-integration-engineer-security-telemetry-redmimicry-1137465",
       "source": "RemoteOK",
-      "description": "Remote - Location: Mostly remote (within Germany), with monthly in-person collaboration at our Berlin officeHours: Part-time, 32 hours per weekContract: Fixed-termSalary: EUR 53,000 â 59,000 (at 32 hours per week)We are building a new capability that turns fragmented,... Please mention the word **THRIFTY** and tag RNjQuMjM2LjE0Mi4yMjQ= when applying to show you read the job post completely (#RNjQuMjM2LjE0Mi4yMjQ=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Location: Mostly remote (within Germany), with monthly in-person collaboration at our Berlin officeHours: Part-time, 32 hours per weekContract: Fixed-termSalary: EUR 53,000 â 59,000 (at 32 hours per week)We are building a new capability that turns fragmented,... Please mention the word **THRIFTY** and tag RMTcyLjE4Mi4yMjQuMTky when applying to show you read the job post completely (#RMTcyLjE4Mi4yMjQuMTky). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "tags": [
         "golang",
         "infosec",
@@ -442,6 +422,34 @@
         "recruiter",
         "digital nomad"
       ],
+      "verdict": "eligible",
+      "fit": 50,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
+    {
+      "title": "Associate Talent Acquisition Partner, Tech",
+      "company": "Keeper Security",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/keeper-security-associate-talent-acquisition-partner-tech",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Remote, US Description Keeper is hiring a motivated Associate Talent Acquisition Partner to support the full cycle recruiting process. This is a 100% remote position from select locations with an opportunity to work a hybrid schedule for candidates based in the Chicago, IL metro area.&nbsp; Keeper’s cybersecurity software is trusted by millions of people and thousands of organizations globally. Keeper is published in 23 languages and is sold in over 150 countries. Join one of the fastest-growing cybersecurity companies and be responsible for a variety of recruiting support activi",
+      "tags": [],
+      "verdict": "eligible",
+      "fit": 50,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
+    {
+      "title": "Analyst Relations Manager",
+      "company": "Keeper Security",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/keeper-security-analyst-relations-manager",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Remote, US Keeper Security is hiring an Analyst Relations Manager to join our Global Communications team. This individual will own and execute the day-to-day analyst relations program at Keeper by managing evaluations, timelines, coordination and internal workflows to ensure effective analyst engagement. This is a 100% remote position from select locations, with an opportunity to work a hybrid schedule for candidates who live near our global headquarters in Chicago. Keeper’s cybersecurity software is trusted by millions of people and thousands of organizations, globally. Keeper i",
+      "tags": [],
       "verdict": "eligible",
       "fit": 50,
       "reasons": [
@@ -682,6 +690,21 @@
       ]
     },
     {
+      "title": "Senior Engineer (.NET)",
+      "company": "Current",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/current-senior-engineer-net",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Remote (US) At Current At Current, we partner with ambitious brands to create digital experiences that drive meaningful business results. By bringing together strategy, design, production, and technology, we help organizations solve complex challenges and build experiences that create lasting impact. We're looking for a Senior Engineer (.NET) to build scalable, high-quality digital experiences across websites, platforms, and applications. You'll collaborate closely with strategists, designers, producers, and fellow engineers to deliver thoughtful technical solutions while contrib",
+      "tags": [],
+      "verdict": "eligible",
+      "fit": 44,
+      "reasons": [
+        "remote — anywhere / global",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
       "title": "Senior Software Engineer, Application Security",
       "company": "Discord",
       "location": "Anywhere in the World",
@@ -777,6 +800,22 @@
       ]
     },
     {
+      "title": "Software Engineer (Platform - SRE)",
+      "company": "Paddle",
+      "location": "Ireland, Portugal, UK",
+      "url": "https://jobicy.com/jobs/155096-software-engineer-platform-sre",
+      "source": "Jobicy",
+      "description": "What do we do? Paddle offers digital product companies a completely different approach to their payment infrastructure. Instead of assembling and maintaining a complex stack of payments-related apps and services, we’re a Merchant of Record for our customers. That means we take away 100% of the pain of payment fragmentation. It’s faster, safer, cheaper, and,&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
+      "verdict": "review",
+      "fit": 52,
+      "reasons": [
+        "Uk-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
       "title": "IT Engineer",
       "company": "Elevenlabs",
       "location": "USA",
@@ -806,22 +845,6 @@
       "fit": 52,
       "reasons": [
         "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Engineering Manager - Python and K8s",
-      "company": "Canonical",
-      "location": "APAC, EMEA",
-      "url": "https://jobicy.com/jobs/150121-engineering-manager-python-and-k8s",
-      "source": "Jobicy",
-      "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders&hellip;",
-      "tags": [
-        "product & operations"
-      ],
-      "verdict": "review",
-      "fit": 52,
-      "reasons": [
-        "EMEA-tagged — verify it's open to Africa first"
       ]
     },
     {
@@ -1260,86 +1283,27 @@
       ]
     },
     {
-      "title": "Senior Software Engineer, Internal Tooling",
-      "company": "RevenueCat",
-      "location": "APAC, EMEA, USA",
-      "url": "https://jobicy.com/jobs/154567-senior-software-engineer-internal-tooling",
-      "source": "Jobicy",
-      "description": "RevenueCat gives app businesses the infrastructure and tools to build, run, and improve their monetization. Since graduating from YC's S18 batch, we've grown into the default monetization platform for mobile. We're in 50%+ of newly shipped subscription apps, we process $16B+ in annual purchase volume, and we help everyone from a solo developer to the&hellip;",
+      "title": "Senior Cloud Security Engineer - AI Resilience & Security Enhancements (Fixed-te",
+      "company": "Form3",
+      "location": "United Kingdom",
+      "url": "https://himalayas.app/companies/form3/jobs/senior-cloud-security-engineer-ai-resilience-security-enhancements-fixed-te",
+      "source": "Himalayas",
+      "description": "THE PROJECT 📝 We're looking for an experienced Senior Cloud Security Engineer to join Form3 on a 12 month fixed term contract basis to deliver a strategic programme of security enhancements across our cloud-native payments platform. Focusing on improving cloud security, operational resilience and governance across our engineering ecosystem, you will work closely with our Platform Engineering and Security teams to design and implement practical security improvements that enhance how we build, deploy and operate critical payment infrastructure. You'll play a key role in strengthening areas such ",
       "tags": [
-        "devops & infrastructure"
+        "cloud-security-engineer",
+        "security-engineer",
+        "cybersecurity-engineer",
+        "devsecops-engineer",
+        "platform-security-engineer",
+        "senior-cloud-infrastructure-security-engineer",
+        "senior-cloud-security-software-engineer",
+        "senior-cloud-security-architect"
       ],
       "verdict": "review",
       "fit": 46,
       "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "United kingdom-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
         "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Senior DevOps Engineer, Observability",
-      "company": "NetBox Labs",
-      "location": "LATAM, UK, USA",
-      "url": "https://jobicy.com/jobs/154542-senior-devops-engineer-observability",
-      "source": "Jobicy",
-      "description": "NetBox Labs is seeking a Senior Devops Engineer to join our rapidly expanding engineering team. We have multiple positions at different seniority levels open across several teams. A Senior DevOps Engineer at NetBox Labs is an infrastructure-minded engineer who treats operations like software - automating, instrumenting, and operating our systems with code. They focus on&hellip;",
-      "tags": [
-        "devops & infrastructure"
-      ],
-      "verdict": "review",
-      "fit": 46,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Senior Site Reliability Engineer I",
-      "company": "Braze",
-      "location": "Canada",
-      "url": "https://jobicy.com/jobs/152549-senior-site-reliability-engineer-i",
-      "source": "Jobicy",
-      "description": "At Braze, we have found our people. We’re a genuinely approachable, exceptionally kind, and intensely passionate crew. We seek to ignite that passion by setting high standards, championing teamwork, and creating work-life harmony as we collectively navigate rapid growth on a global scale while striving for greater equity and opportunity – inside and outside our&hellip;",
-      "tags": [
-        "devops & infrastructure"
-      ],
-      "verdict": "review",
-      "fit": 46,
-      "reasons": [
-        "Canada-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Frontend Web Application Developer",
-      "company": "KoboToolbox",
-      "location": "USA, Canada, Argentina, Mexico, Peru",
-      "url": "https://remotive.com/remote-jobs/design/frontend-web-application-developer-2091141",
-      "source": "Remotive",
-      "description": "Location: Remote Availability: 35-40 hours per week Working hours: US East business hours Reporting to: Lead developer KoboToolbox has an immediate opening for a Frontend Web Application Developer to fill a full-time position of approximately 35-40 hours per week, for a commitment of at least 1 year. As a member of our team, you will share in the challenge and excitement of writing code used by over 32,000 organizations around the world. These organizations create data-driven change through the collection and analysis of more than 20 million surveys per month. Only candidates who already have ",
-      "tags": [
-        "api",
-        "django",
-        "docker",
-        "frontend",
-        "git",
-        "python",
-        "react",
-        "security",
-        "video",
-        "ai/ml",
-        "documentation",
-        "typescript",
-        "web applications",
-        "backbone",
-        "diversity",
-        "rest",
-        "insurance"
-      ],
-      "verdict": "review",
-      "fit": 40,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -1399,24 +1363,6 @@
       "fit": 36,
       "reasons": [
         "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "AI Response Evaluator",
-      "company": "iMerit Technology",
-      "location": "France, Japan, Turkey, Vietnam, Mexico, Norway",
-      "url": "https://remotive.com/remote-jobs/artificial-intelligence/ai-response-evaluator-2091126",
-      "source": "Remotive",
-      "description": "iMerit is looking for detail oriented analysts to evaluate and rank AI generated responses to image based prompts. You will judge answers on accuracy, relevance, clarity, conciseness, safety, localization, and how well they follow the user's instructions, then explain your reasoning in writing. Much of the job comes down to this: look at the image, look at what the model said about it, and decide whether the two actually match. What you will do Interpret conversational context and identify what the user really wanted Rate and rank responses against defined quality criteria Compare multiple ans",
-      "tags": [
-        "ai/ml",
-        "research",
-        "solid"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "France-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -1772,6 +1718,23 @@
       ]
     },
     {
+      "title": "Senior Forward Deployed Engineer (AI Agent) - UK",
+      "company": "Cresta",
+      "location": "UK",
+      "url": "https://jobicy.com/jobs/155100-senior-forward-deployed-engineer-ai-agent-uk",
+      "source": "Jobicy",
+      "description": "Cresta unlocks the true potential of the customer experience, turning every conversation into a competitive advantage. Cresta’s unified AI platform combines conversational AI agents, real-time human agent augmentation, and comprehensive conversation intelligence to drive revenue and efficiency gains across every channel. The world’s leading companies, including United Airlines, Cox Communications, and Marriott, use Cresta to&hellip;",
+      "tags": [
+        "software engineering"
+      ],
+      "verdict": "review",
+      "fit": 30,
+      "reasons": [
+        "Uk-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
       "title": "Senior Quality Engineer",
       "company": "StackAdapt",
       "location": "Canada, USA",
@@ -1853,23 +1816,6 @@
       "fit": 30,
       "reasons": [
         "Latam-tagged — verify it's open to Africa first",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Senior Software Engineer (Revenue)",
-      "company": "Zuora",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/152529-senior-software-engineer-revenue",
-      "source": "Jobicy",
-      "description": "About Zuora At Zuora, we help businesses grow smarter and adapt faster. Our platform powers modern business models — from subscriptions and usage-based pricing to AI-driven and outcome-based offerings — helping companies launch new products, automate complex billing, and unlock predictable, recurring revenue. We’ve led the Subscription Economy for more than a decade. Now we’re&hellip;",
-      "tags": [
-        "software engineering"
-      ],
-      "verdict": "review",
-      "fit": 30,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -2146,6 +2092,22 @@
       "fit": 0,
       "reasons": [
         "Principal-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
+      "title": "Senior Staff Software Engineer",
+      "company": "Cision",
+      "location": "Bulgaria, Hungary",
+      "url": "https://jobicy.com/jobs/155079-senior-staff-software-engineer",
+      "source": "Jobicy",
+      "description": "At Cision, we believe in empowering every individual to make an impact. Here, your voice is heard, your ideas are valued, and your unique perspective fuels our collective success. As part of our global team, you'll thrive in an environment that champions curiosity, collaboration, and innovation, all while making meaningful contributions to the brands we&hellip;",
+      "tags": [
+        "software engineering"
+      ],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Staff-level — usually 5–10+ yrs, you have ~4"
       ]
     },
     {
