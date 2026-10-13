@@ -1,10 +1,10 @@
 {
-  "generated": "2026-10-12 13:46 UTC",
-  "count": 98,
+  "generated": "2026-10-13 13:06 UTC",
+  "count": 97,
   "summary": {
-    "scanned": 98,
-    "eligible": 37,
-    "review": 42,
+    "scanned": 97,
+    "eligible": 38,
+    "review": 40,
     "blocked": 19
   },
   "jobs": [
@@ -28,7 +28,7 @@
       "location": "Worldwide",
       "url": "https://remoteOK.com/remote-jobs/remote-golang-kubernetes-engineer-arango-1137400",
       "source": "RemoteOK",
-      "description": "Remote - Arango delivers a unified, natively multimodel contextual data platform that powers AI agents, assistants, and applications with the unified, current, and trusted business context needed to reason, decide, and act at scale.The Arango Contextual Data Platform connects... Please mention the word **FESTIVE** and tag RMTcyLjE4Mi4yMjQuMTky when applying to show you read the job post completely (#RMTcyLjE4Mi4yMjQuMTky). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Arango delivers a unified, natively multimodel contextual data platform that powers AI agents, assistants, and applications with the unified, current, and trusted business context needed to reason, decide, and act at scale.The Arango Contextual Data Platform connects... Please mention the word **FESTIVE** and tag RMjAuMTcxLjEuNw== when applying to show you read the job post completely (#RMjAuMTcxLjEuNw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "tags": [
         "golang",
         "golang",
@@ -203,23 +203,6 @@
       ]
     },
     {
-      "title": "Senior DevOps Engineer",
-      "company": "Five9",
-      "location": "Portugal",
-      "url": "https://jobicy.com/jobs/154677-senior-devops-engineer-8",
-      "source": "Jobicy",
-      "description": "Join us in bringing joy to customer experience. Five9 is a leading provider of cloud contact center software, bringing the power of cloud innovation to customers worldwide. Living our values everyday results in our team-first culture and enables us to innovate, grow, and thrive while enjoying the journey together. We celebrate diversity and foster an&hellip;",
-      "tags": [
-        "devops & infrastructure"
-      ],
-      "verdict": "eligible",
-      "fit": 60,
-      "reasons": [
-        "remote — anywhere / global",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
       "title": "Enterprise Security Sales Specialist",
       "company": "Datadog",
       "location": "Anywhere in the World",
@@ -257,6 +240,40 @@
       "tags": [],
       "verdict": "eligible",
       "fit": 54,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
+    {
+      "title": "Remote Office Assistant",
+      "company": "Coalition Technologies",
+      "location": "Worldwide",
+      "url": "https://remotive.com/remote-jobs/marketing/remote-office-assistant-1680495",
+      "source": "Remotive",
+      "description": "Coalition Technologies is seeking a reliable, detail-oriented, and highly organized Remote Office Assistant to support administrative, bookkeeping, billing, reporting, data entry, and internal operations tasks. This role is ideal for someone with strong communication skills, discretion, attention to detail, and a willingness to learn and grow within a fast-paced remote work environment. As an Office Assistant, you will help support daily administrative operations, assist with entry-level bookkeeping, organize client documents, support internal reporting, and help maintain accurate company reco",
+      "tags": [
+        "css",
+        "excel",
+        "frontend",
+        "git",
+        "html",
+        "illustrator",
+        "magento",
+        "photoshop",
+        "php",
+        "shopify",
+        "wordpress",
+        "mysql",
+        "startup",
+        "responsive",
+        "themes",
+        "bootstrap",
+        "insurance",
+        "jquery",
+        "ajax"
+      ],
+      "verdict": "eligible",
+      "fit": 50,
       "reasons": [
         "remote — anywhere / global"
       ]
@@ -382,7 +399,7 @@
       "location": "Worldwide",
       "url": "https://remoteOK.com/remote-jobs/remote-platform-and-integration-engineer-security-telemetry-redmimicry-1137465",
       "source": "RemoteOK",
-      "description": "Remote - Location: Mostly remote (within Germany), with monthly in-person collaboration at our Berlin officeHours: Part-time, 32 hours per weekContract: Fixed-termSalary: EUR 53,000 â 59,000 (at 32 hours per week)We are building a new capability that turns fragmented,... Please mention the word **THRIFTY** and tag RMTcyLjE4Mi4yMjQuMTky when applying to show you read the job post completely (#RMTcyLjE4Mi4yMjQuMTky). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Location: Mostly remote (within Germany), with monthly in-person collaboration at our Berlin officeHours: Part-time, 32 hours per weekContract: Fixed-termSalary: EUR 53,000 â 59,000 (at 32 hours per week)We are building a new capability that turns fragmented,... Please mention the word **THRIFTY** and tag RMjAuMTcxLjEuNw== when applying to show you read the job post completely (#RMjAuMTcxLjEuNw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "tags": [
         "golang",
         "infosec",
@@ -422,6 +439,20 @@
         "recruiter",
         "digital nomad"
       ],
+      "verdict": "eligible",
+      "fit": 50,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
+    {
+      "title": "Sales Development Representative - Service Provider",
+      "company": "Huntress",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/huntress-sales-development-representative-service-provider",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Remote US What We Do: Cybercrime is growing, and more businesses are getting hit by threats that used to target only the biggest organizations. That pushes defenders like us to operate at the highest level, and it deepens our need for good people who want to make a meaningful impact. Founded in 2015 by former NSA cyber operators, Huntress is a remote-first team working to make enterprise-grade cybersecurity accessible to businesses of all sizes. We work closely with security teams and service providers protecting complex environments, often without the time or headcount to handle",
+      "tags": [],
       "verdict": "eligible",
       "fit": 50,
       "reasons": [
@@ -499,22 +530,6 @@
       ]
     },
     {
-      "title": "Cloud Governance Engineer",
-      "company": "Five9",
-      "location": "Portugal",
-      "url": "https://jobicy.com/jobs/154675-cloud-governance-engineer",
-      "source": "Jobicy",
-      "description": "Join us in bringing joy to customer experience. Five9 is a leading provider of cloud contact center software, bringing the power of cloud innovation to customers worldwide. Living our values everyday results in our team-first culture and enables us to innovate, grow, and thrive while enjoying the journey together. We celebrate diversity and foster an&hellip;",
-      "tags": [
-        "cybersecurity"
-      ],
-      "verdict": "eligible",
-      "fit": 50,
-      "reasons": [
-        "remote — anywhere / global"
-      ]
-    },
-    {
       "title": "Partner Solutions Architect (Pan-EMEA GSI)",
       "company": "Datadog",
       "location": "Germany, Italy, Netherlands, Spain, Sweden, UK",
@@ -576,6 +591,40 @@
         "web sockets",
         "performance optimization",
         "mobile development"
+      ],
+      "verdict": "eligible",
+      "fit": 44,
+      "reasons": [
+        "remote — anywhere / global",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Senior Sales Executive Central Region",
+      "company": "SimSpace Corporation",
+      "location": "Worldwide",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-sales-executive-central-region-simspace-corporation-1137498",
+      "source": "RemoteOK",
+      "description": "SimSpace serves as an AI Proving Ground where organizations can confidently train, test, and outmaneuver adversaries in any environment. Trusted by allied governments, militaries, enterprises, and research institutions worldwide, SimSpace enables adaptive, AI-ready defenses that stay ahead of evolving threats. Founded in 2015 by experts from U.S. Cyber Command and MIT Lincoln Laboratory, the platform unifies training, testing, and validation in a realistic, live-fire simulationâhelping teams evaluate security investments, optimize performance, and compress cyber readiness cycles from months ",
+      "tags": [
+        "saas",
+        "embedded",
+        "sys admin",
+        "infosec",
+        "education",
+        "customer support",
+        "testing",
+        "marketing",
+        "finance",
+        "cloud",
+        "exec",
+        "content writing",
+        "senior",
+        "stats",
+        "legal",
+        "sales",
+        "medical",
+        "engineer"
       ],
       "verdict": "eligible",
       "fit": 44,
@@ -1283,30 +1332,6 @@
       ]
     },
     {
-      "title": "Senior Cloud Security Engineer - AI Resilience & Security Enhancements (Fixed-te",
-      "company": "Form3",
-      "location": "United Kingdom",
-      "url": "https://himalayas.app/companies/form3/jobs/senior-cloud-security-engineer-ai-resilience-security-enhancements-fixed-te",
-      "source": "Himalayas",
-      "description": "THE PROJECT 📝 We're looking for an experienced Senior Cloud Security Engineer to join Form3 on a 12 month fixed term contract basis to deliver a strategic programme of security enhancements across our cloud-native payments platform. Focusing on improving cloud security, operational resilience and governance across our engineering ecosystem, you will work closely with our Platform Engineering and Security teams to design and implement practical security improvements that enhance how we build, deploy and operate critical payment infrastructure. You'll play a key role in strengthening areas such ",
-      "tags": [
-        "cloud-security-engineer",
-        "security-engineer",
-        "cybersecurity-engineer",
-        "devsecops-engineer",
-        "platform-security-engineer",
-        "senior-cloud-infrastructure-security-engineer",
-        "senior-cloud-security-software-engineer",
-        "senior-cloud-security-architect"
-      ],
-      "verdict": "review",
-      "fit": 46,
-      "reasons": [
-        "United kingdom-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
       "title": "Tech Lead Full-Stack Rails Engineer",
       "company": "Mitre Media",
       "location": "USA, Canada, USA timezones",
@@ -1551,6 +1576,22 @@
       ]
     },
     {
+      "title": "Commercial Account Executive - Benelux",
+      "company": "Chainguard",
+      "location": "Netherlands",
+      "url": "https://jobicy.com/jobs/155138-commercial-account-executive-benelux-2",
+      "source": "Jobicy",
+      "description": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. Our customers include Fortune 500 enterprises and global industry leaders, including Anduril, Canva, Fortinet, Hewlett Packard Enterprise, OpenAI,&hellip;",
+      "tags": [
+        "sales"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "Netherlands-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
       "title": "Customer Experience Engineer I/II",
       "company": "Harness",
       "location": "Canada, USA",
@@ -1718,6 +1759,23 @@
       ]
     },
     {
+      "title": "QA Automation Lead [gn] Data Intelligence",
+      "company": "Actian",
+      "location": "Europe",
+      "url": "https://jobicy.com/jobs/149048-qa-automation-lead-gn-data-intelligence",
+      "source": "Jobicy",
+      "description": "The QA Automation Team is the ultimate guardian of our platform’s reliability, scalability, and deployment velocity. In a complex, data-heavy ecosystem, manual testing is a bottleneck; continuous, intelligent, and bulletproof automation is the only way forward. We are looking for a QA Automation Lead who will architect, scale, and own our automated testing strategy end-to-end.&hellip;",
+      "tags": [
+        "qa & testing"
+      ],
+      "verdict": "review",
+      "fit": 30,
+      "reasons": [
+        "Europe-tagged — verify it's open to Africa first",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
       "title": "Senior Forward Deployed Engineer (AI Agent) - UK",
       "company": "Cresta",
       "location": "UK",
@@ -1765,57 +1823,6 @@
       "fit": 30,
       "reasons": [
         "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Senior Application Security Engineer",
-      "company": "Beyond Finance",
-      "location": "Anywhere",
-      "url": "https://jobicy.com/jobs/154682-senior-application-security-engineer-3",
-      "source": "Jobicy",
-      "description": "At Beyond Finance, we've made it our mission to help everyday Americans escape the endless cycle of crippling debt and step into a brighter financial future. Through compassionate, individualized care, a culture focused on compliance and ethics, supportive user-centric technology, and customized financial solutions, we've helped over 1 million clients on their path to a&hellip;",
-      "tags": [
-        "cybersecurity"
-      ],
-      "verdict": "review",
-      "fit": 30,
-      "reasons": [
-        "location unconfirmed — verify it's open to Africa",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Senior Enterprise Account Executive",
-      "company": "Fastly",
-      "location": "UK",
-      "url": "https://jobicy.com/jobs/152564-senior-enterprise-account-executive-2",
-      "source": "Jobicy",
-      "description": "Fastly helps people stay better connected with the things they love. Fastly’s edge cloud platform enables customers to create great digital experiences quickly, securely, and reliably by processing, serving, and securing our customers’ applications as close to their end-users as possible — at the edge of the Internet. The platform is designed to take advantage&hellip;",
-      "tags": [
-        "sales"
-      ],
-      "verdict": "review",
-      "fit": 30,
-      "reasons": [
-        "Uk-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "RevTech Senior Salesforce Developer - LATAM",
-      "company": "Luxury Presence",
-      "location": "LATAM",
-      "url": "https://jobicy.com/jobs/152602-revtech-senior-salesforce-developer-latam",
-      "source": "Jobicy",
-      "description": "Luxury Presence is building the AI growth platform for real estate. Backed by Bessemer Venture Partners and other top investors, we're a Series C company that has hit $100M in annual recurring revenue. More than 90,000 real estate professionals, including over 30% of the WSJ Real Trends top 100 agents in the United States, use&hellip;",
-      "tags": [
-        "software engineering"
-      ],
-      "verdict": "review",
-      "fit": 30,
-      "reasons": [
-        "Latam-tagged — verify it's open to Africa first",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -2095,6 +2102,22 @@
       ]
     },
     {
+      "title": "Staff DevOps Engineer (Platform)",
+      "company": "Phantom",
+      "location": "Europe, USA",
+      "url": "https://jobicy.com/jobs/153130-staff-devops-engineer-platform",
+      "source": "Jobicy",
+      "description": "Phantom is on a mission to connect the world to the freedom of open markets. Tens of millions of people all over the world use Phantom to access global markets that never close, including perpetuals, prediction markets, tokenized assets, stablecoins and memes. Phantom users are able to discover the markets that matter and the cultural&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Staff-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
       "title": "Senior Staff Software Engineer",
       "company": "Cision",
       "location": "Bulgaria, Hungary",
@@ -2204,22 +2227,6 @@
       "fit": 0,
       "reasons": [
         "Director-level — usually 5–10+ yrs, you have ~4"
-      ]
-    },
-    {
-      "title": "Staff Solutions Engineer - Northeast",
-      "company": "Kong Inc.",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/154680-staff-solutions-engineer-northeast",
-      "source": "Jobicy",
-      "description": "Are you ready to unlock intelligence? If you don’t think you meet all of the criteria below but are still interested in the job, please apply. Nobody checks every box - we’re looking for candidates that are particularly strong in a few areas, and have some interest and capabilities in others. About the Role: Are&hellip;",
-      "tags": [
-        "sales"
-      ],
-      "verdict": "blocked",
-      "fit": 0,
-      "reasons": [
-        "Staff-level — usually 5–10+ yrs, you have ~4"
       ]
     }
   ]
