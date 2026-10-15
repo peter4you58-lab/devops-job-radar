@@ -1,10 +1,10 @@
 {
-  "generated": "2026-10-14 10:47 UTC",
+  "generated": "2026-10-15 10:29 UTC",
   "count": 97,
   "summary": {
     "scanned": 97,
-    "eligible": 35,
-    "review": 40,
+    "eligible": 34,
+    "review": 41,
     "blocked": 22
   },
   "jobs": [
@@ -28,7 +28,7 @@
       "location": "Worldwide",
       "url": "https://remoteOK.com/remote-jobs/remote-golang-kubernetes-engineer-arango-1137400",
       "source": "RemoteOK",
-      "description": "Remote - Arango delivers a unified, natively multimodel contextual data platform that powers AI agents, assistants, and applications with the unified, current, and trusted business context needed to reason, decide, and act at scale.The Arango Contextual Data Platform connects... Please mention the word **FESTIVE** and tag RMjAuMTcxLjIzLjE4NQ== when applying to show you read the job post completely (#RMjAuMTcxLjIzLjE4NQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Arango delivers a unified, natively multimodel contextual data platform that powers AI agents, assistants, and applications with the unified, current, and trusted business context needed to reason, decide, and act at scale.The Arango Contextual Data Platform connects... Please mention the word **FESTIVE** and tag RMjAuNjUuMjUzLjE5Mg== when applying to show you read the job post completely (#RMjAuNjUuMjUzLjE5Mg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "tags": [
         "golang",
         "golang",
@@ -152,31 +152,6 @@
       "description": "Who we are At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to hundreds of thousands of businesses and empower millions of developers worldwide to craft personalized customer experiences. Our dedication to remote-first work, and strong culture of connection and global inclusion means that no&hellip;",
       "tags": [
         "devops & infrastructure"
-      ],
-      "verdict": "eligible",
-      "fit": 66,
-      "reasons": [
-        "remote — anywhere / global"
-      ]
-    },
-    {
-      "title": "Mainframe Storage/Tape Engineer - Remote",
-      "company": "Rubicon Path",
-      "location": "Canada",
-      "url": "https://himalayas.app/companies/rubicon-path/jobs/mainframe-storage-tape-engineer-remote-6316200821",
-      "source": "Himalayas",
-      "description": "Our client, the global IT services company is hiring for the Sr. Mainframe Storage/Tape Engineer position. This is a permanent, full-time, 100% remote position. ﻿ Responsibilities: ﻿﻿ Perform daily Storage management activities relating to SMS routines, DASD pools monitoring housekeeping batch jobs and on-call support Troubleshoot basic space issues, perform migrate and archive functions Implement routine storage-type changes relating to client requests to add or move volumes Troubleshoot JCL errors and resolve them Create and maintain core system backups Login and monitor IBM TS7700 grids Und",
-      "tags": [
-        "mainframe-storage-engineering",
-        "tape-engineer",
-        "storage-administrator",
-        "ibm-z-os-engineer",
-        "storage-systems-engineer",
-        "mainframe-systems-engineer",
-        "mainframe-engineer",
-        "senior-mainframe-engineer",
-        "senior-mainframe-system-administrator",
-        "mainframe-infrastructure-specialist"
       ],
       "verdict": "eligible",
       "fit": 66,
@@ -396,7 +371,7 @@
       "location": "Worldwide",
       "url": "https://remoteOK.com/remote-jobs/remote-platform-and-integration-engineer-security-telemetry-redmimicry-1137465",
       "source": "RemoteOK",
-      "description": "Remote - Location: Mostly remote (within Germany), with monthly in-person collaboration at our Berlin officeHours: Part-time, 32 hours per weekContract: Fixed-termSalary: EUR 53,000 â 59,000 (at 32 hours per week)We are building a new capability that turns fragmented,... Please mention the word **THRIFTY** and tag RMjAuMTcxLjIzLjE4NQ== when applying to show you read the job post completely (#RMjAuMTcxLjIzLjE4NQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Location: Mostly remote (within Germany), with monthly in-person collaboration at our Berlin officeHours: Part-time, 32 hours per weekContract: Fixed-termSalary: EUR 53,000 â 59,000 (at 32 hours per week)We are building a new capability that turns fragmented,... Please mention the word **THRIFTY** and tag RMjAuNjUuMjUzLjE5Mg== when applying to show you read the job post completely (#RMjAuNjUuMjUzLjE5Mg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "tags": [
         "golang",
         "infosec",
@@ -436,6 +411,20 @@
         "recruiter",
         "digital nomad"
       ],
+      "verdict": "eligible",
+      "fit": 50,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
+    {
+      "title": "Customer Solutions Engineer, EMEA",
+      "company": "Abnormal",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/abnormal-customer-solutions-engineer-emea",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Remote - Ireland About the Role Abnormal AI is looking for a Customer Solutions Engineer to join the Technical Account Management team. This role gives Abnormal a flexible, technical resource for situations that fall between standard support and a long-term, dedicated Technical Account Manager. Customer Solutions Engineers are floating technical specialists who partner with CSMs for the duration of a specific need, triggered by things like recurring support cases, asks beyond the typical support experience, or short-term project-based work. The ideal candidate combines deep techn",
+      "tags": [],
       "verdict": "eligible",
       "fit": 50,
       "reasons": [
@@ -491,20 +480,6 @@
       "url": "https://weworkremotely.com/remote-jobs/beyondtrust-cyber-defense-engineer",
       "source": "WeWorkRemotely",
       "description": "Headquarters: Remote Manchester, UK BeyondTrust is a place where you can bring your purpose to life through the work that you do, creating a safer world through our cybersecurity SaaS portfolio. Our culture of flexibility, trust, and continual learning means you will be recognized for your growth, and for the impact you make on our success. You will be surrounded by people who challenge, support, and inspire you to be the best version of yourself. The Role BeyondTrust is a global leader in privileged access management. Our products provide remote access and privileged control capabilities that",
-      "tags": [],
-      "verdict": "eligible",
-      "fit": 50,
-      "reasons": [
-        "remote — anywhere / global"
-      ]
-    },
-    {
-      "title": "Bilingual Channel Account Manager, Arabic (MEA) - UK",
-      "company": "Keeper Security",
-      "location": "Anywhere in the World",
-      "url": "https://weworkremotely.com/remote-jobs/keeper-security-bilingual-channel-account-manager-arabic-mea-uk",
-      "source": "WeWorkRemotely",
-      "description": "Headquarters: Remote, UK Description Keeper is hiring a driven, Arabic speaking Channel Account Manager to join the Keeper Global Channel Sales team. Qualified candidates must permanently reside in the UK (London). This is a fully remote position for those residing in London. Keeper's cybersecurity software is trusted by millions of people and thousands of organisations, globally. Keeper is published in 23 languages and is sold in over 150 countries. Join one of the fastest-growing cybersecurity companies and be responsible for building pipeline and channel revenue with high performance partne",
       "tags": [],
       "verdict": "eligible",
       "fit": 50,
@@ -777,43 +752,6 @@
       "fit": 60,
       "reasons": [
         "location unconfirmed — verify it's open to Africa"
-      ]
-    },
-    {
-      "title": "Software Engineer / AI Code Trainer (Python, Web, Full Stack)",
-      "company": "CodeForAI",
-      "location": "USA, UK, India, Australia, Ireland, New Zealand, Philippines, Pakistan, Singapore, Mexico",
-      "url": "https://remotive.com/remote-jobs/software-development/software-engineer-ai-code-trainer-python-web-full-stack-2091149",
-      "source": "Remotive",
-      "description": "Who Should Apply We are looking for developers from all technical backgrounds and language specializations. If you write clean code and understand software design, you are a fit: Software Engineers &amp; Computer Scientists specializing in algorithms, data structures, or system design. Full-Stack &amp; Web Developers working with modern front-end or back-end frameworks (JavaScript, TypeScript, React, Node.js, Python, PHP, Ruby, etc.). Backend &amp; Systems Developers experienced in languages such as C++, Java, Go, Rust, or Python. DevOps &amp; Database Engineers familiar with API design, SQL/N",
-      "tags": [
-        "api",
-        "backend",
-        "c",
-        "c#",
-        "c++",
-        "fullstack",
-        "go",
-        "java",
-        "javascript",
-        "node.js",
-        "php",
-        "python",
-        "react",
-        "ruby/rails",
-        "security",
-        "sql",
-        "ai/ml",
-        "rust",
-        "nosql",
-        "typescript",
-        "debugging",
-        "scripting"
-      ],
-      "verdict": "review",
-      "fit": 52,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -1283,23 +1221,6 @@
       ]
     },
     {
-      "title": "Pre/Post Sales Solutions Architect",
-      "company": "Gremlin",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/152749-pre-post-sales-solutions-architect",
-      "source": "Jobicy",
-      "description": "Today’s complex, fast-paced systems have become a minefield of reliability risks—any of which could cause an outage that costs millions and destroys customer confidence. That’s why high-availability teams use Gremlin to find and fix ‌reliability risks before they become incidents. The Gremlin Reliability Platform helps software teams proactively monitor and test their systems for common&hellip;",
-      "tags": [
-        "devops & infrastructure"
-      ],
-      "verdict": "review",
-      "fit": 46,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
       "title": "Tech Lead Full-Stack Rails Engineer",
       "company": "Mitre Media",
       "location": "USA, Canada, USA timezones",
@@ -1544,6 +1465,22 @@
       ]
     },
     {
+      "title": "Manager, Customer Success - Americas",
+      "company": "NetBox Labs",
+      "location": "LATAM, Canada, USA",
+      "url": "https://jobicy.com/jobs/155318-manager-customer-success-americas",
+      "source": "Jobicy",
+      "description": "About the role NetBox Labs is growing fast, and our Customer Success team is growing with us. We're hiring our first Manager, Customer Success for the Americas to lead, coach, and grow our CSM team. You'll start with three CSMs covering North America and LATAM, and help drive the plan for and execution of growth.&hellip;",
+      "tags": [
+        "customer support & success"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
       "title": "Software Developer, Mobile Platform",
       "company": "MaintainX",
       "location": "Canada",
@@ -1656,19 +1593,28 @@
       ]
     },
     {
-      "title": "Data Scientist, AI/ML",
-      "company": "Gremlin",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/152746-data-scientist-ai-ml",
-      "source": "Jobicy",
-      "description": "Data Scientist, AI/ML Job Description: Today’s complex, fast-paced systems have become a minefield of reliability risks, any of which could cause an outage that costs millions and destroys customer confidence. That’s why high-availability teams use Gremlin to find and fix reliability risks before they become incidents. Gremlin Reliability Platform helps software teams proactively monitor and&hellip;",
+      "title": "Cloud Data Migration Specialist- Remote",
+      "company": "ICF",
+      "location": "United States",
+      "url": "https://himalayas.app/companies/icf/jobs/cloud-data-migration-specialist-remote",
+      "source": "Himalayas",
+      "description": "Join ICF as a Cloud Data Migration Specialist and play a key role in onboarding federal grant programs onto GrantLens, a large-scale Salesforce-based Grants Management application. You will lead end-to-end data migration activities, working with business stakeholders, Business Analysts, Salesforce Architects, and Developers to assess legacy data, develop migration strategies, define source-to-target mappings, and execute accurate and reliable data conversions. You will leverage your expertise in data modeling, ETL, and Salesforce data migration to transform complex legacy data into a structure",
       "tags": [
-        "data science & analytics"
+        "data-migration-specialist",
+        "etl-developer",
+        "salesforce-developer",
+        "data-engineer",
+        "data-integration-specialist",
+        "cloud-migration-specialist",
+        "cloud-migration-engineer",
+        "enterprise-data-migration-specialist",
+        "data-migration-engineer",
+        "data-migration-consultant"
       ],
       "verdict": "review",
       "fit": 36,
       "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+        "United states-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -1691,6 +1637,40 @@
       "fit": 30,
       "reasons": [
         "Europe-tagged — verify it's open to Africa first",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Senior+ Backend Software Engineer - Asia",
+      "company": "Palmstreet",
+      "location": "China",
+      "url": "https://jobicy.com/jobs/153195-senior-backend-software-engineer-asia",
+      "source": "Jobicy",
+      "description": "About Palmstreet: Palmstreet is the #1 live shopping platform for rare plants, handmade crafts, &amp; unique goods. Founded in 2020 by Instagram and Apple veterans, Palmstreet began as a plant identification app and quickly evolved into a trailblazer in live shopping, beginning with plant sellers. Fueled by a passionate, plant-loving community, we rapidly expanded into&hellip;",
+      "tags": [
+        "software engineering"
+      ],
+      "verdict": "review",
+      "fit": 30,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Senior Software Architect (C# / AI First) - GovTech SaaS company",
+      "company": "Truelogic",
+      "location": "LATAM",
+      "url": "https://jobicy.com/jobs/149164-senior-software-architect-c-ai-first-govtech-saas-company",
+      "source": "Jobicy",
+      "description": "About TruelogicAt Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of all sizes, from innovative startups to industry leaders, helping them achieve their digital transformation goals.Our team of 600+ highly skilled tech professionals, based in Latin&hellip;",
+      "tags": [
+        "software engineering"
+      ],
+      "verdict": "review",
+      "fit": 30,
+      "reasons": [
+        "Latam-tagged — verify it's open to Africa first",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -2114,6 +2094,22 @@
       ]
     },
     {
+      "title": "Head of Engineering",
+      "company": "saas.group",
+      "location": "Europe",
+      "url": "https://jobicy.com/jobs/150588-head-of-engineering",
+      "source": "Jobicy",
+      "description": "This role is part of our Seobility team, one of our growing brands at saas.group.Seobility joined saas.group in 2022. The Seobility all-in-one SEO suite empowers businesses and marketers around the world to boost their website visibility with professional SEO tools. Starting in 2013 with a commitment to usability and actionable advice to make professional-grade SEO&hellip;",
+      "tags": [
+        "software engineering"
+      ],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Head of-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
       "title": "Staff Security Engineer",
       "company": "Beyond Finance",
       "location": "USA",
@@ -2255,22 +2251,6 @@
       "fit": 0,
       "reasons": [
         "Staff-level — usually 5–10+ yrs, you have ~4"
-      ]
-    },
-    {
-      "title": "Director, Enterprise Sales Engineering - US Central",
-      "company": "Datadog",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/152710-director-enterprise-sales-engineering-us-central",
-      "source": "Jobicy",
-      "description": "As a Director, Enterprise Sales Engineering, you will lead a team of frontline leaders, driving account strategy, deal execution, operational excellence, and team development across your region. This is a strategic leadership role with regional impact within North America. You will act as a force multiplier by owning team and region performance, shaping execution standards,&hellip;",
-      "tags": [
-        "sales"
-      ],
-      "verdict": "blocked",
-      "fit": 0,
-      "reasons": [
-        "Director-level — usually 5–10+ yrs, you have ~4"
       ]
     }
   ]
