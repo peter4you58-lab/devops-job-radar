@@ -1,11 +1,11 @@
 {
-  "generated": "2026-10-15 10:29 UTC",
-  "count": 97,
+  "generated": "2026-10-16 10:17 UTC",
+  "count": 96,
   "summary": {
-    "scanned": 97,
-    "eligible": 34,
-    "review": 41,
-    "blocked": 22
+    "scanned": 96,
+    "eligible": 36,
+    "review": 37,
+    "blocked": 23
   },
   "jobs": [
     {
@@ -28,7 +28,7 @@
       "location": "Worldwide",
       "url": "https://remoteOK.com/remote-jobs/remote-golang-kubernetes-engineer-arango-1137400",
       "source": "RemoteOK",
-      "description": "Remote - Arango delivers a unified, natively multimodel contextual data platform that powers AI agents, assistants, and applications with the unified, current, and trusted business context needed to reason, decide, and act at scale.The Arango Contextual Data Platform connects... Please mention the word **FESTIVE** and tag RMjAuNjUuMjUzLjE5Mg== when applying to show you read the job post completely (#RMjAuNjUuMjUzLjE5Mg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Arango delivers a unified, natively multimodel contextual data platform that powers AI agents, assistants, and applications with the unified, current, and trusted business context needed to reason, decide, and act at scale.The Arango Contextual Data Platform connects... Please mention the word **FESTIVE** and tag RMTcyLjIxNC4xNTUuMTE3 when applying to show you read the job post completely (#RMTcyLjIxNC4xNTUuMTE3). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "tags": [
         "golang",
         "golang",
@@ -144,22 +144,6 @@
       ]
     },
     {
-      "title": "DevOps Engineer (Observability)",
-      "company": "Twilio",
-      "location": "Ireland",
-      "url": "https://jobicy.com/jobs/154900-devops-engineer-observability",
-      "source": "Jobicy",
-      "description": "Who we are At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to hundreds of thousands of businesses and empower millions of developers worldwide to craft personalized customer experiences. Our dedication to remote-first work, and strong culture of connection and global inclusion means that no&hellip;",
-      "tags": [
-        "devops & infrastructure"
-      ],
-      "verdict": "eligible",
-      "fit": 66,
-      "reasons": [
-        "remote — anywhere / global"
-      ]
-    },
-    {
       "title": "Senior Manager, Solutions Architect",
       "company": "Vercel",
       "location": "Anywhere in the World",
@@ -172,6 +156,37 @@
       "reasons": [
         "remote — anywhere / global",
         "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Senior Platform Engineer",
+      "company": "Fleetio",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/155361-senior-platform-engineer-5",
+      "source": "Jobicy",
+      "description": "A little about us…Fleetio is a modern software platform that helps thousands of organizations worldwide manage their fleet operations. Transportation technology is a hot market, and we’re leading the charge with raving fans and new customers signing up every day. We raised $450M in our Series D funding round in March of 2025 and are&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
+      "verdict": "eligible",
+      "fit": 60,
+      "reasons": [
+        "remote — anywhere / global",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Cloud Network Engineer",
+      "company": "BeyondTrust",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/beyondtrust-cloud-network-engineer",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Remote United States BeyondTrust is a place where you can bring your purpose to life through the work that you do, creating a safer world through our cybersecurity SaaS portfolio. Our culture of flexibility, trust, and continual learning means you will be recognized for your growth, and for the impact you make on our success. You will be surrounded by people who challenge, support, and inspire you to be the best version of yourself. The Role The Cloud Network Engineer extends BeyondTrust's on-premises networking fundamentals into AWS cloud networking, with a primary focus on arch",
+      "tags": [],
+      "verdict": "eligible",
+      "fit": 54,
+      "reasons": [
+        "remote — anywhere / global"
       ]
     },
     {
@@ -371,7 +386,7 @@
       "location": "Worldwide",
       "url": "https://remoteOK.com/remote-jobs/remote-platform-and-integration-engineer-security-telemetry-redmimicry-1137465",
       "source": "RemoteOK",
-      "description": "Remote - Location: Mostly remote (within Germany), with monthly in-person collaboration at our Berlin officeHours: Part-time, 32 hours per weekContract: Fixed-termSalary: EUR 53,000 â 59,000 (at 32 hours per week)We are building a new capability that turns fragmented,... Please mention the word **THRIFTY** and tag RMjAuNjUuMjUzLjE5Mg== when applying to show you read the job post completely (#RMjAuNjUuMjUzLjE5Mg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Location: Mostly remote (within Germany), with monthly in-person collaboration at our Berlin officeHours: Part-time, 32 hours per weekContract: Fixed-termSalary: EUR 53,000 â 59,000 (at 32 hours per week)We are building a new capability that turns fragmented,... Please mention the word **THRIFTY** and tag RMTcyLjIxNC4xNTUuMTE3 when applying to show you read the job post completely (#RMTcyLjIxNC4xNTUuMTE3). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "tags": [
         "golang",
         "infosec",
@@ -411,6 +426,20 @@
         "recruiter",
         "digital nomad"
       ],
+      "verdict": "eligible",
+      "fit": 50,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
+    {
+      "title": "eLearning Developer",
+      "company": "BeyondTrust",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/beyondtrust-elearning-developer",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Remote United States BeyondTrust is a place where you can bring your purpose to life through the work that you do, creating a safer world through our cybersecurity SaaS portfolio. Our culture of flexibility, trust, and continual learning means you will be recognized for your growth, and for the impact you make on our success. You will be surrounded by people who challenge, support, and inspire you to be the best version of yourself. The Role At BeyondTrust, we believe learning and training should be engaging, interactive, and impactful. The eLearning Developer plays a key role in",
+      "tags": [],
       "verdict": "eligible",
       "fit": 50,
       "reasons": [
@@ -755,6 +784,32 @@
       ]
     },
     {
+      "title": "Technical Engineer (Amazon Connect and CloudWatch)",
+      "company": "Global Rabbits",
+      "location": "United States",
+      "url": "https://himalayas.app/companies/global-rabbits/jobs/technical-engineer-amazon-connect-and-cloudwatch",
+      "source": "Himalayas",
+      "description": "This is a remote position. Global Rabbits is a true Nearshore provider, attracting the best talent from LATAM and providing our customers with top tier results while offering a cost effective solution. We partner with our clients by building digital teams that extend their capabilities and allow them to leverage our talented nearshore resources. ​We are looking for a Technical Engineer with strong development and AWS expertise to support our Amazon Connect and AWS monitoring initiatives. The ideal candidate will combine software engineering skills with hands-on experience in cloud infrastructu",
+      "tags": [
+        "technical-engineer",
+        "cloud-engineer",
+        "devops-engineer",
+        "site-reliability-engineer",
+        "aws-engineer",
+        "aws-connect-engineer",
+        "amazon-connect-support-engineer",
+        "amazon-connect-engineer",
+        "aws-cloud-engineer",
+        "senior-aws-engineer",
+        "aws-support-engineer"
+      ],
+      "verdict": "review",
+      "fit": 56,
+      "reasons": [
+        "United states-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
       "title": "Software Engineer (Platform - SRE)",
       "company": "Paddle",
       "location": "Ireland, Portugal, UK",
@@ -927,23 +982,6 @@
       ]
     },
     {
-      "title": "Senior Engineer (Software), Enterprise",
-      "company": "NetBox Labs",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/152949-senior-engineer-software-enterprise",
-      "source": "Jobicy",
-      "description": "NetBox Labs seeks a Senior Software Engineer with strong DevOps experience to build and drive NetBox Enterprise, our on-premises product suite. You'll own installation, configuration, and lifecycle management for our customers, tackle complex technical challenges, proactively address deployment issues unique to on-prem environments, and collaborate closely with high-performing, cross-functional teams. In this role you will:&hellip;",
-      "tags": [
-        "devops & infrastructure"
-      ],
-      "verdict": "review",
-      "fit": 50,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
       "title": "Software Engineer - Python - Container Images",
       "company": "Canonical",
       "location": "APAC, EMEA, LATAM, Canada, USA",
@@ -957,22 +995,6 @@
       "fit": 48,
       "reasons": [
         "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Manager, Customer Success Managers, EMEA",
-      "company": "GitLab",
-      "location": "Austria, Germany",
-      "url": "https://jobicy.com/jobs/148783-manager-customer-success-managers-emea",
-      "source": "Jobicy",
-      "description": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster. The same principles built into&hellip;",
-      "tags": [
-        "customer support & success"
-      ],
-      "verdict": "review",
-      "fit": 48,
-      "reasons": [
-        "Germany-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -1221,46 +1243,6 @@
       ]
     },
     {
-      "title": "Tech Lead Full-Stack Rails Engineer",
-      "company": "Mitre Media",
-      "location": "USA, Canada, USA timezones",
-      "url": "https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746",
-      "source": "Remotive",
-      "description": "About Mitre Media Mitre Media is redefining FinTech with AI-driven tools that empower millions of investors. Our portfolio, including Dividend.com and MutualFunds.com, leverages LLMs to deliver novel data insights and visually rich user experiences. For over a decade, we’ve served individual investors, financial advisors, and top asset managers like BlackRock and Vanguard through our premium data, tools, and advertising solutions. Join our lean, entrepreneurial team to shape the future of AI-powered investing from your location ±3 hours from Eastern Time. Our users are deeply engaged, spending",
-      "tags": [
-        "api",
-        "css",
-        "docker",
-        "elasticsearch",
-        "fullstack",
-        "html",
-        "javascript",
-        "kubernetes",
-        "postgresql",
-        "react",
-        "ror",
-        "ruby/rails",
-        "ai/ml",
-        "cad",
-        "advertising",
-        "redis",
-        "es6",
-        "web applications",
-        "mysql",
-        "nlp",
-        "fintech",
-        "micro services",
-        "github",
-        "system architecture"
-      ],
-      "verdict": "review",
-      "fit": 38,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
       "title": "Content Reviewer - United States",
       "company": "TELUS Digital",
       "location": "USA",
@@ -1465,6 +1447,22 @@
       ]
     },
     {
+      "title": "Forward Deployed Engineer, Python",
+      "company": "Socket",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/153341-forward-deployed-engineer-python",
+      "source": "Jobicy",
+      "description": "About Us Socket helps devs and security teams ship faster by cutting out security busywork. Thousands of orgs use Socket to safely find, audit, and manage open source code. Our customers - from Anthropic to xAI, and Figma to Vercel - love Socket (just check out their tweets to see for yourself!) Founded by Feross&hellip;",
+      "tags": [
+        "cybersecurity"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
       "title": "Manager, Customer Success - Americas",
       "company": "NetBox Labs",
       "location": "LATAM, Canada, USA",
@@ -1558,63 +1556,6 @@
       "fit": 36,
       "reasons": [
         "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Business Systems Engineer",
-      "company": "ClickUp",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/152814-business-systems-engineer",
-      "source": "Jobicy",
-      "description": "At ClickUp, we're building the future of work: the first truly converged AI workspace unifying tasks, docs, chat, calendar, and enterprise search, all supercharged by context-driven AI. We are an AI-native company. Every team member is expected to leverage AI daily, and we evaluate AI fluency as part of our hiring process. Join us and&hellip;",
-      "tags": [
-        "software engineering"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Safety Engineer - Free Tier Abuse",
-      "company": "Elevenlabs",
-      "location": "Ireland, Japan, Poland, UK, USA",
-      "url": "https://jobicy.com/jobs/154823-safety-engineer-free-tier-abuse",
-      "source": "Jobicy",
-      "description": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deutsche Telekom and Meta. Our investors are some of&hellip;",
-      "tags": [
-        "cybersecurity"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Cloud Data Migration Specialist- Remote",
-      "company": "ICF",
-      "location": "United States",
-      "url": "https://himalayas.app/companies/icf/jobs/cloud-data-migration-specialist-remote",
-      "source": "Himalayas",
-      "description": "Join ICF as a Cloud Data Migration Specialist and play a key role in onboarding federal grant programs onto GrantLens, a large-scale Salesforce-based Grants Management application. You will lead end-to-end data migration activities, working with business stakeholders, Business Analysts, Salesforce Architects, and Developers to assess legacy data, develop migration strategies, define source-to-target mappings, and execute accurate and reliable data conversions. You will leverage your expertise in data modeling, ETL, and Salesforce data migration to transform complex legacy data into a structure",
-      "tags": [
-        "data-migration-specialist",
-        "etl-developer",
-        "salesforce-developer",
-        "data-engineer",
-        "data-integration-specialist",
-        "cloud-migration-specialist",
-        "cloud-migration-engineer",
-        "enterprise-data-migration-specialist",
-        "data-migration-engineer",
-        "data-migration-consultant"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "United states-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -1760,19 +1701,26 @@
       ]
     },
     {
-      "title": "Senior Quality Engineer",
-      "company": "StackAdapt",
-      "location": "Canada, USA",
-      "url": "https://jobicy.com/jobs/154871-senior-quality-engineer-3",
-      "source": "Jobicy",
-      "description": "StackAdapt is the leading technology company that empowers marketers to reach, engage, and convert audiences with precision. With 465 billion automated optimizations per second, the AI-powered StackAdapt Marketing Platform seamlessly connects brand and performance marketing to drive measurable results across the entire customer journey. The most forward-thinking marketers choose StackAdapt to orchestrate high-impact campaigns across&hellip;",
+      "title": "Senior Manager, Salesforce Platform Strategy & Delivery",
+      "company": "NetBrain",
+      "location": "United States",
+      "url": "https://himalayas.app/companies/netbrain/jobs/senior-manager-salesforce-platform-strategy-delivery",
+      "source": "Himalayas",
+      "description": "Founded in 2004, NetBrain is the leader in no-code network automation. Its ground-breaking Next-Gen platform provides IT operations teams with the ability to scale their hybrid multi-cloud connected networks by automating the processes associated with Diagnostic Troubleshooting, Outage Prevention and Protected Change Management. Today, over 2,500 of the world’s largest enterprises and managed services providers leverage NetBrain ’s platform. What We Need NetBrain is seeking a hands-on Senior Manager of Salesforce Platform Strategy and Delivery to lead the operating model, roadmap, governance, ",
       "tags": [
-        "qa & testing"
+        "salesforce-administrator",
+        "salesforce-manager",
+        "crm-manager",
+        "platform-administrator",
+        "technical-manager",
+        "salesforce-platform-lead",
+        "salesforce-delivery-lead",
+        "senior-manager-technology-strategy"
       ],
       "verdict": "review",
       "fit": 30,
       "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "United states-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -2087,6 +2035,22 @@
       "source": "WeWorkRemotely",
       "description": "Headquarters: Remote ZoomInfo is where careers accelerate. We move fast, think boldly, and empower you to do the best work of your life. You’ll be surrounded by teammates who care deeply, challenge each other, and celebrate wins. With tools that amplify your impact and a culture that backs your ambition, you won’t just contribute. You’ll make things happen–fast. &nbsp; As a Principal Infrastructure Architect on our Infrastructure Architecture team, you will be the architecture team's partner to ZoomInfo's data engineering organization. Data engineering owns the platforms and the products built",
       "tags": [],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Principal-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
+      "title": "Principal GSI Partner Manager - Accenture (EMEA)",
+      "company": "Datadog",
+      "location": "UK",
+      "url": "https://jobicy.com/jobs/155382-principal-gsi-partner-manager-accenture-emea",
+      "source": "Jobicy",
+      "description": "We are looking for an experienced Partner Sales Manager to ignite partnerships by identifying and recruiting new partners for long-term success and nurture ongoing relationships with key strategic Global Systems Integrator partners. Our ultimate goal is building channels and alliances that drive new customer adoption and revenue. This is a great opportunity for you to&hellip;",
+      "tags": [
+        "business development"
+      ],
       "verdict": "blocked",
       "fit": 0,
       "reasons": [
