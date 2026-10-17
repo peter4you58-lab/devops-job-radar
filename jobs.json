@@ -1,11 +1,11 @@
 {
-  "generated": "2026-10-16 10:17 UTC",
-  "count": 96,
+  "generated": "2026-10-17 09:51 UTC",
+  "count": 95,
   "summary": {
-    "scanned": 96,
-    "eligible": 36,
-    "review": 37,
-    "blocked": 23
+    "scanned": 95,
+    "eligible": 38,
+    "review": 39,
+    "blocked": 18
   },
   "jobs": [
     {
@@ -28,7 +28,7 @@
       "location": "Worldwide",
       "url": "https://remoteOK.com/remote-jobs/remote-golang-kubernetes-engineer-arango-1137400",
       "source": "RemoteOK",
-      "description": "Remote - Arango delivers a unified, natively multimodel contextual data platform that powers AI agents, assistants, and applications with the unified, current, and trusted business context needed to reason, decide, and act at scale.The Arango Contextual Data Platform connects... Please mention the word **FESTIVE** and tag RMTcyLjIxNC4xNTUuMTE3 when applying to show you read the job post completely (#RMTcyLjIxNC4xNTUuMTE3). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Arango delivers a unified, natively multimodel contextual data platform that powers AI agents, assistants, and applications with the unified, current, and trusted business context needed to reason, decide, and act at scale.The Arango Contextual Data Platform connects... Please mention the word **FESTIVE** and tag RMTcyLjIxNC4xMDIuNA== when applying to show you read the job post completely (#RMTcyLjIxNC4xMDIuNA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "tags": [
         "golang",
         "golang",
@@ -159,6 +159,23 @@
       ]
     },
     {
+      "title": "Senior DevOps Engineer - Storage Platforms",
+      "company": "Five9",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/153466-senior-devops-engineer-storage-platforms",
+      "source": "Jobicy",
+      "description": "Join us in bringing joy to customer experience. Five9 is a leading provider of cloud contact center software, bringing the power of cloud innovation to customers worldwide. Living our values everyday results in our team-first culture and enables us to innovate, grow, and thrive while enjoying the journey together. We celebrate diversity and foster an&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
+      "verdict": "eligible",
+      "fit": 60,
+      "reasons": [
+        "remote — anywhere / global",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
       "title": "Senior Platform Engineer",
       "company": "Fleetio",
       "location": "USA",
@@ -196,20 +213,6 @@
       "url": "https://weworkremotely.com/remote-jobs/datadog-enterprise-security-sales-specialist",
       "source": "WeWorkRemotely",
       "description": "Headquarters: District of Columbia, USA, Remote; North Carolina, USA, Remote As a Security Sales Specialist, you'll partner with Enterprise Account Executives to drive adoption of Datadog’s Security platform across key accounts. This is a high-impact role focused on positioning our Security solutions (Cloud SIEM, Cloud Workload Security, CSPM, and more) into new and existing customers—expanding our footprint and helping customers modernize their security stack in the cloud. At Datadog, we place value in our office culture - the relationships and collaboration it builds and the creativity it br",
-      "tags": [],
-      "verdict": "eligible",
-      "fit": 54,
-      "reasons": [
-        "remote — anywhere / global"
-      ]
-    },
-    {
-      "title": "Enterprise Sales Engineer - FED",
-      "company": "Datadog",
-      "location": "Anywhere in the World",
-      "url": "https://weworkremotely.com/remote-jobs/datadog-enterprise-sales-engineer-fed",
-      "source": "WeWorkRemotely",
-      "description": "Headquarters: District of Columbia, USA, Remote; Maryland, USA, Remote; Virginia, USA, Remote As an Enterprise Sales Engineer, you'll partner with Sales to help customers understand the value of Datadog and how it solves their most important technical and business challenges. You'll lead technical evaluations, deliver compelling demos, and guide customers through the journey from discovery to successful adoption. You'll act as a trusted advisor, bridging business goals with technical solutions, and play a key role in winning new business and expanding existing accounts. At Datadog, we place va",
       "tags": [],
       "verdict": "eligible",
       "fit": 54,
@@ -386,7 +389,7 @@
       "location": "Worldwide",
       "url": "https://remoteOK.com/remote-jobs/remote-platform-and-integration-engineer-security-telemetry-redmimicry-1137465",
       "source": "RemoteOK",
-      "description": "Remote - Location: Mostly remote (within Germany), with monthly in-person collaboration at our Berlin officeHours: Part-time, 32 hours per weekContract: Fixed-termSalary: EUR 53,000 â 59,000 (at 32 hours per week)We are building a new capability that turns fragmented,... Please mention the word **THRIFTY** and tag RMTcyLjIxNC4xNTUuMTE3 when applying to show you read the job post completely (#RMTcyLjIxNC4xNTUuMTE3). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Location: Mostly remote (within Germany), with monthly in-person collaboration at our Berlin officeHours: Part-time, 32 hours per weekContract: Fixed-termSalary: EUR 53,000 â 59,000 (at 32 hours per week)We are building a new capability that turns fragmented,... Please mention the word **THRIFTY** and tag RMTcyLjIxNC4xMDIuNA== when applying to show you read the job post completely (#RMTcyLjIxNC4xMDIuNA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "tags": [
         "golang",
         "infosec",
@@ -426,6 +429,34 @@
         "recruiter",
         "digital nomad"
       ],
+      "verdict": "eligible",
+      "fit": 50,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
+    {
+      "title": "Enterprise Account Manager - Riyadh (Saudi National)",
+      "company": "BeyondTrust",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/beyondtrust-enterprise-account-manager-riyadh-saudi-national",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Remote Saudi Arabia BeyondTrust is a place where you can bring your purpose to life through the work that you do, creating a safer world through our cybersecurity SaaS portfolio. Our culture of flexibility, trust, and continual learning means you will be recognized for your growth, and for the impact you make on our success. You will be surrounded by people who challenge, support, and inspire you to be the best version of yourself. The Role Identify, generate, qualify, and close new business for customers and prospects in a defined territory.&nbsp; Responsible for managing the fu",
+      "tags": [],
+      "verdict": "eligible",
+      "fit": 50,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
+    {
+      "title": "Manager, Professional Services",
+      "company": "Collibra",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/collibra-manager-professional-services",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Remote, USA Joining Collibra’s Professional Services Team At Collibra Public Sector, our Professional Services team relies on Federal Solution Architects to deliver on customer expectations for the services we sell, working directly with customer key projects stakeholders throughout the entire customer journey. Ensuring growth, adoption and renewal, Federal Solution Architects act as customer champions, ensuring customers are onboarded and realizing value rapidly. Managers, Professional Services at Collibra are responsible for&nbsp; Supporting federal customer engagements by deli",
+      "tags": [],
       "verdict": "eligible",
       "fit": 50,
       "reasons": [
@@ -514,23 +545,6 @@
       "fit": 50,
       "reasons": [
         "remote — anywhere / global"
-      ]
-    },
-    {
-      "title": "Partner Solutions Architect (Pan-EMEA GSI)",
-      "company": "Datadog",
-      "location": "Germany, Italy, Netherlands, Spain, Sweden, UK",
-      "url": "https://jobicy.com/jobs/152955-partner-solutions-architect-pan-emea-gsi",
-      "source": "Jobicy",
-      "description": "We are Datadog's in-house product experts. The technical solutions team enables Datadog's worldwide growth by educating potential clients and ensuring that existing customers are happy and successful. The Partner Solution Architect (PSA) is a Datadog expert who will work closely with Datadog’s Director of Partner Solutions Architects, and is aligned to our Channels &amp; Alliances&hellip;",
-      "tags": [
-        "technical support"
-      ],
-      "verdict": "eligible",
-      "fit": 48,
-      "reasons": [
-        "remote — anywhere / global",
-        "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
     {
@@ -726,6 +740,21 @@
       ]
     },
     {
+      "title": "Senior Detection & Response Engineer",
+      "company": "Expel",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/expel-senior-detection-response-engineer",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Remote You're the detection engineer people turn to when they ask \"what does Microsoft actually see here?\" Not the marketing-slide answer, the real map. Which product emits which telemetry, any anticipated ingestion lags, what table or API it lands in, which license tier gates it, how long it survives before it ages out, and where the documentation quietly disagrees with reality. When a new technique drops, your first instinct is to ask which Microsoft signal would catch it, and whether customers have it switched on. You also know Microsoft never sits still. Hunting tables appear",
+      "tags": [],
+      "verdict": "eligible",
+      "fit": 44,
+      "reasons": [
+        "remote — anywhere / global",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
       "title": "Senior Engineer (.NET)",
       "company": "Current",
       "location": "Anywhere in the World",
@@ -781,32 +810,6 @@
       "fit": 60,
       "reasons": [
         "location unconfirmed — verify it's open to Africa"
-      ]
-    },
-    {
-      "title": "Technical Engineer (Amazon Connect and CloudWatch)",
-      "company": "Global Rabbits",
-      "location": "United States",
-      "url": "https://himalayas.app/companies/global-rabbits/jobs/technical-engineer-amazon-connect-and-cloudwatch",
-      "source": "Himalayas",
-      "description": "This is a remote position. Global Rabbits is a true Nearshore provider, attracting the best talent from LATAM and providing our customers with top tier results while offering a cost effective solution. We partner with our clients by building digital teams that extend their capabilities and allow them to leverage our talented nearshore resources. ​We are looking for a Technical Engineer with strong development and AWS expertise to support our Amazon Connect and AWS monitoring initiatives. The ideal candidate will combine software engineering skills with hands-on experience in cloud infrastructu",
-      "tags": [
-        "technical-engineer",
-        "cloud-engineer",
-        "devops-engineer",
-        "site-reliability-engineer",
-        "aws-engineer",
-        "aws-connect-engineer",
-        "amazon-connect-support-engineer",
-        "amazon-connect-engineer",
-        "aws-cloud-engineer",
-        "senior-aws-engineer",
-        "aws-support-engineer"
-      ],
-      "verdict": "review",
-      "fit": 56,
-      "reasons": [
-        "United states-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -979,6 +982,38 @@
       "reasons": [
         "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
         "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Associate Renewals Manager",
+      "company": "GitLab",
+      "location": "Ireland, Israel",
+      "url": "https://jobicy.com/jobs/155427-associate-renewals-manager",
+      "source": "Jobicy",
+      "description": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster. The same principles built into&hellip;",
+      "tags": [
+        "sales"
+      ],
+      "verdict": "review",
+      "fit": 48,
+      "reasons": [
+        "Africa-friendly employer (Gitlab) — role location unconfirmed"
+      ]
+    },
+    {
+      "title": "Backend Engineer, Create: Repository Management",
+      "company": "GitLab",
+      "location": "UK",
+      "url": "https://jobicy.com/jobs/155428-backend-engineer-create-repository-management",
+      "source": "Jobicy",
+      "description": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster. The same principles built into&hellip;",
+      "tags": [
+        "software engineering"
+      ],
+      "verdict": "review",
+      "fit": 48,
+      "reasons": [
+        "Uk-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -1175,6 +1210,40 @@
       ]
     },
     {
+      "title": "Senior DevOps Engineer",
+      "company": "Documo Inc.",
+      "location": "Anywhere",
+      "url": "https://jobicy.com/jobs/155494-senior-devops-engineer-9",
+      "source": "Jobicy",
+      "description": "Documo is on a mission to help businesses digitize and streamline their document workflows. As a fast-growing B2B SaaS company, our platform makes it easier to handle unstructured files like faxes and forms through tools like Intelligent Document Processing - turning messy paperwork into structured, usable data. We believe great products start with great people.&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
+      "verdict": "review",
+      "fit": 46,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Senior Backend Engineer, Platform",
+      "company": "Apaleo",
+      "location": "Germany",
+      "url": "https://jobicy.com/jobs/155450-senior-backend-engineer-platform",
+      "source": "Jobicy",
+      "description": "Join Apaleo and shape the future of hospitality tech Apaleo is the world’s most open, API-first property management platform, powering the next generation of hospitality operations. Our modular, AI-powered infrastructure lets hoteliers customise their tech stack, automate routine work and deliver seamless, personalised guest experiences, powered by best-in-class apps and autonomous AI agents that adapt&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
+      "verdict": "review",
+      "fit": 46,
+      "reasons": [
+        "Germany-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
       "title": "Senior Systems Engineer",
       "company": "Fueled",
       "location": "APAC",
@@ -1209,36 +1278,42 @@
       ]
     },
     {
-      "title": "Senior Software Engineer (.NET) (f/m/d)",
-      "company": "Apaleo",
-      "location": "Germany",
-      "url": "https://jobicy.com/jobs/152912-senior-software-engineer-net-f-m-d",
-      "source": "Jobicy",
-      "description": "Join Apaleo and Shape the Future of Hospitality Tech! Apaleo is the world’s most open, API-first property management platform powering the next generation of hospitality operations. Its modular, AI-powered infrastructure enables hoteliers to customise their tech stack, automate routine work, and deliver seamless, personalised guest experiences, powered by best-in-class apps and autonomous AI agents that&hellip;",
+      "title": "Tech Lead Full-Stack Rails Engineer",
+      "company": "Mitre Media",
+      "location": "USA, Canada, USA timezones",
+      "url": "https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746",
+      "source": "Remotive",
+      "description": "About Mitre Media Mitre Media is redefining FinTech with AI-driven tools that empower millions of investors. Our portfolio, including Dividend.com and MutualFunds.com, leverages LLMs to deliver novel data insights and visually rich user experiences. For over a decade, we’ve served individual investors, financial advisors, and top asset managers like BlackRock and Vanguard through our premium data, tools, and advertising solutions. Join our lean, entrepreneurial team to shape the future of AI-powered investing from your location ±3 hours from Eastern Time. Our users are deeply engaged, spending",
       "tags": [
-        "software engineering"
+        "api",
+        "css",
+        "docker",
+        "elasticsearch",
+        "fullstack",
+        "html",
+        "javascript",
+        "kubernetes",
+        "postgresql",
+        "react",
+        "ror",
+        "ruby/rails",
+        "ai/ml",
+        "cad",
+        "advertising",
+        "redis",
+        "es6",
+        "web applications",
+        "mysql",
+        "nlp",
+        "fintech",
+        "micro services",
+        "github",
+        "system architecture"
       ],
       "verdict": "review",
-      "fit": 46,
+      "fit": 38,
       "reasons": [
-        "Germany-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Senior DevOps Engineer",
-      "company": "Nextiva",
-      "location": "Mexico",
-      "url": "https://jobicy.com/jobs/152901-senior-devops-engineer-7",
-      "source": "Jobicy",
-      "description": "Redefine the future of customer experiences. One conversation at a time. At Nextiva, we’re reimagining how businesses connect, bringing together customer experience and team collaboration on a single, conversation centric platform. Powered by AI, driven by human innovation. Our culture is forward thinking, customer obsessed and built on the belief that meaningful connections drive better&hellip;",
-      "tags": [
-        "devops & infrastructure"
-      ],
-      "verdict": "review",
-      "fit": 46,
-      "reasons": [
-        "Mexico-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -1400,50 +1475,51 @@
       ]
     },
     {
-      "title": "Clinical Coordination Manager",
-      "company": "Enable Dental",
-      "location": "Austin, Austin, Texas, United States",
-      "url": "https://remoteOK.com/remote-jobs/remote-clinical-coordination-manager-enable-dental-1136096",
-      "source": "RemoteOK",
-      "description": "Department: Support Operations Reports To: Director, Support Operations Location: Remote (U.S.) Position Type: Full-Time, Exempt Position Summary The Clinical Coordinator Department Manager oversees the Clinical Coordination team responsible for maintaining accurate, appropriately filled provider schedules across all markets. This role provides leadership, operational oversight, training, workload management, process improvement, and cross-department collaboration to support consistent scheduling performance. This leader sets daily and weekly priorities, delegates work, holds the team accounta",
+      "title": "Agile Coach (FTC)",
+      "company": "TrustedHousesitters",
+      "location": "UK",
+      "url": "https://jobicy.com/jobs/153382-agile-coach-ftc",
+      "source": "Jobicy",
+      "description": "TrustedHousesitters is a fast growing, direct-to-consumer marketplace that is redefining pet care and travel. Here at TrustedHousesitters, we’re on a mission to make travel work better for pets, for their people, and for the global community of animal lovers who look after them. We’ve got big plans on becoming the world’s most-loved travel solution for&hellip;",
       "tags": [
-        "design",
-        "saas",
-        "salesforce",
-        "wordpress",
-        "customer support",
-        "dev",
-        "testing",
-        "marketing",
-        "web dev",
-        "travel",
-        "cloud",
-        "ads",
-        "exec",
-        "content writing",
-        "stats",
-        "sales",
-        "recruiter",
-        "digital nomad",
-        "embedded",
-        "hr",
-        "sys admin",
-        "game dev",
-        "technical",
-        "payroll",
-        "finance",
-        "api",
-        "ops",
-        "engineer",
-        "education",
-        "coordinator",
-        "medical",
-        "full time"
+        "project & program management"
       ],
       "verdict": "review",
       "fit": 36,
       "reasons": [
-        "United states-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+        "Uk-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "Corporate Account Executive - Central",
+      "company": "Chainguard",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/155527-corporate-account-executive-central-2",
+      "source": "Jobicy",
+      "description": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. Our customers include Fortune 500 enterprises and global industry leaders, including Anduril, Canva, Fortinet, Hewlett Packard Enterprise, OpenAI,&hellip;",
+      "tags": [
+        "sales"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "Commercial Account Executive - Singapore",
+      "company": "Chainguard",
+      "location": "Singapore",
+      "url": "https://jobicy.com/jobs/155523-commercial-account-executive-singapore",
+      "source": "Jobicy",
+      "description": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. Our customers include Fortune 500 enterprises and global industry leaders, including Anduril, Canva, Fortinet, Hewlett Packard Enterprise, OpenAI,&hellip;",
+      "tags": [
+        "sales"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "Singapore-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -1556,29 +1632,6 @@
       "fit": 36,
       "reasons": [
         "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Senior Independent AI Engineer / Architect",
-      "company": "A.Team",
-      "location": "Americas, Europe, Israel",
-      "url": "https://remotive.com/remote-jobs/software-development/senior-independent-ai-engineer-architect-1919266",
-      "source": "Remotive",
-      "description": "Senior Independent AI Engineer / Architect Remote | Americas, Europe, or Israel Most AI engineers can find work. Finding work worth doing is harder. A.Team is an invite-only network of senior AI engineers, ML engineers, and AI architects building production AI systems for startups, enterprises, and global companies. Since 2020, builders in the network have earned more than $200M working with companies including Lyft, Google X, HCA, Unilever, Sightful, D-ID, and others. The Work You'll join small teams solving real problems. Not demos. Not proof-of-concepts that never ship. Not another thin wra",
-      "tags": [
-        "go",
-        "ui/ux",
-        "wordpress",
-        "chat",
-        "apple",
-        "testing",
-        "catalyst"
-      ],
-      "verdict": "review",
-      "fit": 30,
-      "reasons": [
-        "Europe-tagged — verify it's open to Africa first",
-        "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
     {
@@ -1701,51 +1754,6 @@
       ]
     },
     {
-      "title": "Senior Manager, Salesforce Platform Strategy & Delivery",
-      "company": "NetBrain",
-      "location": "United States",
-      "url": "https://himalayas.app/companies/netbrain/jobs/senior-manager-salesforce-platform-strategy-delivery",
-      "source": "Himalayas",
-      "description": "Founded in 2004, NetBrain is the leader in no-code network automation. Its ground-breaking Next-Gen platform provides IT operations teams with the ability to scale their hybrid multi-cloud connected networks by automating the processes associated with Diagnostic Troubleshooting, Outage Prevention and Protected Change Management. Today, over 2,500 of the world’s largest enterprises and managed services providers leverage NetBrain ’s platform. What We Need NetBrain is seeking a hands-on Senior Manager of Salesforce Platform Strategy and Delivery to lead the operating model, roadmap, governance, ",
-      "tags": [
-        "salesforce-administrator",
-        "salesforce-manager",
-        "crm-manager",
-        "platform-administrator",
-        "technical-manager",
-        "salesforce-platform-lead",
-        "salesforce-delivery-lead",
-        "senior-manager-technology-strategy"
-      ],
-      "verdict": "review",
-      "fit": 30,
-      "reasons": [
-        "United states-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Senior Independent Software Developer",
-      "company": "A.Team",
-      "location": "Americas, Europe, Israel",
-      "url": "https://remotive.com/remote-jobs/software-development/senior-independent-software-developer-1919265",
-      "source": "Remotive",
-      "description": "You must be located in the Americas, Europe, or Israel to apply. A·Team is a VC-backed, stealth, application-only home on the internet for senior independent software builders to team up with hand-picked, high-growth companies on their next big thing. After talking with hundreds of independent engineers, designers, and product folks, we heard over and over that finding vetted, high-quality, consistent clients is hard, and projects are often too small to be rewarding. A·Team matches small teams of the most talented builders in the world with companies backed by a16z, YC, Softbank, General Catal",
-      "tags": [
-        "go",
-        "wordpress",
-        "chat",
-        "apple",
-        "testing",
-        "catalyst"
-      ],
-      "verdict": "blocked",
-      "fit": 0,
-      "reasons": [
-        "work-authorization wall (must be located in)"
-      ]
-    },
-    {
       "title": "Principal Software Engineer",
       "company": "Vytalize Health",
       "location": "Kansas",
@@ -1843,34 +1851,6 @@
       "fit": 0,
       "reasons": [
         "Vp-level — usually 5–10+ yrs, you have ~4"
-      ]
-    },
-    {
-      "title": "Principal Product Manager",
-      "company": "DomainTools",
-      "location": "Worldwide",
-      "url": "https://remoteOK.com/remote-jobs/remote-principal-product-manager-domaintools-1137396",
-      "source": "RemoteOK",
-      "description": "DomainTools is looking for a Principal Product Manager to join its Product team. Data is the backbone of our products, and this role will be responsible for growing and refining the data products that drive our threat intelligence solutions, with API-first delivery and integration into UI, AI and third-party experiences and workflows. This is a strategic role for the company that has a high impact on the companyâs success, and has a great deal of visibility both inside and outside the company. The ideal candidate is a strong leader and successful product manager with a track record of delive",
-      "tags": [
-        "product manager",
-        "exec",
-        "infosec",
-        "marketing",
-        "design",
-        "web dev",
-        "scrum",
-        "cloud",
-        "api",
-        "stats",
-        "sales",
-        "engineer",
-        "digital nomad"
-      ],
-      "verdict": "blocked",
-      "fit": 0,
-      "reasons": [
-        "Principal-level — usually 5–10+ yrs, you have ~4"
       ]
     },
     {
@@ -2162,54 +2142,6 @@
       "description": "Synthesia is the world’s leading AI video platform for business, used by over 90% of the Fortune 100. Founded in 2017, the company is headquartered in London, with offices and teams across Europe and the US. As AI continues to shape the way we live and work, Synthesia develops products to enhance visual communication and&hellip;",
       "tags": [
         "cybersecurity"
-      ],
-      "verdict": "blocked",
-      "fit": 0,
-      "reasons": [
-        "Staff-level — usually 5–10+ yrs, you have ~4"
-      ]
-    },
-    {
-      "title": "Principal Partner Manager - Channels (GSI)",
-      "company": "Datadog",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/152957-principal-partner-manager-channels-gsi",
-      "source": "Jobicy",
-      "description": "We are looking for an experienced Partner Sales Manager to ignite partnerships by identifying and recruiting new partners for long-term success and nurture ongoing relationships with key strategic Global Systems Integrator partners. Our ultimate goal is building channels and alliances that drive new customer adoption and revenue. This is a great opportunity for you to&hellip;",
-      "tags": [
-        "business development"
-      ],
-      "verdict": "blocked",
-      "fit": 0,
-      "reasons": [
-        "Principal-level — usually 5–10+ yrs, you have ~4"
-      ]
-    },
-    {
-      "title": "Staff DevOps Engineer",
-      "company": "Nextiva",
-      "location": "Mexico",
-      "url": "https://jobicy.com/jobs/152908-staff-devops-engineer-2",
-      "source": "Jobicy",
-      "description": "Redefine the future of customer experiences. One conversation at a time. At Nextiva, we’re reimagining how businesses connect, bringing together customer experience and team collaboration on a single, conversation centric platform. Powered by AI, driven by human innovation. Our culture is forward thinking, customer obsessed and built on the belief that meaningful connections drive better&hellip;",
-      "tags": [
-        "devops & infrastructure"
-      ],
-      "verdict": "blocked",
-      "fit": 0,
-      "reasons": [
-        "Staff-level — usually 5–10+ yrs, you have ~4"
-      ]
-    },
-    {
-      "title": "Staff Data Engineer",
-      "company": "Jobber",
-      "location": "Canada",
-      "url": "https://jobicy.com/jobs/154934-staff-data-engineer-2",
-      "source": "Jobicy",
-      "description": "Please note: Our Talent team at Jobber will be offline for Jobber Impact - our flagship event of the year, bringing Jobberinos together to connect, learn, and celebrate what we're building - starting October 6th and extending until October 9th. We’ll be back to go through applications and reach out with an update on your&hellip;",
-      "tags": [
-        "data science & analytics"
       ],
       "verdict": "blocked",
       "fit": 0,
