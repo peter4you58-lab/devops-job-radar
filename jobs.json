@@ -1,10 +1,10 @@
 {
-  "generated": "2026-10-18 10:02 UTC",
-  "count": 91,
+  "generated": "2026-10-19 11:27 UTC",
+  "count": 94,
   "summary": {
-    "scanned": 91,
-    "eligible": 38,
-    "review": 37,
+    "scanned": 94,
+    "eligible": 40,
+    "review": 38,
     "blocked": 16
   },
   "jobs": [
@@ -23,12 +23,42 @@
       ]
     },
     {
+      "title": "Software Engineer, AI Coding Tasks",
+      "company": "Askable",
+      "location": "Worldwide",
+      "url": "https://remotive.com/remote-jobs/software-development/software-engineer-ai-coding-tasks-2091158",
+      "source": "Remotive",
+      "description": "We're looking for experienced software engineers to build AI coding tasks from a codebase they know well. US$1,000 per task, and you can do as many tasks as you want. You turn a real change from a repository you know into a task that today's best AI coding models struggle with: hard for the models, but fair for a skilled engineer. Your tasks are used to measure and train AI coding models. Remote, any location. US$1,000 per task that passes review. Minimum of one task a week, about 10 hours a week. How it works Apply. Complete a short screener interview and upload your resume. Propose. Once you",
+      "tags": [
+        "c++",
+        "docker",
+        "git",
+        "go",
+        "java",
+        "python",
+        "security",
+        "ai/ml",
+        "rust",
+        "typescript",
+        "distributed systems",
+        "solid",
+        "linux/unix",
+        "testing",
+        "infrastructure"
+      ],
+      "verdict": "eligible",
+      "fit": 70,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
+    {
       "title": "Golang Kubernetes Engineer",
       "company": "Arango",
       "location": "Worldwide",
       "url": "https://remoteOK.com/remote-jobs/remote-golang-kubernetes-engineer-arango-1137400",
       "source": "RemoteOK",
-      "description": "Remote - Arango delivers a unified, natively multimodel contextual data platform that powers AI agents, assistants, and applications with the unified, current, and trusted business context needed to reason, decide, and act at scale.The Arango Contextual Data Platform connects... Please mention the word **FESTIVE** and tag RMTcyLjIwOC45Mi4xNjc= when applying to show you read the job post completely (#RMTcyLjIwOC45Mi4xNjc=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Arango delivers a unified, natively multimodel contextual data platform that powers AI agents, assistants, and applications with the unified, current, and trusted business context needed to reason, decide, and act at scale.The Arango Contextual Data Platform connects... Please mention the word **FESTIVE** and tag RMjAuMy4xNjYuODg= when applying to show you read the job post completely (#RMjAuMy4xNjYuODg=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "tags": [
         "golang",
         "golang",
@@ -221,20 +251,6 @@
       ]
     },
     {
-      "title": "Software Engineer",
-      "company": "CircleCI",
-      "location": "Anywhere in the World",
-      "url": "https://weworkremotely.com/remote-jobs/circleci-software-engineer",
-      "source": "WeWorkRemotely",
-      "description": "Headquarters: Ontario, Canada (Remote) About CircleCI Engineering CI/CD has been solved. Now it's being reinvented. AI agents don't just run pipelines. They write code, trigger builds, interpret failures, and propose fixes. The interfaces that developers use to understand and trust that work don't exist yet. We're building them. At CircleCI, our guiding principles aren't posters on a wall. We learn fast: we run experiments, accept failure, and scale what works. We think like the customer: every decision connects back to the developer sitting in front of a failing build at 2 am. We own the outc",
-      "tags": [],
-      "verdict": "eligible",
-      "fit": 54,
-      "reasons": [
-        "remote — anywhere / global"
-      ]
-    },
-    {
       "title": "Remote Office Assistant",
       "company": "Coalition Technologies",
       "location": "Worldwide",
@@ -389,7 +405,7 @@
       "location": "Worldwide",
       "url": "https://remoteOK.com/remote-jobs/remote-platform-and-integration-engineer-security-telemetry-redmimicry-1137465",
       "source": "RemoteOK",
-      "description": "Remote - Location: Mostly remote (within Germany), with monthly in-person collaboration at our Berlin officeHours: Part-time, 32 hours per weekContract: Fixed-termSalary: EUR 53,000 â 59,000 (at 32 hours per week)We are building a new capability that turns fragmented,... Please mention the word **THRIFTY** and tag RMTcyLjIwOC45Mi4xNjc= when applying to show you read the job post completely (#RMTcyLjIwOC45Mi4xNjc=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Location: Mostly remote (within Germany), with monthly in-person collaboration at our Berlin officeHours: Part-time, 32 hours per weekContract: Fixed-termSalary: EUR 53,000 â 59,000 (at 32 hours per week)We are building a new capability that turns fragmented,... Please mention the word **THRIFTY** and tag RMjAuMy4xNjYuODg= when applying to show you read the job post completely (#RMjAuMy4xNjYuODg=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "tags": [
         "golang",
         "infosec",
@@ -721,6 +737,21 @@
       ]
     },
     {
+      "title": "Senior Security Engineer, Detection & Response",
+      "company": "Flexport",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/flexport-senior-security-engineer-detection-response",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: U.S. Remote About Flexport:&nbsp; At Flexport, we believe global trade can move the human race forward. That’s why it’s our mission to make global commerce so easy there will be more of it. We’re shaping the future of a $10T industry with solutions powered by innovative technology and exceptional people. Today, companies of all sizes—from emerging brands to Fortune 500s—use Flexport technology to move more than $19B of merchandise across 112 countries a year.&nbsp; The recent global supply chain crisis has put Flexport center stage as we continue to play a pivotal role in how goo",
+      "tags": [],
+      "verdict": "eligible",
+      "fit": 44,
+      "reasons": [
+        "remote — anywhere / global",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
       "title": "Senior Detection & Response Engineer",
       "company": "Expel",
       "location": "Anywhere in the World",
@@ -766,6 +797,39 @@
       ]
     },
     {
+      "title": "Senior Full-Stack Software Engineer (Remote in Europe)",
+      "company": "Skedda",
+      "location": "Europe",
+      "url": "https://jobicy.com/jobs/155727-senior-full-stack-software-engineer-remote-in-europe-2",
+      "source": "Jobicy",
+      "description": "FULL-TIME / 100% Remote / Within Europe (Central European Time Zone (CET)) Compensation: $75,000 to $85,000 USD per year (Depending on experience and qualifications) This role is designed for candidates currently based in the CET/EET/WET timezones to support collaboration with our distributed engineering team - candidates outside of that region will not be considered. We&hellip;",
+      "tags": [
+        "software engineering"
+      ],
+      "verdict": "eligible",
+      "fit": 44,
+      "reasons": [
+        "remote — anywhere / global",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Infrastructure Engineer",
+      "company": "Bayesian Health",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/153599-infrastructure-engineer-3",
+      "source": "Jobicy",
+      "description": "In Brief We’re a rapidly growing startup on a mission to make healthcare proactive by empowering physicians, nurses, and care team members with real-time data to save lives. You will build and maintain the infrastructure for the Bayesian platform and develop CI/CD to enable other team members such as software engineers, data scientists, etc. to&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
+      "verdict": "review",
+      "fit": 56,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
       "title": "Senior DevOps Engineer, Cloud Delivery",
       "company": "NetBox Labs",
       "location": "USA",
@@ -780,6 +844,22 @@
       "reasons": [
         "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
         "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Site Reliability Engineer",
+      "company": "MaintainX",
+      "location": "Canada",
+      "url": "https://jobicy.com/jobs/153549-site-reliability-engineer-3",
+      "source": "Jobicy",
+      "description": "MaintainX is a leading mobile-first work execution platform for industrial and frontline teams. More than 13,000 customers, including Duracell, McDonald's, Shell, DHL and Volvo, use MaintainX to cut unplanned downtime and run better operations, across 13.9 million managed assets and 79.5 million completed work orders. In August 2026 MaintainX became part of Autodesk, joining Autodesk&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
+      "verdict": "review",
+      "fit": 52,
+      "reasons": [
+        "Canada-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -815,19 +895,26 @@
       ]
     },
     {
-      "title": "Software Engineer (Platform - SRE)",
-      "company": "Paddle",
-      "location": "Ireland, Portugal, UK",
-      "url": "https://jobicy.com/jobs/155096-software-engineer-platform-sre",
-      "source": "Jobicy",
-      "description": "What do we do? Paddle offers digital product companies a completely different approach to their payment infrastructure. Instead of assembling and maintaining a complex stack of payments-related apps and services, we’re a Merchant of Record for our customers. That means we take away 100% of the pain of payment fragmentation. It’s faster, safer, cheaper, and,&hellip;",
+      "title": "Key Account Manager - Infrastructure",
+      "company": "HellermannTyton",
+      "location": "United States",
+      "url": "https://himalayas.app/companies/hellermanntyton-com/jobs/key-account-manager-infrastructure?utm_source=api",
+      "source": "Himalayas",
+      "description": "Job Summary The Key Account Manager - Infrastructure will play a pivotal role in driving strategic development and sales growth within the Data Center market, which includes but is not limited to Construction Companies that design and build Data Centers, Data Center owners and their Engineers. This role focuses on developing a specific market area while crafting and executing targeted sales strategies for opportunities and accounts. Success in this position hinges on a proactive approach to identifying opportunities, building strong client relationships, and developing comprehensive program pl",
       "tags": [
-        "devops & infrastructure"
+        "key-account-manager",
+        "account-manager",
+        "sales-account-manager",
+        "key-account-manager-data-centers",
+        "strategic-account-manager",
+        "infrastructure-sales-manager",
+        "key-account-sales-manager",
+        "key-account-management-jobs"
       ],
       "verdict": "review",
       "fit": 52,
       "reasons": [
-        "Uk-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+        "United states-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -1046,61 +1133,19 @@
       ]
     },
     {
-      "title": "Senior .NET Full-stack Developer",
-      "company": "Lemon.io",
-      "location": "Northern America, LATAM, Europe, APAC",
-      "url": "https://remotive.com/remote-jobs/software-development/senior-net-full-stack-developer-2091130",
-      "source": "Remotive",
-      "description": "Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The rate depends on your seniority level, skills and experience. We've already paid out over $11M to our engineers. No more hunting for clients or negotiating rates — let us handle the business side of things so you can focus on what you do best. Choose a schedule that works best for you. It’s possible to communicate async or minimally overlap with",
+      "title": "Senior Technical Product Manager, Token Factory",
+      "company": "Nebius",
+      "location": "Europe, Netherlands, UK",
+      "url": "https://jobicy.com/jobs/149361-senior-technical-product-manager-token-factory",
+      "source": "Jobicy",
+      "description": "About Nebius: Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-house AI/ML infrastructure. Built by engineers, for engineers. From&hellip;",
       "tags": [
-        ".net",
-        "android",
-        "c",
-        "c#",
-        "c++",
-        "data science",
-        "fullstack",
-        "golang",
-        "ios",
-        "java",
-        "javascript",
-        "node.js",
-        "php",
-        "python",
-        "react",
-        "ruby/rails",
-        "scala",
-        "shopify",
-        "swift",
-        "ui/ux",
-        "wordpress",
-        "blockchain",
-        "ai/ml",
-        "automation",
-        "project management",
-        "react native",
-        "rust",
-        "unity",
-        "electron",
-        "spring",
-        "laravel",
-        "ethereum",
-        "graphic design",
-        "typescript",
-        "angular",
-        "firebase",
-        "data engineering",
-        "site reliability",
-        "symfony",
-        "startup",
-        "marketplace",
-        "next.js",
-        "flutter"
+        "product & operations"
       ],
       "verdict": "review",
       "fit": 46,
       "reasons": [
-        "Europe-tagged — verify it's open to Africa first",
+        "Uk-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -1284,6 +1329,22 @@
       ]
     },
     {
+      "title": "Software Engineer II - Poland",
+      "company": "Housecall Pro",
+      "location": "Poland",
+      "url": "https://jobicy.com/jobs/155678-software-engineer-ii-poland",
+      "source": "Jobicy",
+      "description": "Why Housecall Pro? Help us build solutions that build better lives. At Housecall Pro, we show up to work every day to make a difference for real people: the home service professionals that support America’s 100 million homes. We’re all about the Pro, and dedicate our days to helping them streamline operations, scale their businesses,&hellip;",
+      "tags": [
+        "software engineering"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "Poland-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
       "title": "Software Engineer - Applied AI",
       "company": "DevRev",
       "location": "Philippines",
@@ -1428,28 +1489,6 @@
       ]
     },
     {
-      "title": "Manager, Platform Integrations & Engineering",
-      "company": "Lifelancer",
-      "location": "United States",
-      "url": "https://himalayas.app/companies/lifelancer/jobs/manager-platform-integrations-engineering",
-      "source": "Himalayas",
-      "description": "Job Title: Manager, Platform Integrations &amp; Engineering Job Location: Remote, North Carolina, USA Job Location Type: Remote Job Contract Type: Full-time Job Seniority Level: Work Schedule Standard (Mon-Fri) Environmental Conditions Office Job Description Manager, Platform Integrations &amp; Engineering The opportunity The Manager, Platform Integrations &amp; Engineering leads a global team that designs, builds, and supports secure, scalable integrations for CRG Digital platforms and clinical research capabilities. You will set engineering standards across enterprise applications, data plat",
-      "tags": [
-        "integration-engineer",
-        "platform-engineer",
-        "engineering-manager",
-        "technical-manager",
-        "software-engineering-manager",
-        "senior-integration-engineering-manager",
-        "platform-engineering-manager"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "United states-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
       "title": "Senior Software Architect (C#/Angular/AI First) - GovTech SaaS company",
       "company": "Truelogic",
       "location": "Mexico",
@@ -1565,23 +1604,6 @@
       "fit": 30,
       "reasons": [
         "Europe-tagged — verify it's open to Africa first",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Senior Forward Deployed Engineer (AI Agent) - UK",
-      "company": "Cresta",
-      "location": "UK",
-      "url": "https://jobicy.com/jobs/155100-senior-forward-deployed-engineer-ai-agent-uk",
-      "source": "Jobicy",
-      "description": "Cresta unlocks the true potential of the customer experience, turning every conversation into a competitive advantage. Cresta’s unified AI platform combines conversational AI agents, real-time human agent augmentation, and comprehensive conversation intelligence to drive revenue and efficiency gains across every channel. The world’s leading companies, including United Airlines, Cox Communications, and Marriott, use Cresta to&hellip;",
-      "tags": [
-        "software engineering"
-      ],
-      "verdict": "review",
-      "fit": 30,
-      "reasons": [
-        "Uk-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -1815,6 +1837,22 @@
       ]
     },
     {
+      "title": "Principal DevOps Engineer",
+      "company": "NBCUniversal",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/148200-principal-devops-engineer-2",
+      "source": "Jobicy",
+      "description": "Company DescriptionNBCUniversal is one of the world's leading media and entertainment companies. We create world-class content, which we distribute across our portfolio of film, television, and streaming, and bring to life through our global theme park destinations, consumer products, and experiences. We own and operate leading entertainment and news brands, including NBC, NBC News, NBC&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Principal-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
       "title": "Senior Software Engineer - SRE",
       "company": "Salesloft",
       "location": "Mexico",
@@ -1903,22 +1941,6 @@
       "description": "Phantom is on a mission to connect the world to the freedom of open markets. Tens of millions of people all over the world use Phantom to access global markets that never close, including perpetuals, prediction markets, tokenized assets, stablecoins and memes. Phantom users are able to discover the markets that matter and the cultural&hellip;",
       "tags": [
         "devops & infrastructure"
-      ],
-      "verdict": "blocked",
-      "fit": 0,
-      "reasons": [
-        "Staff-level — usually 5–10+ yrs, you have ~4"
-      ]
-    },
-    {
-      "title": "Senior Staff Software Engineer",
-      "company": "Cision",
-      "location": "Bulgaria, Hungary",
-      "url": "https://jobicy.com/jobs/155079-senior-staff-software-engineer",
-      "source": "Jobicy",
-      "description": "At Cision, we believe in empowering every individual to make an impact. Here, your voice is heard, your ideas are valued, and your unique perspective fuels our collective success. As part of our global team, you'll thrive in an environment that champions curiosity, collaboration, and innovation, all while making meaningful contributions to the brands we&hellip;",
-      "tags": [
-        "software engineering"
       ],
       "verdict": "blocked",
       "fit": 0,
