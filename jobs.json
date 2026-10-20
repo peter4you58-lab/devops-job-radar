@@ -1,11 +1,11 @@
 {
-  "generated": "2026-10-19 11:27 UTC",
+  "generated": "2026-10-20 10:33 UTC",
   "count": 94,
   "summary": {
     "scanned": 94,
-    "eligible": 40,
-    "review": 38,
-    "blocked": 16
+    "eligible": 37,
+    "review": 40,
+    "blocked": 17
   },
   "jobs": [
     {
@@ -58,26 +58,12 @@
       "location": "Worldwide",
       "url": "https://remoteOK.com/remote-jobs/remote-golang-kubernetes-engineer-arango-1137400",
       "source": "RemoteOK",
-      "description": "Remote - Arango delivers a unified, natively multimodel contextual data platform that powers AI agents, assistants, and applications with the unified, current, and trusted business context needed to reason, decide, and act at scale.The Arango Contextual Data Platform connects... Please mention the word **FESTIVE** and tag RMjAuMy4xNjYuODg= when applying to show you read the job post completely (#RMjAuMy4xNjYuODg=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Arango delivers a unified, natively multimodel contextual data platform that powers AI agents, assistants, and applications with the unified, current, and trusted business context needed to reason, decide, and act at scale.The Arango Contextual Data Platform connects... Please mention the word **FESTIVE** and tag RMTMuODYuMTEwLjE4Ng== when applying to show you read the job post completely (#RMTMuODYuMTEwLjE4Ng==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "tags": [
         "golang",
         "golang",
         "engineer"
       ],
-      "verdict": "eligible",
-      "fit": 70,
-      "reasons": [
-        "remote — anywhere / global"
-      ]
-    },
-    {
-      "title": "Developer Advocate - Service Management EMEA",
-      "company": "Datadog",
-      "location": "Anywhere in the World",
-      "url": "https://weworkremotely.com/remote-jobs/datadog-developer-advocate-service-management-emea",
-      "source": "WeWorkRemotely",
-      "description": "Headquarters: France, Remote; Portugal, Remote; Spain, Remote; The Netherlands, Remote We are a team of engineers that translate our real-world experience to help our user communities solve problems. With a focus on service management, helping teams respond to incidents, run on-call, and automate their operations, you will work with practitioners and leaders across the industry and broaden your impact to the SRE, Engineer, DevOps, and Operations community at large. This is a unique opportunity to use both your engineering and creative storytelling skills to shape the landscape in cloud observa",
-      "tags": [],
       "verdict": "eligible",
       "fit": 70,
       "reasons": [
@@ -111,20 +97,6 @@
         "backend",
         "digital nomad"
       ],
-      "verdict": "eligible",
-      "fit": 66,
-      "reasons": [
-        "remote — anywhere / global"
-      ]
-    },
-    {
-      "title": "IT Infrastructure Engineer",
-      "company": "BlueGeko",
-      "location": "Anywhere in the World",
-      "url": "https://weworkremotely.com/remote-jobs/bluegeko-it-infrastructure-engineer",
-      "source": "WeWorkRemotely",
-      "description": "Headquarters: London URL: http://bluegeko.com IT Infrastructure Engineer (Full-Time / Remote) We are looking for an experienced IT Infrastructure Engineer to manage, maintain, and improve our company's IT systems, networks, and infrastructure. What You'll Do Manage and maintain IT infrastructure, servers, and networks. Monitor system performance, security, and reliability. Troubleshoot infrastructure, hardware, and network issues. Manage access controls, backups, and system configurations. Support infrastructure upgrades, migrations, and improvements. Ensure systems remain secure, scalable, an",
-      "tags": [],
       "verdict": "eligible",
       "fit": 66,
       "reasons": [
@@ -405,7 +377,7 @@
       "location": "Worldwide",
       "url": "https://remoteOK.com/remote-jobs/remote-platform-and-integration-engineer-security-telemetry-redmimicry-1137465",
       "source": "RemoteOK",
-      "description": "Remote - Location: Mostly remote (within Germany), with monthly in-person collaboration at our Berlin officeHours: Part-time, 32 hours per weekContract: Fixed-termSalary: EUR 53,000 â 59,000 (at 32 hours per week)We are building a new capability that turns fragmented,... Please mention the word **THRIFTY** and tag RMjAuMy4xNjYuODg= when applying to show you read the job post completely (#RMjAuMy4xNjYuODg=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Location: Mostly remote (within Germany), with monthly in-person collaboration at our Berlin officeHours: Part-time, 32 hours per weekContract: Fixed-termSalary: EUR 53,000 â 59,000 (at 32 hours per week)We are building a new capability that turns fragmented,... Please mention the word **THRIFTY** and tag RMTMuODYuMTEwLjE4Ng== when applying to show you read the job post completely (#RMTMuODYuMTEwLjE4Ng==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "tags": [
         "golang",
         "infosec",
@@ -425,20 +397,6 @@
       "url": "https://weworkremotely.com/remote-jobs/planetscale-enterprise-support-engineer",
       "source": "WeWorkRemotely",
       "description": "Headquarters: Remote - NA, APAC, EMEA PlanetScale is growing rapidly and reinventing the database space. The PlanetScale platform offers both Postgres and Vitess clusters. Vitess, an open-source database clustering system for horizontal scaling of MySQL, enables businesses to efficiently handle large-scale data workloads — without sacrificing developer experience. Our customers entrust us with what is often their most precious digital asset, their data, so the stakes couldn't be higher. We're looking for a Software Engineer to join our core engineering team and help us build the next generatio",
-      "tags": [],
-      "verdict": "eligible",
-      "fit": 50,
-      "reasons": [
-        "remote — anywhere / global"
-      ]
-    },
-    {
-      "title": "Enterprise Account Manager - Riyadh (Saudi National)",
-      "company": "BeyondTrust",
-      "location": "Anywhere in the World",
-      "url": "https://weworkremotely.com/remote-jobs/beyondtrust-enterprise-account-manager-riyadh-saudi-national",
-      "source": "WeWorkRemotely",
-      "description": "Headquarters: Remote Saudi Arabia BeyondTrust is a place where you can bring your purpose to life through the work that you do, creating a safer world through our cybersecurity SaaS portfolio. Our culture of flexibility, trust, and continual learning means you will be recognized for your growth, and for the impact you make on our success. You will be surrounded by people who challenge, support, and inspire you to be the best version of yourself. The Role Identify, generate, qualify, and close new business for customers and prospects in a defined territory.&nbsp; Responsible for managing the fu",
       "tags": [],
       "verdict": "eligible",
       "fit": 50,
@@ -545,56 +503,19 @@
       ]
     },
     {
-      "title": "Senior Shopify Developer",
-      "company": "Sanctuary Computer Inc",
-      "location": "Worldwide",
-      "url": "https://remotive.com/remote-jobs/software-development/senior-shopify-developer-2091140",
-      "source": "Remotive",
-      "description": "We are hiring a contract-based Senior Shopify Developer to contribute to our Design and Development Team. Original Job posting link here 🌎 About garden3d We are worker owned creative collective, innovating on everything from brands and IRL communities to IoT devices and cross platform apps. We share profit, open source everything, spin out new businesses, and invest in exciting ideas through financial and/or in-kind contributions. Our client roster includes Google, Stripe, Figma, Hinge, Black Socialists in America, ACLU, Pratt, Parsons, Mozilla, The Nobel Prize, MIT, Gnosis, Etsy &amp; Gagosia",
+      "title": "Backend Software Engineer",
+      "company": "Northflank",
+      "location": "Europe",
+      "url": "https://jobicy.com/jobs/150975-backend-software-engineer-2",
+      "source": "Jobicy",
+      "description": "Northflank is a cutting-edge cloud platform enabling developers to build and ship highly scalable, full-stack applications faster than ever before. We are a venture-backed company, and our platform is used by tens of thousands of developers worldwide in production. We are currently looking for a backend software engineer to join our team of passionate, dedicated professionals.&hellip;",
       "tags": [
-        "admin",
-        "api",
-        "backend",
-        "css",
-        "frontend",
-        "fullstack",
-        "graphql",
-        "node.js",
-        "postgresql",
-        "redux",
-        "seo",
-        "shopify",
-        "video",
-        "open source",
-        "paas",
-        "figma",
-        "documentation",
-        "analytics",
-        "brand design",
-        "typescript",
-        "redis",
-        "cypress",
-        "iot",
-        "runtime",
-        "json",
-        "responsive",
-        "prismic",
-        "motion design",
-        "testing",
-        "themes",
-        "next.js",
-        "cms",
-        "jest",
-        "rest",
-        "web sockets",
-        "performance optimization",
-        "mobile development"
+        "software engineering"
       ],
       "verdict": "eligible",
-      "fit": 44,
+      "fit": 50,
       "reasons": [
-        "remote — anywhere / global",
-        "senior title — a stretch at ~4 yrs, but go for it"
+        "remote — anywhere / global"
       ]
     },
     {
@@ -847,6 +768,38 @@
       ]
     },
     {
+      "title": "DevOps Engineer, Blockchain Infra (Fully Remote)",
+      "company": "Binance",
+      "location": "Europe, UAE",
+      "url": "https://jobicy.com/jobs/153653-devops-engineer-blockchain-infra-fully-remote",
+      "source": "Jobicy",
+      "description": "Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. We are trusted by 300+ million people in 100+ countries for our industry-leading security, user fund transparency, trading engine speed, deep liquidity, and an unmatched portfolio of digital-asset products. Binance offerings range from trading and finance&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
+      "verdict": "review",
+      "fit": 52,
+      "reasons": [
+        "Europe-tagged — verify it's open to Africa first"
+      ]
+    },
+    {
+      "title": "QA/DevOps Engineer",
+      "company": "Discord",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/155923-qa-devops-engineer",
+      "source": "Jobicy",
+      "description": "Discord has a highly engaged community of millions of daily active users who use the platform for many different reasons, but there’s one thing that nearly everyone does: play video games. Discord plays a uniquely important role in the future of gaming, and we are focused on making it easier and more fun for people&hellip;",
+      "tags": [
+        "qa & testing"
+      ],
+      "verdict": "review",
+      "fit": 52,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
       "title": "Site Reliability Engineer",
       "company": "MaintainX",
       "location": "Canada",
@@ -892,29 +845,6 @@
       "fit": 52,
       "reasons": [
         "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Key Account Manager - Infrastructure",
-      "company": "HellermannTyton",
-      "location": "United States",
-      "url": "https://himalayas.app/companies/hellermanntyton-com/jobs/key-account-manager-infrastructure?utm_source=api",
-      "source": "Himalayas",
-      "description": "Job Summary The Key Account Manager - Infrastructure will play a pivotal role in driving strategic development and sales growth within the Data Center market, which includes but is not limited to Construction Companies that design and build Data Centers, Data Center owners and their Engineers. This role focuses on developing a specific market area while crafting and executing targeted sales strategies for opportunities and accounts. Success in this position hinges on a proactive approach to identifying opportunities, building strong client relationships, and developing comprehensive program pl",
-      "tags": [
-        "key-account-manager",
-        "account-manager",
-        "sales-account-manager",
-        "key-account-manager-data-centers",
-        "strategic-account-manager",
-        "infrastructure-sales-manager",
-        "key-account-sales-manager",
-        "key-account-management-jobs"
-      ],
-      "verdict": "review",
-      "fit": 52,
-      "reasons": [
-        "United states-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -1042,6 +972,54 @@
       ]
     },
     {
+      "title": "Backend Engineer (Ruby), Create: Change Record",
+      "company": "GitLab",
+      "location": "Poland, UK",
+      "url": "https://jobicy.com/jobs/155809-backend-engineer-ruby-create-change-record",
+      "source": "Jobicy",
+      "description": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster. The same principles built into&hellip;",
+      "tags": [
+        "software engineering"
+      ],
+      "verdict": "review",
+      "fit": 48,
+      "reasons": [
+        "Uk-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "Business Development Representative, Spanish Speaking",
+      "company": "GitLab",
+      "location": "Spain",
+      "url": "https://jobicy.com/jobs/155813-business-development-representative-spanish-speaking",
+      "source": "Jobicy",
+      "description": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster. The same principles built into&hellip;",
+      "tags": [
+        "business development"
+      ],
+      "verdict": "review",
+      "fit": 48,
+      "reasons": [
+        "Spain-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "Business Development Representative, Italian Speaking",
+      "company": "GitLab",
+      "location": "France, Ireland, Netherlands, Spain, UK",
+      "url": "https://jobicy.com/jobs/155811-business-development-representative-italian-speaking",
+      "source": "Jobicy",
+      "description": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster. The same principles built into&hellip;",
+      "tags": [
+        "business development"
+      ],
+      "verdict": "review",
+      "fit": 48,
+      "reasons": [
+        "Uk-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
       "title": "Associate Renewals Manager",
       "company": "GitLab",
       "location": "Ireland, Israel",
@@ -1071,65 +1049,6 @@
       "fit": 48,
       "reasons": [
         "Uk-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Senior AI Engineer",
-      "company": "Lemon.io",
-      "location": "Northern America, LATAM, Europe, APAC",
-      "url": "https://remotive.com/remote-jobs/artificial-intelligence/senior-ai-engineer-2091131",
-      "source": "Remotive",
-      "description": "Are you a talented Senior AI Engineer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The rate depends on your skills and experience. We've already paid out over $11M to our engineers. No more hunting for clients or negotiating rates — let us handle the business side of things so you can focus on what you do best. We'll manually find the best project for you according to your skills and preferences. Choose a schedule that works be",
-      "tags": [
-        ".net",
-        "android",
-        "c",
-        "c#",
-        "c++",
-        "data science",
-        "golang",
-        "ios",
-        "java",
-        "javascript",
-        "node.js",
-        "php",
-        "python",
-        "react",
-        "ruby/rails",
-        "scala",
-        "shopify",
-        "swift",
-        "ui/ux",
-        "wordpress",
-        "blockchain",
-        "ai/ml",
-        "automation",
-        "project management",
-        "react native",
-        "rust",
-        "unity",
-        "electron",
-        "spring",
-        "laravel",
-        "ethereum",
-        "graphic design",
-        "typescript",
-        "angular",
-        "firebase",
-        "data engineering",
-        "site reliability",
-        "solid",
-        "symfony",
-        "startup",
-        "marketplace",
-        "next.js",
-        "flutter"
-      ],
-      "verdict": "review",
-      "fit": 46,
-      "reasons": [
-        "Europe-tagged — verify it's open to Africa first",
-        "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
     {
@@ -1235,20 +1154,27 @@
       ]
     },
     {
-      "title": "Senior Platform Engineer",
-      "company": "Solace",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/155202-senior-platform-engineer-4",
-      "source": "Jobicy",
-      "description": "About Solace Healthcare in the U.S. is fundamentally broken. The system is so complex that 88% of U.S. adults do not have the health literacy necessary to navigate it without help. Solace cuts through the red tape of healthcare by pairing patients with expert advocates and giving them the tools to make better decisions—and get&hellip;",
+      "title": "AWS Cloud Developer (all genders)",
+      "company": "Alice&Bob.Company",
+      "location": "United States",
+      "url": "https://himalayas.app/companies/alice-bob-company/jobs/aws-cloud-developer-all-genders?utm_source=api",
+      "source": "Himalayas",
+      "description": "This is a remote position. About Alice&amp;Bob.Company We are a team of enthusiastic experts, specialists in Cloud Computing and Data Platforms. We aim to ease the security concerns of our clients by offering advanced security solutions that protect the integrity of cloud computing environments and data platforms. We combine AWS cloud security consulting, with expertise in migrating and operating secure AWS cloud environments. We therefore offer consultancy, managed services and combine with complementary premium technology, to protect what is important for our business clients: their and end-",
       "tags": [
-        "devops & infrastructure"
+        "cloud-developer",
+        "aws-developer",
+        "backend-engineer",
+        "cloud-engineer",
+        "software-engineer",
+        "cloud-developer-(aws)",
+        "aws-cloud-developer",
+        "aws-software-developer",
+        "developer"
       ],
       "verdict": "review",
-      "fit": 46,
+      "fit": 40,
       "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
+        "United states-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -1326,6 +1252,59 @@
       "fit": 36,
       "reasons": [
         "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
+      "title": "Sales Development Representative Attributeâ",
+      "company": "DoiT",
+      "location": "Remote UK",
+      "url": "https://remoteOK.com/remote-jobs/",
+      "source": "RemoteOK",
+      "description": "Our Sales Development Representative will be an integral part of our sales team. This role is fully remote in the EMEA region in the UK, Ireland, the Netherlands, and Sweden. Who We Are DoiT is a global technology company that works with cloud-driven organizations to leverage the cloud to drive business growth and innovation. We combine data, technology, and human expertise to ensure our customers operate in a well-architected and scalable state - from planning to production. Delivering DoiT Cloud Intelligence, the only solution that integrates advanced technology with human intelligence, we h",
+      "tags": [
+        "technical",
+        "marketing",
+        "cloud",
+        "microsoft",
+        "exec",
+        "sales"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "Uk-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "Product Engineering - Future Opportunities",
+      "company": "Tenable",
+      "location": "France, Ireland, Israel, USA",
+      "url": "https://jobicy.com/jobs/153679-product-engineering-future-opportunities",
+      "source": "Jobicy",
+      "description": "Who is Tenable? Tenable® is the Exposure Management company. Over 40,000 organizations around the globe rely on Tenable to understand and reduce cyber risk. Our global employees support 65 percent of the Fortune 500, 50 percent of the Global 2000, and large government agencies. Come be part of our journey! What makes Tenable such a&hellip;",
+      "tags": [
+        "software engineering"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "Quality Engineer",
+      "company": "StackAdapt",
+      "location": "Canada",
+      "url": "https://jobicy.com/jobs/155930-quality-engineer-3",
+      "source": "Jobicy",
+      "description": "StackAdapt is the leading technology company that empowers marketers to reach, engage, and convert audiences with precision. With 465 billion automated optimizations per second, the AI-powered StackAdapt Marketing Platform seamlessly connects brand and performance marketing to drive measurable results across the entire customer journey. The most forward-thinking marketers choose StackAdapt to orchestrate high-impact campaigns across&hellip;",
+      "tags": [
+        "qa & testing"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "Canada-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -1473,22 +1452,6 @@
       ]
     },
     {
-      "title": "Commercial Account Executive - Benelux",
-      "company": "Chainguard",
-      "location": "Netherlands",
-      "url": "https://jobicy.com/jobs/155138-commercial-account-executive-benelux-2",
-      "source": "Jobicy",
-      "description": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. Our customers include Fortune 500 enterprises and global industry leaders, including Anduril, Canva, Fortinet, Hewlett Packard Enterprise, OpenAI,&hellip;",
-      "tags": [
-        "sales"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Netherlands-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
       "title": "Senior Software Architect (C#/Angular/AI First) - GovTech SaaS company",
       "company": "Truelogic",
       "location": "Mexico",
@@ -1553,57 +1516,6 @@
       "fit": 30,
       "reasons": [
         "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Senior Detection Analyst",
-      "company": "Zscaler",
-      "location": "Costa Rica",
-      "url": "https://jobicy.com/jobs/155194-senior-detection-analyst",
-      "source": "Jobicy",
-      "description": "Zscaler (NASDAQ: ZS) accelerates digital transformation so customers can be more agile, efficient, resilient, and secure. The Zscaler Zero Trust Exchange platform protects thousands of customers from cyberattacks and data loss by securely connecting users, devices, and applications in any location. Distributed across 200+ public data centers globally and thousands of private sites at the&hellip;",
-      "tags": [
-        "cybersecurity"
-      ],
-      "verdict": "review",
-      "fit": 30,
-      "reasons": [
-        "Costa rica-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Senior Forward Deployed Engineer (AI Agent)",
-      "company": "Cresta",
-      "location": "Australia",
-      "url": "https://jobicy.com/jobs/155182-senior-forward-deployed-engineer-ai-agent",
-      "source": "Jobicy",
-      "description": "Cresta unlocks the true potential of the customer experience, turning every conversation into a competitive advantage. Cresta’s unified AI platform combines conversational AI agents, real-time human agent augmentation, and comprehensive conversation intelligence to drive revenue and efficiency gains across every channel. The world’s leading companies, including United Airlines, Cox Communications, and Marriott, use Cresta to&hellip;",
-      "tags": [
-        "software engineering"
-      ],
-      "verdict": "review",
-      "fit": 30,
-      "reasons": [
-        "Australia-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "QA Automation Lead [gn] Data Intelligence",
-      "company": "Actian",
-      "location": "Europe",
-      "url": "https://jobicy.com/jobs/149048-qa-automation-lead-gn-data-intelligence",
-      "source": "Jobicy",
-      "description": "The QA Automation Team is the ultimate guardian of our platform’s reliability, scalability, and deployment velocity. In a complex, data-heavy ecosystem, manual testing is a bottleneck; continuous, intelligent, and bulletproof automation is the only way forward. We are looking for a QA Automation Lead who will architect, scale, and own our automated testing strategy end-to-end.&hellip;",
-      "tags": [
-        "qa & testing"
-      ],
-      "verdict": "review",
-      "fit": 30,
-      "reasons": [
-        "Europe-tagged — verify it's open to Africa first",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -1795,6 +1707,20 @@
       ]
     },
     {
+      "title": "Director, Information Security",
+      "company": "Carrot",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/carrot-director-information-security",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Remote About Carrot: Carrot is the leading global fertility and family care platform, built on intelligent care orchestration: the right clinical guidance, at the right moment, in the context of each member’s life. More than a thousand multinational employers, health plans, and health systems trust Carrot to support millions of members across 195 countries – from pre-pregnancy through menopause and major life moments in between. Carrot's comprehensive clinical program delivers industry-leading cost savings for plan sponsors and award-winning experiences and improved outcomes for ",
+      "tags": [],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Director-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
       "title": "Director, Renewals",
       "company": "Abnormal",
       "location": "Anywhere in the World",
@@ -1834,6 +1760,22 @@
       "fit": 0,
       "reasons": [
         "Principal-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
+      "title": "Distinguished Engineer, Core DevOps",
+      "company": "GitLab",
+      "location": "Canada, UK, USA",
+      "url": "https://jobicy.com/jobs/155898-distinguished-engineer-core-devops",
+      "source": "Jobicy",
+      "description": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster. The same principles built into&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Distinguished-level — usually 5–10+ yrs, you have ~4"
       ]
     },
     {
@@ -1930,22 +1872,6 @@
       "fit": 0,
       "reasons": [
         "Principal-level — usually 5–10+ yrs, you have ~4"
-      ]
-    },
-    {
-      "title": "Staff DevOps Engineer (Platform)",
-      "company": "Phantom",
-      "location": "Europe, USA",
-      "url": "https://jobicy.com/jobs/153130-staff-devops-engineer-platform",
-      "source": "Jobicy",
-      "description": "Phantom is on a mission to connect the world to the freedom of open markets. Tens of millions of people all over the world use Phantom to access global markets that never close, including perpetuals, prediction markets, tokenized assets, stablecoins and memes. Phantom users are able to discover the markets that matter and the cultural&hellip;",
-      "tags": [
-        "devops & infrastructure"
-      ],
-      "verdict": "blocked",
-      "fit": 0,
-      "reasons": [
-        "Staff-level — usually 5–10+ yrs, you have ~4"
       ]
     }
   ]
