@@ -1,11 +1,11 @@
 {
-  "generated": "2026-10-23 10:39 UTC",
-  "count": 97,
+  "generated": "2026-10-24 09:56 UTC",
+  "count": 101,
   "summary": {
-    "scanned": 97,
-    "eligible": 35,
-    "review": 48,
-    "blocked": 14
+    "scanned": 101,
+    "eligible": 37,
+    "review": 47,
+    "blocked": 17
   },
   "jobs": [
     {
@@ -20,6 +20,38 @@
       "fit": 82,
       "reasons": [
         "remote — anywhere / global"
+      ]
+    },
+    {
+      "title": "Senior DevOps Engineer",
+      "company": "Lemon.io",
+      "location": "Worldwide",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-devops-engineer-lemon-io-1137557",
+      "source": "RemoteOK",
+      "description": "Lemon.io helps companies in the US and Europe hire experienced engineers, from funded startups to teams like Klarna, Retool, and Pinterest. Weâve been doing this since 2015, and more than 1,500 companies have hired engineers through us. New roles for Senior DevOps Engineers come in all the time, and several are open right now. Two ways to work with clients Contract: most roles are contract-based. You join the clientâs team and work as part of it. Direct hire: some clients hire engineers full-time, and we support you through the process. Because companies trust our vetting, applying through",
+      "tags": [
+        "devops",
+        "engineer",
+        "dev",
+        "python",
+        "golang",
+        "aws",
+        "gcp",
+        "kubernetes",
+        "sql",
+        "linux",
+        "ansible",
+        "ai",
+        "full time",
+        "full stack",
+        "remote",
+        "remote work"
+      ],
+      "verdict": "eligible",
+      "fit": 72,
+      "reasons": [
+        "remote — anywhere / global",
+        "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
     {
@@ -58,7 +90,7 @@
       "location": "Worldwide",
       "url": "https://remoteOK.com/remote-jobs/remote-golang-kubernetes-engineer-arango-1137400",
       "source": "RemoteOK",
-      "description": "Remote - Arango delivers a unified, natively multimodel contextual data platform that powers AI agents, assistants, and applications with the unified, current, and trusted business context needed to reason, decide, and act at scale.The Arango Contextual Data Platform connects... Please mention the word **FESTIVE** and tag RNTIuMTc5Ljg4LjEyNA== when applying to show you read the job post completely (#RNTIuMTc5Ljg4LjEyNA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Arango delivers a unified, natively multimodel contextual data platform that powers AI agents, assistants, and applications with the unified, current, and trusted business context needed to reason, decide, and act at scale.The Arango Contextual Data Platform connects... Please mention the word **FESTIVE** and tag RMTcyLjE3OS4xNS4xOTk= when applying to show you read the job post completely (#RMTcyLjE3OS4xNS4xOTk=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "tags": [
         "golang",
         "golang",
@@ -68,22 +100,6 @@
       "fit": 70,
       "reasons": [
         "remote — anywhere / global"
-      ]
-    },
-    {
-      "title": "Manager, Machine Learning Engineering",
-      "company": "Tala",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/156097-manager-machine-learning-engineering",
-      "source": "Jobicy",
-      "description": "About Tala Tala is the AI-native credit infrastructure that connects global capital to the global majority. We combine proprietary risk intelligence with an expanding network of capital and distribution partners to power credit access at scale. To date, Tala has distributed more than $9 billion in capital to more than 14 million customers across Africa,&hellip;",
-      "tags": [
-        "software engineering"
-      ],
-      "verdict": "eligible",
-      "fit": 68,
-      "reasons": [
-        "explicitly open to Africa/Nigeria"
       ]
     },
     {
@@ -217,6 +233,24 @@
       "tags": [],
       "verdict": "eligible",
       "fit": 54,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
+    {
+      "title": "AI Trainer - Video Annotation",
+      "company": "iMerit Technology",
+      "location": "Worldwide",
+      "url": "https://remotive.com/remote-jobs/artificial-intelligence/ai-trainer-video-annotation-2091161",
+      "source": "Remotive",
+      "description": "AI Trainer - Video Annotation Remote | Independent Contractor Prove your skills. Get certified. Robotics AI is advancing rapidly, and high-quality video data helps intelligent systems better understand the world around them. We are inviting detail-oriented professionals to complete our certification process for potential robotics AI projects. ▌ What you will do As part of the certification process, you will demonstrate your ability to: Annotate short video clips by identifying objects, actions and events. Evaluate video quality, relevance and accuracy against established guidelines. Assess the",
+      "tags": [
+        "video",
+        "ai/ml",
+        "robotics"
+      ],
+      "verdict": "eligible",
+      "fit": 50,
       "reasons": [
         "remote — anywhere / global"
       ]
@@ -376,13 +410,27 @@
       "location": "Worldwide",
       "url": "https://remoteOK.com/remote-jobs/remote-platform-and-integration-engineer-security-telemetry-redmimicry-1137465",
       "source": "RemoteOK",
-      "description": "Remote - Location: Mostly remote (within Germany), with monthly in-person collaboration at our Berlin officeHours: Part-time, 32 hours per weekContract: Fixed-termSalary: EUR 53,000 â 59,000 (at 32 hours per week)We are building a new capability that turns fragmented,... Please mention the word **THRIFTY** and tag RNTIuMTc5Ljg4LjEyNA== when applying to show you read the job post completely (#RNTIuMTc5Ljg4LjEyNA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Location: Mostly remote (within Germany), with monthly in-person collaboration at our Berlin officeHours: Part-time, 32 hours per weekContract: Fixed-termSalary: EUR 53,000 â 59,000 (at 32 hours per week)We are building a new capability that turns fragmented,... Please mention the word **THRIFTY** and tag RMTcyLjE3OS4xNS4xOTk= when applying to show you read the job post completely (#RMTcyLjE3OS4xNS4xOTk=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "tags": [
         "golang",
         "infosec",
         "engineer",
         "part time"
       ],
+      "verdict": "eligible",
+      "fit": 50,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
+    {
+      "title": "Development Manager",
+      "company": "Aquifer",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/aquifer-development-manager",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: New Hampshire URL: https://aquifer.org/ Summary The Development Manager reports into the Chief Technology Officer and owns the engineering capacity, delivery commitments, and technical execution quality across Aquifer's development pods. Directly manages all engineers, including the pod tech leads and a technical architect, with full people-management responsibility. The Development Manager owns release reliability and the delivery/quality dimensions of engineering performance.&nbsp; Responsibilities: Ensure engineering executes the cadence necessary to deliver on roadmap commitm",
+      "tags": [],
       "verdict": "eligible",
       "fit": 50,
       "reasons": [
@@ -690,6 +738,22 @@
       ]
     },
     {
+      "title": "Site Reliability Engineer",
+      "company": "Canonical",
+      "location": "Anywhere",
+      "url": "https://jobicy.com/jobs/149547-site-reliability-engineer",
+      "source": "Jobicy",
+      "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
+      "verdict": "review",
+      "fit": 64,
+      "reasons": [
+        "Africa-friendly employer (Canonical) — role location unconfirmed"
+      ]
+    },
+    {
       "title": "Engineering Manager, Dedicated Integrations",
       "company": "GitLab",
       "location": "UK",
@@ -706,19 +770,36 @@
       ]
     },
     {
-      "title": "Technical Product Marketer, k0rdent AI - remote in the US",
-      "company": "Mirantis",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/146688-technical-product-marketer-k0rdent-ai-remote-in-the-us",
+      "title": "Senior Site Reliability Engineer",
+      "company": "Canonical",
+      "location": "Anywhere",
+      "url": "https://jobicy.com/jobs/149557-senior-site-reliability-engineer-5",
       "source": "Jobicy",
-      "description": "Company DescriptionMirantis is the Kubernetes-native AI infrastructure company, enabling organizations to build and operate scalable, secure, and sovereign infrastructure for modern AI, machine learning, and data-intensive applications. By combining open source innovation with deep expertise in Kubernetes orchestration, Mirantis empowers platform engineering teams to deliver composable, production-ready developer platforms across any environment—on-premises, in the cloud,&hellip;",
+      "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders&hellip;",
       "tags": [
-        "marketing & sales"
+        "devops & infrastructure"
       ],
       "verdict": "review",
-      "fit": 56,
+      "fit": 58,
       "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+        "Africa-friendly employer (Canonical) — role location unconfirmed",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Security Solutions Engineer",
+      "company": "Nebius",
+      "location": "Europe",
+      "url": "https://jobicy.com/jobs/156529-security-solutions-engineer",
+      "source": "Jobicy",
+      "description": "About Nebius: Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-house AI/ML infrastructure. Built by engineers, for engineers. From&hellip;",
+      "tags": [
+        "cybersecurity"
+      ],
+      "verdict": "review",
+      "fit": 52,
+      "reasons": [
+        "Europe-tagged — verify it's open to Africa first"
       ]
     },
     {
@@ -778,38 +859,6 @@
       "description": "Infisical is the open source security infrastructure platform that engineers use for secrets management, certificates, and privileged access management. We help developers and organizations securely manage billions of secrets every month including application configuration, database credentials, certificates, and more. We’ve raised $19M from Y Combinator, Google, and Elad Gil, and our customers include Hugging Face,&hellip;",
       "tags": [
         "sales"
-      ],
-      "verdict": "review",
-      "fit": 52,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Infrastructure Engineer",
-      "company": "Airtm",
-      "location": "LATAM",
-      "url": "https://jobicy.com/jobs/153737-infrastructure-engineer-4",
-      "source": "Jobicy",
-      "description": "This role is open for LATAM based candidates About us: Airtm is a financial-infrastructure company building the future of the online-work economy. We are on a mission to empower the world's growing number of Digital Entrepreneurs in the Global South, giving them the financial freedom to thrive. The problem is clear: in emerging markets, accessing&hellip;",
-      "tags": [
-        "devops & infrastructure"
-      ],
-      "verdict": "review",
-      "fit": 52,
-      "reasons": [
-        "Latam-tagged — verify it's open to Africa first"
-      ]
-    },
-    {
-      "title": "IT Systems DevOps Engineer",
-      "company": "Cologix, Inc.",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/156089-it-systems-devops-engineer",
-      "source": "Jobicy",
-      "description": "About Our Company: Headquartered in Denver, Colorado, Cologix is a leading North America network-neutral interconnection and hyperscale edge data center company. Our platform gives customers access to 45+ digital edge and Scalelogix℠ hyperscale edge data centers in 13 markets across the United States and Canada along with a carrier-dense ecosystem of 710+ networks, 360+ cloud&hellip;",
-      "tags": [
-        "devops & infrastructure"
       ],
       "verdict": "review",
       "fit": 52,
@@ -942,6 +991,54 @@
       ]
     },
     {
+      "title": "Engineering Manager - Solutions Engineering",
+      "company": "Canonical",
+      "location": "Anywhere",
+      "url": "https://jobicy.com/jobs/149556-engineering-manager-solutions-engineering",
+      "source": "Jobicy",
+      "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders&hellip;",
+      "tags": [
+        "product & operations"
+      ],
+      "verdict": "review",
+      "fit": 48,
+      "reasons": [
+        "Africa-friendly employer (Canonical) — role location unconfirmed"
+      ]
+    },
+    {
+      "title": "Microservices Engineer",
+      "company": "Canonical",
+      "location": "Anywhere",
+      "url": "https://jobicy.com/jobs/149558-microservices-engineer",
+      "source": "Jobicy",
+      "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders&hellip;",
+      "tags": [
+        "software engineering"
+      ],
+      "verdict": "review",
+      "fit": 48,
+      "reasons": [
+        "Africa-friendly employer (Canonical) — role location unconfirmed"
+      ]
+    },
+    {
+      "title": "Software Engineer - Solutions Engineering",
+      "company": "Canonical",
+      "location": "Anywhere",
+      "url": "https://jobicy.com/jobs/149560-software-engineer-solutions-engineering",
+      "source": "Jobicy",
+      "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders&hellip;",
+      "tags": [
+        "software engineering"
+      ],
+      "verdict": "review",
+      "fit": 48,
+      "reasons": [
+        "Africa-friendly employer (Canonical) — role location unconfirmed"
+      ]
+    },
+    {
       "title": "Business Development Representative, German Speaking - UK/I",
       "company": "GitLab",
       "location": "Ireland, UK",
@@ -955,6 +1052,23 @@
       "fit": 48,
       "reasons": [
         "Uk-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "Senior Site Reliability Engineer II",
+      "company": "Juniper Square",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/156598-senior-site-reliability-engineer-ii",
+      "source": "Jobicy",
+      "description": "About Juniper Square Private markets are one of the largest, most complex, and most underserved corners of global finance. Our mission at Juniper Square is to unlock their full potential. We’re the Operations Partner trusted by 2,300+ GPs, unifying technology, data, and fund administration services into a single platform that helps GPs move faster, make&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
+      "verdict": "review",
+      "fit": 46,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
     {
@@ -1043,36 +1157,19 @@
       ]
     },
     {
-      "title": "Senior SRE - Networks",
-      "company": "Fastly",
-      "location": "UK",
-      "url": "https://jobicy.com/jobs/153756-senior-sre-networks",
+      "title": "Community Engineer (multiple roles and seniority levels)",
+      "company": "Canonical",
+      "location": "Anywhere",
+      "url": "https://jobicy.com/jobs/149577-community-engineer-multiple-roles-and-seniority-levels",
       "source": "Jobicy",
-      "description": "Fastly helps people stay better connected with the things they love. Fastly’s edge cloud platform enables customers to create great digital experiences quickly, securely, and reliably by processing, serving, and securing our customers’ applications as close to their end-users as possible — at the edge of the Internet. The platform is designed to take advantage&hellip;",
-      "tags": [
-        "devops & infrastructure"
-      ],
-      "verdict": "review",
-      "fit": 46,
-      "reasons": [
-        "Uk-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Customer Success Architect, Japan",
-      "company": "GitLab",
-      "location": "Japan",
-      "url": "https://jobicy.com/jobs/156195-customer-success-architect-japan",
-      "source": "Jobicy",
-      "description": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster. The same principles built into&hellip;",
+      "description": "Our ambition is to set a standard of excellence when it comes to serving the open source ecosystem. This is your chance to be a part of that as a Community Engineer at Canonical.We are building community management at scale. We have multiple positions available, at different seniority levels.All applications and candidates are handled through&hellip;",
       "tags": [
         "customer support & success"
       ],
       "verdict": "review",
       "fit": 42,
       "reasons": [
-        "Africa-friendly employer (Gitlab) — role location unconfirmed",
+        "Africa-friendly employer (Canonical) — role location unconfirmed",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -1180,6 +1277,22 @@
       "fit": 36,
       "reasons": [
         "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
+      "title": "Engineering - Internal AI Transformation",
+      "company": "Elevenlabs",
+      "location": "Canada, Germany, Ireland, Italy, Poland, Sweden, UK, USA",
+      "url": "https://jobicy.com/jobs/156600-engineering-internal-ai-transformation-2",
+      "source": "Jobicy",
+      "description": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deutsche Telekom and Meta. Our investors are some of&hellip;",
+      "tags": [
+        "software engineering"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -1343,83 +1456,29 @@
       ]
     },
     {
-      "title": "Sales Engineer - Seattle",
-      "company": "Harness",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/156216-sales-engineer-seattle",
-      "source": "Jobicy",
-      "description": "Harness is the AI Software Delivery Platform company, led by technologist and entrepreneur Jyoti Bansal (founder of AppDynamics, acquired by Cisco for $3.7B). Harness has raised approximately $570M in funding and is valued at $5.5B, backed by leading investors including Goldman Sachs, Menlo Ventures, IVP, Unusual Ventures, Citi Ventures, and more. As AI accelerates code&hellip;",
+      "title": "Onboarding Cloud Accountant (Remote, Canada)",
+      "company": "AMLB",
+      "location": "Canada",
+      "url": "https://himalayas.app/companies/amlb/jobs/onboarding-cloud-accountant-remote-canada?utm_source=api",
+      "source": "Himalayas",
+      "description": "This is a remote-based opportunity from anywhere in Canada ABOUT AMLB AMLB is a progressive virtual Chief Financial Officer (CFO) business that enables clients and team members to reach their potential. We partner with growing businesses and not-for-profit organizations across Canada, combining cloud technology with proactive financial advice to help our clients succeed. THE POSITION The Onboarding Cloud Accountant owns the first chapter of the client journey at AMLB and is responsible for leading new clients through onboarding and setting them up for long-term success. You will work closely w",
       "tags": [
-        "sales"
+        "cloud-accountant",
+        "accountant",
+        "bookkeeper",
+        "accounting-implementation-consultant",
+        "client-onboarding-specialist",
+        "accounting-onboarding-specialist",
+        "accounting-onboarding",
+        "cloud-accounting-professional",
+        "remote-accountant",
+        "cloud-accounting-consultant",
+        "remote-staff-accountant"
       ],
       "verdict": "review",
       "fit": 36,
       "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "International Business Development Representative - Nordics",
-      "company": "Chainguard",
-      "location": "Denmark, Sweden, UK",
-      "url": "https://jobicy.com/jobs/156141-international-business-development-representative-nordics",
-      "source": "Jobicy",
-      "description": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. Our customers include Fortune 500 enterprises and global industry leaders, including Anduril, Canva, Fortinet, Hewlett Packard Enterprise, OpenAI,&hellip;",
-      "tags": [
-        "business development"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Uk-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Security Engineering Manager",
-      "company": "SkySlope",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/153718-security-engineering-manager",
-      "source": "Jobicy",
-      "description": "OUR ORIGIN STORY In 2011 SkySlope started as an idea born at the kitchen table of our CEO, with just him and two others. Headquartered in Sacramento, California, we have since grown out of our previous 3 offices and many of our close to 150 employees are spread all across the United States. Those&hellip;",
-      "tags": [
-        "cybersecurity"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Field Marketing Specialist - ANZ",
-      "company": "Chainguard",
-      "location": "Australia, New Zealand",
-      "url": "https://jobicy.com/jobs/153763-field-marketing-specialist-anz",
-      "source": "Jobicy",
-      "description": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. Our customers include Fortune 500 enterprises and global industry leaders, including Anduril, Canva, Fortinet, Hewlett Packard Enterprise, OpenAI,&hellip;",
-      "tags": [
-        "marketing & sales"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Australia-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Field Marketing Manager, ASIA",
-      "company": "Chainguard",
-      "location": "Singapore",
-      "url": "https://jobicy.com/jobs/153761-field-marketing-manager-asia",
-      "source": "Jobicy",
-      "description": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. Our customers include Fortune 500 enterprises and global industry leaders, including Anduril, Canva, Fortinet, Hewlett Packard Enterprise, OpenAI,&hellip;",
-      "tags": [
-        "marketing & sales"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Singapore-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+        "Canada-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -1555,34 +1614,6 @@
       "fit": 30,
       "reasons": [
         "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Auth0 Identity Platform Lead (Sydney)",
-      "company": "Trideca",
-      "location": "Australia",
-      "url": "https://himalayas.app/companies/trideca/jobs/auth0-identity-platform-lead-sydney?utm_source=api",
-      "source": "Himalayas",
-      "description": "About Trideca Trideca is Australia's trusted strategy, AI, and digital transformation partner, helping some of the nation's largest enterprises (including NAB, Suncorp, Optus, Medibank, and AGL) drive meaningful business impact through technology. With offices in Melbourne and Sydney and projects spanning multiple industries, we thrive on solving complex challenges, delivering cutting-edge solutions, and pushing the boundaries of what's possible. About the opportunity Trideca is delivering the implementation phase of a large customer identity transformation for one of Australia's best known re",
-      "tags": [
-        "identity-platform-lead",
-        "identity-engineer",
-        "iam-engineer",
-        "platform-engineer",
-        "security-engineer",
-        "identity-and-access-management-lead",
-        "senior-cloud-identity-engineer",
-        "principal-identity-engineer",
-        "senior-identity-and-access-management-engineer",
-        "principal-identity-and-access-management-engineer",
-        "senior-identity-and-access-management-architect",
-        "senior-identity-engineering-specialist"
-      ],
-      "verdict": "review",
-      "fit": 30,
-      "reasons": [
-        "Australia-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -1803,6 +1834,54 @@
       ]
     },
     {
+      "title": "Mobile Principal Software Engineer",
+      "company": "dscout",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/156651-mobile-principal-software-engineer",
+      "source": "Jobicy",
+      "description": "At Dscout, we’re building the most flexible and powerful UX research platform on the market—trusted by the world’s top brands in finance (JP Morgan Chase, Intuit, Charles Schwab, PayPal), healthcare (Aya, Headspace), consumer goods (Keen, Verizon, Target, Northface), and tech (Google, Amazon, Facebook, Meta, Spotify, AirBnB). Our tools help teams deeply understand the humans behind&hellip;",
+      "tags": [
+        "software engineering"
+      ],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Principal-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
+      "title": "Engineering Director - Commercial Systems",
+      "company": "Canonical",
+      "location": "EMEA",
+      "url": "https://jobicy.com/jobs/156570-engineering-director-commercial-systems",
+      "source": "Jobicy",
+      "description": "Canonical is a leading provider of open-source software and operating systems for global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in many&hellip;",
+      "tags": [
+        "software engineering"
+      ],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Director-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
+      "title": "Engineering Director - Business Data",
+      "company": "Canonical",
+      "location": "EMEA",
+      "url": "https://jobicy.com/jobs/156569-engineering-director-business-data",
+      "source": "Jobicy",
+      "description": "Canonical is a leading provider of open-source software and operating systems for global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in many&hellip;",
+      "tags": [
+        "software engineering"
+      ],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Director-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
       "title": "Director, People Operations",
       "company": "LaunchDarkly",
       "location": "USA",
@@ -1867,19 +1946,28 @@
       ]
     },
     {
-      "title": "Staff Software Engineer",
-      "company": "Cision",
-      "location": "Bulgaria",
-      "url": "https://jobicy.com/jobs/156181-staff-software-engineer-9",
-      "source": "Jobicy",
-      "description": "At Cision, we believe in empowering every individual to make an impact. Here, your voice is heard, your ideas are valued, and your unique perspective fuels our collective success. As part of our global team, you'll thrive in an environment that champions curiosity, collaboration, and innovation, all while making meaningful contributions to the brands we&hellip;",
+      "title": "Cloud Strategy Architect",
+      "company": "Bright Vision Technologies",
+      "location": "United States",
+      "url": "https://himalayas.app/companies/bright-vision-technologies/jobs/cloud-strategy-architect-6988843774?utm_source=api",
+      "source": "Himalayas",
+      "description": "Bright Vision Technologies is a technology consulting and software development company delivering cloud, AI, data, and enterprise solutions across the United States. This is a fantastic opportunity to join an established and well-respected organization offering tremendous career growth potential. Job Title: Cloud Strategy Architect Location: 100% Remote (U.S.) Position Type: Full-time, Direct W2 Salary Range: $160,000–$175,000 Annually Experience Required: 6+ years Sponsorship: U.S. Citizens, Green Card Holders, EAD Holders, and H-1B transfer candidates are encouraged to apply. We are unable t",
       "tags": [
-        "software engineering"
+        "cloud-strategy-architect",
+        "cloud-solutions-architect",
+        "enterprise-architect",
+        "cloud-security-architect",
+        "technical-architect",
+        "cloud-architect",
+        "cloud-strategy-consultant",
+        "cloud-solution-architect",
+        "cloud-architecture-consultant",
+        "cloud-transformation-architect"
       ],
       "verdict": "blocked",
       "fit": 0,
       "reasons": [
-        "Staff-level — usually 5–10+ yrs, you have ~4"
+        "work-authorization wall (green card)"
       ]
     }
   ]
