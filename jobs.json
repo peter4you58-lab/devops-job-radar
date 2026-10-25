@@ -1,10 +1,10 @@
 {
-  "generated": "2026-10-24 09:56 UTC",
+  "generated": "2026-10-25 10:19 UTC",
   "count": 101,
   "summary": {
     "scanned": 101,
-    "eligible": 37,
-    "review": 47,
+    "eligible": 41,
+    "review": 43,
     "blocked": 17
   },
   "jobs": [
@@ -90,7 +90,7 @@
       "location": "Worldwide",
       "url": "https://remoteOK.com/remote-jobs/remote-golang-kubernetes-engineer-arango-1137400",
       "source": "RemoteOK",
-      "description": "Remote - Arango delivers a unified, natively multimodel contextual data platform that powers AI agents, assistants, and applications with the unified, current, and trusted business context needed to reason, decide, and act at scale.The Arango Contextual Data Platform connects... Please mention the word **FESTIVE** and tag RMTcyLjE3OS4xNS4xOTk= when applying to show you read the job post completely (#RMTcyLjE3OS4xNS4xOTk=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Arango delivers a unified, natively multimodel contextual data platform that powers AI agents, assistants, and applications with the unified, current, and trusted business context needed to reason, decide, and act at scale.The Arango Contextual Data Platform connects... Please mention the word **FESTIVE** and tag RNDguMjE0LjE1MS4xMzY= when applying to show you read the job post completely (#RNDguMjE0LjE1MS4xMzY=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "tags": [
         "golang",
         "golang",
@@ -164,15 +164,56 @@
       ]
     },
     {
-      "title": "DevOps Engineer (Remote)",
-      "company": "thehivecareers.co",
-      "location": "Anywhere in the World",
-      "url": "https://weworkremotely.com/remote-jobs/thehivecareers-co-devops-engineer-remote",
-      "source": "WeWorkRemotely",
-      "description": "Headquarters: Bridgetown, Saint Michael, Barbados URL: http://thehivecareers.co Job brief The ideal candidate will guide DevOps teams on speed of delivery, improving quality/security of code, and optimizing processes. Job Level: Full-Time/Remote Location: Barbados Key Responsibilities Mentors and coaches the technical team. Constantly looking for better ways of solving technical problems and designing the solution, not afraid of challenging the status quo. Provides the team a roadmap for implementing software engineering practices for higher code quality Identifies bottlenecks in coding develo",
-      "tags": [],
+      "title": "Partner Solutions Architect (EMEA)",
+      "company": "Datadog",
+      "location": "Italy, Spain",
+      "url": "https://jobicy.com/jobs/156711-partner-solutions-architect-emea",
+      "source": "Jobicy",
+      "description": "The Team: We are Datadog's in-house product experts. The technical solutions team enables Datadog's worldwide growth by educating potential clients and ensuring that existing customers are happy and successful. We share our technical and product expertise with customers through demos, presentations, technical evaluations, and ongoing support. Technical solutions is a growing global team that collaborates&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
       "verdict": "eligible",
-      "fit": 66,
+      "fit": 64,
+      "reasons": [
+        "remote — anywhere / global",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Solutions Engineer",
+      "company": "Onebrief",
+      "location": "Worldwide",
+      "url": "https://remoteOK.com/remote-jobs/remote-solutions-engineer-onebrief-1137568",
+      "source": "RemoteOK",
+      "description": "Consequential Work. Dedicated People. About Onebrief Onebrief builds collaboration and AI-powered workflow software for military planning and operational coordination. Military planning is complex by nature, requiring teams to coordinate information, people, and decisions across systems and locations. Onebrief brings planning, collaboration, simulation, and AI into one connected environment, helping teams test strategies, adapt to changing conditions, and make decisions with greater clarity when the stakes are real. We are a distributed team of builders from military, operational, and technolo",
+      "tags": [
+        "design",
+        "ansible",
+        "grafana",
+        "sys admin",
+        "infosec",
+        "python",
+        "docker",
+        "technical",
+        "recruiter",
+        "customer support",
+        "dev",
+        "testing",
+        "marketing",
+        "travel",
+        "finance",
+        "cloud",
+        "exec",
+        "senior",
+        "ops",
+        "sales",
+        "golang",
+        "engineer",
+        "digital nomad"
+      ],
+      "verdict": "eligible",
+      "fit": 62,
       "reasons": [
         "remote — anywhere / global"
       ]
@@ -410,13 +451,41 @@
       "location": "Worldwide",
       "url": "https://remoteOK.com/remote-jobs/remote-platform-and-integration-engineer-security-telemetry-redmimicry-1137465",
       "source": "RemoteOK",
-      "description": "Remote - Location: Mostly remote (within Germany), with monthly in-person collaboration at our Berlin officeHours: Part-time, 32 hours per weekContract: Fixed-termSalary: EUR 53,000 â 59,000 (at 32 hours per week)We are building a new capability that turns fragmented,... Please mention the word **THRIFTY** and tag RMTcyLjE3OS4xNS4xOTk= when applying to show you read the job post completely (#RMTcyLjE3OS4xNS4xOTk=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Location: Mostly remote (within Germany), with monthly in-person collaboration at our Berlin officeHours: Part-time, 32 hours per weekContract: Fixed-termSalary: EUR 53,000 â 59,000 (at 32 hours per week)We are building a new capability that turns fragmented,... Please mention the word **THRIFTY** and tag RNDguMjE0LjE1MS4xMzY= when applying to show you read the job post completely (#RNDguMjE0LjE1MS4xMzY=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "tags": [
         "golang",
         "infosec",
         "engineer",
         "part time"
       ],
+      "verdict": "eligible",
+      "fit": 50,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
+    {
+      "title": "Communications Intern",
+      "company": "Keeper Security",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/keeper-security-communications-intern",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Remote, US Description Keeper is hiring a bright and talented Communications Intern to assist Keeper’s Global Communications team this Fall/Winter. This is a 100% remote internship from select locations with an opportunity to work a hybrid schedule for candidates based in the Chicago, IL metro area. Keeper’s cybersecurity software is trusted by millions of people and thousands of organizations, globally. Keeper is published in 23 languages and is sold in over 150 countries. Join one of the fastest-growing cybersecurity companies and gain valuable skills assisting our communicatio",
+      "tags": [],
+      "verdict": "eligible",
+      "fit": 50,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
+    {
+      "title": "Bilingual Channel Sales Engineer, French (EMEA)",
+      "company": "Keeper Security",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/keeper-security-bilingual-channel-sales-engineer-french-emea",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Remote, Ireland; Remote, UK Description Keeper Security is hiring an experienced Bilingual (French) Channel Sales Engineer to work with our EMEA channel sales team. This is a remote position and qualified candidates must permanently reside in Ireland or the UK.&nbsp; Keeper’s cybersecurity software is trusted by millions of people and thousands of organisations, globally. Keeper is published in 23 languages and is sold in over 150 countries. Join one of the fastest-growing cybersecurity companies and be responsible for navigating our customers through the technical landscape of o",
+      "tags": [],
       "verdict": "eligible",
       "fit": 50,
       "reasons": [
@@ -561,6 +630,23 @@
       "fit": 50,
       "reasons": [
         "remote — anywhere / global"
+      ]
+    },
+    {
+      "title": "Senior Partner Solutions Architect (Pan-EMEA GSI)",
+      "company": "Datadog",
+      "location": "Germany, Netherlands",
+      "url": "https://jobicy.com/jobs/156719-senior-partner-solutions-architect-pan-emea-gsi",
+      "source": "Jobicy",
+      "description": "The Team: We are Datadog's in-house product experts. The technical solutions team enables Datadog's worldwide growth by educating potential clients and ensuring that existing customers are happy and successful. We share our technical and product expertise with customers through demos, presentations, technical evaluations, and ongoing support. Technical solutions is a growing global team that collaborates&hellip;",
+      "tags": [
+        "technical support"
+      ],
+      "verdict": "eligible",
+      "fit": 48,
+      "reasons": [
+        "remote — anywhere / global",
+        "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
     {
@@ -784,6 +870,22 @@
       "reasons": [
         "Africa-friendly employer (Canonical) — role location unconfirmed",
         "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "DevOps Engineer, Edge and Developer Experience (Remote Eligible in Bulgaria)",
+      "company": "Smartsheet",
+      "location": "Bulgaria",
+      "url": "https://jobicy.com/jobs/156722-devops-engineer-edge-and-developer-experience-remote-eligible-in-bulgaria",
+      "source": "Jobicy",
+      "description": "For over 20 years, Smartsheet has empowered teams to manage work seamlessly and scale solutions smarter. Now, in our most ambitious chapter yet, we are uniting human teams with AI agents. By orchestrating the work agents do best, automating manual tasks and uncovering insights at scale, we create the space for people to focus on&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
+      "verdict": "review",
+      "fit": 52,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa"
       ]
     },
     {
@@ -1072,23 +1174,6 @@
       ]
     },
     {
-      "title": "Senior DevOps/SRE Engineer",
-      "company": "Oddball",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/156491-senior-devops-sre-engineer",
-      "source": "Jobicy",
-      "description": "Oddball believes that the best products are built when companies understand and value the things they are working on. We value learning and growth and the ability to make a big impact at a small company. We believe that we can make big changes happen and improve the daily lives of millions of people by&hellip;",
-      "tags": [
-        "devops & infrastructure"
-      ],
-      "verdict": "review",
-      "fit": 46,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
       "title": "Senior IT Operations Engineer",
       "company": "BigID",
       "location": "USA",
@@ -1280,6 +1365,38 @@
       ]
     },
     {
+      "title": "Project Manager",
+      "company": "Verra Mobility",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/151512-project-manager-4",
+      "source": "Jobicy",
+      "description": "Position Overview As a Project Manager, you will play a key role in providing world class support to our external clients and internal teams by managing the end-to-end implementation of contracted technical programs and ensuring they are delivered in a timely manner. No challenge will be too big, and no issue will go unsolved! You&hellip;",
+      "tags": [
+        "project & program management"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "Business Development Representative, Singapore",
+      "company": "Chainguard",
+      "location": "Singapore",
+      "url": "https://jobicy.com/jobs/156736-business-development-representative-singapore",
+      "source": "Jobicy",
+      "description": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. Our customers include Fortune 500 enterprises and global industry leaders, including Anduril, Canva, Fortinet, Hewlett Packard Enterprise, OpenAI,&hellip;",
+      "tags": [
+        "sales"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "Singapore-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
       "title": "Engineering - Internal AI Transformation",
       "company": "Elevenlabs",
       "location": "Canada, Germany, Ireland, Italy, Poland, Sweden, UK, USA",
@@ -1424,64 +1541,6 @@
       ]
     },
     {
-      "title": "Backend Engineer (Multiple Positions)",
-      "company": "LaunchDarkly",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/156280-backend-engineer-multiple-positions",
-      "source": "Jobicy",
-      "description": "Backend Engineer About LaunchDarkly Engineering LaunchDarkly helps engineering organizations ship software and AI with speed, safety, and control. Our platform gives teams the confidence to release gradually, target experiences to the right audiences, learn through experimentation, understand what is happening in production, and respond quickly when risk appears. Our engineers build the systems, services, SDKs,&hellip;",
-      "tags": [
-        "software engineering"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Sales Engineer - San Francisco",
-      "company": "Harness",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/156215-sales-engineer-san-francisco",
-      "source": "Jobicy",
-      "description": "Harness is the AI Software Delivery Platform company, led by technologist and entrepreneur Jyoti Bansal (founder of AppDynamics, acquired by Cisco for $3.7B). Harness has raised approximately $570M in funding and is valued at $5.5B, backed by leading investors including Goldman Sachs, Menlo Ventures, IVP, Unusual Ventures, Citi Ventures, and more. As AI accelerates code&hellip;",
-      "tags": [
-        "sales"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Onboarding Cloud Accountant (Remote, Canada)",
-      "company": "AMLB",
-      "location": "Canada",
-      "url": "https://himalayas.app/companies/amlb/jobs/onboarding-cloud-accountant-remote-canada?utm_source=api",
-      "source": "Himalayas",
-      "description": "This is a remote-based opportunity from anywhere in Canada ABOUT AMLB AMLB is a progressive virtual Chief Financial Officer (CFO) business that enables clients and team members to reach their potential. We partner with growing businesses and not-for-profit organizations across Canada, combining cloud technology with proactive financial advice to help our clients succeed. THE POSITION The Onboarding Cloud Accountant owns the first chapter of the client journey at AMLB and is responsible for leading new clients through onboarding and setting them up for long-term success. You will work closely w",
-      "tags": [
-        "cloud-accountant",
-        "accountant",
-        "bookkeeper",
-        "accounting-implementation-consultant",
-        "client-onboarding-specialist",
-        "accounting-onboarding-specialist",
-        "accounting-onboarding",
-        "cloud-accounting-professional",
-        "remote-accountant",
-        "cloud-accounting-consultant",
-        "remote-staff-accountant"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Canada-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
       "title": "Data Architect",
       "company": "Caylent",
       "location": "Argentina",
@@ -1495,6 +1554,23 @@
       "fit": 34,
       "reasons": [
         "Argentina-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Sr. Quality Engineer",
+      "company": "CentralReach",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/153999-sr-quality-engineer",
+      "source": "Jobicy",
+      "description": "CentralReach is a leading provider of autism and IDD care software for Applied Behavior Analysis (ABA), multidisciplinary therapy, and special education. Trusted by more than 200,000 users, we enable therapy providers, educators, and employers to scale the way they deliver ABA and related therapies with innovative technology, market-leading industry expertise, and world-class customer satisfaction. CentralReach&hellip;",
+      "tags": [
+        "qa & testing"
+      ],
+      "verdict": "review",
+      "fit": 30,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -1546,74 +1622,6 @@
       "fit": 30,
       "reasons": [
         "EMEA-tagged — verify it's open to Africa first",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Senior Outbound Product Manager",
-      "company": "Harness",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/156222-senior-outbound-product-manager",
-      "source": "Jobicy",
-      "description": "Harness is the AI Software Delivery Platform company, led by technologist and entrepreneur Jyoti Bansal (founder of AppDynamics, acquired by Cisco for $3.7B). Harness has raised approximately $570M in funding and is valued at $5.5B, backed by leading investors including Goldman Sachs, Menlo Ventures, IVP, Unusual Ventures, Citi Ventures, and more. As AI accelerates code&hellip;",
-      "tags": [
-        "sales"
-      ],
-      "verdict": "review",
-      "fit": 30,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Senior Field Marketing Manager, Events",
-      "company": "Harness",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/156221-senior-field-marketing-manager-events",
-      "source": "Jobicy",
-      "description": "Harness is the AI Software Delivery Platform company, led by technologist and entrepreneur Jyoti Bansal (founder of AppDynamics, acquired by Cisco for $3.7B). Harness has raised approximately $570M in funding and is valued at $5.5B, backed by leading investors including Goldman Sachs, Menlo Ventures, IVP, Unusual Ventures, Citi Ventures, and more. As AI accelerates code&hellip;",
-      "tags": [
-        "marketing & sales"
-      ],
-      "verdict": "review",
-      "fit": 30,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Senior Customer Architect",
-      "company": "Harness",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/156218-senior-customer-architect",
-      "source": "Jobicy",
-      "description": "Harness is the AI Software Delivery Platform company, led by technologist and entrepreneur Jyoti Bansal (founder of AppDynamics, acquired by Cisco for $3.7B). Harness has raised approximately $570M in funding and is valued at $5.5B, backed by leading investors including Goldman Sachs, Menlo Ventures, IVP, Unusual Ventures, Citi Ventures, and more. As AI accelerates code&hellip;",
-      "tags": [
-        "technical support"
-      ],
-      "verdict": "review",
-      "fit": 30,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Senior Enterprise Account Executive - Seattle",
-      "company": "Harness",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/156219-senior-enterprise-account-executive-seattle",
-      "source": "Jobicy",
-      "description": "Harness is the AI Software Delivery Platform company, led by technologist and entrepreneur Jyoti Bansal (founder of AppDynamics, acquired by Cisco for $3.7B). Harness has raised approximately $570M in funding and is valued at $5.5B, backed by leading investors including Goldman Sachs, Menlo Ventures, IVP, Unusual Ventures, Citi Ventures, and more. As AI accelerates code&hellip;",
-      "tags": [
-        "sales"
-      ],
-      "verdict": "review",
-      "fit": 30,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -1834,6 +1842,22 @@
       ]
     },
     {
+      "title": "Director, Solutions Engineering (Enterprise AMER)",
+      "company": "Cribl",
+      "location": "Canada, USA",
+      "url": "https://jobicy.com/jobs/156768-director-solutions-engineering-enterprise-amer",
+      "source": "Jobicy",
+      "description": "Join the company that’s building the telemetry infrastructure for the AI era. At Cribl, we partner with IT and Security teams at many of the world’s biggest enterprises, including half of the Fortune 100, to bridge the gap between AI ambition and infrastructure reality. As the AI Platform for Telemetry, we give customers the choice,&hellip;",
+      "tags": [
+        "sales"
+      ],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Director-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
       "title": "Mobile Principal Software Engineer",
       "company": "dscout",
       "location": "USA",
@@ -1943,31 +1967,6 @@
       "fit": 0,
       "reasons": [
         "Director-level — usually 5–10+ yrs, you have ~4"
-      ]
-    },
-    {
-      "title": "Cloud Strategy Architect",
-      "company": "Bright Vision Technologies",
-      "location": "United States",
-      "url": "https://himalayas.app/companies/bright-vision-technologies/jobs/cloud-strategy-architect-6988843774?utm_source=api",
-      "source": "Himalayas",
-      "description": "Bright Vision Technologies is a technology consulting and software development company delivering cloud, AI, data, and enterprise solutions across the United States. This is a fantastic opportunity to join an established and well-respected organization offering tremendous career growth potential. Job Title: Cloud Strategy Architect Location: 100% Remote (U.S.) Position Type: Full-time, Direct W2 Salary Range: $160,000–$175,000 Annually Experience Required: 6+ years Sponsorship: U.S. Citizens, Green Card Holders, EAD Holders, and H-1B transfer candidates are encouraged to apply. We are unable t",
-      "tags": [
-        "cloud-strategy-architect",
-        "cloud-solutions-architect",
-        "enterprise-architect",
-        "cloud-security-architect",
-        "technical-architect",
-        "cloud-architect",
-        "cloud-strategy-consultant",
-        "cloud-solution-architect",
-        "cloud-architecture-consultant",
-        "cloud-transformation-architect"
-      ],
-      "verdict": "blocked",
-      "fit": 0,
-      "reasons": [
-        "work-authorization wall (green card)"
       ]
     }
   ]
