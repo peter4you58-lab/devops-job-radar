@@ -1,11 +1,11 @@
 {
-  "generated": "2026-10-25 10:19 UTC",
-  "count": 101,
+  "generated": "2026-10-26 11:46 UTC",
+  "count": 105,
   "summary": {
-    "scanned": 101,
+    "scanned": 105,
     "eligible": 41,
-    "review": 43,
-    "blocked": 17
+    "review": 46,
+    "blocked": 18
   },
   "jobs": [
     {
@@ -90,7 +90,7 @@
       "location": "Worldwide",
       "url": "https://remoteOK.com/remote-jobs/remote-golang-kubernetes-engineer-arango-1137400",
       "source": "RemoteOK",
-      "description": "Remote - Arango delivers a unified, natively multimodel contextual data platform that powers AI agents, assistants, and applications with the unified, current, and trusted business context needed to reason, decide, and act at scale.The Arango Contextual Data Platform connects... Please mention the word **FESTIVE** and tag RNDguMjE0LjE1MS4xMzY= when applying to show you read the job post completely (#RNDguMjE0LjE1MS4xMzY=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Arango delivers a unified, natively multimodel contextual data platform that powers AI agents, assistants, and applications with the unified, current, and trusted business context needed to reason, decide, and act at scale.The Arango Contextual Data Platform connects... Please mention the word **FESTIVE** and tag RMjAuNjQuMTA3LjI= when applying to show you read the job post completely (#RMjAuNjQuMTA3LjI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "tags": [
         "golang",
         "golang",
@@ -129,6 +129,20 @@
         "backend",
         "digital nomad"
       ],
+      "verdict": "eligible",
+      "fit": 66,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
+    {
+      "title": "DevOps Engineer II, Cloud Platform",
+      "company": "Upstart",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/upstart-devops-engineer-ii-cloud-platform",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: United States | Remote About Upstart At Upstart, we’re united by a mission that matters: to radically reduce the cost and complexity of borrowing for all Americans. Every day, we bring creativity, experimentation, and advanced AI to reshape access to credit, helping millions move forward financially with clarity and confidence. As the leading AI lending marketplace, we partner with banks and credit unions to expand access to affordable credit through technology that’s both radically intelligent and deeply human. Our platform runs over one million predictions per borrower using mo",
+      "tags": [],
       "verdict": "eligible",
       "fit": 66,
       "reasons": [
@@ -216,23 +230,6 @@
       "fit": 62,
       "reasons": [
         "remote — anywhere / global"
-      ]
-    },
-    {
-      "title": "Senior SecOps Engineer",
-      "company": "Tala",
-      "location": "Mexico",
-      "url": "https://jobicy.com/jobs/156237-senior-secops-engineer",
-      "source": "Jobicy",
-      "description": "About Tala Tala is the AI-native credit infrastructure that connects global capital to the global majority. We combine proprietary risk intelligence with an expanding network of capital and distribution partners to power credit access at scale. To date, Tala has distributed more than $9 billion in capital to more than 14 million customers across Africa,&hellip;",
-      "tags": [
-        "cybersecurity"
-      ],
-      "verdict": "eligible",
-      "fit": 62,
-      "reasons": [
-        "explicitly open to Africa/Nigeria",
-        "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
     {
@@ -451,7 +448,7 @@
       "location": "Worldwide",
       "url": "https://remoteOK.com/remote-jobs/remote-platform-and-integration-engineer-security-telemetry-redmimicry-1137465",
       "source": "RemoteOK",
-      "description": "Remote - Location: Mostly remote (within Germany), with monthly in-person collaboration at our Berlin officeHours: Part-time, 32 hours per weekContract: Fixed-termSalary: EUR 53,000 â 59,000 (at 32 hours per week)We are building a new capability that turns fragmented,... Please mention the word **THRIFTY** and tag RNDguMjE0LjE1MS4xMzY= when applying to show you read the job post completely (#RNDguMjE0LjE1MS4xMzY=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Location: Mostly remote (within Germany), with monthly in-person collaboration at our Berlin officeHours: Part-time, 32 hours per weekContract: Fixed-termSalary: EUR 53,000 â 59,000 (at 32 hours per week)We are building a new capability that turns fragmented,... Please mention the word **THRIFTY** and tag RMjAuNjQuMTA3LjI= when applying to show you read the job post completely (#RMjAuNjQuMTA3LjI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "tags": [
         "golang",
         "infosec",
@@ -873,6 +870,22 @@
       ]
     },
     {
+      "title": "DevOps Engineer | Live Entertainment Company",
+      "company": "GT",
+      "location": "Europe",
+      "url": "https://jobicy.com/jobs/156913-devops-engineer-live-entertainment-company",
+      "source": "Jobicy",
+      "description": "GT was founded in 2019 by a former Apple, Nest, and Google executive. GT’s mission is to connect the world’s best talent with product careers offered by high-growth companies in the UK, USA, Canada, Germany, and the Netherlands. On behalf of our client, an international company in the live entertainment industry, GT is looking for&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
+      "verdict": "review",
+      "fit": 52,
+      "reasons": [
+        "Europe-tagged — verify it's open to Africa first"
+      ]
+    },
+    {
       "title": "DevOps Engineer, Edge and Developer Experience (Remote Eligible in Bulgaria)",
       "company": "Smartsheet",
       "location": "Bulgaria",
@@ -913,54 +926,6 @@
       "description": "Who We Are Vultr is on a mission to make high-performance cloud infrastructure easy to use, affordable, and locally accessible for enterprises and AI innovators around the world. With 33 global cloud data center locations, Vultr is trusted by hundreds of thousands of active customers across 185 countries for its flexible, scalable, global Cloud Compute,&hellip;",
       "tags": [
         "customer support & success"
-      ],
-      "verdict": "review",
-      "fit": 52,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "GTM DevOps Engineer",
-      "company": "ClickUp",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/156285-gtm-devops-engineer",
-      "source": "Jobicy",
-      "description": "At ClickUp, we're building the future of work: the first truly converged AI workspace unifying tasks, docs, chat, calendar, and enterprise search, all supercharged by context-driven AI. We are an AI-native company. Every team member is expected to leverage AI daily, and we evaluate AI fluency as part of our hiring process. Join us and&hellip;",
-      "tags": [
-        "devops & infrastructure"
-      ],
-      "verdict": "review",
-      "fit": 52,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "IT Engineer",
-      "company": "Elevenlabs",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/155006-it-engineer-2",
-      "source": "Jobicy",
-      "description": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deutsche Telekom and Meta. Our investors are some of&hellip;",
-      "tags": [
-        "devops & infrastructure"
-      ],
-      "verdict": "review",
-      "fit": 52,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Solutions Engineer",
-      "company": "infisical",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/153833-solutions-engineer",
-      "source": "Jobicy",
-      "description": "Infisical is the open source security infrastructure platform that engineers use for secrets management, certificates, and privileged access management. We help developers and organizations securely manage billions of secrets every month including application configuration, database credentials, certificates, and more. We’ve raised $19M from Y Combinator, Google, and Elad Gil, and our customers include Hugging Face,&hellip;",
-      "tags": [
-        "sales"
       ],
       "verdict": "review",
       "fit": 52,
@@ -1093,6 +1058,22 @@
       ]
     },
     {
+      "title": "Intermediate Support Engineer (SHIFT)",
+      "company": "GitLab",
+      "location": "UK",
+      "url": "https://jobicy.com/jobs/156928-intermediate-support-engineer-shift",
+      "source": "Jobicy",
+      "description": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster. The same principles built into&hellip;",
+      "tags": [
+        "technical support"
+      ],
+      "verdict": "review",
+      "fit": 48,
+      "reasons": [
+        "Uk-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
       "title": "Engineering Manager - Solutions Engineering",
       "company": "Canonical",
       "location": "Anywhere",
@@ -1154,6 +1135,40 @@
       "fit": 48,
       "reasons": [
         "Uk-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "Sr. DevOps Engineer",
+      "company": "Cyware",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/157082-sr-devops-engineer",
+      "source": "Jobicy",
+      "description": "Job Title: Senior DevOps Engineer Location: USA (Remote or Regional Office) Reports To: SVP of Engineering About Cyware Cyware delivers an innovative approach to cybersecurity that unifies threat intelligence, automation, threat response, and vulnerability management with data insights gleaned from assets, users, malware, attackers, and vulnerabilities. Cyware’s Cyber Fusion platform integrates SOAR and TIP technology,&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
+      "verdict": "review",
+      "fit": 46,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Senior Site Reliability Engineer",
+      "company": "Ping Identity",
+      "location": "Italy",
+      "url": "https://jobicy.com/jobs/156984-senior-site-reliability-engineer-6",
+      "source": "Jobicy",
+      "description": "About Ping Identity: At Ping Identity, we believe in making digital experiences both secure and seamless for all users, without compromise. We call this digital freedom. And it's not just something we provide our customers. It's something that inspires our company. People don't come here to join a culture that's built on digital freedom. They&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
+      "verdict": "review",
+      "fit": 46,
+      "reasons": [
+        "Italy-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
     {
@@ -1225,19 +1240,45 @@
       ]
     },
     {
-      "title": "Senior Technical Account Manager (Federal)",
-      "company": "Mattermost",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/156283-senior-technical-account-manager-federal",
-      "source": "Jobicy",
-      "description": "Mattermost is the leading collaborative workflow platform for defense, intelligence, security, and critical infrastructure. Trusted by the U.S. Department of War and Fortune 500s, our platform runs on-premises and in private clouds, delivering secure messaging, file sharing, workflow automation, audio/screenshare, and project management—all with full data and operational control. Mattermost powers high-stakes workflows across mission&hellip;",
+      "title": "Cloud Systems Architect",
+      "company": "Bright Vision Technologies",
+      "location": "United States",
+      "url": "https://himalayas.app/companies/bright-vision-technologies/jobs/cloud-systems-architect-1502355450?utm_source=api",
+      "source": "Himalayas",
+      "description": "Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions that help businesses automate and optimize their operations. We leverage cutting-edge technologies to create scalable, secure, and user-friendly applications. As we continue to grow, we’re looking for a skilled Cloud Systems Architect to join our dynamic team and contribute to our mission of transforming business processes through technology. This is a fantastic opportunity to join an established and well-respected organization offering tremendous career growth potential. Jo",
       "tags": [
-        "customer support & success"
+        "cloud-systems-architect",
+        "cloud-solutions-architect",
+        "cloud-architect",
+        "enterprise-architect",
+        "solutions-architect",
+        "cloud-solution-architect",
+        "cloud-infrastructure-architect",
+        "cloud-platform-architect",
+        "cloud-infrastructure-solutions-architect",
+        "cloud-technical-architect"
       ],
       "verdict": "review",
       "fit": 46,
       "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "United states-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Senior Manager of Success Architects",
+      "company": "GitLab",
+      "location": "Singapore",
+      "url": "https://jobicy.com/jobs/157096-senior-manager-of-success-architects",
+      "source": "Jobicy",
+      "description": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster. The same principles built into&hellip;",
+      "tags": [
+        "customer support & success"
+      ],
+      "verdict": "review",
+      "fit": 42,
+      "reasons": [
+        "Singapore-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -1256,54 +1297,6 @@
       "reasons": [
         "Africa-friendly employer (Canonical) — role location unconfirmed",
         "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Functional Consultant - Contact Center",
-      "company": "Caylent",
-      "location": "Brazil",
-      "url": "https://jobicy.com/jobs/156242-functional-consultant-contact-center",
-      "source": "Jobicy",
-      "description": "Caylent is an AI-first cloud services company that helps organizations turn ambitious ideas into meaningful business impact. As an AWS Premier Tier Services Partner and a charter member of Anthropic’s Claude Partner Network, we combine deep expertise in AWS, artificial intelligence, and Anthropic’s Claude platform to help customers modernize their technology, build intelligent products, and&hellip;",
-      "tags": [
-        "product & operations"
-      ],
-      "verdict": "review",
-      "fit": 40,
-      "reasons": [
-        "Brazil-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Operations Analyst",
-      "company": "Caylent",
-      "location": "Argentina",
-      "url": "https://jobicy.com/jobs/156243-operations-analyst",
-      "source": "Jobicy",
-      "description": "Caylent is an AI-first cloud services company that helps organizations turn ambitious ideas into meaningful business impact. As an AWS Premier Tier Services Partner and a charter member of Anthropic’s Claude Partner Network, we combine deep expertise in AWS, artificial intelligence, and Anthropic’s Claude platform to help customers modernize their technology, build intelligent products, and&hellip;",
-      "tags": [
-        "product & operations"
-      ],
-      "verdict": "review",
-      "fit": 40,
-      "reasons": [
-        "Argentina-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Customer Experience Manager",
-      "company": "Caylent",
-      "location": "Brazil",
-      "url": "https://jobicy.com/jobs/156240-customer-experience-manager-2",
-      "source": "Jobicy",
-      "description": "Caylent is an AI-first cloud services company that helps organizations turn ambitious ideas into meaningful business impact. As an AWS Premier Tier Services Partner and a charter member of Anthropic’s Claude Partner Network, we combine deep expertise in AWS, artificial intelligence, and Anthropic’s Claude platform to help customers modernize their technology, build intelligent products, and&hellip;",
-      "tags": [
-        "customer support & success"
-      ],
-      "verdict": "review",
-      "fit": 40,
-      "reasons": [
-        "Brazil-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -1362,6 +1355,54 @@
       "fit": 36,
       "reasons": [
         "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
+      "title": "Enterprise Account Executive",
+      "company": "Chainguard",
+      "location": "Singapore",
+      "url": "https://jobicy.com/jobs/157088-enterprise-account-executive-28",
+      "source": "Jobicy",
+      "description": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. Our customers include Fortune 500 enterprises and global industry leaders, including Anduril, Canva, Fortinet, Hewlett Packard Enterprise, OpenAI,&hellip;",
+      "tags": [
+        "sales"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "Singapore-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "Software Engineer (All Levels)",
+      "company": "Fieldguide",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/151601-software-engineer-all-levels",
+      "source": "Jobicy",
+      "description": "About Fieldguide Fieldguide is redefining trust in global commerce by modernizing how cybersecurity, privacy, and financial audits are done. We build software that empowers the practitioners who enable trust between businesses—automating and streamlining their work to deliver faster, higher-quality results. We’re a remote-first company headquartered in San Francisco, CA, backed by top investors including Bessemer&hellip;",
+      "tags": [
+        "software engineering"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "Sales Engineer (French) SMB",
+      "company": "1Password",
+      "location": "UK",
+      "url": "https://jobicy.com/jobs/151538-sales-engineer-french-smb",
+      "source": "Jobicy",
+      "description": "1Password is growing. We’ve surpassed $400M in ARR and we’re continuing to accelerate, earning a spot on the Forbes Cloud 100 for four years in a row and teaming up with iconic partners like Oracle Red Bull Racing. About 1Password At 1Password, we’re building the foundation for a safe, productive digital future. Our mission is&hellip;",
+      "tags": [
+        "sales"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "Uk-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -1541,19 +1582,36 @@
       ]
     },
     {
-      "title": "Data Architect",
-      "company": "Caylent",
-      "location": "Argentina",
-      "url": "https://jobicy.com/jobs/156241-data-architect-2",
+      "title": "Senior Solutions Architect - Public Sector",
+      "company": "Cyware",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/157011-senior-solutions-architect-public-sector",
       "source": "Jobicy",
-      "description": "Caylent is an AI-first cloud services company that helps organizations turn ambitious ideas into meaningful business impact. As an AWS Premier Tier Services Partner and a charter member of Anthropic’s Claude Partner Network, we combine deep expertise in AWS, artificial intelligence, and Anthropic’s Claude platform to help customers modernize their technology, build intelligent products, and&hellip;",
+      "description": "Job Title: Solutions Architect Location: Northern Virginia region or DC area. USA Reports To: VP of Solution Delivery &amp; Customer Success About Cyware Cyware delivers an innovative approach to cybersecurity that unifies threat intelligence, automation, threat response, and vulnerability management with data insights gleaned from assets, users, malware, attackers, and vulnerabilities. Cyware’s Cyber Fusion platform&hellip;",
       "tags": [
-        "data science & analytics"
+        "cybersecurity"
       ],
       "verdict": "review",
-      "fit": 34,
+      "fit": 30,
       "reasons": [
-        "Argentina-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Senior Software Engineer",
+      "company": "Cyware",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/157008-senior-software-engineer-17",
+      "source": "Jobicy",
+      "description": "Job Title: Senior Software Engineer Location: USA (Remote or Regional Office) Reports To: Senior VP of Engineering About Cyware: Cyware delivers an innovative approach to cybersecurity that unifies threat intelligence, automation, threat response, and vulnerability management with data insights gleaned from assets, users, malware, attackers, and vulnerabilities. Cyware’s Cyber Fusion platform integrates SOAR and TIP&hellip;",
+      "tags": [
+        "software engineering"
+      ],
+      "verdict": "review",
+      "fit": 30,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -1786,6 +1844,34 @@
       ]
     },
     {
+      "title": "Director, Partner Operations",
+      "company": "Ping Identity",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/ping-identity-director-partner-operations",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: USA - Remote About Ping Identity:&nbsp; At Ping Identity, we believe in making digital experiences both secure and seamless for all users, without compromise. We call this digital freedom. And it's not just something we provide our customers. It's something that inspires our company. People don't come here to join a culture that's built on digital freedom. They come to cultivate it.&nbsp; Our intelligent, cloud identity platform lets people shop, work, bank, and interact wherever and however they want. Without friction. Without fear.&nbsp; While protecting digital identities is a",
+      "tags": [],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Director-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
+      "title": "Director, Global Alliances – Accenture",
+      "company": "Ping Identity",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/ping-identity-director-global-alliances-accenture",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: USA - Remote About Ping Identity:&nbsp; At Ping Identity, we believe in making digital experiences both secure and seamless for all users, without compromise. We call this digital freedom. And it's not just something we provide our customers. It's something that inspires our company. People don't come here to join a culture that's built on digital freedom. They come to cultivate it.&nbsp; Our intelligent, cloud identity platform lets people shop, work, bank, and interact wherever and however they want. Without friction. Without fear.&nbsp; While protecting digital identities is a",
+      "tags": [],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Director-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
       "title": "Director, Information Security",
       "company": "Carrot",
       "location": "Anywhere in the World",
@@ -1946,22 +2032,6 @@
       "description": "About the Job: LaunchDarkly is looking for a Director, People Programs, Systems &amp; Analytics to establish operational objectives, roadmaps, work plans, and operating rhythms for People programs, systems, analytics, and AI, translating the People Operations strategy and LaunchDarkly’s priorities into executable plans. Your team will develop technical and AI-assisted capabilities while turning workforce data into&hellip;",
       "tags": [
         "hr & recruiting"
-      ],
-      "verdict": "blocked",
-      "fit": 0,
-      "reasons": [
-        "Director-level — usually 5–10+ yrs, you have ~4"
-      ]
-    },
-    {
-      "title": "Regional Sales Director, Commercial - LATAM",
-      "company": "GitLab",
-      "location": "Brazil",
-      "url": "https://jobicy.com/jobs/156236-regional-sales-director-commercial-latam",
-      "source": "Jobicy",
-      "description": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster. The same principles built into&hellip;",
-      "tags": [
-        "sales"
       ],
       "verdict": "blocked",
       "fit": 0,
