@@ -1,11 +1,11 @@
 {
-  "generated": "2026-10-26 11:46 UTC",
+  "generated": "2026-10-27 11:12 UTC",
   "count": 105,
   "summary": {
     "scanned": 105,
-    "eligible": 41,
-    "review": 46,
-    "blocked": 18
+    "eligible": 42,
+    "review": 40,
+    "blocked": 23
   },
   "jobs": [
     {
@@ -90,7 +90,7 @@
       "location": "Worldwide",
       "url": "https://remoteOK.com/remote-jobs/remote-golang-kubernetes-engineer-arango-1137400",
       "source": "RemoteOK",
-      "description": "Remote - Arango delivers a unified, natively multimodel contextual data platform that powers AI agents, assistants, and applications with the unified, current, and trusted business context needed to reason, decide, and act at scale.The Arango Contextual Data Platform connects... Please mention the word **FESTIVE** and tag RMjAuNjQuMTA3LjI= when applying to show you read the job post completely (#RMjAuNjQuMTA3LjI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Arango delivers a unified, natively multimodel contextual data platform that powers AI agents, assistants, and applications with the unified, current, and trusted business context needed to reason, decide, and act at scale.The Arango Contextual Data Platform connects... Please mention the word **FESTIVE** and tag RNTIuMTU0LjEzMi4xNjg= when applying to show you read the job post completely (#RNTIuMTU0LjEzMi4xNjg=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "tags": [
         "golang",
         "golang",
@@ -230,6 +230,21 @@
       "fit": 62,
       "reasons": [
         "remote — anywhere / global"
+      ]
+    },
+    {
+      "title": "Senior IT Systems Engineer",
+      "company": "Upsun",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/upsun-senior-it-systems-engineer",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Remote • Canada About Upsun Upsun is the software factory for human-AI workflows. We give teams one unified platform to create, review, deploy, and run software, with AI agents and humans working in sync. Developers, DevOps engineers, and platform teams use Upsun to build and ship with confidence, without wrestling with infrastructure. Upsun brings this together through two products: one that shapes the work, and one that runs it. Upsun Dispatch™: the AI-first product accelerator. Dispatch governs and simplifies collaboration between AI agents and cross-functional human teams, so",
+      "tags": [],
+      "verdict": "eligible",
+      "fit": 60,
+      "reasons": [
+        "remote — anywhere / global",
+        "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
     {
@@ -448,13 +463,27 @@
       "location": "Worldwide",
       "url": "https://remoteOK.com/remote-jobs/remote-platform-and-integration-engineer-security-telemetry-redmimicry-1137465",
       "source": "RemoteOK",
-      "description": "Remote - Location: Mostly remote (within Germany), with monthly in-person collaboration at our Berlin officeHours: Part-time, 32 hours per weekContract: Fixed-termSalary: EUR 53,000 â 59,000 (at 32 hours per week)We are building a new capability that turns fragmented,... Please mention the word **THRIFTY** and tag RMjAuNjQuMTA3LjI= when applying to show you read the job post completely (#RMjAuNjQuMTA3LjI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Location: Mostly remote (within Germany), with monthly in-person collaboration at our Berlin officeHours: Part-time, 32 hours per weekContract: Fixed-termSalary: EUR 53,000 â 59,000 (at 32 hours per week)We are building a new capability that turns fragmented,... Please mention the word **THRIFTY** and tag RNTIuMTU0LjEzMi4xNjg= when applying to show you read the job post completely (#RNTIuMTU0LjEzMi4xNjg=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "tags": [
         "golang",
         "infosec",
         "engineer",
         "part time"
       ],
+      "verdict": "eligible",
+      "fit": 50,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
+    {
+      "title": "MSP Mac Help Desk Guru (work from home)",
+      "company": "Ignition, Inc.",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/ignition-inc-msp-mac-help-desk-guru-work-from-home",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: ignitionit.com URL: https://ignitionit.com Fully Remote · Work from home · Full-time (Eastern or Pacific time zones) · Apple-first&nbsp; TL;DR ignitionit.com is a seasoned, Apple-first MSP — in business for almost 30 years — and we're hiring a Help Desk Technician to be the friendly, capable first voice our clients reach when something isn't working. This position is a remote, work-from-home, full-time role. We've written this as a junior-to-mid-level job description because that's where most great people start on our team. But if you're more seasoned — comfortable in identity, M",
+      "tags": [],
       "verdict": "eligible",
       "fit": 50,
       "reasons": [
@@ -608,20 +637,6 @@
       "url": "https://weworkremotely.com/remote-jobs/keeper-security-analyst-relations-manager",
       "source": "WeWorkRemotely",
       "description": "Headquarters: Remote, US Keeper Security is hiring an Analyst Relations Manager to join our Global Communications team. This individual will own and execute the day-to-day analyst relations program at Keeper by managing evaluations, timelines, coordination and internal workflows to ensure effective analyst engagement. This is a 100% remote position from select locations, with an opportunity to work a hybrid schedule for candidates who live near our global headquarters in Chicago. Keeper’s cybersecurity software is trusted by millions of people and thousands of organizations, globally. Keeper i",
-      "tags": [],
-      "verdict": "eligible",
-      "fit": 50,
-      "reasons": [
-        "remote — anywhere / global"
-      ]
-    },
-    {
-      "title": "Cyber Defense Engineer",
-      "company": "BeyondTrust",
-      "location": "Anywhere in the World",
-      "url": "https://weworkremotely.com/remote-jobs/beyondtrust-cyber-defense-engineer",
-      "source": "WeWorkRemotely",
-      "description": "Headquarters: Remote Manchester, UK BeyondTrust is a place where you can bring your purpose to life through the work that you do, creating a safer world through our cybersecurity SaaS portfolio. Our culture of flexibility, trust, and continual learning means you will be recognized for your growth, and for the impact you make on our success. You will be surrounded by people who challenge, support, and inspire you to be the best version of yourself. The Role BeyondTrust is a global leader in privileged access management. Our products provide remote access and privileged control capabilities that",
       "tags": [],
       "verdict": "eligible",
       "fit": 50,
@@ -837,22 +852,6 @@
       ]
     },
     {
-      "title": "Engineering Manager, Dedicated Integrations",
-      "company": "GitLab",
-      "location": "UK",
-      "url": "https://jobicy.com/jobs/156359-engineering-manager-dedicated-integrations",
-      "source": "Jobicy",
-      "description": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster. The same principles built into&hellip;",
-      "tags": [
-        "devops & infrastructure"
-      ],
-      "verdict": "review",
-      "fit": 64,
-      "reasons": [
-        "Uk-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
       "title": "Senior Site Reliability Engineer",
       "company": "Canonical",
       "location": "Anywhere",
@@ -867,6 +866,22 @@
       "reasons": [
         "Africa-friendly employer (Canonical) — role location unconfirmed",
         "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Developer Advocate - Service Management",
+      "company": "Datadog",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/151723-developer-advocate-service-management",
+      "source": "Jobicy",
+      "description": "We are a team of engineers that translate our real-world experience to help our user communities solve problems. With a focus on service management, helping teams respond to incidents, run on-call, and automate their operations, you will work with practitioners and leaders across the industry and broaden your impact to the SRE, Engineer, DevOps, and&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
+      "verdict": "review",
+      "fit": 56,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -915,22 +930,6 @@
       "fit": 52,
       "reasons": [
         "Europe-tagged — verify it's open to Africa first"
-      ]
-    },
-    {
-      "title": "Technical Account Manager",
-      "company": "Vultr",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/156338-technical-account-manager-8",
-      "source": "Jobicy",
-      "description": "Who We Are Vultr is on a mission to make high-performance cloud infrastructure easy to use, affordable, and locally accessible for enterprises and AI innovators around the world. With 33 global cloud data center locations, Vultr is trusted by hundreds of thousands of active customers across 185 countries for its flexible, scalable, global Cloud Compute,&hellip;",
-      "tags": [
-        "customer support & success"
-      ],
-      "verdict": "review",
-      "fit": 52,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -1058,6 +1057,38 @@
       ]
     },
     {
+      "title": "Manager, Assigned Support Engineering (EMEA)",
+      "company": "GitLab",
+      "location": "UK",
+      "url": "https://jobicy.com/jobs/157218-manager-assigned-support-engineering-emea",
+      "source": "Jobicy",
+      "description": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster. The same principles built into&hellip;",
+      "tags": [
+        "technical support"
+      ],
+      "verdict": "review",
+      "fit": 48,
+      "reasons": [
+        "Uk-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "Commercial Account Executive, Named - West",
+      "company": "GitLab",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/157198-commercial-account-executive-named-west",
+      "source": "Jobicy",
+      "description": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster. The same principles built into&hellip;",
+      "tags": [
+        "sales"
+      ],
+      "verdict": "review",
+      "fit": 48,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
       "title": "Intermediate Support Engineer (SHIFT)",
       "company": "GitLab",
       "location": "UK",
@@ -1119,22 +1150,6 @@
       "fit": 48,
       "reasons": [
         "Africa-friendly employer (Canonical) — role location unconfirmed"
-      ]
-    },
-    {
-      "title": "Business Development Representative, German Speaking - UK/I",
-      "company": "GitLab",
-      "location": "Ireland, UK",
-      "url": "https://jobicy.com/jobs/156351-business-development-representative-german-speaking-uk-i",
-      "source": "Jobicy",
-      "description": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster. The same principles built into&hellip;",
-      "tags": [
-        "business development"
-      ],
-      "verdict": "review",
-      "fit": 48,
-      "reasons": [
-        "Uk-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -1202,66 +1217,6 @@
       "fit": 46,
       "reasons": [
         "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Senior DevOps Engineer - LATAM",
-      "company": "Luxury Presence",
-      "location": "LATAM",
-      "url": "https://jobicy.com/jobs/156418-senior-devops-engineer-latam-2",
-      "source": "Jobicy",
-      "description": "Luxury Presence is building the AI growth platform for real estate. Backed by Bessemer Venture Partners and other top investors, we're a Series C company that has hit $100M in annual recurring revenue. More than 90,000 real estate professionals, including over 30% of the WSJ Real Trends top 100 agents in the United States, use&hellip;",
-      "tags": [
-        "devops & infrastructure"
-      ],
-      "verdict": "review",
-      "fit": 46,
-      "reasons": [
-        "Latam-tagged — verify it's open to Africa first",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Senior Platform Engineer",
-      "company": "saas.group",
-      "location": "Europe",
-      "url": "https://jobicy.com/jobs/156306-senior-platform-engineer-6",
-      "source": "Jobicy",
-      "description": "This role is part of our Central Platform Engineering Team at saas.group. What is saas.group? Think of us as the driving catalyst behind your favorite software success stories. saas.group, established in 2017, is on a mission to turbocharge promising B2B SaaS ventures, unlocking their full potential. As a Software-as-a-Service portfolio powerhouse, we specialize in acquiring&hellip;",
-      "tags": [
-        "devops & infrastructure"
-      ],
-      "verdict": "review",
-      "fit": 46,
-      "reasons": [
-        "Europe-tagged — verify it's open to Africa first",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Cloud Systems Architect",
-      "company": "Bright Vision Technologies",
-      "location": "United States",
-      "url": "https://himalayas.app/companies/bright-vision-technologies/jobs/cloud-systems-architect-1502355450?utm_source=api",
-      "source": "Himalayas",
-      "description": "Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions that help businesses automate and optimize their operations. We leverage cutting-edge technologies to create scalable, secure, and user-friendly applications. As we continue to grow, we’re looking for a skilled Cloud Systems Architect to join our dynamic team and contribute to our mission of transforming business processes through technology. This is a fantastic opportunity to join an established and well-respected organization offering tremendous career growth potential. Jo",
-      "tags": [
-        "cloud-systems-architect",
-        "cloud-solutions-architect",
-        "cloud-architect",
-        "enterprise-architect",
-        "solutions-architect",
-        "cloud-solution-architect",
-        "cloud-infrastructure-architect",
-        "cloud-platform-architect",
-        "cloud-infrastructure-solutions-architect",
-        "cloud-technical-architect"
-      ],
-      "verdict": "review",
-      "fit": 46,
-      "reasons": [
-        "United states-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -1350,6 +1305,38 @@
         "cloud",
         "exec",
         "stats"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
+      "title": "Commercial Business Development Representative",
+      "company": "Chainguard",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/157292-commercial-business-development-representative",
+      "source": "Jobicy",
+      "description": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. Our customers include Fortune 500 enterprises and global industry leaders, including Anduril, Canva, Fortinet, Hewlett Packard Enterprise, OpenAI,&hellip;",
+      "tags": [
+        "sales"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "Business Development Representative, Middle East",
+      "company": "Chainguard",
+      "location": "UAE",
+      "url": "https://jobicy.com/jobs/157287-business-development-representative-middle-east",
+      "source": "Jobicy",
+      "description": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. Our customers include Fortune 500 enterprises and global industry leaders, including Anduril, Canva, Fortinet, Hewlett Packard Enterprise, OpenAI,&hellip;",
+      "tags": [
+        "business development"
       ],
       "verdict": "review",
       "fit": 36,
@@ -1518,67 +1505,20 @@
       ]
     },
     {
-      "title": "Software Development Manager",
-      "company": "Lightspeed Commerce",
-      "location": "Canada",
-      "url": "https://jobicy.com/jobs/156457-software-development-manager",
-      "source": "Jobicy",
-      "description": "Hi there! Thanks for stopping by Are you actively looking for a new opportunity? Or just checking the market? Well… you might just be in the right place! Lightspeed Financial Services is looking for a Software Development Manager in North America to grow and lead our technical team within the Financial Services organization. Reporting&hellip;",
-      "tags": [
-        "software engineering"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Canada-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Partner Sales Engineer",
-      "company": "Chainguard",
-      "location": "France, Germany",
-      "url": "https://jobicy.com/jobs/156432-partner-sales-engineer",
-      "source": "Jobicy",
-      "description": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. Our customers include Fortune 500 enterprises and global industry leaders, including Anduril, Canva, Fortinet, Hewlett Packard Enterprise, OpenAI,&hellip;",
-      "tags": [
-        "sales"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Germany-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Partner Business Manager",
-      "company": "DevRev",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/156424-partner-business-manager-3",
-      "source": "Jobicy",
-      "description": "About DevRev At DevRev, we're building the future of work with Computer – your AI teammate. Unlike traditional tools, Computer unifies all your data sources, tools, and workflows into a single AI-ready platform, giving employees real-time insights, proactive suggestions, and powerful agentic actions. It extends your existing software with AI-native apps and agents that work&hellip;",
-      "tags": [
-        "business development"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Backend Software Engineer, SDK",
+      "title": "Senior Customer Success Manager - EMEA",
       "company": "LaunchDarkly",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/156284-backend-software-engineer-sdk",
+      "location": "EMEA",
+      "url": "https://jobicy.com/jobs/157160-senior-customer-success-manager-emea",
       "source": "Jobicy",
-      "description": "About LaunchDarkly Engineering LaunchDarkly helps engineering organizations ship software and AI with speed, safety, and control. Our platform gives teams the confidence to release gradually, target experiences to the right audiences, learn through experimentation, understand what is happening in production, and respond quickly when risk appears. Our engineers build the systems, services, SDKs, developer tools,&hellip;",
+      "description": "About the Job: The Customer Success Manager reports directly into the regional CS leader and represents LaunchDarkly as the direct point-of-contact with our customers post-sales. They are LaunchDarkly subject-matter experts guiding our new and expanding customers towards implementation and adoption and helping them achieve their desired use-cases and realize value. The best candidate for this&hellip;",
       "tags": [
-        "software engineering"
+        "customer support & success"
       ],
       "verdict": "review",
-      "fit": 36,
+      "fit": 30,
       "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+        "EMEA-tagged — verify it's open to Africa first",
+        "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
     {
@@ -1646,40 +1586,6 @@
       "fit": 30,
       "reasons": [
         "location unconfirmed — verify it's open to Africa",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Senior Manager, Professional Services - EMEA",
-      "company": "Chainguard",
-      "location": "EMEA",
-      "url": "https://jobicy.com/jobs/156449-senior-manager-professional-services-emea",
-      "source": "Jobicy",
-      "description": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. Our customers include Fortune 500 enterprises and global industry leaders, including Anduril, Canva, Fortinet, Hewlett Packard Enterprise, OpenAI,&hellip;",
-      "tags": [
-        "product & operations"
-      ],
-      "verdict": "review",
-      "fit": 30,
-      "reasons": [
-        "EMEA-tagged — verify it's open to Africa first",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Senior Manager, Customer Success Management - EMEA/APJ",
-      "company": "Chainguard",
-      "location": "EMEA",
-      "url": "https://jobicy.com/jobs/156447-senior-manager-customer-success-management-emea-apj",
-      "source": "Jobicy",
-      "description": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. Our customers include Fortune 500 enterprises and global industry leaders, including Anduril, Canva, Fortinet, Hewlett Packard Enterprise, OpenAI,&hellip;",
-      "tags": [
-        "customer support & success"
-      ],
-      "verdict": "review",
-      "fit": 30,
-      "reasons": [
-        "EMEA-tagged — verify it's open to Africa first",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -1928,6 +1834,118 @@
       ]
     },
     {
+      "title": "Staff Backend Engineer",
+      "company": "TeamSnap",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/151779-staff-backend-engineer-2",
+      "source": "Jobicy",
+      "description": "About Us At TeamSnap, we believe when the world connects through sports; the world becomes better. TeamSnap is a sports and communication platform dedicated to taking the work out of play in youth sports. We also believe our jobs should excite us, our teammates should support us and our bosses should inspire us. We&hellip;",
+      "tags": [
+        "software engineering"
+      ],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Staff-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
+      "title": "Vice President, Engineering",
+      "company": "Submittable",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/157183-vice-president-engineering",
+      "source": "Jobicy",
+      "description": "At Submittable, we are transforming how organizations create social impact. Our platform empowers thousands of mission-driven organizations, from nonprofits to government entities, to make a difference in their communities and beyond. In 2024, our innovative software helped organizations worldwide run 30,000 programs, welcomed 1.2 million applicants, and facilitated the distribution of more than $10 billion&hellip;",
+      "tags": [
+        "software engineering"
+      ],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Vice president-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
+      "title": "Principal Technical Marketing Engineer | UK | Remote",
+      "company": "Grafana Labs",
+      "location": "UK",
+      "url": "https://jobicy.com/jobs/157135-principal-technical-marketing-engineer-uk-remote",
+      "source": "Jobicy",
+      "description": "Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any stack, Grafana Cloud brings AI to observability and observability to AI, giving&hellip;",
+      "tags": [
+        "marketing & sales"
+      ],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Principal-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
+      "title": "Principal Technical Marketing Engineer | Spain | Remote",
+      "company": "Grafana Labs",
+      "location": "Spain",
+      "url": "https://jobicy.com/jobs/157133-principal-technical-marketing-engineer-spain-remote",
+      "source": "Jobicy",
+      "description": "Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any stack, Grafana Cloud brings AI to observability and observability to AI, giving&hellip;",
+      "tags": [
+        "marketing & sales"
+      ],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Principal-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
+      "title": "Principal Technical Marketing Engineer | Germany | Remote",
+      "company": "Grafana Labs",
+      "location": "Germany",
+      "url": "https://jobicy.com/jobs/157131-principal-technical-marketing-engineer-germany-remote",
+      "source": "Jobicy",
+      "description": "Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any stack, Grafana Cloud brings AI to observability and observability to AI, giving&hellip;",
+      "tags": [
+        "marketing & sales"
+      ],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Principal-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
+      "title": "Principal Technical Marketing Engineer | Ireland | Remote",
+      "company": "Grafana Labs",
+      "location": "Ireland",
+      "url": "https://jobicy.com/jobs/157132-principal-technical-marketing-engineer-ireland-remote",
+      "source": "Jobicy",
+      "description": "Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any stack, Grafana Cloud brings AI to observability and observability to AI, giving&hellip;",
+      "tags": [
+        "marketing & sales"
+      ],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Principal-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
+      "title": "Principal Technical Marketing Engineer | Sweden | Remote",
+      "company": "Grafana Labs",
+      "location": "Sweden",
+      "url": "https://jobicy.com/jobs/157134-principal-technical-marketing-engineer-sweden-remote",
+      "source": "Jobicy",
+      "description": "Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any stack, Grafana Cloud brings AI to observability and observability to AI, giving&hellip;",
+      "tags": [
+        "marketing & sales"
+      ],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Principal-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
       "title": "Director, Solutions Engineering (Enterprise AMER)",
       "company": "Cribl",
       "location": "Canada, USA",
@@ -1998,38 +2016,6 @@
       "url": "https://jobicy.com/jobs/156488-director-people-operations",
       "source": "Jobicy",
       "description": "About the Job: LaunchDarkly is looking for a Director, People Operations to lead the operating model, service delivery, and continuous improvement of People Operations and Talent Acquisition operations across the employee and candidate lifecycles. Reporting to the Senior Director, People Operations, you will lead a connected portfolio spanning global People Operations, Talent Acquisition Operations, employee&hellip;",
-      "tags": [
-        "hr & recruiting"
-      ],
-      "verdict": "blocked",
-      "fit": 0,
-      "reasons": [
-        "Director-level — usually 5–10+ yrs, you have ~4"
-      ]
-    },
-    {
-      "title": "Regional Director Sales - CEUR",
-      "company": "Chainguard",
-      "location": "Germany",
-      "url": "https://jobicy.com/jobs/156434-regional-director-sales-ceur",
-      "source": "Jobicy",
-      "description": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. Our customers include Fortune 500 enterprises and global industry leaders, including Anduril, Canva, Fortinet, Hewlett Packard Enterprise, OpenAI,&hellip;",
-      "tags": [
-        "sales"
-      ],
-      "verdict": "blocked",
-      "fit": 0,
-      "reasons": [
-        "Director-level — usually 5–10+ yrs, you have ~4"
-      ]
-    },
-    {
-      "title": "Director of People Programs, Systems & Analytics",
-      "company": "LaunchDarkly",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/156288-director-of-people-programs-systems-analytics",
-      "source": "Jobicy",
-      "description": "About the Job: LaunchDarkly is looking for a Director, People Programs, Systems &amp; Analytics to establish operational objectives, roadmaps, work plans, and operating rhythms for People programs, systems, analytics, and AI, translating the People Operations strategy and LaunchDarkly’s priorities into executable plans. Your team will develop technical and AI-assisted capabilities while turning workforce data into&hellip;",
       "tags": [
         "hr & recruiting"
       ],
