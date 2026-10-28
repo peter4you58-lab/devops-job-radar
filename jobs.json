@@ -1,10 +1,10 @@
 {
-  "generated": "2026-10-27 11:12 UTC",
+  "generated": "2026-10-28 11:46 UTC",
   "count": 105,
   "summary": {
     "scanned": 105,
-    "eligible": 42,
-    "review": 40,
+    "eligible": 41,
+    "review": 41,
     "blocked": 23
   },
   "jobs": [
@@ -90,7 +90,7 @@
       "location": "Worldwide",
       "url": "https://remoteOK.com/remote-jobs/remote-golang-kubernetes-engineer-arango-1137400",
       "source": "RemoteOK",
-      "description": "Remote - Arango delivers a unified, natively multimodel contextual data platform that powers AI agents, assistants, and applications with the unified, current, and trusted business context needed to reason, decide, and act at scale.The Arango Contextual Data Platform connects... Please mention the word **FESTIVE** and tag RNTIuMTU0LjEzMi4xNjg= when applying to show you read the job post completely (#RNTIuMTU0LjEzMi4xNjg=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Arango delivers a unified, natively multimodel contextual data platform that powers AI agents, assistants, and applications with the unified, current, and trusted business context needed to reason, decide, and act at scale.The Arango Contextual Data Platform connects... Please mention the word **FESTIVE** and tag RNzQuMjQ5Ljc4LjM0 when applying to show you read the job post completely (#RNzQuMjQ5Ljc4LjM0). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "tags": [
         "golang",
         "golang",
@@ -463,7 +463,7 @@
       "location": "Worldwide",
       "url": "https://remoteOK.com/remote-jobs/remote-platform-and-integration-engineer-security-telemetry-redmimicry-1137465",
       "source": "RemoteOK",
-      "description": "Remote - Location: Mostly remote (within Germany), with monthly in-person collaboration at our Berlin officeHours: Part-time, 32 hours per weekContract: Fixed-termSalary: EUR 53,000 â 59,000 (at 32 hours per week)We are building a new capability that turns fragmented,... Please mention the word **THRIFTY** and tag RNTIuMTU0LjEzMi4xNjg= when applying to show you read the job post completely (#RNTIuMTU0LjEzMi4xNjg=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Location: Mostly remote (within Germany), with monthly in-person collaboration at our Berlin officeHours: Part-time, 32 hours per weekContract: Fixed-termSalary: EUR 53,000 â 59,000 (at 32 hours per week)We are building a new capability that turns fragmented,... Please mention the word **THRIFTY** and tag RNzQuMjQ5Ljc4LjM0 when applying to show you read the job post completely (#RNzQuMjQ5Ljc4LjM0). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "tags": [
         "golang",
         "infosec",
@@ -805,21 +805,6 @@
       ]
     },
     {
-      "title": "CPS Solution Architect",
-      "company": "Collibra",
-      "location": "Anywhere in the World",
-      "url": "https://weworkremotely.com/remote-jobs/collibra-cps-solution-architect",
-      "source": "WeWorkRemotely",
-      "description": "Headquarters: Remote, USA Joining Collibra’s CPS Solution Architect Team At Collibra Public Sector, our Professional Services team relies on Federal Solution Architects to deliver on customer expectations for the services we sell, working directly with customer key projects stakeholders throughout the entire customer journey. Ensuring growth, adoption and renewal, Federal Solution Architects act as customer champions, ensuring customers are onboarded and realizing value rapidly.&nbsp; Federal Solution Architects are responsible for Supporting federal customer engagements by delivering mission-",
-      "tags": [],
-      "verdict": "eligible",
-      "fit": 44,
-      "reasons": [
-        "remote — anywhere / global",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
       "title": "Engineering Manager, Cloud Engineering",
       "company": "LaunchDarkly",
       "location": "USA",
@@ -930,6 +915,32 @@
       "fit": 52,
       "reasons": [
         "Europe-tagged — verify it's open to Africa first"
+      ]
+    },
+    {
+      "title": "Software Engineering Intern, AI Agents and Backend Infrastructure – 2027",
+      "company": "NVIDIA",
+      "location": "United Kingdom",
+      "url": "https://himalayas.app/companies/nvidia/jobs/software-engineering-intern-ai-agents-and-backend-infrastructure-2027?utm_source=api",
+      "source": "Himalayas",
+      "description": "NVIDIA is looking for a Software Engineering Intern to join a team that builds infrastructure and agentic AI services for teams across the company. Our job is to remove other teams' bottlenecks: we build and run core internal services that power large geo-distributed infrastructure, and a growing share of what we ship is driven by AI agents. As an intern, you will work alongside senior engineers to design, build, and ship production systems – from backend services that run automated workflows at massive scale to AI agents that take routine work off engineers' plates. This is an excellent oppor",
+      "tags": [
+        "software-engineering-intern",
+        "software-engineer",
+        "backend-engineer",
+        "ai-engineer",
+        "site-reliability-engineer",
+        "ai-software-developer-intern",
+        "ai-engineering-intern",
+        "software-engineer-intern",
+        "backend-engineering-intern",
+        "ai-infrastructure-intern",
+        "ai-development-intern"
+      ],
+      "verdict": "review",
+      "fit": 52,
+      "reasons": [
+        "United kingdom-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -1054,6 +1065,22 @@
       "reasons": [
         "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
         "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Business Development Representative",
+      "company": "GitLab",
+      "location": "EMEA, Germany, Ireland, Netherlands, UK",
+      "url": "https://jobicy.com/jobs/151818-business-development-representative-10",
+      "source": "Jobicy",
+      "description": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster. The same principles built into&hellip;",
+      "tags": [
+        "business development"
+      ],
+      "verdict": "review",
+      "fit": 48,
+      "reasons": [
+        "Uk-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -1204,23 +1231,6 @@
       ]
     },
     {
-      "title": "Senior IT Operations Engineer",
-      "company": "BigID",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/156467-senior-it-operations-engineer-2",
-      "source": "Jobicy",
-      "description": "Who we are: BigID is an innovative tech startup that focuses on solutions for data security, compliance, privacy, and AI data management. We're leading the market in all things data: helping our customers reduce risk, drive business innovation, achieve compliance, build customer trust, make better decisions, and get more value from their data. We are&hellip;",
-      "tags": [
-        "devops & infrastructure"
-      ],
-      "verdict": "review",
-      "fit": 46,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
       "title": "Senior Manager of Success Architects",
       "company": "GitLab",
       "location": "Singapore",
@@ -1310,6 +1320,70 @@
       "fit": 36,
       "reasons": [
         "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
+      "title": "Software Development Manager",
+      "company": "Veracyte",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/157382-software-development-manager-2",
+      "source": "Jobicy",
+      "description": "At Veracyte, we offer exciting career opportunities for those interested in joining a pioneering team that is committed to transforming cancer care for patients across the globe. Working at Veracyte enables our employees to not only make a meaningful impact on the lives of patients, but to also learn and grow within a purpose driven&hellip;",
+      "tags": [
+        "software engineering"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "Enterprise Account Executive, North America",
+      "company": "Sonatype",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/157341-enterprise-account-executive-north-america",
+      "source": "Jobicy",
+      "description": "Sonatype is the software supply chain security company. Sonatype is accelerating the future of agentic software development. As developers and AI agents build faster than ever, enterprises need a new level of control, visibility, and confidence at the moment software is assembled. Our Nexus One platform helps development, security, and platform teams govern the components,&hellip;",
+      "tags": [
+        "sales"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "Partner Sales Engineer - UK",
+      "company": "Chainguard",
+      "location": "UK",
+      "url": "https://jobicy.com/jobs/157325-partner-sales-engineer-uk-2",
+      "source": "Jobicy",
+      "description": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. Our customers include Fortune 500 enterprises and global industry leaders, including Anduril, Canva, Fortinet, Hewlett Packard Enterprise, OpenAI,&hellip;",
+      "tags": [
+        "sales"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "Uk-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "Partner Solutions Engineer",
+      "company": "DevRev",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/157294-partner-solutions-engineer",
+      "source": "Jobicy",
+      "description": "About DevRev At DevRev, we're building the future of work with Computer – your AI teammate. Unlike traditional tools, Computer unifies all your data sources, tools, and workflows into a single AI-ready platform, giving employees real-time insights, proactive suggestions, and powerful agentic actions. It extends your existing software with AI-native apps and agents that work&hellip;",
+      "tags": [
+        "sales"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -1457,54 +1531,6 @@
       ]
     },
     {
-      "title": "Technical Program Manager",
-      "company": "Playson",
-      "location": "Europe",
-      "url": "https://jobicy.com/jobs/153901-technical-program-manager-5",
-      "source": "Jobicy",
-      "description": "About the role We're looking for someone who owns delivery - not tracks it, not reports it, owns it. You'll be responsible for a specific area: games, features, or platform work. From the first conversation about a requirement through to production - you're on the hook for the whole thing. This isn’t a coordination-only role.&hellip;",
-      "tags": [
-        "project & program management"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Europe-tagged — verify it's open to Africa first"
-      ]
-    },
-    {
-      "title": "Manager Software Test Automation",
-      "company": "Veracyte",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/156466-manager-software-test-automation",
-      "source": "Jobicy",
-      "description": "At Veracyte, we offer exciting career opportunities for those interested in joining a pioneering team that is committed to transforming cancer care for patients across the globe. Working at Veracyte enables our employees to not only make a meaningful impact on the lives of patients, but to also learn and grow within a purpose driven&hellip;",
-      "tags": [
-        "qa & testing"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Customer Success Manager II - EMEA",
-      "company": "Tines",
-      "location": "Ireland",
-      "url": "https://jobicy.com/jobs/156468-customer-success-manager-ii-emea",
-      "source": "Jobicy",
-      "description": "Tines is the intelligent workflow company that powers some of the world's most important workflows. Tines has been supporting IT and security teams from a diverse range of customers, including Canva, Reddit, SAP, Coinbase, Mars, Fin (Intercom), and McKesson. Tines 3B, launched in 2026, is the next generation of Tines – a single, secure environment&hellip;",
-      "tags": [
-        "customer support & success"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "location unconfirmed — verify it's open to Africa"
-      ]
-    },
-    {
       "title": "Senior Customer Success Manager - EMEA",
       "company": "LaunchDarkly",
       "location": "EMEA",
@@ -1573,20 +1599,22 @@
       ]
     },
     {
-      "title": "Senior AI Engineer",
-      "company": "eMerchantPay",
-      "location": "Bulgaria",
-      "url": "https://jobicy.com/jobs/144139-senior-ai-engineer-3",
-      "source": "Jobicy",
-      "description": "emerchantpay is a leading global payment service provider and acquirer for online, mobile, in-store and over the phone payments. Our global payments solution is available through a simple integration, offering a diverse range of features, including global acquiring, global and local payment methods, advanced fraud management and performance optimisation. We empower businesses to design seamless&hellip;",
+      "title": "Head of Engineering",
+      "company": "Lemon.io",
+      "location": "Worldwide",
+      "url": "https://remotive.com/remote-jobs/software-development/head-of-engineering-2091134",
+      "source": "Remotive",
+      "description": "About Lemon.io Lemon.io is a profitable, growing talent marketplace that connects vetted senior engineers with companies that need them. We’ve been in business for 10 years, have 60 people across Ukraine, Europe, Canada, and the US, and process over $16M in annual GMV. We compress the traditional 2–5 week hiring timeline down to 24–48 hours through a curated, pre-vetted supply of developers. Hiring is still broken. Recruiters spend weeks building candidate pipelines on traditional platforms, burning energy on unqualified leads. We’re building the product that changes that. Giving recruiters qu",
       "tags": [
-        "software engineering"
+        "ai/ml",
+        "startup",
+        "marketplace",
+        "fundraising"
       ],
-      "verdict": "review",
-      "fit": 30,
+      "verdict": "blocked",
+      "fit": 0,
       "reasons": [
-        "location unconfirmed — verify it's open to Africa",
-        "senior title — a stretch at ~4 yrs, but go for it"
+        "Head of-level — usually 5–10+ yrs, you have ~4"
       ]
     },
     {
@@ -1803,20 +1831,6 @@
       "fit": 0,
       "reasons": [
         "Director-level — usually 5–10+ yrs, you have ~4"
-      ]
-    },
-    {
-      "title": "Principal Solutions Consultant",
-      "company": "PagerDuty",
-      "location": "Anywhere in the World",
-      "url": "https://weworkremotely.com/remote-jobs/pagerduty-principal-solutions-consultant",
-      "source": "WeWorkRemotely",
-      "description": "Headquarters: Remote (USA) PagerDuty, Inc. (NYSE: PD) is the global leader in AI-first digital operations. By automatically detecting, diagnosing, and remediating issues, the PagerDuty Platform orchestrates AI agents and automated workflows with context from over 750 integrations. Trusted by approximately two-thirds of the Fortune 100 and nearly half of the Fortune 500, PagerDuty is the industry standard for organizations scaling resilient, autonomous operations. Notable customers include Chipotle, Cloudflare, Docusign, Fox, Nvidia, Salesforce, Spotify, Zoom and more. We are growing rapidly an",
-      "tags": [],
-      "verdict": "blocked",
-      "fit": 0,
-      "reasons": [
-        "Principal-level — usually 5–10+ yrs, you have ~4"
       ]
     },
     {
