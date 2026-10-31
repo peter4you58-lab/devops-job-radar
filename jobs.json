@@ -1,11 +1,11 @@
 {
-  "generated": "2026-10-30 11:48 UTC",
-  "count": 65,
+  "generated": "2026-10-31 11:22 UTC",
+  "count": 67,
   "summary": {
-    "scanned": 65,
-    "eligible": 44,
-    "review": 9,
-    "blocked": 12
+    "scanned": 67,
+    "eligible": 45,
+    "review": 11,
+    "blocked": 11
   },
   "jobs": [
     {
@@ -90,7 +90,7 @@
       "location": "Worldwide",
       "url": "https://remoteOK.com/remote-jobs/remote-golang-kubernetes-engineer-arango-1137400",
       "source": "RemoteOK",
-      "description": "Remote - Arango delivers a unified, natively multimodel contextual data platform that powers AI agents, assistants, and applications with the unified, current, and trusted business context needed to reason, decide, and act at scale.The Arango Contextual Data Platform connects... Please mention the word **FESTIVE** and tag RMTcyLjE3Mi4yMzcuMTgw when applying to show you read the job post completely (#RMTcyLjE3Mi4yMzcuMTgw). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Arango delivers a unified, natively multimodel contextual data platform that powers AI agents, assistants, and applications with the unified, current, and trusted business context needed to reason, decide, and act at scale.The Arango Contextual Data Platform connects... Please mention the word **FESTIVE** and tag RMTM1LjIzMi4yMDEuNjY= when applying to show you read the job post completely (#RMTM1LjIzMi4yMDEuNjY=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "tags": [
         "golang",
         "golang",
@@ -187,6 +187,48 @@
       "tags": [],
       "verdict": "eligible",
       "fit": 66,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
+    {
+      "title": "Full-Stack Developer",
+      "company": "Fluence International, Inc.",
+      "location": "Worldwide",
+      "url": "https://remotive.com/remote-jobs/software-development/full-stack-developer-2091165",
+      "source": "Remotive",
+      "description": "We’re looking for a pragmatic, security-minded Full-Stack Developer to help build and scale Fluence’s B2B products used by clinicians, researchers, and organizations in psychedelic-assisted therapy and mental health. You’ll work closely with and report to our Senior AI &amp; Design Lead to turn product requirements into robust, secure, and well-documented applications, as well as maintain existing ones. What you’ll do Build and maintain full-stack web applications using React and Next.js . Architect reliable, performant backends and APIs; familiarity with AWS (Lambda, ECS/Fargate, API Gateway,",
+      "tags": [
+        "admin",
+        "api",
+        "aws",
+        "backend",
+        "cloud",
+        "docker",
+        "frontend",
+        "fullstack",
+        "javascript",
+        "react",
+        "security",
+        "ui/ux",
+        "ai/ml",
+        "automation",
+        "documentation",
+        "healthcare",
+        "typescript",
+        "web applications",
+        "solid",
+        "json",
+        "serverless",
+        "next.js",
+        "github",
+        "rest",
+        "mental health",
+        "baas",
+        "datadog"
+      ],
+      "verdict": "eligible",
+      "fit": 62,
       "reasons": [
         "remote — anywhere / global"
       ]
@@ -460,7 +502,7 @@
       "location": "Worldwide",
       "url": "https://remoteOK.com/remote-jobs/remote-platform-and-integration-engineer-security-telemetry-redmimicry-1137465",
       "source": "RemoteOK",
-      "description": "Remote - Location: Mostly remote (within Germany), with monthly in-person collaboration at our Berlin officeHours: Part-time, 32 hours per weekContract: Fixed-termSalary: EUR 53,000 â 59,000 (at 32 hours per week)We are building a new capability that turns fragmented,... Please mention the word **THRIFTY** and tag RMTcyLjE3Mi4yMzcuMTgw when applying to show you read the job post completely (#RMTcyLjE3Mi4yMzcuMTgw). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Location: Mostly remote (within Germany), with monthly in-person collaboration at our Berlin officeHours: Part-time, 32 hours per weekContract: Fixed-termSalary: EUR 53,000 â 59,000 (at 32 hours per week)We are building a new capability that turns fragmented,... Please mention the word **THRIFTY** and tag RMTM1LjIzMi4yMDEuNjY= when applying to show you read the job post completely (#RMTM1LjIzMi4yMDEuNjY=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "tags": [
         "golang",
         "infosec",
@@ -842,6 +884,75 @@
       ]
     },
     {
+      "title": "Senior Backend Engineer, Core DevOps: Container Registry",
+      "company": "GitLab",
+      "location": "UK",
+      "url": "https://jobicy.com/jobs/158063-senior-backend-engineer-core-devops-container-registry",
+      "source": "Jobicy",
+      "description": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster. The same principles built into&hellip;",
+      "tags": [
+        "software engineering"
+      ],
+      "verdict": "review",
+      "fit": 58,
+      "reasons": [
+        "Uk-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Senior Backend Engineer, Core DevOps",
+      "company": "GitLab",
+      "location": "UK",
+      "url": "https://jobicy.com/jobs/158061-senior-backend-engineer-core-devops",
+      "source": "Jobicy",
+      "description": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster. The same principles built into&hellip;",
+      "tags": [
+        "software engineering"
+      ],
+      "verdict": "review",
+      "fit": 58,
+      "reasons": [
+        "Uk-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Cloud Engineer Automation",
+      "company": "Smile Digital Health",
+      "location": "Toronto, Ontario",
+      "url": "https://remoteOK.com/remote-jobs/remote-cloud-engineer-automation-smile-digital-health-1137600",
+      "source": "RemoteOK",
+      "description": "Working for a company like Smile Digital Health means supporting our mandate for #BetterGlobalHealth . We strive towards this goal every day, and the results can be seen in the impact of our innovative health data platform and data management solutions, which are used in over 20 countries. We were #19 on Deloitte's Technology Fast 50 Ranking for 2024!&nbsp; &nbsp; Smile Digital Health makes it easy for healthcare stakeholders to collect and exchange data with our leading FHIR-based data liberation platform. &nbsp; At its heart, the Smile platform enables people and organizations to better mana",
+      "tags": [
+        "design",
+        "grafana",
+        "infosec",
+        "python",
+        "customer support",
+        "marketing",
+        "dev",
+        "quality assurance",
+        "devops",
+        "education",
+        "cloud",
+        "git",
+        "postgres",
+        "microsoft",
+        "exec",
+        "ops",
+        "medical",
+        "engineer",
+        "recruiter",
+        "digital nomad"
+      ],
+      "verdict": "review",
+      "fit": 56,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
       "title": "DevOps Engineer | Live Entertainment Company",
       "company": "GT",
       "location": "Europe",
@@ -855,22 +966,6 @@
       "fit": 52,
       "reasons": [
         "Europe-tagged — verify it's open to Africa first"
-      ]
-    },
-    {
-      "title": "DevOps Engineer, Edge and Developer Experience (Remote Eligible in Bulgaria)",
-      "company": "Smartsheet",
-      "location": "Bulgaria",
-      "url": "https://jobicy.com/jobs/156722-devops-engineer-edge-and-developer-experience-remote-eligible-in-bulgaria",
-      "source": "Jobicy",
-      "description": "For over 20 years, Smartsheet has empowered teams to manage work seamlessly and scale solutions smarter. Now, in our most ambitious chapter yet, we are uniting human teams with AI agents. By orchestrating the work agents do best, automating manual tasks and uncovering insights at scale, we create the space for people to focus on&hellip;",
-      "tags": [
-        "devops & infrastructure"
-      ],
-      "verdict": "review",
-      "fit": 52,
-      "reasons": [
-        "location unconfirmed — verify it's open to Africa"
       ]
     },
     {
@@ -1286,42 +1381,6 @@
         "cloud",
         "exec",
         "engineer",
-        "digital nomad"
-      ],
-      "verdict": "blocked",
-      "fit": 0,
-      "reasons": [
-        "Staff-level — usually 5–10+ yrs, you have ~4"
-      ]
-    },
-    {
-      "title": "Staff Software Development Engineer SDM",
-      "company": "Delinea",
-      "location": "Redwood City",
-      "url": "https://remoteOK.com/remote-jobs/remote-staff-software-development-engineer-sdm-delinea-1136796",
-      "source": "RemoteOK",
-      "description": "About Delinea: Delinea is a pioneer in securing human and machine identities through intelligent, centralized authorization, empowering organizations to seamlessly govern their interactions across the modern enterprise. Leveraging AI-powered intelligence, Delineaâs leading cloud-native Identity Security Platform applies context throughout the entire identity lifecycle â across cloud and traditional infrastructure, data, SaaS applications, and AI. It is the only platform that enables you to discover all identities â including workforce, IT administrator, developers, and machines â assig",
-      "tags": [
-        "dev",
-        "design",
-        "saas",
-        "sys admin",
-        "infosec",
-        "vfx",
-        "technical",
-        "web dev",
-        "exec",
-        "devops",
-        "education",
-        "finance",
-        "cloud",
-        "api",
-        "admin",
-        "ops",
-        "golang",
-        "medical",
-        "engineer",
-        "backend",
         "digital nomad"
       ],
       "verdict": "blocked",
