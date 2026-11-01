@@ -1,10 +1,10 @@
 {
-  "generated": "2026-10-31 11:22 UTC",
-  "count": 67,
+  "generated": "2026-11-01 12:14 UTC",
+  "count": 66,
   "summary": {
-    "scanned": 67,
-    "eligible": 45,
-    "review": 11,
+    "scanned": 66,
+    "eligible": 46,
+    "review": 9,
     "blocked": 11
   },
   "jobs": [
@@ -90,7 +90,7 @@
       "location": "Worldwide",
       "url": "https://remoteOK.com/remote-jobs/remote-golang-kubernetes-engineer-arango-1137400",
       "source": "RemoteOK",
-      "description": "Remote - Arango delivers a unified, natively multimodel contextual data platform that powers AI agents, assistants, and applications with the unified, current, and trusted business context needed to reason, decide, and act at scale.The Arango Contextual Data Platform connects... Please mention the word **FESTIVE** and tag RMTM1LjIzMi4yMDEuNjY= when applying to show you read the job post completely (#RMTM1LjIzMi4yMDEuNjY=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Arango delivers a unified, natively multimodel contextual data platform that powers AI agents, assistants, and applications with the unified, current, and trusted business context needed to reason, decide, and act at scale.The Arango Contextual Data Platform connects... Please mention the word **FESTIVE** and tag RNTIuMTg4Ljg3LjE0OA== when applying to show you read the job post completely (#RNTIuMTg4Ljg3LjE0OA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "tags": [
         "golang",
         "golang",
@@ -302,6 +302,41 @@
       ]
     },
     {
+      "title": "AWS Cloud Solutions Architect",
+      "company": "Cloudary SAS",
+      "location": "Worldwide",
+      "url": "https://remoteOK.com/remote-jobs/remote-aws-cloud-solutions-architect-cloudary-sas-1137606",
+      "source": "RemoteOK",
+      "description": "As a Senior AWS Cloud Solutions Architect , you will be the technical lead on our most complex engagements, from assessment and mobilization to large-scale migration and modernization. You will report to an Engineering Manager based in Europe and lead distributed teams of US- and Budapest-based engineers. You will also work closely with colleagues in our AI/ML and Application Development practices. What you'll be doing: Lead the technical delivery of complex, high-impact migration and modernization engagements, including AWS Migration Acceleration Program (MAP) assessments and mobilization. Le",
+      "tags": [
+        "architecture",
+        "design",
+        "ansible",
+        "infosec",
+        "docker",
+        "technical",
+        "dev",
+        "exec",
+        "serverless",
+        "cloud",
+        "postgres",
+        "sql",
+        "api",
+        "senior",
+        "ops",
+        "sales",
+        "golang",
+        "engineer",
+        "digital nomad"
+      ],
+      "verdict": "eligible",
+      "fit": 56,
+      "reasons": [
+        "remote — anywhere / global",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
       "title": "Cloud Network Engineer",
       "company": "BeyondTrust",
       "location": "Anywhere in the World",
@@ -502,7 +537,7 @@
       "location": "Worldwide",
       "url": "https://remoteOK.com/remote-jobs/remote-platform-and-integration-engineer-security-telemetry-redmimicry-1137465",
       "source": "RemoteOK",
-      "description": "Remote - Location: Mostly remote (within Germany), with monthly in-person collaboration at our Berlin officeHours: Part-time, 32 hours per weekContract: Fixed-termSalary: EUR 53,000 â 59,000 (at 32 hours per week)We are building a new capability that turns fragmented,... Please mention the word **THRIFTY** and tag RMTM1LjIzMi4yMDEuNjY= when applying to show you read the job post completely (#RMTM1LjIzMi4yMDEuNjY=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Location: Mostly remote (within Germany), with monthly in-person collaboration at our Berlin officeHours: Part-time, 32 hours per weekContract: Fixed-termSalary: EUR 53,000 â 59,000 (at 32 hours per week)We are building a new capability that turns fragmented,... Please mention the word **THRIFTY** and tag RNTIuMTg4Ljg3LjE0OA== when applying to show you read the job post completely (#RNTIuMTg4Ljg3LjE0OA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "tags": [
         "golang",
         "infosec",
@@ -953,22 +988,6 @@
       ]
     },
     {
-      "title": "DevOps Engineer | Live Entertainment Company",
-      "company": "GT",
-      "location": "Europe",
-      "url": "https://jobicy.com/jobs/156913-devops-engineer-live-entertainment-company",
-      "source": "Jobicy",
-      "description": "GT was founded in 2019 by a former Apple, Nest, and Google executive. GT’s mission is to connect the world’s best talent with product careers offered by high-growth companies in the UK, USA, Canada, Germany, and the Netherlands. On behalf of our client, an international company in the live entertainment industry, GT is looking for&hellip;",
-      "tags": [
-        "devops & infrastructure"
-      ],
-      "verdict": "review",
-      "fit": 52,
-      "reasons": [
-        "Europe-tagged — verify it's open to Africa first"
-      ]
-    },
-    {
       "title": "Senior Back-end Developer",
       "company": "Lemon.io",
       "location": "Europe, USA, Canada, Australia, Singapore, Mexico, Saudi Arabia",
@@ -1085,66 +1104,6 @@
         "startup",
         "marketplace",
         "next.js",
-        "flutter"
-      ],
-      "verdict": "review",
-      "fit": 50,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Senior back-end Engineer",
-      "company": "Lemon.io",
-      "location": "Europe, USA, UK, Canada, Australia, Ireland, Switzerland, Singapore, Mexico, Iceland, Norway",
-      "url": "https://remotive.com/remote-jobs/software-development/senior-back-end-engineer-2091132",
-      "source": "Remotive",
-      "description": "Senior Developer? Work Remote. Get Paid Well. Build What Matters. Lemon.io connects hand-picked senior developers with vetted startups across the US and Europe — no bidding wars, no ghosting, just serious opportunities. We're currently hiring for a research-driven AI company on a mission to slash the cost of modern AI — co-designing hardware, software, algorithms, and models to make AI's benefits accessible to everyone. They're active open-source contributors, building the infrastructure behind next-generation AI at scale. Open roles: Senior Back-end Engineer (Golang), Senior DevOps Engineer, ",
-      "tags": [
-        ".net",
-        "android",
-        "c",
-        "c#",
-        "c++",
-        "data science",
-        "golang",
-        "ios",
-        "java",
-        "javascript",
-        "kubernetes",
-        "node.js",
-        "php",
-        "python",
-        "react",
-        "ruby/rails",
-        "scala",
-        "shopify",
-        "swift",
-        "ui/ux",
-        "wordpress",
-        "blockchain",
-        "ai/ml",
-        "automation",
-        "project management",
-        "react native",
-        "research",
-        "rust",
-        "unity",
-        "electron",
-        "spring",
-        "laravel",
-        "ethereum",
-        "graphic design",
-        "typescript",
-        "hardware",
-        "angular",
-        "firebase",
-        "data engineering",
-        "site reliability",
-        "symfony",
-        "next.js",
-        "infrastructure",
         "flutter"
       ],
       "verdict": "review",
@@ -1366,30 +1325,6 @@
       ]
     },
     {
-      "title": "Member of Technical Staff Engineering",
-      "company": "Physical Superintelligence",
-      "location": "Boston",
-      "url": "https://remoteOK.com/remote-jobs/remote-member-of-technical-staff-engineering-physical-superintelligence-1136798",
-      "source": "RemoteOK",
-      "description": "Overview Physical Superintelligence is a startup with roots at Google, NVIDIA, Harvard, Meta, MIT, Oxford, Johns Hopkins, Cambridge, and the Perimeter Institute building AI systems to discover new physics at scale. We are seeking engineers to build platform infrastructure at the intersection of computational science, AI systems, and software engineering. Our mission is to discover and commercialize transformative physics breakthroughs at scale with artificial superintelligence, safely, verifiably, and for broad public benefit. The last century's golden age of physics gave us transistors, laser",
-      "tags": [
-        "design",
-        "infosec",
-        "technical",
-        "dev",
-        "testing",
-        "cloud",
-        "exec",
-        "engineer",
-        "digital nomad"
-      ],
-      "verdict": "blocked",
-      "fit": 0,
-      "reasons": [
-        "Staff-level — usually 5–10+ yrs, you have ~4"
-      ]
-    },
-    {
       "title": "Principal Data Engineer",
       "company": "ZoomInfo Technologies LLC",
       "location": "Anywhere in the World",
@@ -1457,6 +1392,22 @@
       "fit": 0,
       "reasons": [
         "Director-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
+      "title": "Staff DevOps Engineer, Developer Experience (DevEx)",
+      "company": "Demandbase, Inc.",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/158217-staff-devops-engineer-developer-experience-devex",
+      "source": "Jobicy",
+      "description": "Introduction to Demandbase: Demandbase is the only pipeline AI platform that empowers GTM teams to automate growth at scale. With a unified view of data, insights, actions, and outcomes, B2B enterprises can seamlessly align and execute their account-based GTM strategies with confidence. Thousands of businesses trust Demandbase to maximize revenue, minimize waste, and consolidate their&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Staff-level — usually 5–10+ yrs, you have ~4"
       ]
     },
     {
