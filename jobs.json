@@ -1,9 +1,9 @@
 {
-  "generated": "2026-11-01 12:14 UTC",
-  "count": 66,
+  "generated": "2026-11-02 14:03 UTC",
+  "count": 65,
   "summary": {
-    "scanned": 66,
-    "eligible": 46,
+    "scanned": 65,
+    "eligible": 45,
     "review": 9,
     "blocked": 11
   },
@@ -90,7 +90,7 @@
       "location": "Worldwide",
       "url": "https://remoteOK.com/remote-jobs/remote-golang-kubernetes-engineer-arango-1137400",
       "source": "RemoteOK",
-      "description": "Remote - Arango delivers a unified, natively multimodel contextual data platform that powers AI agents, assistants, and applications with the unified, current, and trusted business context needed to reason, decide, and act at scale.The Arango Contextual Data Platform connects... Please mention the word **FESTIVE** and tag RNTIuMTg4Ljg3LjE0OA== when applying to show you read the job post completely (#RNTIuMTg4Ljg3LjE0OA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Arango delivers a unified, natively multimodel contextual data platform that powers AI agents, assistants, and applications with the unified, current, and trusted business context needed to reason, decide, and act at scale.The Arango Contextual Data Platform connects... Please mention the word **FESTIVE** and tag RMjAuMTY5LjEwMi45 when applying to show you read the job post completely (#RMjAuMTY5LjEwMi45). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "tags": [
         "golang",
         "golang",
@@ -170,20 +170,6 @@
       "url": "https://weworkremotely.com/remote-jobs/discord-qa-devops-engineer",
       "source": "WeWorkRemotely",
       "description": "Headquarters: San Francisco Bay Area or Remote (U.S.) Discord has a highly engaged community of millions of daily active users who use the platform for many different reasons, but there’s one thing that nearly everyone does: play video games. Discord plays a uniquely important role in the future of gaming, and we are focused on making it easier and more fun for people to hang out before, during, and after playing games. We are seeking a QA/DevOps Engineer&nbsp;to join Discord’s Business Systems team. In this role, you will own automated test suite development and maintenance across Oracle ERP ",
-      "tags": [],
-      "verdict": "eligible",
-      "fit": 66,
-      "reasons": [
-        "remote — anywhere / global"
-      ]
-    },
-    {
-      "title": "Security Engineer, Cloud",
-      "company": "Vercel",
-      "location": "Anywhere in the World",
-      "url": "https://weworkremotely.com/remote-jobs/vercel-security-engineer-cloud",
-      "source": "WeWorkRemotely",
-      "description": "Headquarters: Remote - United States About Vercel: Vercel is the agentic infrastructure company, freeing people and agents to ship what's next. For more than a decade we've helped builders move from idea to production with speed, security, and exceptional developer experience. Now we're scaling our products for both agents and people to ship and run software, built in the open and trusted by OpenAI, PayPal, Ramp, Supreme, and millions of developers worldwide. About the role: We're looking for a Security Engineer to join our Cloud Security Engineering team. In this role, you'll help strengthen ",
       "tags": [],
       "verdict": "eligible",
       "fit": 66,
@@ -278,21 +264,6 @@
       "url": "https://weworkremotely.com/remote-jobs/upsun-senior-it-systems-engineer",
       "source": "WeWorkRemotely",
       "description": "Headquarters: Remote • Canada About Upsun Upsun is the software factory for human-AI workflows. We give teams one unified platform to create, review, deploy, and run software, with AI agents and humans working in sync. Developers, DevOps engineers, and platform teams use Upsun to build and ship with confidence, without wrestling with infrastructure. Upsun brings this together through two products: one that shapes the work, and one that runs it. Upsun Dispatch™: the AI-first product accelerator. Dispatch governs and simplifies collaboration between AI agents and cross-functional human teams, so",
-      "tags": [],
-      "verdict": "eligible",
-      "fit": 60,
-      "reasons": [
-        "remote — anywhere / global",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Senior Manager, Solutions Architect",
-      "company": "Vercel",
-      "location": "Anywhere in the World",
-      "url": "https://weworkremotely.com/remote-jobs/vercel-senior-manager-solutions-architect",
-      "source": "WeWorkRemotely",
-      "description": "Headquarters: Remote - Australia About Vercel: Vercel is the agentic infrastructure company, freeing people and agents to ship what's next. For more than a decade we've helped builders move from idea to production with speed, security, and exceptional developer experience. Now we're scaling our products for both agents and people to ship and run software, built in the open and trusted by OpenAI, PayPal, Ramp, Supreme, and millions of developers worldwide. About The Role: We are looking for a Senior Manager of Solutions Architecture to join and lead our our APAC SA team. In this role, you will ",
       "tags": [],
       "verdict": "eligible",
       "fit": 60,
@@ -537,13 +508,27 @@
       "location": "Worldwide",
       "url": "https://remoteOK.com/remote-jobs/remote-platform-and-integration-engineer-security-telemetry-redmimicry-1137465",
       "source": "RemoteOK",
-      "description": "Remote - Location: Mostly remote (within Germany), with monthly in-person collaboration at our Berlin officeHours: Part-time, 32 hours per weekContract: Fixed-termSalary: EUR 53,000 â 59,000 (at 32 hours per week)We are building a new capability that turns fragmented,... Please mention the word **THRIFTY** and tag RNTIuMTg4Ljg3LjE0OA== when applying to show you read the job post completely (#RNTIuMTg4Ljg3LjE0OA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Location: Mostly remote (within Germany), with monthly in-person collaboration at our Berlin officeHours: Part-time, 32 hours per weekContract: Fixed-termSalary: EUR 53,000 â 59,000 (at 32 hours per week)We are building a new capability that turns fragmented,... Please mention the word **THRIFTY** and tag RMjAuMTY5LjEwMi45 when applying to show you read the job post completely (#RMjAuMTY5LjEwMi45). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "tags": [
         "golang",
         "infosec",
         "engineer",
         "part time"
       ],
+      "verdict": "eligible",
+      "fit": 50,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
+    {
+      "title": "Salesforce Business Systems Administrator",
+      "company": "Salesloft",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/salesloft-salesforce-business-systems-administrator",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: United States, Remote ROLE: Business Systems Administrator Location: United States, Remote This is a fully remote opportunity and can be worked from any location in the United States. ABOUT THE COMPANY:&nbsp; Salesloft is building the next era of enterprise revenue — one where teams make confident decisions powered by AI and real signals. By combining our scale, insights, and AI innovation, we're building the industry's first Predictive Revenue System, enabling humans and AI to work together to make smarter decisions and drive consistent growth. With thousands of customers using ",
+      "tags": [],
       "verdict": "eligible",
       "fit": 50,
       "reasons": [
@@ -1131,19 +1116,23 @@
       ]
     },
     {
-      "title": "Sr. DevOps Engineer",
-      "company": "Cyware",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/157082-sr-devops-engineer",
-      "source": "Jobicy",
-      "description": "Job Title: Senior DevOps Engineer Location: USA (Remote or Regional Office) Reports To: SVP of Engineering About Cyware Cyware delivers an innovative approach to cybersecurity that unifies threat intelligence, automation, threat response, and vulnerability management with data insights gleaned from assets, users, malware, attackers, and vulnerabilities. Cyware’s Cyber Fusion platform integrates SOAR and TIP technology,&hellip;",
+      "title": "Senior Linux Systems Engineer - EDA Infrastructure",
+      "company": "NVIDIA",
+      "location": "United States",
+      "url": "https://himalayas.app/companies/nvidia/jobs/senior-linux-systems-engineer-eda-infrastructure?utm_source=api",
+      "source": "Himalayas",
+      "description": "We are seeking aLinux Systems Engineerto join our Infrastructure Engineering team, dedicated to supporting high-performance EDA compute farms. You will be responsible for designing, deploying, and maintaining enterprise-grade Linux environments across RPM-based distributions, optimized for the high-throughput requirements of EDA workloads. You will drive automation initiatives, and build robust tooling to support a highly available and scalable infrastructure. What you'll be doing: Linux Infrastructure Engineering:Maintain, tune, and secure mission-criticalLinux operating systemsacross product",
       "tags": [
-        "devops & infrastructure"
+        "linux-systems-engineer",
+        "infrastructure-engineer",
+        "devops-engineer",
+        "site-reliability-engineer",
+        "systems-administrator"
       ],
       "verdict": "review",
       "fit": 46,
       "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "United states-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
