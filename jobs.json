@@ -1,9 +1,9 @@
 {
-  "generated": "2026-11-02 14:03 UTC",
-  "count": 65,
+  "generated": "2026-11-03 13:10 UTC",
+  "count": 64,
   "summary": {
-    "scanned": 65,
-    "eligible": 45,
+    "scanned": 64,
+    "eligible": 44,
     "review": 9,
     "blocked": 11
   },
@@ -90,7 +90,7 @@
       "location": "Worldwide",
       "url": "https://remoteOK.com/remote-jobs/remote-golang-kubernetes-engineer-arango-1137400",
       "source": "RemoteOK",
-      "description": "Remote - Arango delivers a unified, natively multimodel contextual data platform that powers AI agents, assistants, and applications with the unified, current, and trusted business context needed to reason, decide, and act at scale.The Arango Contextual Data Platform connects... Please mention the word **FESTIVE** and tag RMjAuMTY5LjEwMi45 when applying to show you read the job post completely (#RMjAuMTY5LjEwMi45). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Arango delivers a unified, natively multimodel contextual data platform that powers AI agents, assistants, and applications with the unified, current, and trusted business context needed to reason, decide, and act at scale.The Arango Contextual Data Platform connects... Please mention the word **FESTIVE** and tag RNjQuMjM2LjEzMS4yMTY= when applying to show you read the job post completely (#RNjQuMjM2LjEzMS4yMTY=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "tags": [
         "golang",
         "golang",
@@ -450,31 +450,6 @@
       ]
     },
     {
-      "title": "Freelance Copywriter",
-      "company": "Coalition Technologies",
-      "location": "Worldwide",
-      "url": "https://remotive.com/remote-jobs/writing/freelance-copywriter-1749306",
-      "source": "Remotive",
-      "description": "CT Marketing Agency is seeking skilled Freelance Copywriters to write high-quality, SEO-driven content for eCommerce and lead generation websites. This is a freelance, project-based writing role. The ideal candidate has excellent English writing skills, strong research ability, and experience writing content that follows detailed, client-specific guidelines. Projects commonly include category pages, product descriptions, blog posts, SEO landing pages, and website copy. About the Role Our client base is constantly evolving, and writers may create content across a wide range of industries, inclu",
-      "tags": [
-        "accounting",
-        "excel",
-        "research",
-        "data analysis",
-        "bookkeeping",
-        "google sheets",
-        "quickbooks",
-        "data entry",
-        "insurance",
-        "g suite"
-      ],
-      "verdict": "eligible",
-      "fit": 50,
-      "reasons": [
-        "remote — anywhere / global"
-      ]
-    },
-    {
       "title": "Junior Sales Development Representative IT Industry",
       "company": "Huzzle",
       "location": "Worldwide",
@@ -508,7 +483,7 @@
       "location": "Worldwide",
       "url": "https://remoteOK.com/remote-jobs/remote-platform-and-integration-engineer-security-telemetry-redmimicry-1137465",
       "source": "RemoteOK",
-      "description": "Remote - Location: Mostly remote (within Germany), with monthly in-person collaboration at our Berlin officeHours: Part-time, 32 hours per weekContract: Fixed-termSalary: EUR 53,000 â 59,000 (at 32 hours per week)We are building a new capability that turns fragmented,... Please mention the word **THRIFTY** and tag RMjAuMTY5LjEwMi45 when applying to show you read the job post completely (#RMjAuMTY5LjEwMi45). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Location: Mostly remote (within Germany), with monthly in-person collaboration at our Berlin officeHours: Part-time, 32 hours per weekContract: Fixed-termSalary: EUR 53,000 â 59,000 (at 32 hours per week)We are building a new capability that turns fragmented,... Please mention the word **THRIFTY** and tag RNjQuMjM2LjEzMS4yMTY= when applying to show you read the job post completely (#RNjQuMjM2LjEzMS4yMTY=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "tags": [
         "golang",
         "infosec",
@@ -938,6 +913,33 @@
       ]
     },
     {
+      "title": "Software Engineer Infrastructure",
+      "company": "Sodalis, Inc.",
+      "location": "Palo Alto",
+      "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-infrastructure-sodalis-inc-1137614",
+      "source": "RemoteOK",
+      "description": "Software Engineer, Infrastructure Hybrid in Palo Alto (Mon / Wed / Thurs) Â· $185Kâ$215K base + meaningful early-stage equity + full benefits Â About Sodalis Specialty pharmacy is where the most complex and expensive drugs reach the most in-need patients, and it still runs on faxes, phone tag, and manual data entry. Patients wait weeks for therapies that can't wait. Sodalis is building AI agents that run those operations end to end: reading and validating prescriptions, handling phone calls, and moving prescriptions through eligibility and fulfillment. The ambition goes beyond that. We want ",
+      "tags": [
+        "dev",
+        "design",
+        "embedded",
+        "sys admin",
+        "cloud",
+        "ruby",
+        "exec",
+        "ops",
+        "golang",
+        "medical",
+        "engineer",
+        "digital nomad"
+      ],
+      "verdict": "review",
+      "fit": 56,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
       "title": "Cloud Engineer Automation",
       "company": "Smile Digital Health",
       "location": "Toronto, Ontario",
@@ -970,6 +972,22 @@
       "fit": 56,
       "reasons": [
         "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
+      "title": "AWS DevOps Engineer (Freelancer)",
+      "company": "Mactores",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/152278-aws-devops-engineer-freelancer",
+      "source": "Jobicy",
+      "description": "Mactores is the agent-native AWS modernization firm. Most modernization work doesn't ship, it stalls in pilots, slips a year, or lands at three times the budget. We exist to ship it: production systems running, legacy retired, outcomes measured. Our delivery is built on Aedeon, the agent platform built by Mactores' founders' sister company, which absorbs&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
+      "verdict": "review",
+      "fit": 56,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -1035,70 +1053,6 @@
       ]
     },
     {
-      "title": "Senior React Full-stack Developer",
-      "company": "Lemon.io",
-      "location": "Europe, USA, Canada, APAC",
-      "url": "https://remotive.com/remote-jobs/software-development/senior-react-full-stack-developer-2091133",
-      "source": "Remotive",
-      "description": "Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The rate depends on your seniority level, skills and experience. We've already paid out over $11M to our engineers. No more hunting for clients or negotiating rates — let us handle the business side of things so you can focus on what you do best. We'll manually find the best project for you according to your skills and preferences. Choose a schedul",
-      "tags": [
-        ".net",
-        "android",
-        "aws",
-        "azure",
-        "c",
-        "c#",
-        "c++",
-        "data science",
-        "fullstack",
-        "golang",
-        "ios",
-        "java",
-        "javascript",
-        "node.js",
-        "php",
-        "python",
-        "react",
-        "react js",
-        "ruby/rails",
-        "scala",
-        "shopify",
-        "swift",
-        "ui/ux",
-        "wordpress",
-        "blockchain",
-        "ai/ml",
-        "automation",
-        "react native",
-        "rust",
-        "product management",
-        "unity",
-        "electron",
-        "spring",
-        "data analysis",
-        "laravel",
-        "ethereum",
-        "graphic design",
-        "typescript",
-        "angular",
-        "gcp",
-        "firebase",
-        "data engineering",
-        "site reliability",
-        "symfony",
-        "startup",
-        "marketplace",
-        "next.js",
-        "flutter"
-      ],
-      "verdict": "review",
-      "fit": 50,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
       "title": "Senior DevOps Engineer",
       "company": "Bloomreach",
       "location": "Slovakia",
@@ -1112,27 +1066,6 @@
       "fit": 46,
       "reasons": [
         "location unconfirmed — verify it's open to Africa",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Senior Linux Systems Engineer - EDA Infrastructure",
-      "company": "NVIDIA",
-      "location": "United States",
-      "url": "https://himalayas.app/companies/nvidia/jobs/senior-linux-systems-engineer-eda-infrastructure?utm_source=api",
-      "source": "Himalayas",
-      "description": "We are seeking aLinux Systems Engineerto join our Infrastructure Engineering team, dedicated to supporting high-performance EDA compute farms. You will be responsible for designing, deploying, and maintaining enterprise-grade Linux environments across RPM-based distributions, optimized for the high-throughput requirements of EDA workloads. You will drive automation initiatives, and build robust tooling to support a highly available and scalable infrastructure. What you'll be doing: Linux Infrastructure Engineering:Maintain, tune, and secure mission-criticalLinux operating systemsacross product",
-      "tags": [
-        "linux-systems-engineer",
-        "infrastructure-engineer",
-        "devops-engineer",
-        "site-reliability-engineer",
-        "systems-administrator"
-      ],
-      "verdict": "review",
-      "fit": 46,
-      "reasons": [
-        "United states-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
