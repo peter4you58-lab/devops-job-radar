@@ -1,27 +1,13 @@
 {
-  "generated": "2026-11-04 13:25 UTC",
-  "count": 109,
+  "generated": "2026-11-05 13:39 UTC",
+  "count": 107,
   "summary": {
-    "scanned": 109,
-    "eligible": 46,
-    "review": 40,
-    "blocked": 23
+    "scanned": 107,
+    "eligible": 43,
+    "review": 44,
+    "blocked": 20
   },
   "jobs": [
-    {
-      "title": "Engineering Manager, Cloud Engineering",
-      "company": "LaunchDarkly",
-      "location": "Anywhere in the World",
-      "url": "https://weworkremotely.com/remote-jobs/launchdarkly-engineering-manager-cloud-engineering",
-      "source": "WeWorkRemotely",
-      "description": "Headquarters: Remote - US About the Job: We’re looking for an Engineering Manager to lead LaunchDarkly’s Cloud Engineering team, the team responsible for the foundational infrastructure our products and engineering teams depend on. Cloud Engineering owns LaunchDarkly’s AWS accounts and networking, multi-region Kubernetes infrastructure, Terraform and GitOps workflows, CockroachDB operations, disaster-recovery capabilities, and FedRAMP infrastructure posture. The team is small, senior, and recently rebuilt. This is a frontline leadership role for a manager who treats operational health as a top",
-      "tags": [],
-      "verdict": "eligible",
-      "fit": 82,
-      "reasons": [
-        "remote — anywhere / global"
-      ]
-    },
     {
       "title": "Senior DevOps Engineer",
       "company": "Lemon.io",
@@ -441,61 +427,50 @@
       ]
     },
     {
-      "title": "Freelance Writer",
-      "company": "IAPWE",
-      "location": "Worldwide",
-      "url": "https://remotive.com/remote-jobs/writing/freelance-writer-1185979",
-      "source": "Remotive",
-      "description": "Our organization is seeking content writers to create articles and blog posts on a variety of topics. The rate of pay is $20 per 100 words (this comes out to approximately $100 per article or $50 per hour). Some topics you may be asked to write about include the following (you can always turn down a topic if you do not feel comfortable writing about it, however if you have experience or expertise in a specific area, please let us know): Health &amp; beauty Fitness Home Decor Fashion Sports Do it yourself Finance Legal Medical Family/Parenting Relationships Real Estate Restaurants Contracting (",
-      "tags": [
-        "rest"
-      ],
-      "verdict": "eligible",
-      "fit": 50,
-      "reasons": [
-        "remote — anywhere / global"
-      ]
-    },
-    {
-      "title": "Junior Sales Development Representative IT Industry",
-      "company": "Huzzle",
-      "location": "Worldwide",
-      "url": "https://remoteOK.com/remote-jobs/remote-junior-sales-development-representative-it-industry-huzzle-1137480",
-      "source": "RemoteOK",
-      "description": "About Huzzle At Huzzle, we connect exceptional talent with top opportunities at leading companies across the UK, US, Canada, Europe, and Australia. Our clients include fast-growing startups, digital agencies, SaaS companies, and tech-enabled businesses across industries such as MarTech, FinTech, EdTech, and eCommerce. Unlike traditional outsourcing agencies, we place you directly with innovative companies where you become a valued member of the team. Role Type: Full-time Engagement: Full-time (Offshore, EST Business Hours) Job Summary Join a cutting-edge AI company that is redefining the futur",
-      "tags": [
-        "saas",
-        "technical",
-        "marketing",
-        "finance",
-        "c",
-        "cloud",
-        "microsoft",
-        "senior",
-        "junior",
-        "ops",
-        "sales",
-        "ecommerce",
-        "full time"
-      ],
-      "verdict": "eligible",
-      "fit": 50,
-      "reasons": [
-        "remote — anywhere / global"
-      ]
-    },
-    {
       "title": "Platform and Integration Engineer Security Telemetry",
       "company": "RedMimicry",
       "location": "Worldwide",
       "url": "https://remoteOK.com/remote-jobs/remote-platform-and-integration-engineer-security-telemetry-redmimicry-1137465",
       "source": "RemoteOK",
-      "description": "Remote - Location: Mostly remote (within Germany), with monthly in-person collaboration at our Berlin officeHours: Part-time, 32 hours per weekContract: Fixed-termSalary: EUR 53,000 â 59,000 (at 32 hours per week)We are building a new capability that turns fragmented,... Please mention the word **THRIFTY** and tag RNTIuMTczLjExLjc0 when applying to show you read the job post completely (#RNTIuMTczLjExLjc0). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Location: Mostly remote (within Germany), with monthly in-person collaboration at our Berlin officeHours: Part-time, 32 hours per weekContract: Fixed-termSalary: EUR 53,000 â 59,000 (at 32 hours per week)We are building a new capability that turns fragmented,... Please mention the word **THRIFTY** and tag RNTIuMTc5Ljg4LjExNw== when applying to show you read the job post completely (#RNTIuMTc5Ljg4LjExNw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "tags": [
         "golang",
         "infosec",
         "engineer",
         "part time"
+      ],
+      "verdict": "eligible",
+      "fit": 50,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
+    {
+      "title": "Marketing Specialist",
+      "company": "INNERGY",
+      "location": "Austin, Austin, Texas, United States",
+      "url": "https://remoteOK.com/remote-jobs/remote-marketing-specialist-innergy-1136094",
+      "source": "RemoteOK",
+      "description": "INNERGY is transforming the woodworking industry with purpose built, cloud based ERP software designed exclusively for custom manufacturers. Our platform helps businesses operate smarter, faster, and more efficiently while seamlessly connecting design, production, and delivery for teams creating architectural millwork, cabinetry, and casework. What truly sets INNERGY apart is our people. Founded in 2016, we are a globally distributed team of 200 plus professionals united by deep software expertise and a shared passion for solving meaningful, real world problems. We value collaboration, creativ",
+      "tags": [
+        "design",
+        "saas",
+        "salesforce",
+        "wordpress",
+        "customer support",
+        "dev",
+        "testing",
+        "marketing",
+        "web dev",
+        "travel",
+        "cloud",
+        "ads",
+        "exec",
+        "content writing",
+        "stats",
+        "sales",
+        "recruiter",
+        "digital nomad"
       ],
       "verdict": "eligible",
       "fit": 50,
@@ -760,22 +735,6 @@
       ]
     },
     {
-      "title": "Account Executive 4",
-      "company": "Twilio",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/158136-account-executive-4-3",
-      "source": "Jobicy",
-      "description": "Who we are At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to hundreds of thousands of businesses and empower millions of developers worldwide to craft personalized customer experiences. Our dedication to remote-first work, and strong culture of connection and global inclusion means that no&hellip;",
-      "tags": [
-        "sales"
-      ],
-      "verdict": "eligible",
-      "fit": 50,
-      "reasons": [
-        "remote — anywhere / global"
-      ]
-    },
-    {
       "title": "Product Engineering Lead",
       "company": "Tether Operations Limited",
       "location": "Worldwide",
@@ -1027,19 +986,35 @@
       ]
     },
     {
-      "title": "Developer Advocate - Service Management EMEA",
-      "company": "Datadog",
-      "location": "France, Netherlands, Spain",
-      "url": "https://jobicy.com/jobs/154340-developer-advocate-service-management-emea",
+      "title": "Communications Designer, Developer Experience",
+      "company": "Nebius",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/159023-communications-designer-developer-experience",
       "source": "Jobicy",
-      "description": "We are a team of engineers that translate our real-world experience to help our user communities solve problems. With a focus on service management, helping teams respond to incidents, run on-call, and automate their operations, you will work with practitioners and leaders across the industry and broaden your impact to the SRE, Engineer, DevOps, and&hellip;",
+      "description": "About Nebius: Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-house AI/ML infrastructure. Built by engineers, for engineers. From&hellip;",
+      "tags": [
+        "creative & design"
+      ],
+      "verdict": "review",
+      "fit": 52,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "Cloud Operations Engineer",
+      "company": "Varicent",
+      "location": "Mexico",
+      "url": "https://jobicy.com/jobs/158996-cloud-operations-engineer-3",
+      "source": "Jobicy",
+      "description": "At Varicent, we’re not just transforming the Sales Performance Management (SPM) market—we’re redefining how organizations achieve revenue success. Our cutting-edge SaaS solutions empower revenue leaders globally to design smarter go-to-market strategies, maximize seller performance, and unlock untapped potential. Varicent stands at the forefront of innovation, celebrated as a market leader in the 2025 Forrester Wave&hellip;",
       "tags": [
         "devops & infrastructure"
       ],
       "verdict": "review",
-      "fit": 56,
+      "fit": 52,
       "reasons": [
-        "France-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+        "Mexico-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -1056,22 +1031,6 @@
       "fit": 52,
       "reasons": [
         "Europe-tagged — verify it's open to Africa first"
-      ]
-    },
-    {
-      "title": "Site Reliability Engineer",
-      "company": "MaintainX",
-      "location": "Canada",
-      "url": "https://jobicy.com/jobs/158114-site-reliability-engineer-5",
-      "source": "Jobicy",
-      "description": "MaintainX is a leading mobile-first work execution platform for industrial and frontline teams. More than 13,000 customers, including Duracell, McDonald's, Shell, DHL and Volvo, use MaintainX to cut unplanned downtime and run better operations, across 13.9 million managed assets and 79.5 million completed work orders. In August 2026 MaintainX became part of Autodesk, joining Autodesk&hellip;",
-      "tags": [
-        "devops & infrastructure"
-      ],
-      "verdict": "review",
-      "fit": 52,
-      "reasons": [
-        "Canada-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -1153,6 +1112,40 @@
       ]
     },
     {
+      "title": "Senior Software Engineer, Internal Tooling",
+      "company": "RevenueCat",
+      "location": "APAC, EMEA, USA",
+      "url": "https://jobicy.com/jobs/154567-senior-software-engineer-internal-tooling",
+      "source": "Jobicy",
+      "description": "RevenueCat gives app businesses the infrastructure and tools to build, run, and improve their monetization. Since graduating from YC's S18 batch, we've grown into the default monetization platform for mobile. We're in 50%+ of newly shipped subscription apps, we process $16B+ in annual purchase volume, and we help everyone from a solo developer to the&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
+      "verdict": "review",
+      "fit": 46,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Senior DevOps Engineer, Observability",
+      "company": "NetBox Labs",
+      "location": "LATAM, UK, USA",
+      "url": "https://jobicy.com/jobs/154542-senior-devops-engineer-observability",
+      "source": "Jobicy",
+      "description": "NetBox Labs is seeking a Senior Devops Engineer to join our rapidly expanding engineering team. We have multiple positions at different seniority levels open across several teams. A Senior DevOps Engineer at NetBox Labs is an infrastructure-minded engineer who treats operations like software - automating, instrumenting, and operating our systems with code. They focus on&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
+      "verdict": "review",
+      "fit": 46,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
       "title": "Senior Solutions Delivery Engineer- DevOps",
       "company": "Sonatype",
       "location": "USA",
@@ -1170,36 +1163,19 @@
       ]
     },
     {
-      "title": "Sr. Site Reliability Engineer",
-      "company": "CentralReach",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/154372-sr-site-reliability-engineer",
+      "title": "Senior Customer Success Architect - Singapore",
+      "company": "GitLab",
+      "location": "Singapore",
+      "url": "https://jobicy.com/jobs/150102-senior-customer-success-architect-singapore",
       "source": "Jobicy",
-      "description": "CentralReach is a leading provider of autism and IDD care software for Applied Behavior Analysis (ABA), multidisciplinary therapy, and special education. Trusted by more than 200,000 users, we enable therapy providers, educators, and employers to scale the way they deliver ABA and related therapies with innovative technology, market-leading industry expertise, and world-class customer satisfaction. The&hellip;",
+      "description": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster. The same principles built into&hellip;",
       "tags": [
-        "devops & infrastructure"
+        "customer support & success"
       ],
       "verdict": "review",
-      "fit": 46,
+      "fit": 42,
       "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Senior Software Engineer | Cloud",
-      "company": "ExtraHop",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/158238-senior-software-engineer-cloud",
-      "source": "Jobicy",
-      "description": "At ExtraHop, we’re on a mission to protect and empower the connected enterprise. We reveal what is happening in the very infrastructure that sustains businesses, lives, and communities, and ensure the integrity of networks, data, systems, and processes. Organizations rely on ExtraHop to provide visibility into the cyber threats, vulnerabilities, and network performance issues that&hellip;",
-      "tags": [
-        "devops & infrastructure"
-      ],
-      "verdict": "review",
-      "fit": 46,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "Singapore-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -1252,6 +1228,38 @@
       "reasons": [
         "Africa-friendly employer (Gitlab) — role location unconfirmed",
         "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "AI/ML Engineering Manager",
+      "company": "Caylent",
+      "location": "Argentina",
+      "url": "https://jobicy.com/jobs/152435-ai-ml-engineering-manager",
+      "source": "Jobicy",
+      "description": "Caylent is an AI-first cloud services company that helps organizations turn ambitious ideas into meaningful business impact. As an AWS Premier Tier Services Partner and a charter member of Anthropic’s Claude Partner Network, we combine deep expertise in AWS, artificial intelligence, and Anthropic’s Claude platform to help customers modernize their technology, build intelligent products, and&hellip;",
+      "tags": [
+        "data science & analytics"
+      ],
+      "verdict": "review",
+      "fit": 40,
+      "reasons": [
+        "Argentina-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "Forward Deployed Product Manager",
+      "company": "Caylent",
+      "location": "Canada",
+      "url": "https://jobicy.com/jobs/158898-forward-deployed-product-manager",
+      "source": "Jobicy",
+      "description": "Caylent is an AI-first cloud services company that helps organizations turn ambitious ideas into meaningful business impact. As an AWS Premier Tier Services Partner and a charter member of Anthropic’s Claude Partner Network, we combine deep expertise in AWS, artificial intelligence, and Anthropic’s Claude platform to help customers modernize their technology, build intelligent products, and&hellip;",
+      "tags": [
+        "product & operations"
+      ],
+      "verdict": "review",
+      "fit": 40,
+      "reasons": [
+        "Canada-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -1412,6 +1420,69 @@
       ]
     },
     {
+      "title": "Clinical Coordination Manager",
+      "company": "Enable Dental",
+      "location": "Austin, Austin, Texas, United States",
+      "url": "https://remoteOK.com/remote-jobs/remote-clinical-coordination-manager-enable-dental-1136096",
+      "source": "RemoteOK",
+      "description": "Department: Support Operations Reports To: Director, Support Operations Location: Remote (U.S.) Position Type: Full-Time, Exempt Position Summary The Clinical Coordinator Department Manager oversees the Clinical Coordination team responsible for maintaining accurate, appropriately filled provider schedules across all markets. This role provides leadership, operational oversight, training, workload management, process improvement, and cross-department collaboration to support consistent scheduling performance. This leader sets daily and weekly priorities, delegates work, holds the team accounta",
+      "tags": [
+        "design",
+        "saas",
+        "salesforce",
+        "wordpress",
+        "customer support",
+        "dev",
+        "testing",
+        "marketing",
+        "web dev",
+        "travel",
+        "cloud",
+        "ads",
+        "exec",
+        "content writing",
+        "stats",
+        "sales",
+        "recruiter",
+        "digital nomad",
+        "embedded",
+        "hr",
+        "sys admin",
+        "game dev",
+        "technical",
+        "payroll",
+        "finance",
+        "api",
+        "ops",
+        "engineer",
+        "education",
+        "coordinator",
+        "medical",
+        "full time"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "United states-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "Product Engineer, Internal Tools - LATAM",
+      "company": "Luxury Presence",
+      "location": "LATAM",
+      "url": "https://jobicy.com/jobs/152452-product-engineer-internal-tools-latam",
+      "source": "Jobicy",
+      "description": "Luxury Presence is building the AI growth platform for real estate. Backed by Bessemer Venture Partners and other top investors, we're a Series C company that has hit $100M in annual recurring revenue. More than 90,000 real estate professionals, including over 30% of the WSJ Real Trends top 100 agents in the United States, use&hellip;",
+      "tags": [
+        "software engineering"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "Latam-tagged — verify it's open to Africa first"
+      ]
+    },
+    {
       "title": "Strategic Account Executive, West",
       "company": "Sonatype",
       "location": "USA",
@@ -1556,67 +1627,37 @@
       ]
     },
     {
-      "title": "Enterprise Acquisition Account Executive",
-      "company": "LaunchDarkly",
+      "title": "Senior Product Designer",
+      "company": "NetBox Labs",
       "location": "USA",
-      "url": "https://jobicy.com/jobs/158263-enterprise-acquisition-account-executive",
+      "url": "https://jobicy.com/jobs/159016-senior-product-designer-17",
       "source": "Jobicy",
-      "description": "About the Job: The Enterprise Acquisition Account Executive will drive LaunchDarkly's growth by acquiring new enterprise customers through 100 percent net new logo generation. Owning a defined territory, you will develop and execute strategic account plans, generate new opportunities, and deliver tailored solutions that demonstrate LaunchDarkly's value. This role is ideal for someone who thrives&hellip;",
+      "description": "NetBox Labs seeks a Senior Product Designer to help shape the next generation of our platform. We are building products on top of the NetBox data model that help network teams put their data to work, from interactive maps of their network, to compliance on network intended design, to analytics and AI-driven workflows. This role&hellip;",
       "tags": [
-        "sales"
+        "web, ui & ux design"
       ],
       "verdict": "review",
-      "fit": 36,
+      "fit": 34,
       "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
     {
-      "title": "Software Developer",
-      "company": "LevelUp",
-      "location": "Philippines",
-      "url": "https://jobicy.com/jobs/158207-software-developer-2",
+      "title": "Frontend Architect",
+      "company": "Caylent",
+      "location": "Canada",
+      "url": "https://jobicy.com/jobs/158912-frontend-architect-2",
       "source": "Jobicy",
-      "description": "Company Overview LevelUp is a specialist agency providing outsourcing solutions to agencies, software vendors, and website owners. For over seven years, we have successfully collaborated with a variety of companies, providing valuable technical, operational, and back-office support. We have a large team of skilled and passionate professionals who are committed to delivering high-quality work for&hellip;",
+      "description": "Caylent is an AI-first cloud services company that helps organizations turn ambitious ideas into meaningful business impact. As an AWS Premier Tier Services Partner and a charter member of Anthropic’s Claude Partner Network, we combine deep expertise in AWS, artificial intelligence, and Anthropic’s Claude platform to help customers modernize their technology, build intelligent products, and&hellip;",
       "tags": [
         "software engineering"
       ],
       "verdict": "review",
-      "fit": 36,
+      "fit": 34,
       "reasons": [
-        "location unconfirmed — verify it's open to Africa"
-      ]
-    },
-    {
-      "title": "Enterprise Account Executive",
-      "company": "Quantum Metric",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/152080-enterprise-account-executive-17",
-      "source": "Jobicy",
-      "description": "Our Culture Quantum Metric's number one objective is happy people, diverse and inclusive culture. We’re passionate about empowering our people to become the best version of themselves, offering coaching and training programs designed to accelerate their career in whatever direction they choose. As a remote-first company, we understand the importance of building an engaged,&hellip;",
-      "tags": [
-        "sales"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Enterprise Account Executive - UK",
-      "company": "Chainguard",
-      "location": "UK",
-      "url": "https://jobicy.com/jobs/154276-enterprise-account-executive-uk-4",
-      "source": "Jobicy",
-      "description": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. Our customers include Fortune 500 enterprises and global industry leaders, including Anduril, Canva, Fortinet, Hewlett Packard Enterprise, OpenAI,&hellip;",
-      "tags": [
-        "sales"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Uk-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+        "Canada-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
     {
@@ -1633,6 +1674,23 @@
       "fit": 34,
       "reasons": [
         "Canada-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Senior Program Manager, Application Security",
+      "company": "Harness",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/159022-senior-program-manager-application-security",
+      "source": "Jobicy",
+      "description": "Harness is the AI Software Delivery Platform company, led by technologist and entrepreneur Jyoti Bansal (founder of AppDynamics, acquired by Cisco for $3.7B). Harness has raised approximately $570M in funding and is valued at $5.5B, backed by leading investors including Goldman Sachs, Menlo Ventures, IVP, Unusual Ventures, Citi Ventures, and more. As AI accelerates code&hellip;",
+      "tags": [
+        "project & program management"
+      ],
+      "verdict": "review",
+      "fit": 30,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -1892,6 +1950,54 @@
       ]
     },
     {
+      "title": "Director of Engineering, Cloud & Reliability",
+      "company": "Boulevard",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/152496-director-of-engineering-cloud-reliability-2",
+      "source": "Jobicy",
+      "description": "Who is Boulevard? Boulevard provides the first and only client experience platform for appointment-based, self-care businesses. We empower our customers to give their clients more of the magical moments that matter most. Before launching in 2016, our founders spent months interviewing salon managers and working behind front desks to understand their pain points so we&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Director-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
+      "title": "Staff Software Engineer, Tech Lead - NetBox Delivery",
+      "company": "NetBox Labs",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/159008-staff-software-engineer-tech-lead-netbox-delivery",
+      "source": "Jobicy",
+      "description": "NetBox Labs is seeking a Staff Software Engineer and Tech Lead for NetBox Delivery, a new team in our Applications group. NetBox is a product that reaches people in a few ways: our open source community runs NetBox OSS; commercial customers use NetBox Cloud (SaaS) or NetBox Enterprise (self-managed). NetBox Delivery owns everything between a&hellip;",
+      "tags": [
+        "software engineering"
+      ],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Staff-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
+      "title": "Principal Data Architect",
+      "company": "Caylent",
+      "location": "Brazil",
+      "url": "https://jobicy.com/jobs/158923-principal-data-architect",
+      "source": "Jobicy",
+      "description": "Caylent is an AI-first cloud services company that helps organizations turn ambitious ideas into meaningful business impact. As an AWS Premier Tier Services Partner and a charter member of Anthropic’s Claude Partner Network, we combine deep expertise in AWS, artificial intelligence, and Anthropic’s Claude platform to help customers modernize their technology, build intelligent products, and&hellip;",
+      "tags": [
+        "data science & analytics"
+      ],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Principal-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
       "title": "Director, Engineering (The Americas)",
       "company": "Zone &#038; Co",
       "location": "USA",
@@ -2028,106 +2134,6 @@
       "description": "About the Job: LaunchDarkly is redefining how modern software is built and operated. As AI transforms software development, we believe the future belongs to organizations that can move at AI speed while maintaining control in production. We're looking for a strategic external communications leader to help make that vision impossible to ignore. As Head of&hellip;",
       "tags": [
         "marketing & sales"
-      ],
-      "verdict": "blocked",
-      "fit": 0,
-      "reasons": [
-        "Head of-level — usually 5–10+ yrs, you have ~4"
-      ]
-    },
-    {
-      "title": "Principal Platform Engineer",
-      "company": "CentralReach",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/154365-principal-platform-engineer",
-      "source": "Jobicy",
-      "description": "CentralReach is a leading provider of autism and IDD care software for Applied Behavior Analysis (ABA), multidisciplinary therapy, and special education. Trusted by more than 200,000 users, we enable therapy providers, educators, and employers to scale the way they deliver ABA and related therapies with innovative technology, market-leading industry expertise, and world-class customer satisfaction. CentralReach’s&hellip;",
-      "tags": [
-        "devops & infrastructure"
-      ],
-      "verdict": "blocked",
-      "fit": 0,
-      "reasons": [
-        "Principal-level — usually 5–10+ yrs, you have ~4"
-      ]
-    },
-    {
-      "title": "Staff DevOps Engineer, Developer Experience (DevEx)",
-      "company": "Demandbase, Inc.",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/158217-staff-devops-engineer-developer-experience-devex",
-      "source": "Jobicy",
-      "description": "Introduction to Demandbase: Demandbase is the only pipeline AI platform that empowers GTM teams to automate growth at scale. With a unified view of data, insights, actions, and outcomes, B2B enterprises can seamlessly align and execute their account-based GTM strategies with confidence. Thousands of businesses trust Demandbase to maximize revenue, minimize waste, and consolidate their&hellip;",
-      "tags": [
-        "devops & infrastructure"
-      ],
-      "verdict": "blocked",
-      "fit": 0,
-      "reasons": [
-        "Staff-level — usually 5–10+ yrs, you have ~4"
-      ]
-    },
-    {
-      "title": "Director, Internal AI Operations",
-      "company": "LaunchDarkly",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/158213-director-internal-ai-operations",
-      "source": "Jobicy",
-      "description": "About the Job: LaunchDarkly is looking for a strategic, execution-oriented Director of Internal AI Operations to run and continuously improve how our company adopts and scales AI, establish the operational objectives, processes, and work plans that turn AI from a collection of tools into a measurable business capability and work with leaders across several functions&hellip;",
-      "tags": [
-        "product & operations"
-      ],
-      "verdict": "blocked",
-      "fit": 0,
-      "reasons": [
-        "Director-level — usually 5–10+ yrs, you have ~4"
-      ]
-    },
-    {
-      "title": "Sr. Staff Platform Engineer",
-      "company": "hims &#038; hers",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/158167-sr-staff-platform-engineer",
-      "source": "Jobicy",
-      "description": "Hims &amp; Hers is the leading health and wellness platform, on a mission to help the world feel great through the power of better health. We are redefining healthcare by putting the customer first and delivering access to care that is affordable, accessible, and personal, from diagnosis to treatment to delivery. No two people are&hellip;",
-      "tags": [
-        "devops & infrastructure"
-      ],
-      "verdict": "blocked",
-      "fit": 0,
-      "reasons": [
-        "Staff-level — usually 5–10+ yrs, you have ~4"
-      ]
-    },
-    {
-      "title": "Chief Technology Officer",
-      "company": "saas.group",
-      "location": "Europe",
-      "url": "https://jobicy.com/jobs/154291-chief-technology-officer-4",
-      "source": "Jobicy",
-      "description": "This role is part of our Prerender team, one of our largest brands at saas.group. Prerender is a dynamic rendering SaaS platform within the saas.group portfolio. Since 2017, we've revolutionized SEO practices by enabling search engines to crawl JavaScript-heavy sites seamlessly while preserving user experience. Thousands of companies worldwide trust our platform, which serves over&hellip;",
-      "tags": [
-        "software engineering"
-      ],
-      "verdict": "blocked",
-      "fit": 0,
-      "reasons": [
-        "Chief-level — usually 5–10+ yrs, you have ~4"
-      ]
-    },
-    {
-      "title": "Head of Data Platform and Governance",
-      "company": "HRTx, Inc.",
-      "location": "Philippines",
-      "url": "https://himalayas.app/companies/hrtx-inc/jobs/head-of-data-platform-and-governance?utm_source=api",
-      "source": "Himalayas",
-      "description": "e are looking for a strategic and hands-on Head of Data Platform and Governance to lead the organizations data management, governance, and reporting initiatives. This role is pivotal in establishing a robust data foundation that enables accurate insights, informed decision-making, and a strong data-driven culture across the company. The ideal candidate will oversee the design, implementation, and governance of enterprise-wide data systemsensuring data quality, consistency, and compliancewhile leading a team of data professionals focused on building one trusted source of truth. Key Responsibili",
-      "tags": [
-        "head-of-data-platform-and-governance",
-        "data-platform-director",
-        "data-governance-director",
-        "data-management-lead",
-        "data-engineering-director"
       ],
       "verdict": "blocked",
       "fit": 0,
