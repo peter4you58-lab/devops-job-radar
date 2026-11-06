@@ -1,11 +1,11 @@
 {
-  "generated": "2026-11-05 13:39 UTC",
-  "count": 107,
+  "generated": "2026-11-06 13:23 UTC",
+  "count": 112,
   "summary": {
-    "scanned": 107,
-    "eligible": 43,
-    "review": 44,
-    "blocked": 20
+    "scanned": 112,
+    "eligible": 46,
+    "review": 45,
+    "blocked": 21
   },
   "jobs": [
     {
@@ -241,6 +241,23 @@
       ]
     },
     {
+      "title": "Senior DevOps Engineer",
+      "company": "Five9",
+      "location": "Portugal",
+      "url": "https://jobicy.com/jobs/154677-senior-devops-engineer-8",
+      "source": "Jobicy",
+      "description": "Join us in bringing joy to customer experience. Five9 is a leading provider of cloud contact center software, bringing the power of cloud innovation to customers worldwide. Living our values everyday results in our team-first culture and enables us to innovate, grow, and thrive while enjoying the journey together. We celebrate diversity and foster an&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
+      "verdict": "eligible",
+      "fit": 60,
+      "reasons": [
+        "remote — anywhere / global",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
       "title": "AWS Cloud Solutions Architect",
       "company": "Cloudary SAS",
       "location": "Worldwide",
@@ -299,6 +316,22 @@
       "tags": [],
       "verdict": "eligible",
       "fit": 54,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
+    {
+      "title": "Freelance Writer",
+      "company": "IAPWE",
+      "location": "Worldwide",
+      "url": "https://remotive.com/remote-jobs/writing/freelance-writer-1185979",
+      "source": "Remotive",
+      "description": "Our organization is seeking content writers to create articles and blog posts on a variety of topics. The rate of pay is $20 per 100 words (this comes out to approximately $100 per article or $50 per hour). Some topics you may be asked to write about include the following (you can always turn down a topic if you do not feel comfortable writing about it, however if you have experience or expertise in a specific area, please let us know): Health &amp; beauty Fitness Home Decor Fashion Sports Do it yourself Finance Legal Medical Family/Parenting Relationships Real Estate Restaurants Contracting (",
+      "tags": [
+        "rest"
+      ],
+      "verdict": "eligible",
+      "fit": 50,
       "reasons": [
         "remote — anywhere / global"
       ]
@@ -432,7 +465,7 @@
       "location": "Worldwide",
       "url": "https://remoteOK.com/remote-jobs/remote-platform-and-integration-engineer-security-telemetry-redmimicry-1137465",
       "source": "RemoteOK",
-      "description": "Remote - Location: Mostly remote (within Germany), with monthly in-person collaboration at our Berlin officeHours: Part-time, 32 hours per weekContract: Fixed-termSalary: EUR 53,000 â 59,000 (at 32 hours per week)We are building a new capability that turns fragmented,... Please mention the word **THRIFTY** and tag RNTIuMTc5Ljg4LjExNw== when applying to show you read the job post completely (#RNTIuMTc5Ljg4LjExNw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Location: Mostly remote (within Germany), with monthly in-person collaboration at our Berlin officeHours: Part-time, 32 hours per weekContract: Fixed-termSalary: EUR 53,000 â 59,000 (at 32 hours per week)We are building a new capability that turns fragmented,... Please mention the word **THRIFTY** and tag RMTMwLjEzMS4yNDcuMTY1 when applying to show you read the job post completely (#RMTMwLjEzMS4yNDcuMTY1). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "tags": [
         "golang",
         "infosec",
@@ -696,6 +729,22 @@
       "source": "WeWorkRemotely",
       "description": "Headquarters: Remote, US Keeper Security is hiring an Analyst Relations Manager to join our Global Communications team. This individual will own and execute the day-to-day analyst relations program at Keeper by managing evaluations, timelines, coordination and internal workflows to ensure effective analyst engagement. This is a 100% remote position from select locations, with an opportunity to work a hybrid schedule for candidates who live near our global headquarters in Chicago. Keeper’s cybersecurity software is trusted by millions of people and thousands of organizations, globally. Keeper i",
       "tags": [],
+      "verdict": "eligible",
+      "fit": 50,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
+    {
+      "title": "Cloud Governance Engineer",
+      "company": "Five9",
+      "location": "Portugal",
+      "url": "https://jobicy.com/jobs/154675-cloud-governance-engineer",
+      "source": "Jobicy",
+      "description": "Join us in bringing joy to customer experience. Five9 is a leading provider of cloud contact center software, bringing the power of cloud innovation to customers worldwide. Living our values everyday results in our team-first culture and enables us to innovate, grow, and thrive while enjoying the journey together. We celebrate diversity and foster an&hellip;",
+      "tags": [
+        "cybersecurity"
+      ],
       "verdict": "eligible",
       "fit": 50,
       "reasons": [
@@ -986,6 +1035,38 @@
       ]
     },
     {
+      "title": "Engineering Manager - Python and K8s",
+      "company": "Canonical",
+      "location": "APAC, EMEA",
+      "url": "https://jobicy.com/jobs/150121-engineering-manager-python-and-k8s",
+      "source": "Jobicy",
+      "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders&hellip;",
+      "tags": [
+        "product & operations"
+      ],
+      "verdict": "review",
+      "fit": 52,
+      "reasons": [
+        "EMEA-tagged — verify it's open to Africa first"
+      ]
+    },
+    {
+      "title": "DevOps Engineer, Blockchain Infra (Fully Remote)",
+      "company": "Binance",
+      "location": "Europe, UAE",
+      "url": "https://jobicy.com/jobs/159117-devops-engineer-blockchain-infra-fully-remote-2",
+      "source": "Jobicy",
+      "description": "Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. We are trusted by 300+ million people in 100+ countries for our industry-leading security, user fund transparency, trading engine speed, deep liquidity, and an unmatched portfolio of digital-asset products. Binance offerings range from trading and finance&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
+      "verdict": "review",
+      "fit": 52,
+      "reasons": [
+        "Europe-tagged — verify it's open to Africa first"
+      ]
+    },
+    {
       "title": "Communications Designer, Developer Experience",
       "company": "Nebius",
       "location": "USA",
@@ -1018,19 +1099,23 @@
       ]
     },
     {
-      "title": "Software Engineer in Hardware Infrastructure",
-      "company": "Nebius",
-      "location": "Europe",
-      "url": "https://jobicy.com/jobs/158323-software-engineer-in-hardware-infrastructure",
-      "source": "Jobicy",
-      "description": "About Nebius: Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-house AI/ML infrastructure. Built by engineers, for engineers. From&hellip;",
+      "title": "ANALISTA DEVOPS SÊNIOR",
+      "company": "Valid",
+      "location": "Brazil",
+      "url": "https://himalayas.app/companies/valid/jobs/analista-devops-senior?utm_source=api",
+      "source": "Himalayas",
+      "description": "Aqui na Valid , trabalhamos para promover a identificação segura de pessoas, jornadas e transações, tanto no setor público quanto no setor privado. Nossas soluções físicas e digitais são dedicadas a três grandes ecossistemas: - Identificação &amp; Governo Digital - Bancos &amp; Meios de Pagamento - Conectividade Segura Nosso papel é autenticar, autorizar e garantir a segurança de todos os envolvidos. Isso é o que fazemos para cada um dos nossos mais de 1.200 clientes no Brasil e no mundo. Nosso jeito Valid Na Valid , acreditamos que cada pessoa é única e nosso propósito é empoderar o que há de",
       "tags": [
-        "software engineering"
+        "devops-engineer",
+        "devops-analyst",
+        "site-reliability-engineer",
+        "cloud-engineer",
+        "infrastructure-engineer"
       ],
       "verdict": "review",
       "fit": 52,
       "reasons": [
-        "Europe-tagged — verify it's open to Africa first"
+        "Brazil-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -1109,6 +1194,23 @@
       "fit": 48,
       "reasons": [
         "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "Senior Software Engineering Manager, Managed Gateways SREs",
+      "company": "Kong Inc.",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/154703-senior-software-engineering-manager-managed-gateways-sres",
+      "source": "Jobicy",
+      "description": "Are you ready to unlock intelligence? If you don’t think you meet all of the criteria below but are still interested in the job, please apply. Nobody checks every box - we’re looking for candidates that are particularly strong in a few areas, and have some interest and capabilities in others. Location:Washington The Mission: As&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
+      "verdict": "review",
+      "fit": 46,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
     {
@@ -1214,23 +1316,6 @@
       ]
     },
     {
-      "title": "Senior Support Engineer",
-      "company": "GitLab",
-      "location": "South Korea",
-      "url": "https://jobicy.com/jobs/158332-senior-support-engineer-3",
-      "source": "Jobicy",
-      "description": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster. The same principles built into&hellip;",
-      "tags": [
-        "technical support"
-      ],
-      "verdict": "review",
-      "fit": 42,
-      "reasons": [
-        "Africa-friendly employer (Gitlab) — role location unconfirmed",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
       "title": "AI/ML Engineering Manager",
       "company": "Caylent",
       "location": "Argentina",
@@ -1300,6 +1385,25 @@
       "reasons": [
         "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
         "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Content Reviewer - United States",
+      "company": "TELUS Digital",
+      "location": "USA",
+      "url": "https://remotive.com/remote-jobs/all-others/content-reviewer-united-states-2091166",
+      "source": "Remotive",
+      "description": "We are looking for an independent, flexible, remote opportunity where you can help improve AI-powered search technology from the comfort of your home? If you're curious, internet-savvy, and enjoy evaluating online content, this freelance project could be a great fit. A Day in the Life of a Content Reviewer - US In this role, you will analyze and provide feedback on text, webpages, images, and other types of online content for leading search engines using a specialized online platform. By reviewing and rating search results for relevance and quality, you will help improve the overall search exp",
+      "tags": [
+        "android",
+        "ios",
+        "social media",
+        "ai/ml"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -1579,54 +1683,6 @@
       ]
     },
     {
-      "title": "People Systems, Analytics, and AI Manager",
-      "company": "LaunchDarkly",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/158281-people-systems-analytics-and-ai-manager",
-      "source": "Jobicy",
-      "description": "About the Job: LaunchDarkly is seeking a People Systems, Analytics and AI Manager to be our subject matter expert on HR systems and to turn People data into insights that help business leaders make better decisions. You will build the reports, analytics, and dashboards that tell the story of our workforce, and you will use&hellip;",
-      "tags": [
-        "hr & recruiting"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Mid-Market Account Executive",
-      "company": "LaunchDarkly",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/158277-mid-market-account-executive-8",
-      "source": "Jobicy",
-      "description": "About the Job: The Mid-Market Account Executive will drive LaunchDarkly's growth across a blended book of net-new and existing accounts. Acting as the \"quarterback\" for a defined book of business, you will develop and execute account strategies, run technical discovery and proof-of-concept cycles, and help customers successfully test, purchase, and adopt LaunchDarkly's platform. Responsibilities: Pipeline&hellip;",
-      "tags": [
-        "sales"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "GTM Data Governance Manager (MDM)",
-      "company": "LaunchDarkly",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/158269-gtm-data-governance-manager-mdm",
-      "source": "Jobicy",
-      "description": "About the Job: AI-powered workflows are only as good as the customer data underneath them. LaunchDarkly helps engineering teams ship software faster and more safely through feature management, experimentation, and AI delivery tooling. As our GTM Data Governance Manager (MDM), you will set the rules that make our core customer data (accounts, contacts, subscriptions, and&hellip;",
-      "tags": [
-        "data science & analytics"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
       "title": "Senior Product Designer",
       "company": "NetBox Labs",
       "location": "USA",
@@ -1674,6 +1730,40 @@
       "fit": 34,
       "reasons": [
         "Canada-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Senior Security Engineer",
+      "company": "Roofr",
+      "location": "Canada",
+      "url": "https://jobicy.com/jobs/159233-senior-security-engineer-2",
+      "source": "Jobicy",
+      "description": "At Roofr, we’re obsessed with our customers. We constantly gather feedback to shape, prioritize, and launch the products they truly need. That’s what makes Roofr’s CRM special. We started by building essential sales tools like aerial roof measurements and digital sales proposals. But when our customers asked for a simple, affordable way to manage and&hellip;",
+      "tags": [
+        "cybersecurity"
+      ],
+      "verdict": "review",
+      "fit": 30,
+      "reasons": [
+        "Canada-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Senior Software Engineer (Revenue)",
+      "company": "Zuora",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/152529-senior-software-engineer-revenue",
+      "source": "Jobicy",
+      "description": "About Zuora At Zuora, we help businesses grow smarter and adapt faster. Our platform powers modern business models — from subscriptions and usage-based pricing to AI-driven and outcome-based offerings — helping companies launch new products, automate complex billing, and unlock predictable, recurring revenue. We’ve led the Subscription Economy for more than a decade. Now we’re&hellip;",
+      "tags": [
+        "software engineering"
+      ],
+      "verdict": "review",
+      "fit": 30,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -1746,36 +1836,23 @@
       ]
     },
     {
-      "title": "Senior Customer Success Manager - West Coast",
-      "company": "LaunchDarkly",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/158293-senior-customer-success-manager-west-coast",
-      "source": "Jobicy",
-      "description": "About the Job: The Senior Customer Success Manager reports directly into the regional CS leader and represents LaunchDarkly as the direct point-of-contact with our customers post-sales. They are LaunchDarkly subject-matter experts guiding our new and expanding customers towards implementation and adoption and helping them achieve their desired use-cases and realize value. The best candidate for&hellip;",
+      "title": "Cloud Solution Architect (ModernWork)",
+      "company": "Concentrix",
+      "location": "Morocco",
+      "url": "https://himalayas.app/companies/concentrix/jobs/cloud-solution-architect-modernwork?utm_source=api",
+      "source": "Himalayas",
+      "description": "Job Title: Cloud Solution Architect (ModernWork) Job Description We're Concentrix . The intelligent transformation partner. Solution-focused. Tech-powered. Intelligence-fueled. The global technology and services leader that powers the world’s best brands, today and into the future. We’re solution-focused, tech-powered, intelligence-fueled. With unique data and insights, deep industry expertise, and advanced technology solutions, we’re the intelligent transformation partner that powers a world that works, helping companies become refreshingly simple to work, interact, and transact with. We shap",
       "tags": [
-        "customer support & success"
+        "cloud-solution-architect",
+        "solutions-architect",
+        "cloud-consultant",
+        "microsoft-365-consultant",
+        "endpoint-architect"
       ],
       "verdict": "review",
       "fit": 30,
       "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Senior Benefits Manager",
-      "company": "LaunchDarkly",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/158289-senior-benefits-manager",
-      "source": "Jobicy",
-      "description": "About the Job: LaunchDarkly is seeking a Senior Benefits Manager to design, run, and continuously improve the health, wellness, and financial benefits programs that support our growing, distributed workforce. You will be the senior subject matter expert on benefits within People Operations, owning the strategy and delivery of our programs end to end, managing carrier&hellip;",
-      "tags": [
-        "hr & recruiting"
-      ],
-      "verdict": "review",
-      "fit": 30,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "location unconfirmed — verify it's open to Africa",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -1796,6 +1873,33 @@
       "fit": 0,
       "reasons": [
         "Head of-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
+      "title": "Senior Staff Infrastructure & Security Engineer",
+      "company": "CivilGrid",
+      "location": "Boston",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-staff-infrastructure-security-engineer-civilgrid-1137687",
+      "source": "RemoteOK",
+      "description": "ABOUT CIVILGRID CivilGrid is the trusted civil design platform powering affordable infrastructure renewal and growth. We give utilities, civil engineers, and municipalities a single, collaborative source of truth for what's underground so teams can plan, design, and build faster, smarter, and safer. Our platform consolidates utility records, geotechnical and environmental data, paving moratoriums, and jurisdictional requirements directly from 3,000+ utilities, agencies, and municipalities with full chain-of-custody documentation. Teams at PG&amp;E, Mark Thomas, and dozens of leading engineerin",
+      "tags": [
+        "infosec",
+        "design",
+        "dev",
+        "marketing",
+        "exec",
+        "devops",
+        "cloud",
+        "senior",
+        "sys admin",
+        "medical",
+        "engineer",
+        "digital nomad"
+      ],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Staff-level — usually 5–10+ yrs, you have ~4"
       ]
     },
     {
@@ -1943,6 +2047,22 @@
       "source": "WeWorkRemotely",
       "description": "Headquarters: Remote - USA About the Role Abnormal AI is looking for a Director of Renewals to own the strategy, performance, and operating model for our global renewals function. Reporting to the VP of Customer Success, you will lead the renewals organization and own revenue retention across Abnormal's multi-product behavioral security platform. You will build the renewals engine that makes retention and cross-product expansion predictable at scale, set the standard for how Abnormal renews and expands its customers, and turn customer obsession into measurable retention outcomes. What you will",
       "tags": [],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Director-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
+      "title": "Director of Global Field Operations",
+      "company": "Sonatype",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/159243-director-of-global-field-operations",
+      "source": "Jobicy",
+      "description": "Sonatype is the software supply chain security company. We provide the world’s best end-to-end software supply chain security solution, combining the only proactive protection against malicious open source, the only enterprise grade SBOM management and the leading open source dependency management platform. This empowers enterprises to create and maintain secure, quality, and innovative software at&hellip;",
+      "tags": [
+        "product & operations"
+      ],
       "verdict": "blocked",
       "fit": 0,
       "reasons": [
@@ -2123,22 +2243,6 @@
       "fit": 0,
       "reasons": [
         "Principal-level — usually 5–10+ yrs, you have ~4"
-      ]
-    },
-    {
-      "title": "Head of Corporate Marketing",
-      "company": "LaunchDarkly",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/158273-head-of-corporate-marketing",
-      "source": "Jobicy",
-      "description": "About the Job: LaunchDarkly is redefining how modern software is built and operated. As AI transforms software development, we believe the future belongs to organizations that can move at AI speed while maintaining control in production. We're looking for a strategic external communications leader to help make that vision impossible to ignore. As Head of&hellip;",
-      "tags": [
-        "marketing & sales"
-      ],
-      "verdict": "blocked",
-      "fit": 0,
-      "reasons": [
-        "Head of-level — usually 5–10+ yrs, you have ~4"
       ]
     }
   ]
