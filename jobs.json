@@ -1,10 +1,10 @@
 {
-  "generated": "2026-11-06 13:23 UTC",
-  "count": 112,
+  "generated": "2026-11-07 12:01 UTC",
+  "count": 109,
   "summary": {
-    "scanned": 112,
+    "scanned": 109,
     "eligible": 46,
-    "review": 45,
+    "review": 42,
     "blocked": 21
   },
   "jobs": [
@@ -433,25 +433,29 @@
       ]
     },
     {
-      "title": "Tier III Service Desk Engineer",
-      "company": "Unio Digital",
+      "title": "Feltsense AI Engineer",
+      "company": "Silver.dev",
       "location": "Worldwide",
-      "url": "https://remotive.com/remote-jobs/information-technology/tier-iii-service-desk-engineer-2091045",
-      "source": "Remotive",
-      "description": "Unió Digital is an Arizona-based managed service provider (MSP) delivering Managed IT Services, Low Voltage Cabling, Access Control, Video Surveillance, and Intrusion Services. We believe technology should be intuitive, not intimidating. We are looking for an experienced Tier 3 Service Desk Technician with exceptional problem-solving skills. You will serve as the escalation point within the team, resolving complex technical issues while also leading client onboarding and project initiatives. You are expected to be involved in direct end-user support when required. If you have a passion for ens",
+      "url": "https://remoteOK.com/remote-jobs/remote-feltsense-ai-engineer-silver-dev-1137691",
+      "source": "RemoteOK",
+      "description": "About the company We raised $5.1M to build agents that operate as fully autonomous founders. Our backers include Matt Schlicht (founder of Moltbook), the founders of Crunchbase and Republic, and VCs including Draper, Precursor, and Liquid2. We're working at the frontier of autonomous systems, building agents that don't just chat, but run entire businesses. Our system identifies business opportunities through market signals, validates ideas with live ad tests, builds and launches software products, and brings in human experts wherever agents fall short. That loop already runs end to end: from i",
       "tags": [
-        "azure",
-        "cisco",
-        "security",
-        "video",
-        "documentation",
-        "hardware",
-        "helpdesk",
-        "onboarding",
-        "msp",
-        "ticketing",
-        "microsoft 365",
-        "it systems"
+        "design",
+        "sys admin",
+        "exec",
+        "technical",
+        "customer support",
+        "dev",
+        "testing",
+        "javascript",
+        "cloud",
+        "postgres",
+        "typescript",
+        "node",
+        "node.js",
+        "engineer",
+        "backend",
+        "digital nomad"
       ],
       "verdict": "eligible",
       "fit": 50,
@@ -465,7 +469,7 @@
       "location": "Worldwide",
       "url": "https://remoteOK.com/remote-jobs/remote-platform-and-integration-engineer-security-telemetry-redmimicry-1137465",
       "source": "RemoteOK",
-      "description": "Remote - Location: Mostly remote (within Germany), with monthly in-person collaboration at our Berlin officeHours: Part-time, 32 hours per weekContract: Fixed-termSalary: EUR 53,000 â 59,000 (at 32 hours per week)We are building a new capability that turns fragmented,... Please mention the word **THRIFTY** and tag RMTMwLjEzMS4yNDcuMTY1 when applying to show you read the job post completely (#RMTMwLjEzMS4yNDcuMTY1). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Location: Mostly remote (within Germany), with monthly in-person collaboration at our Berlin officeHours: Part-time, 32 hours per weekContract: Fixed-termSalary: EUR 53,000 â 59,000 (at 32 hours per week)We are building a new capability that turns fragmented,... Please mention the word **THRIFTY** and tag RMjAuODQuMTU4LjM= when applying to show you read the job post completely (#RMjAuODQuMTU4LjM=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "tags": [
         "golang",
         "infosec",
@@ -1035,6 +1039,22 @@
       ]
     },
     {
+      "title": "Platform Engineer, Edge & Networking",
+      "company": "Supabase",
+      "location": "Anywhere",
+      "url": "https://jobicy.com/jobs/159366-platform-engineer-edge-networking",
+      "source": "Jobicy",
+      "description": "Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. We are seeking a platform engineer to join our Edge &amp; Networking squad. This team owns everything that happens&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
+      "verdict": "review",
+      "fit": 52,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
       "title": "Engineering Manager - Python and K8s",
       "company": "Canonical",
       "location": "APAC, EMEA",
@@ -1096,26 +1116,6 @@
       "fit": 52,
       "reasons": [
         "Mexico-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "ANALISTA DEVOPS SÊNIOR",
-      "company": "Valid",
-      "location": "Brazil",
-      "url": "https://himalayas.app/companies/valid/jobs/analista-devops-senior?utm_source=api",
-      "source": "Himalayas",
-      "description": "Aqui na Valid , trabalhamos para promover a identificação segura de pessoas, jornadas e transações, tanto no setor público quanto no setor privado. Nossas soluções físicas e digitais são dedicadas a três grandes ecossistemas: - Identificação &amp; Governo Digital - Bancos &amp; Meios de Pagamento - Conectividade Segura Nosso papel é autenticar, autorizar e garantir a segurança de todos os envolvidos. Isso é o que fazemos para cada um dos nossos mais de 1.200 clientes no Brasil e no mundo. Nosso jeito Valid Na Valid , acreditamos que cada pessoa é única e nosso propósito é empoderar o que há de",
-      "tags": [
-        "devops-engineer",
-        "devops-analyst",
-        "site-reliability-engineer",
-        "cloud-engineer",
-        "infrastructure-engineer"
-      ],
-      "verdict": "review",
-      "fit": 52,
-      "reasons": [
-        "Brazil-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -1265,6 +1265,23 @@
       ]
     },
     {
+      "title": "Senior Product Marketing Manager",
+      "company": "Canonical",
+      "location": "EMEA",
+      "url": "https://jobicy.com/jobs/159446-senior-product-marketing-manager-9",
+      "source": "Jobicy",
+      "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders&hellip;",
+      "tags": [
+        "marketing & sales"
+      ],
+      "verdict": "review",
+      "fit": 42,
+      "reasons": [
+        "EMEA-tagged — verify it's open to Africa first",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
       "title": "Senior Customer Success Architect - Singapore",
       "company": "GitLab",
       "location": "Singapore",
@@ -1313,22 +1330,6 @@
       "reasons": [
         "Germany-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
         "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "AI/ML Engineering Manager",
-      "company": "Caylent",
-      "location": "Argentina",
-      "url": "https://jobicy.com/jobs/152435-ai-ml-engineering-manager",
-      "source": "Jobicy",
-      "description": "Caylent is an AI-first cloud services company that helps organizations turn ambitious ideas into meaningful business impact. As an AWS Premier Tier Services Partner and a charter member of Anthropic’s Claude Partner Network, we combine deep expertise in AWS, artificial intelligence, and Anthropic’s Claude platform to help customers modernize their technology, build intelligent products, and&hellip;",
-      "tags": [
-        "data science & analytics"
-      ],
-      "verdict": "review",
-      "fit": 40,
-      "reasons": [
-        "Argentina-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -1385,6 +1386,23 @@
       "reasons": [
         "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
         "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "US Remote Patient Care Advocate (Customer Service)",
+      "company": "VXI Global Solutions",
+      "location": "USA",
+      "url": "https://remotive.com/remote-jobs/customer-service/us-remote-patient-care-advocate-customer-service-2091168",
+      "source": "Remotive",
+      "description": "Job Title: Patient Care Advocate Job Location: Remote About Us: We are a dedicated team focused on improving access to affordable prescription medications for patients. By partnering with insurance companies, healthcare providers, and pharmacies, we work to reduce the financial burden of medications, ensuring that patients can access the treatments they need without excessive costs. Role Overview: As a key member of our team, you will help patients navigate our Prescription Payment Plan. This involves working closely with patients, insurance providers, healthcare professionals, and pharmacies ",
+      "tags": [
+        "healthcare",
+        "insurance"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -1524,69 +1542,6 @@
       ]
     },
     {
-      "title": "Clinical Coordination Manager",
-      "company": "Enable Dental",
-      "location": "Austin, Austin, Texas, United States",
-      "url": "https://remoteOK.com/remote-jobs/remote-clinical-coordination-manager-enable-dental-1136096",
-      "source": "RemoteOK",
-      "description": "Department: Support Operations Reports To: Director, Support Operations Location: Remote (U.S.) Position Type: Full-Time, Exempt Position Summary The Clinical Coordinator Department Manager oversees the Clinical Coordination team responsible for maintaining accurate, appropriately filled provider schedules across all markets. This role provides leadership, operational oversight, training, workload management, process improvement, and cross-department collaboration to support consistent scheduling performance. This leader sets daily and weekly priorities, delegates work, holds the team accounta",
-      "tags": [
-        "design",
-        "saas",
-        "salesforce",
-        "wordpress",
-        "customer support",
-        "dev",
-        "testing",
-        "marketing",
-        "web dev",
-        "travel",
-        "cloud",
-        "ads",
-        "exec",
-        "content writing",
-        "stats",
-        "sales",
-        "recruiter",
-        "digital nomad",
-        "embedded",
-        "hr",
-        "sys admin",
-        "game dev",
-        "technical",
-        "payroll",
-        "finance",
-        "api",
-        "ops",
-        "engineer",
-        "education",
-        "coordinator",
-        "medical",
-        "full time"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "United states-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Product Engineer, Internal Tools - LATAM",
-      "company": "Luxury Presence",
-      "location": "LATAM",
-      "url": "https://jobicy.com/jobs/152452-product-engineer-internal-tools-latam",
-      "source": "Jobicy",
-      "description": "Luxury Presence is building the AI growth platform for real estate. Backed by Bessemer Venture Partners and other top investors, we're a Series C company that has hit $100M in annual recurring revenue. More than 90,000 real estate professionals, including over 30% of the WSJ Real Trends top 100 agents in the United States, use&hellip;",
-      "tags": [
-        "software engineering"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Latam-tagged — verify it's open to Africa first"
-      ]
-    },
-    {
       "title": "Strategic Account Executive, West",
       "company": "Sonatype",
       "location": "USA",
@@ -1664,22 +1619,6 @@
       "fit": 36,
       "reasons": [
         "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Strategic Account Executive, EMEA (100% hunting role)",
-      "company": "Sonatype",
-      "location": "UK",
-      "url": "https://jobicy.com/jobs/158340-strategic-account-executive-emea-100-hunting-role",
-      "source": "Jobicy",
-      "description": "Sonatype is the software supply chain security company. Sonatype is accelerating the future of agentic software development. As developers and AI agents build faster than ever, enterprises need a new level of control, visibility, and confidence at the moment software is assembled. Our Nexus One platform helps development, security, and platform teams govern the components,&hellip;",
-      "tags": [
-        "sales"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Uk-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -1832,27 +1771,6 @@
       "fit": 30,
       "reasons": [
         "Australia-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Cloud Solution Architect (ModernWork)",
-      "company": "Concentrix",
-      "location": "Morocco",
-      "url": "https://himalayas.app/companies/concentrix/jobs/cloud-solution-architect-modernwork?utm_source=api",
-      "source": "Himalayas",
-      "description": "Job Title: Cloud Solution Architect (ModernWork) Job Description We're Concentrix . The intelligent transformation partner. Solution-focused. Tech-powered. Intelligence-fueled. The global technology and services leader that powers the world’s best brands, today and into the future. We’re solution-focused, tech-powered, intelligence-fueled. With unique data and insights, deep industry expertise, and advanced technology solutions, we’re the intelligent transformation partner that powers a world that works, helping companies become refreshingly simple to work, interact, and transact with. We shap",
-      "tags": [
-        "cloud-solution-architect",
-        "solutions-architect",
-        "cloud-consultant",
-        "microsoft-365-consultant",
-        "endpoint-architect"
-      ],
-      "verdict": "review",
-      "fit": 30,
-      "reasons": [
-        "location unconfirmed — verify it's open to Africa",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -2040,17 +1958,19 @@
       ]
     },
     {
-      "title": "Director, Renewals",
-      "company": "Abnormal",
-      "location": "Anywhere in the World",
-      "url": "https://weworkremotely.com/remote-jobs/abnormal-director-renewals",
-      "source": "WeWorkRemotely",
-      "description": "Headquarters: Remote - USA About the Role Abnormal AI is looking for a Director of Renewals to own the strategy, performance, and operating model for our global renewals function. Reporting to the VP of Customer Success, you will lead the renewals organization and own revenue retention across Abnormal's multi-product behavioral security platform. You will build the renewals engine that makes retention and cross-product expansion predictable at scale, set the standard for how Abnormal renews and expands its customers, and turn customer obsession into measurable retention outcomes. What you will",
-      "tags": [],
+      "title": "Sr. Staff SDET, Customer Engineering",
+      "company": "hims &#038; hers",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/159347-sr-staff-sdet-customer-engineering",
+      "source": "Jobicy",
+      "description": "Hims &amp; Hers is the leading health and wellness platform, on a mission to help the world feel great through the power of better health. We are redefining healthcare by putting the customer first and delivering access to care that is affordable, accessible, and personal, from diagnosis to treatment to delivery. No two people are&hellip;",
+      "tags": [
+        "qa & testing"
+      ],
       "verdict": "blocked",
       "fit": 0,
       "reasons": [
-        "Director-level — usually 5–10+ yrs, you have ~4"
+        "Staff-level — usually 5–10+ yrs, you have ~4"
       ]
     },
     {
