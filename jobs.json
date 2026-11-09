@@ -1,11 +1,11 @@
 {
-  "generated": "2026-11-08 12:22 UTC",
-  "count": 112,
+  "generated": "2026-11-09 14:36 UTC",
+  "count": 113,
   "summary": {
-    "scanned": 112,
+    "scanned": 113,
     "eligible": 46,
-    "review": 49,
-    "blocked": 17
+    "review": 51,
+    "blocked": 16
   },
   "jobs": [
     {
@@ -175,6 +175,22 @@
       "source": "WeWorkRemotely",
       "description": "Headquarters: San Francisco Bay Area or Remote (U.S.) Discord has a highly engaged community of millions of daily active users who use the platform for many different reasons, but there’s one thing that nearly everyone does: play video games. Discord plays a uniquely important role in the future of gaming, and we are focused on making it easier and more fun for people to hang out before, during, and after playing games. We are seeking a QA/DevOps Engineer&nbsp;to join Discord’s Business Systems team. In this role, you will own automated test suite development and maintenance across Oracle ERP ",
       "tags": [],
+      "verdict": "eligible",
+      "fit": 66,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
+    {
+      "title": "DevOps Engineer (Observability)",
+      "company": "Twilio",
+      "location": "Ireland",
+      "url": "https://jobicy.com/jobs/154900-devops-engineer-observability",
+      "source": "Jobicy",
+      "description": "Who we are At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to hundreds of thousands of businesses and empower millions of developers worldwide to craft personalized customer experiences. Our dedication to remote-first work, and strong culture of connection and global inclusion means that no&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
       "verdict": "eligible",
       "fit": 66,
       "reasons": [
@@ -477,25 +493,6 @@
       ]
     },
     {
-      "title": "Inside Sales Contractor",
-      "company": "Credit Wellness, LLC",
-      "location": "Worldwide",
-      "url": "https://remotive.com/remote-jobs/sales/inside-sales-contractor-2086540",
-      "source": "Remotive",
-      "description": "About Us We are a financial services start up focusing on helping to improve consumer credit profiles. We are currently seeking KPI driven sales representatives looking to earn up to 45K in their first year while working remotely. We offer comprehensive training and continuous sales coaching to help you meet your financial goals. During our training period we offer a guaranteed training stipend while our trainees are acclimating to the position (*see weekly pay below). If you are a seasoned sales professional looking for the autonomy of a remote position combined with great compensation, we wa",
-      "tags": [
-        "crm",
-        "google sheets",
-        "financial services",
-        "inside sales"
-      ],
-      "verdict": "eligible",
-      "fit": 50,
-      "reasons": [
-        "remote — anywhere / global"
-      ]
-    },
-    {
       "title": "Feltsense AI Engineer",
       "company": "Silver.dev",
       "location": "Worldwide",
@@ -532,7 +529,7 @@
       "location": "Worldwide",
       "url": "https://remoteOK.com/remote-jobs/remote-platform-and-integration-engineer-security-telemetry-redmimicry-1137465",
       "source": "RemoteOK",
-      "description": "Remote - Location: Mostly remote (within Germany), with monthly in-person collaboration at our Berlin officeHours: Part-time, 32 hours per weekContract: Fixed-termSalary: EUR 53,000 â 59,000 (at 32 hours per week)We are building a new capability that turns fragmented,... Please mention the word **THRIFTY** and tag RNDguMjIxLjE1My4xOTI= when applying to show you read the job post completely (#RNDguMjIxLjE1My4xOTI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Location: Mostly remote (within Germany), with monthly in-person collaboration at our Berlin officeHours: Part-time, 32 hours per weekContract: Fixed-termSalary: EUR 53,000 â 59,000 (at 32 hours per week)We are building a new capability that turns fragmented,... Please mention the word **THRIFTY** and tag RNTIuMTc2LjEyNi4xOTc= when applying to show you read the job post completely (#RNTIuMTc2LjEyNi4xOTc=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "tags": [
         "golang",
         "infosec",
@@ -943,22 +940,6 @@
       ]
     },
     {
-      "title": "Site Reliability Engineering Manager",
-      "company": "Canonical",
-      "location": "APAC, EMEA",
-      "url": "https://jobicy.com/jobs/149986-site-reliability-engineering-manager",
-      "source": "Jobicy",
-      "description": "Canonical is a leading provider of open-source software and operating systems for global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in many&hellip;",
-      "tags": [
-        "devops & infrastructure"
-      ],
-      "verdict": "review",
-      "fit": 64,
-      "reasons": [
-        "EMEA-tagged — verify it's open to Africa first"
-      ]
-    },
-    {
       "title": "Software Engineer Infrastructure",
       "company": "Sodalis, Inc.",
       "location": "Palo Alto",
@@ -1018,6 +999,20 @@
       "fit": 56,
       "reasons": [
         "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
+      "title": "Full-Stack Platform Engineer",
+      "company": "Edgewater Federal Solutions, Inc.",
+      "location": "USA Only",
+      "url": "https://weworkremotely.com/remote-jobs/edgewater-federal-solutions-inc-full-stack-platform-engineer",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: United States URL: https://www.edgewaterit.com Overview Edgewater Federal Solutions is seeking an experienced Full-Stack Platform Engineer .&nbsp;The Full-Stack Platform Engineer provides senior technical leadership and hands-on engineering for a secure enterprise data analytics platform supporting a federal environment. The role designs and delivers scalable web applications, APIs, data integrations, cloud solutions, and secure development practices while guiding technical decisions and resolving complex platform issues. &nbsp; *Due to the nature of the work and contract - US Ci",
+      "tags": [],
+      "verdict": "review",
+      "fit": 52,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -1117,41 +1112,6 @@
       ]
     },
     {
-      "title": "Cloud Operations Engineer",
-      "company": "Varicent",
-      "location": "Mexico",
-      "url": "https://jobicy.com/jobs/158996-cloud-operations-engineer-3",
-      "source": "Jobicy",
-      "description": "At Varicent, we’re not just transforming the Sales Performance Management (SPM) market—we’re redefining how organizations achieve revenue success. Our cutting-edge SaaS solutions empower revenue leaders globally to design smarter go-to-market strategies, maximize seller performance, and unlock untapped potential. Varicent stands at the forefront of innovation, celebrated as a market leader in the 2025 Forrester Wave&hellip;",
-      "tags": [
-        "devops & infrastructure"
-      ],
-      "verdict": "review",
-      "fit": 52,
-      "reasons": [
-        "Mexico-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Responsable PMO, portefeuille d'infrastructures (Freelance possible)",
-      "company": "EngiFlex",
-      "location": "Belgium",
-      "url": "https://himalayas.app/companies/engiflex/jobs/responsable-pmo-portefeuille-d-infrastructures-freelance-possible?utm_source=api",
-      "source": "Himalayas",
-      "description": "📋 Tâches et responsabilités Dans le cadre d'un programme wallon de reconstruction résiliente, un PMO est mis en place afin d'intégrer le pilotage des aménagements, des infrastructures, des marchés publics et des investissements. La fonction vise à renforcer la coordination des parties prenantes, la visibilité sur les risques, les délais et les moyens mobilisés, ainsi que la qualité du reporting. Mission générale Le PMO assure la gouvernance, la coordination, le contrôle et le reporting d'un programme de reconstruction résiliente afin de garantir l'atteinte des objectifs stratégiques, technique",
-      "tags": [
-        "program-manager",
-        "pmo-manager",
-        "project-portfolio-manager",
-        "infrastructure-program-manager"
-      ],
-      "verdict": "review",
-      "fit": 52,
-      "reasons": [
-        "location unconfirmed — verify it's open to Africa"
-      ]
-    },
-    {
       "title": "Senior Back-end Developer",
       "company": "Lemon.io",
       "location": "Europe, USA, Canada, Australia, Singapore, Mexico, Saudi Arabia",
@@ -1230,6 +1190,55 @@
       ]
     },
     {
+      "title": "Senior Backend Cloud Engineer",
+      "company": "Halcyon",
+      "location": "USA Only",
+      "url": "https://weworkremotely.com/remote-jobs/halcyon-senior-backend-cloud-engineer",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: United States URL: http://www.halcyon.ai What we do: Halcyon is the industry’s first dedicated, adaptive security platform that combines multiple proprietary advanced prevention engines along with AI models focused specifically on stopping ransomware. Who we are: Halcyon was formed in 2021 by a team of cyber industry veterans after battling the scourge of ransomware (and advanced threats) for years at some of the largest global security vendors. Comprised of leaders from Cylance (now Blackberry), Accuvant (now Optiv), Fireye and ISS X-Force (now IBM), Halcyon is focused on buildi",
+      "tags": [],
+      "verdict": "review",
+      "fit": 46,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Pre/Post Sales Solutions Architect",
+      "company": "Gremlin",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/152749-pre-post-sales-solutions-architect",
+      "source": "Jobicy",
+      "description": "Today’s complex, fast-paced systems have become a minefield of reliability risks—any of which could cause an outage that costs millions and destroys customer confidence. That’s why high-availability teams use Gremlin to find and fix ‌reliability risks before they become incidents. The Gremlin Reliability Platform helps software teams proactively monitor and test their systems for common&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
+      "verdict": "review",
+      "fit": 46,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Senior Salesforce Platform Engineer",
+      "company": "Amplitude",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/159827-senior-salesforce-platform-engineer",
+      "source": "Jobicy",
+      "description": "Amplitude is the leading AI analytics platform, helping over 5,200 customers—including Atlassian, Burger King, NBCUniversal, and Square—build better products and digital experiences. With powerful AI Agents embedded across our platform, teams can analyze, test, and optimize user experiences faster than ever. Ranked #1 across multiple categories in G2’s Winter 2026 Report, Amplitude is the best-in-class&hellip;",
+      "tags": [
+        "software engineering"
+      ],
+      "verdict": "review",
+      "fit": 46,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
       "title": "Senior Full Stack Engineer",
       "company": "infisical",
       "location": "Brazil, Canada, Europe, USA",
@@ -1281,23 +1290,6 @@
       ]
     },
     {
-      "title": "Senior DevOps Engineer, Observability",
-      "company": "NetBox Labs",
-      "location": "LATAM, UK, USA",
-      "url": "https://jobicy.com/jobs/154542-senior-devops-engineer-observability",
-      "source": "Jobicy",
-      "description": "NetBox Labs is seeking a Senior Devops Engineer to join our rapidly expanding engineering team. We have multiple positions at different seniority levels open across several teams. A Senior DevOps Engineer at NetBox Labs is an infrastructure-minded engineer who treats operations like software - automating, instrumenting, and operating our systems with code. They focus on&hellip;",
-      "tags": [
-        "devops & infrastructure"
-      ],
-      "verdict": "review",
-      "fit": 46,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
       "title": "Senior Product Marketing Manager",
       "company": "Canonical",
       "location": "EMEA",
@@ -1315,20 +1307,35 @@
       ]
     },
     {
-      "title": "Senior Customer Success Architect - Singapore",
-      "company": "GitLab",
-      "location": "Singapore",
-      "url": "https://jobicy.com/jobs/150102-senior-customer-success-architect-singapore",
+      "title": "Security Engineer",
+      "company": "Caylent",
+      "location": "Argentina",
+      "url": "https://jobicy.com/jobs/159882-security-engineer-5",
       "source": "Jobicy",
-      "description": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster. The same principles built into&hellip;",
+      "description": "Caylent is an AI-first cloud services company that helps organizations turn ambitious ideas into meaningful business impact. As an AWS Premier Tier Services Partner and a charter member of Anthropic’s Claude Partner Network, we combine deep expertise in AWS, artificial intelligence, and Anthropic’s Claude platform to help customers modernize their technology, build intelligent products, and&hellip;",
       "tags": [
-        "customer support & success"
+        "cybersecurity"
       ],
       "verdict": "review",
-      "fit": 42,
+      "fit": 40,
       "reasons": [
-        "Singapore-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
+        "Argentina-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "Sales Development Representative",
+      "company": "Caylent",
+      "location": "Argentina",
+      "url": "https://jobicy.com/jobs/159877-sales-development-representative-2",
+      "source": "Jobicy",
+      "description": "Caylent is an AI-first cloud services company that helps organizations turn ambitious ideas into meaningful business impact. As an AWS Premier Tier Services Partner and a charter member of Anthropic’s Claude Partner Network, we combine deep expertise in AWS, artificial intelligence, and Anthropic’s Claude platform to help customers modernize their technology, build intelligent products, and&hellip;",
+      "tags": [
+        "sales"
+      ],
+      "verdict": "review",
+      "fit": 40,
+      "reasons": [
+        "Argentina-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -1361,22 +1368,6 @@
       "fit": 40,
       "reasons": [
         "Mexico-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Forward Deployed Product Manager",
-      "company": "Caylent",
-      "location": "Canada",
-      "url": "https://jobicy.com/jobs/158898-forward-deployed-product-manager",
-      "source": "Jobicy",
-      "description": "Caylent is an AI-first cloud services company that helps organizations turn ambitious ideas into meaningful business impact. As an AWS Premier Tier Services Partner and a charter member of Anthropic’s Claude Partner Network, we combine deep expertise in AWS, artificial intelligence, and Anthropic’s Claude platform to help customers modernize their technology, build intelligent products, and&hellip;",
-      "tags": [
-        "product & operations"
-      ],
-      "verdict": "review",
-      "fit": 40,
-      "reasons": [
-        "Canada-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -1573,6 +1564,54 @@
       ]
     },
     {
+      "title": "Corporate Account Executive - California",
+      "company": "Chainguard",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/160032-corporate-account-executive-california",
+      "source": "Jobicy",
+      "description": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. Our customers include Fortune 500 enterprises and global industry leaders, including Anduril, Canva, Fortinet, Hewlett Packard Enterprise, OpenAI,&hellip;",
+      "tags": [
+        "sales"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "Collections Manager",
+      "company": "Harness",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/160024-collections-manager",
+      "source": "Jobicy",
+      "description": "Harness is the AI Software Delivery Platform company, led by technologist and entrepreneur Jyoti Bansal (founder of AppDynamics, acquired by Cisco for $3.7B). Harness has raised approximately $570M in funding and is valued at $5.5B, backed by leading investors including Goldman Sachs, Menlo Ventures, IVP, Unusual Ventures, Citi Ventures, and more. As AI accelerates code&hellip;",
+      "tags": [
+        "finance & accounting"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "Data Scientist, AI/ML",
+      "company": "Gremlin",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/152746-data-scientist-ai-ml",
+      "source": "Jobicy",
+      "description": "Data Scientist, AI/ML Job Description: Today’s complex, fast-paced systems have become a minefield of reliability risks, any of which could cause an outage that costs millions and destroys customer confidence. That’s why high-availability teams use Gremlin to find and fix reliability risks before they become incidents. Gremlin Reliability Platform helps software teams proactively monitor and&hellip;",
+      "tags": [
+        "data science & analytics"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
       "title": "Account Executive, Enterprise - Northeast",
       "company": "1Password",
       "location": "USA",
@@ -1650,40 +1689,6 @@
       "fit": 36,
       "reasons": [
         "Uk-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Senior Product Designer",
-      "company": "NetBox Labs",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/159016-senior-product-designer-17",
-      "source": "Jobicy",
-      "description": "NetBox Labs seeks a Senior Product Designer to help shape the next generation of our platform. We are building products on top of the NetBox data model that help network teams put their data to work, from interactive maps of their network, to compliance on network intended design, to analytics and AI-driven workflows. This role&hellip;",
-      "tags": [
-        "web, ui & ux design"
-      ],
-      "verdict": "review",
-      "fit": 34,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Frontend Architect",
-      "company": "Caylent",
-      "location": "Canada",
-      "url": "https://jobicy.com/jobs/158912-frontend-architect-2",
-      "source": "Jobicy",
-      "description": "Caylent is an AI-first cloud services company that helps organizations turn ambitious ideas into meaningful business impact. As an AWS Premier Tier Services Partner and a charter member of Anthropic’s Claude Partner Network, we combine deep expertise in AWS, artificial intelligence, and Anthropic’s Claude platform to help customers modernize their technology, build intelligent products, and&hellip;",
-      "tags": [
-        "software engineering"
-      ],
-      "verdict": "review",
-      "fit": 34,
-      "reasons": [
-        "Canada-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
     {
@@ -1925,6 +1930,25 @@
       ]
     },
     {
+      "title": "Senior Product Manager - Platform",
+      "company": "Entity Games",
+      "location": "Ireland, United Kingdom",
+      "url": "https://himalayas.app/companies/entity-games/jobs/senior-product-manager-platform?utm_source=api",
+      "source": "Himalayas",
+      "description": "Senior Product Manager, Platform Location: Ireland/UK (Remote) About Entity Entity is building the destination for high calibre games on the web. A curated catalogue of bestselling full-scale game titles running natively in the browser: click a link and you’re playing in seconds on the device you already own. There are no downloads, no installs and no new hardware. This new low-friction way of playing games is powered by the latest developments in web technologies such as WebAssembly and WebGPU, allowing us to render high-quality game experiences on your device. This is not a game streaming se",
+      "tags": [
+        "product-manager",
+        "platform-product-manager",
+        "technical-product-manager"
+      ],
+      "verdict": "review",
+      "fit": 30,
+      "reasons": [
+        "United kingdom-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
       "title": "Head of Engineering",
       "company": "Lemon.io",
       "location": "Worldwide",
@@ -2108,6 +2132,38 @@
       ]
     },
     {
+      "title": "Staff Data Engineer",
+      "company": "Jobber",
+      "location": "Canada",
+      "url": "https://jobicy.com/jobs/154934-staff-data-engineer-2",
+      "source": "Jobicy",
+      "description": "Please note: Our Talent team at Jobber will be offline for Jobber Impact - our flagship event of the year, bringing Jobberinos together to connect, learn, and celebrate what we're building - starting October 6th and extending until October 9th. We’ll be back to go through applications and reach out with an update on your&hellip;",
+      "tags": [
+        "data science & analytics"
+      ],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Staff-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
+      "title": "Director, Enterprise Sales Engineering - US Central",
+      "company": "Datadog",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/152710-director-enterprise-sales-engineering-us-central",
+      "source": "Jobicy",
+      "description": "As a Director, Enterprise Sales Engineering, you will lead a team of frontline leaders, driving account strategy, deal execution, operational excellence, and team development across your region. This is a strategic leadership role with regional impact within North America. You will act as a force multiplier by owning team and region performance, shaping execution standards,&hellip;",
+      "tags": [
+        "sales"
+      ],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Director-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
       "title": "Staff IT Engineer",
       "company": "1Password",
       "location": "Canada, USA",
@@ -2201,54 +2257,6 @@
       "fit": 0,
       "reasons": [
         "Director-level — usually 5–10+ yrs, you have ~4"
-      ]
-    },
-    {
-      "title": "Director of Engineering, Cloud & Reliability",
-      "company": "Boulevard",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/152496-director-of-engineering-cloud-reliability-2",
-      "source": "Jobicy",
-      "description": "Who is Boulevard? Boulevard provides the first and only client experience platform for appointment-based, self-care businesses. We empower our customers to give their clients more of the magical moments that matter most. Before launching in 2016, our founders spent months interviewing salon managers and working behind front desks to understand their pain points so we&hellip;",
-      "tags": [
-        "devops & infrastructure"
-      ],
-      "verdict": "blocked",
-      "fit": 0,
-      "reasons": [
-        "Director-level — usually 5–10+ yrs, you have ~4"
-      ]
-    },
-    {
-      "title": "Staff Software Engineer, Tech Lead - NetBox Delivery",
-      "company": "NetBox Labs",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/159008-staff-software-engineer-tech-lead-netbox-delivery",
-      "source": "Jobicy",
-      "description": "NetBox Labs is seeking a Staff Software Engineer and Tech Lead for NetBox Delivery, a new team in our Applications group. NetBox is a product that reaches people in a few ways: our open source community runs NetBox OSS; commercial customers use NetBox Cloud (SaaS) or NetBox Enterprise (self-managed). NetBox Delivery owns everything between a&hellip;",
-      "tags": [
-        "software engineering"
-      ],
-      "verdict": "blocked",
-      "fit": 0,
-      "reasons": [
-        "Staff-level — usually 5–10+ yrs, you have ~4"
-      ]
-    },
-    {
-      "title": "Principal Data Architect",
-      "company": "Caylent",
-      "location": "Brazil",
-      "url": "https://jobicy.com/jobs/158923-principal-data-architect",
-      "source": "Jobicy",
-      "description": "Caylent is an AI-first cloud services company that helps organizations turn ambitious ideas into meaningful business impact. As an AWS Premier Tier Services Partner and a charter member of Anthropic’s Claude Partner Network, we combine deep expertise in AWS, artificial intelligence, and Anthropic’s Claude platform to help customers modernize their technology, build intelligent products, and&hellip;",
-      "tags": [
-        "data science & analytics"
-      ],
-      "verdict": "blocked",
-      "fit": 0,
-      "reasons": [
-        "Principal-level — usually 5–10+ yrs, you have ~4"
       ]
     }
   ]
