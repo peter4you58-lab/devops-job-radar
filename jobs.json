@@ -1,11 +1,11 @@
 {
-  "generated": "2026-11-10 13:54 UTC",
-  "count": 112,
+  "generated": "2026-11-11 13:07 UTC",
+  "count": 109,
   "summary": {
-    "scanned": 112,
-    "eligible": 45,
-    "review": 53,
-    "blocked": 14
+    "scanned": 109,
+    "eligible": 42,
+    "review": 51,
+    "blocked": 16
   },
   "jobs": [
     {
@@ -77,26 +77,6 @@
       ]
     },
     {
-      "title": "Mid-Level DevOps Engineer - 1 Year - Remote - Octopus by RTG",
-      "company": "robusta",
-      "location": "Egypt",
-      "url": "https://himalayas.app/companies/robusta/jobs/mid-level-devops-engineer-1-year-remote-octopus-by-rtg?utm_source=api",
-      "source": "Himalayas",
-      "description": "We are looking for a Mid-Level DevOps Engineer with solid experience in cloud infrastructure, automation, CI/CD, and deployment processes. The ideal candidate will work closely with development and operations teams to improve system reliability, automate processes, and ensure efficient and scalable software delivery. Key Responsibilities Build, maintain, and improve CI/CD pipelines for automated application build, testing, and deployment. Manage and maintain cloud infrastructure and environments . Automate infrastructure provisioning, configuration, and deployment processes. Monitor system per",
-      "tags": [
-        "devops-engineer",
-        "cloud-engineer",
-        "site-reliability-engineer",
-        "platform-engineer",
-        "software-engineer"
-      ],
-      "verdict": "eligible",
-      "fit": 72,
-      "reasons": [
-        "explicitly open to Africa/Nigeria"
-      ]
-    },
-    {
       "title": "Software Engineer, AI Coding Tasks",
       "company": "Askable",
       "location": "Worldwide",
@@ -153,6 +133,20 @@
         "backend",
         "digital nomad"
       ],
+      "verdict": "eligible",
+      "fit": 66,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
+    {
+      "title": "Cloud Engineer",
+      "company": "Knack",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/knack-cloud-engineer-1",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: US URL: https://knack.com Location: US Based (Full-Time, Remote) or International Contractor (Full-Time, Remote) If US-Based: This will be a remote position based in the United States. Knack offers a complete benefits package to those working in the United States. Employees must be available during standard US business hours and maintain their primary work location within the US. Any extended time working outside the United States requires prior written approval. International Contractor: This is a full-time, remote position, but candidates must have four hours overlap with Easte",
+      "tags": [],
       "verdict": "eligible",
       "fit": 66,
       "reasons": [
@@ -362,20 +356,6 @@
       ]
     },
     {
-      "title": "Enterprise Security Sales Specialist",
-      "company": "Datadog",
-      "location": "Anywhere in the World",
-      "url": "https://weworkremotely.com/remote-jobs/datadog-enterprise-security-sales-specialist",
-      "source": "WeWorkRemotely",
-      "description": "Headquarters: District of Columbia, USA, Remote; North Carolina, USA, Remote As a Security Sales Specialist, you'll partner with Enterprise Account Executives to drive adoption of Datadog’s Security platform across key accounts. This is a high-impact role focused on positioning our Security solutions (Cloud SIEM, Cloud Workload Security, CSPM, and more) into new and existing customers—expanding our footprint and helping customers modernize their security stack in the cloud. At Datadog, we place value in our office culture - the relationships and collaboration it builds and the creativity it br",
-      "tags": [],
-      "verdict": "eligible",
-      "fit": 54,
-      "reasons": [
-        "remote — anywhere / global"
-      ]
-    },
-    {
       "title": "Inside Sales Contractor",
       "company": "Credit Wellness, LLC",
       "location": "Worldwide",
@@ -551,7 +531,7 @@
       "location": "Worldwide",
       "url": "https://remoteOK.com/remote-jobs/remote-platform-and-integration-engineer-security-telemetry-redmimicry-1137465",
       "source": "RemoteOK",
-      "description": "Remote - Location: Mostly remote (within Germany), with monthly in-person collaboration at our Berlin officeHours: Part-time, 32 hours per weekContract: Fixed-termSalary: EUR 53,000 â 59,000 (at 32 hours per week)We are building a new capability that turns fragmented,... Please mention the word **THRIFTY** and tag RNTIuMTU5LjE0MS4yMzA= when applying to show you read the job post completely (#RNTIuMTU5LjE0MS4yMzA=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Location: Mostly remote (within Germany), with monthly in-person collaboration at our Berlin officeHours: Part-time, 32 hours per weekContract: Fixed-termSalary: EUR 53,000 â 59,000 (at 32 hours per week)We are building a new capability that turns fragmented,... Please mention the word **THRIFTY** and tag RMjAuMTcxLjE0Ljkw when applying to show you read the job post completely (#RMjAuMTcxLjE0Ljkw). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "tags": [
         "golang",
         "infosec",
@@ -761,31 +741,25 @@
       ]
     },
     {
-      "title": "Associate Talent Acquisition Partner, Tech",
-      "company": "Keeper Security",
-      "location": "Anywhere in the World",
-      "url": "https://weworkremotely.com/remote-jobs/keeper-security-associate-talent-acquisition-partner-tech",
-      "source": "WeWorkRemotely",
-      "description": "Headquarters: Remote, US Description Keeper is hiring a motivated Associate Talent Acquisition Partner to support the full cycle recruiting process. This is a 100% remote position from select locations with an opportunity to work a hybrid schedule for candidates based in the Chicago, IL metro area.&nbsp; Keeper’s cybersecurity software is trusted by millions of people and thousands of organizations globally. Keeper is published in 23 languages and is sold in over 150 countries. Join one of the fastest-growing cybersecurity companies and be responsible for a variety of recruiting support activi",
-      "tags": [],
+      "title": "Senior Software Engineer â Kubernetes Control Plane",
+      "company": "Buoyant",
+      "location": "Worldwide",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-kubernetes-control-plane-buoyant-1137713",
+      "source": "RemoteOK",
+      "description": "San Francisco, United States - Senior Software Engineer â Kubernetes Control Plane (Go / Golang)REMOTE: United States, Canada, or South America ONLYExperience: 7+ yearsIMPORTANT â PLEASE READ BEFORE APPLYINGBuoyant is seeking experienced software engineers who have personally designed ... Please mention the word **FECILITOUS** and tag RMjAuMTcxLjE0Ljkw when applying to show you read the job post completely (#RMjAuMTcxLjE0Ljkw). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "tags": [
+        "golang",
+        "dev",
+        "senior",
+        "golang",
+        "engineer",
+        "digital nomad"
+      ],
       "verdict": "eligible",
-      "fit": 50,
+      "fit": 48,
       "reasons": [
-        "remote — anywhere / global"
-      ]
-    },
-    {
-      "title": "Analyst Relations Manager",
-      "company": "Keeper Security",
-      "location": "Anywhere in the World",
-      "url": "https://weworkremotely.com/remote-jobs/keeper-security-analyst-relations-manager",
-      "source": "WeWorkRemotely",
-      "description": "Headquarters: Remote, US Keeper Security is hiring an Analyst Relations Manager to join our Global Communications team. This individual will own and execute the day-to-day analyst relations program at Keeper by managing evaluations, timelines, coordination and internal workflows to ensure effective analyst engagement. This is a 100% remote position from select locations, with an opportunity to work a hybrid schedule for candidates who live near our global headquarters in Chicago. Keeper’s cybersecurity software is trusted by millions of people and thousands of organizations, globally. Keeper i",
-      "tags": [],
-      "verdict": "eligible",
-      "fit": 50,
-      "reasons": [
-        "remote — anywhere / global"
+        "remote — anywhere / global",
+        "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
     {
@@ -898,21 +872,6 @@
       ]
     },
     {
-      "title": "Senior Engineer (.NET)",
-      "company": "Current",
-      "location": "Anywhere in the World",
-      "url": "https://weworkremotely.com/remote-jobs/current-senior-engineer-net",
-      "source": "WeWorkRemotely",
-      "description": "Headquarters: Remote (US) At Current At Current, we partner with ambitious brands to create digital experiences that drive meaningful business results. By bringing together strategy, design, production, and technology, we help organizations solve complex challenges and build experiences that create lasting impact. We're looking for a Senior Engineer (.NET) to build scalable, high-quality digital experiences across websites, platforms, and applications. You'll collaborate closely with strategists, designers, producers, and fellow engineers to deliver thoughtful technical solutions while contrib",
-      "tags": [],
-      "verdict": "eligible",
-      "fit": 44,
-      "reasons": [
-        "remote — anywhere / global",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
       "title": "Mid-level DevOps Engineer (Remote) - Brazil",
       "company": "AlphaSights",
       "location": "Brazil",
@@ -926,6 +885,23 @@
       "fit": 60,
       "reasons": [
         "Brazil-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "Public Cloud Solution Architect",
+      "company": "Canonical",
+      "location": "LATAM, Canada, USA",
+      "url": "https://jobicy.com/jobs/161108-public-cloud-solution-architect",
+      "source": "Jobicy",
+      "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
+      "verdict": "review",
+      "fit": 58,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
     {
@@ -991,6 +967,22 @@
       ]
     },
     {
+      "title": "Platform Engineer",
+      "company": "Defense Unicorns",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/161246-platform-engineer-3",
+      "source": "Jobicy",
+      "description": "EMPLOYER IS A CONTRACTOR FOR THE U.S. GOVERNMENT. THIS POSITION REQUIRES U.S. CITIZENSHIP. Role Description We are seeking a talented and experienced Platform Engineer to join our team. Possessing strong proficiency with Kubernetes, the ideal candidate will play a crucial role in the development and maintenance of our platform, demonstrating a strong understanding of system&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
+      "verdict": "review",
+      "fit": 56,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
       "title": "Full-Stack Platform Engineer",
       "company": "Edgewater Federal Solutions, Inc.",
       "location": "USA Only",
@@ -1002,6 +994,22 @@
       "fit": 52,
       "reasons": [
         "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "DevOps - Remote (Only Mexico)",
+      "company": "Orion Innovation",
+      "location": "Mexico",
+      "url": "https://jobicy.com/jobs/161184-devops-remote-only-mexico",
+      "source": "Jobicy",
+      "description": "Orion Innovation is a premier, award-winning, global business and technology services firm. Orion delivers game-changing business transformation and product development rooted in digital strategy, experience design, and engineering, with a unique combination of agility, scale, and maturity. We work with a wide range of clients across many industries including financial services, professional services, telecommunications and&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
+      "verdict": "review",
+      "fit": 52,
+      "reasons": [
+        "Mexico-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -1066,6 +1074,26 @@
       "fit": 52,
       "reasons": [
         "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "GPU Infrastructure Engineer",
+      "company": "Polargrid",
+      "location": "Canada",
+      "url": "https://himalayas.app/companies/polargrid/jobs/gpu-infrastructure-engineer?utm_source=api",
+      "source": "Himalayas",
+      "description": "About PolarGrid PolarGrid is an early-stage Canadian company that runs managed AI inference. A customer brings a model or a serving image. We run it on dedicated GPUs behind one endpoint, serve each request from the nearest site, and move traffic to the next nearest site when one fails. Our goal is to make AI inference fast, reliable, and secure for customers running production workloads. The Role This role is responsible for scaling PolarGrid's inference network from a handful of sites to a geographically distributed fleet of GPU clusters. The GPU Infrastructure Engineer will own how new site",
+      "tags": [
+        "gpu-infrastructure-engineer",
+        "infrastructure-engineer",
+        "cloud-infrastructure-engineer",
+        "systems-engineer",
+        "site-reliability-engineer"
+      ],
+      "verdict": "review",
+      "fit": 52,
+      "reasons": [
+        "Canada-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -1148,6 +1176,22 @@
       ]
     },
     {
+      "title": "Software Developer (Backend SaaS)",
+      "company": "Canonical",
+      "location": "LATAM, Canada, USA",
+      "url": "https://jobicy.com/jobs/161191-software-developer-backend-saas",
+      "source": "Jobicy",
+      "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders&hellip;",
+      "tags": [
+        "software engineering"
+      ],
+      "verdict": "review",
+      "fit": 48,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
       "title": "Technical Product Marketing Manager - Cybersecurity",
       "company": "Canonical",
       "location": "EMEA",
@@ -1175,6 +1219,23 @@
       "fit": 46,
       "reasons": [
         "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Senior Software Engineer (.NET) (f/m/d)",
+      "company": "Apaleo",
+      "location": "Germany",
+      "url": "https://jobicy.com/jobs/152912-senior-software-engineer-net-f-m-d",
+      "source": "Jobicy",
+      "description": "Join Apaleo and Shape the Future of Hospitality Tech! Apaleo is the world’s most open, API-first property management platform powering the next generation of hospitality operations. Its modular, AI-powered infrastructure enables hoteliers to customise their tech stack, automate routine work, and deliver seamless, personalised guest experiences, powered by best-in-class apps and autonomous AI agents that&hellip;",
+      "tags": [
+        "software engineering"
+      ],
+      "verdict": "review",
+      "fit": 46,
+      "reasons": [
+        "Germany-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -1367,24 +1428,6 @@
       "fit": 36,
       "reasons": [
         "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "External Data Specialist",
-      "company": "eClinical Solutions",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-external-data-specialist-eclinical-solutions-1137375",
-      "source": "RemoteOK",
-      "description": "eClinical Solutions helps life sciences organizations around the world accelerate clinical development initiatives with expert data services and the elluminate Clinical Data Cloud â the foundation of digital trials. Together, the elluminate platform and digital data services give clients self-service access to all their data from one centralized location plus advanced analytics that help them make smarter, faster business decisions. eClinical Solutions is committed to driving innovation in clinical trials through a better approach to data management and data analytics. We use the eClinical S",
-      "tags": [
-        "cloud",
-        "exec",
-        "stats"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "location unconfirmed — verify it's open to Africa"
       ]
     },
     {
@@ -1695,38 +1738,6 @@
       ]
     },
     {
-      "title": "Enterprise Account Executive",
-      "company": "Chainguard",
-      "location": "Singapore",
-      "url": "https://jobicy.com/jobs/159529-enterprise-account-executive-36",
-      "source": "Jobicy",
-      "description": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. Our customers include Fortune 500 enterprises and global industry leaders, including Anduril, Canva, Fortinet, Hewlett Packard Enterprise, OpenAI,&hellip;",
-      "tags": [
-        "sales"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Singapore-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Business Development Representative - UK",
-      "company": "Chainguard",
-      "location": "UK",
-      "url": "https://jobicy.com/jobs/159523-business-development-representative-uk",
-      "source": "Jobicy",
-      "description": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. Our customers include Fortune 500 enterprises and global industry leaders, including Anduril, Canva, Fortinet, Hewlett Packard Enterprise, OpenAI,&hellip;",
-      "tags": [
-        "business development"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Uk-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
       "title": "Senior Forward Deployed Engineer",
       "company": "Caylent",
       "location": "Mexico",
@@ -1757,6 +1768,23 @@
       "fit": 34,
       "reasons": [
         "Mexico-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Senior Technical Support Engineer",
+      "company": "Chainguard",
+      "location": "UK",
+      "url": "https://jobicy.com/jobs/161071-senior-technical-support-engineer-2",
+      "source": "Jobicy",
+      "description": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. Our customers include Fortune 500 enterprises and global industry leaders, including Anduril, Canva, Fortinet, Hewlett Packard Enterprise, OpenAI,&hellip;",
+      "tags": [
+        "technical support"
+      ],
+      "verdict": "review",
+      "fit": 30,
+      "reasons": [
+        "Uk-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -1842,108 +1870,6 @@
       "fit": 30,
       "reasons": [
         "Netherlands-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Mid/Senior AI LLM Engineer (Full Remote - Poland)",
-      "company": "EverAI",
-      "location": "Poland, Portugal",
-      "url": "https://jobicy.com/jobs/159584-mid-senior-ai-llm-engineer-full-remote-poland",
-      "source": "Jobicy",
-      "description": "Our Vision &amp; Products EverAI — Building the Future of AI Companionship One of the Top 15 Largest &amp; Fastest-Growing AI Companies in the World 50 Million Users in 2 years — Help Us Reach 100M first, 500M next At EverAI, we’re shaping what it means to connect with AI. With 50 million users&hellip;",
-      "tags": [
-        "software engineering"
-      ],
-      "verdict": "review",
-      "fit": 30,
-      "reasons": [
-        "Poland-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Mid/Senior AI LLM Engineer (Full Remote - Germany)",
-      "company": "EverAI",
-      "location": "Germany, Portugal",
-      "url": "https://jobicy.com/jobs/159582-mid-senior-ai-llm-engineer-full-remote-germany",
-      "source": "Jobicy",
-      "description": "Our Vision &amp; Products EverAI — Building the Future of AI Companionship One of the Top 15 Largest &amp; Fastest-Growing AI Companies in the World 50 Million Users in 2 years — Help Us Reach 100M first, 500M next At EverAI, we’re shaping what it means to connect with AI. With 50 million users&hellip;",
-      "tags": [
-        "software engineering"
-      ],
-      "verdict": "review",
-      "fit": 30,
-      "reasons": [
-        "Germany-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Mid/Senior AI LLM Engineer (Full Remote - France)",
-      "company": "EverAI",
-      "location": "France, Portugal",
-      "url": "https://jobicy.com/jobs/159580-mid-senior-ai-llm-engineer-full-remote-france",
-      "source": "Jobicy",
-      "description": "Our Vision &amp; Products EverAI — Building the Future of AI Companionship One of the Top 15 Largest &amp; Fastest-Growing AI Companies in the World 50 Million Users in 2 years — Help Us Reach 100M first, 500M next At EverAI, we’re shaping what it means to connect with AI. With 50 million users&hellip;",
-      "tags": [
-        "software engineering"
-      ],
-      "verdict": "review",
-      "fit": 30,
-      "reasons": [
-        "France-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Mid/Senior AI LLM Engineer (Full Remote - Italy)",
-      "company": "EverAI",
-      "location": "Italy, Portugal",
-      "url": "https://jobicy.com/jobs/159579-mid-senior-ai-llm-engineer-full-remote-italy",
-      "source": "Jobicy",
-      "description": "Our Vision &amp; Products EverAI — Building the Future of AI Companionship One of the Top 15 Largest &amp; Fastest-Growing AI Companies in the World 50 Million Users in 2 years — Help Us Reach 100M first, 500M next At EverAI, we’re shaping what it means to connect with AI. With 50 million users&hellip;",
-      "tags": [
-        "software engineering"
-      ],
-      "verdict": "review",
-      "fit": 30,
-      "reasons": [
-        "Portugal-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Mid/Senior AI LLM Engineer (Full Remote - Portugal)",
-      "company": "EverAI",
-      "location": "Portugal, Spain",
-      "url": "https://jobicy.com/jobs/159578-mid-senior-ai-llm-engineer-full-remote-portugal",
-      "source": "Jobicy",
-      "description": "Our Vision &amp; Products EverAI — Building the Future of AI Companionship One of the Top 15 Largest &amp; Fastest-Growing AI Companies in the World 50 Million Users in 2 years — Help Us Reach 100M first, 500M next At EverAI, we’re shaping what it means to connect with AI. With 50 million users&hellip;",
-      "tags": [
-        "software engineering"
-      ],
-      "verdict": "review",
-      "fit": 30,
-      "reasons": [
-        "Spain-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Mid/Senior AI LLM Engineer (Full Remote - Spain)",
-      "company": "EverAI",
-      "location": "Spain",
-      "url": "https://jobicy.com/jobs/159526-mid-senior-ai-llm-engineer-full-remote-spain",
-      "source": "Jobicy",
-      "description": "Our Vision &amp; Products EverAI — Building the Future of AI Companionship One of the Top 15 Largest &amp; Fastest-Growing AI Companies in the World 50 Million Users in 2 years — Help Us Reach 100M first, 500M next At EverAI, we’re shaping what it means to connect with AI. With 50 million users&hellip;",
-      "tags": [
-        "software engineering"
-      ],
-      "verdict": "review",
-      "fit": 30,
-      "reasons": [
-        "Spain-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -2089,6 +2015,38 @@
       "fit": 0,
       "reasons": [
         "Director-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
+      "title": "Director of IT & Automation - Appen",
+      "company": "Appen",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/155007-director-of-it-automation-appen",
+      "source": "Jobicy",
+      "description": "About the Role Appen is looking for a Director of IT &amp; Automation to lead our IT function and help shape how a modern, AI-native company operates. This is a senior leadership role combining technical depth, operational judgement and people leadership. You will work closely with the CPTO and senior leaders across the business to&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Director-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
+      "title": "Principal Partner Manager - Channels (GSI)",
+      "company": "Datadog",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/152957-principal-partner-manager-channels-gsi",
+      "source": "Jobicy",
+      "description": "We are looking for an experienced Partner Sales Manager to ignite partnerships by identifying and recruiting new partners for long-term success and nurture ongoing relationships with key strategic Global Systems Integrator partners. Our ultimate goal is building channels and alliances that drive new customer adoption and revenue. This is a great opportunity for you to&hellip;",
+      "tags": [
+        "business development"
+      ],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Principal-level — usually 5–10+ yrs, you have ~4"
       ]
     },
     {
