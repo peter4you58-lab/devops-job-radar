@@ -1,11 +1,11 @@
 {
-  "generated": "2026-11-11 13:07 UTC",
+  "generated": "2026-11-12 14:10 UTC",
   "count": 109,
   "summary": {
     "scanned": 109,
-    "eligible": 42,
+    "eligible": 44,
     "review": 51,
-    "blocked": 16
+    "blocked": 14
   },
   "jobs": [
     {
@@ -307,6 +307,23 @@
       ]
     },
     {
+      "title": "Senior Platform Engineer (Infrastructure)",
+      "company": "Fleetio",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/161526-senior-platform-engineer-infrastructure",
+      "source": "Jobicy",
+      "description": "A little about us…Fleetio is a modern software platform that helps thousands of organizations worldwide manage their fleet operations. Transportation technology is a hot market, and we’re leading the charge with raving fans and new customers signing up every day. We raised $450M in our Series D funding round in March of 2025 and are&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
+      "verdict": "eligible",
+      "fit": 60,
+      "reasons": [
+        "remote — anywhere / global",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
       "title": "AWS Cloud Solutions Architect",
       "company": "Cloudary SAS",
       "location": "Worldwide",
@@ -495,6 +512,39 @@
       ]
     },
     {
+      "title": "Data Engineer",
+      "company": "Addepto",
+      "location": "Worldwide",
+      "url": "https://remoteOK.com/remote-jobs/remote-data-engineer-addepto-1137714",
+      "source": "RemoteOK",
+      "description": "Addepto is a leading AI consulting ( https://addepto.com/ai-consulting/ ) and data engineering ( https://addepto.com/data-engineering-services/ ) company that builds scalable, ROI-focused AI solutions for some of the world's largest enterprises and pioneering startups, including Rolls Royce, Continental, Porsche, ABB, and WGU. With an exclusive focus on Artificial Intelligence and Big Data, Addepto helps organizations unlock the full potential of their data through systems designed for measurable business impact and long-term growth. The company's work extends beyond client engagements. Drawin",
+      "tags": [
+        "design",
+        "saas",
+        "salesforce",
+        "python",
+        "education",
+        "consulting",
+        "customer support",
+        "testing",
+        "marketing",
+        "dev",
+        "finance",
+        "cloud",
+        "git",
+        "stats",
+        "sys admin",
+        "engineer",
+        "apache",
+        "digital nomad"
+      ],
+      "verdict": "eligible",
+      "fit": 50,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
+    {
       "title": "Feltsense AI Engineer",
       "company": "Silver.dev",
       "location": "Worldwide",
@@ -531,7 +581,7 @@
       "location": "Worldwide",
       "url": "https://remoteOK.com/remote-jobs/remote-platform-and-integration-engineer-security-telemetry-redmimicry-1137465",
       "source": "RemoteOK",
-      "description": "Remote - Location: Mostly remote (within Germany), with monthly in-person collaboration at our Berlin officeHours: Part-time, 32 hours per weekContract: Fixed-termSalary: EUR 53,000 â 59,000 (at 32 hours per week)We are building a new capability that turns fragmented,... Please mention the word **THRIFTY** and tag RMjAuMTcxLjE0Ljkw when applying to show you read the job post completely (#RMjAuMTcxLjE0Ljkw). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Location: Mostly remote (within Germany), with monthly in-person collaboration at our Berlin officeHours: Part-time, 32 hours per weekContract: Fixed-termSalary: EUR 53,000 â 59,000 (at 32 hours per week)We are building a new capability that turns fragmented,... Please mention the word **THRIFTY** and tag RMTM0LjEzOC41NS45Ng== when applying to show you read the job post completely (#RMTM0LjEzOC41NS45Ng==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "tags": [
         "golang",
         "infosec",
@@ -746,7 +796,7 @@
       "location": "Worldwide",
       "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-kubernetes-control-plane-buoyant-1137713",
       "source": "RemoteOK",
-      "description": "San Francisco, United States - Senior Software Engineer â Kubernetes Control Plane (Go / Golang)REMOTE: United States, Canada, or South America ONLYExperience: 7+ yearsIMPORTANT â PLEASE READ BEFORE APPLYINGBuoyant is seeking experienced software engineers who have personally designed ... Please mention the word **FECILITOUS** and tag RMjAuMTcxLjE0Ljkw when applying to show you read the job post completely (#RMjAuMTcxLjE0Ljkw). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "San Francisco, United States - Senior Software Engineer â Kubernetes Control Plane (Go / Golang)REMOTE: United States, Canada, or South America ONLYExperience: 7+ yearsIMPORTANT â PLEASE READ BEFORE APPLYINGBuoyant is seeking experienced software engineers who have personally designed ... Please mention the word **FECILITOUS** and tag RMTM0LjEzOC41NS45Ng== when applying to show you read the job post completely (#RMTM0LjEzOC41NS45Ng==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "tags": [
         "golang",
         "dev",
@@ -967,6 +1017,22 @@
       ]
     },
     {
+      "title": "Devops Engineer (AWS)",
+      "company": "Particle41",
+      "location": "Argentina",
+      "url": "https://jobicy.com/jobs/161429-devops-engineer-aws",
+      "source": "Jobicy",
+      "description": "As a DevOps Engineer (AWS) at Particle41, you will play a crucial role in enhancing our software development and IT operations processes. The ideal candidate will have a strong background in both software development and IT operations, with a focus on automating and streamlining processes to achieve efficient and reliable software delivery for our customers.&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
+      "verdict": "review",
+      "fit": 56,
+      "reasons": [
+        "Argentina-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
       "title": "Platform Engineer",
       "company": "Defense Unicorns",
       "location": "USA",
@@ -994,6 +1060,38 @@
       "fit": 52,
       "reasons": [
         "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "DevOps Engineer (GCP)",
+      "company": "Particle41",
+      "location": "Mexico",
+      "url": "https://jobicy.com/jobs/161436-devops-engineer-gcp",
+      "source": "Jobicy",
+      "description": "As a DevOps Engineer (GCP) at Particle41, you will play a crucial role in enhancing our software development and IT operations processes. The ideal candidate will have a strong background in both software development and IT operations, with a focus on automating and streamlining processes to achieve efficient and reliable software delivery for our customers.&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
+      "verdict": "review",
+      "fit": 52,
+      "reasons": [
+        "Mexico-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "Devops Engineer (Azure)",
+      "company": "Particle41",
+      "location": "Mexico",
+      "url": "https://jobicy.com/jobs/161433-devops-engineer-azure",
+      "source": "Jobicy",
+      "description": "As a DevOps Engineer (Azure) at Particle41, you will play a crucial role in enhancing our software development and IT operations processes. The ideal candidate will have a strong background in both software development and IT operations, with a focus on automating and streamlining processes to achieve efficient and reliable software delivery for our customers.&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
+      "verdict": "review",
+      "fit": 52,
+      "reasons": [
+        "Mexico-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -1045,55 +1143,65 @@
       ]
     },
     {
-      "title": "DevOps & Security Engineer - Entertainment",
-      "company": "Truelogic",
-      "location": "Brazil",
-      "url": "https://jobicy.com/jobs/159724-devops-security-engineer-entertainment",
-      "source": "Jobicy",
-      "description": "About Truelogic At Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of all sizes, from innovative startups to industry leaders, helping them achieve their digital transformation goals. Our team of 600+ highly skilled tech professionals, based&hellip;",
+      "title": "Senior React Full-stack Developer",
+      "company": "Lemon.io",
+      "location": "LATAM, Europe, USA, Canada, APAC",
+      "url": "https://remotive.com/remote-jobs/software-development/senior-react-full-stack-developer-2091136",
+      "source": "Remotive",
+      "description": "Lemon.io helps companies in the US and Europe hire experienced engineers, from funded startups to teams like Klarna, Retool, and Pinterest. We’ve been doing this since 2015, and more than 1,500 companies have hired engineers through us. New roles for Senior React Full-stack Engineers come in all the time, and several are open right now. Two ways to work with clients Contract: most roles are contract-based. You join the client’s team and work as part of it. Direct hire: some clients hire engineers full-time, and we support you through the process. Because companies trust our vetting, applying t",
       "tags": [
-        "devops & infrastructure"
+        ".net",
+        "android",
+        "aws",
+        "azure",
+        "c",
+        "c#",
+        "c++",
+        "data science",
+        "fullstack",
+        "golang",
+        "ios",
+        "java",
+        "javascript",
+        "magento",
+        "node.js",
+        "php",
+        "python",
+        "react",
+        "react js",
+        "ruby/rails",
+        "scala",
+        "shopify",
+        "swift",
+        "ui/ux",
+        "wordpress",
+        "blockchain",
+        "ai/ml",
+        "automation",
+        "project management",
+        "react native",
+        "rust",
+        "unity",
+        "electron",
+        "spring",
+        "laravel",
+        "ethereum",
+        "graphic design",
+        "typescript",
+        "angular",
+        "gcp",
+        "firebase",
+        "data engineering",
+        "site reliability",
+        "symfony",
+        "next.js",
+        "flutter"
       ],
       "verdict": "review",
-      "fit": 52,
+      "fit": 50,
       "reasons": [
-        "Brazil-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Full Stack Engineer",
-      "company": "infisical",
-      "location": "Brazil, Canada, Europe, USA",
-      "url": "https://jobicy.com/jobs/159681-full-stack-engineer-8",
-      "source": "Jobicy",
-      "description": "Infisical is the open source security infrastructure platform that engineers use for secrets management, certificates, and privileged access management. We help developers and organizations securely manage billions of secrets every month including application configuration, database credentials, certificates, and more. We’ve raised ~$60M from Y Combinator, Google, and Elad Gil, and our customers include Hugging Face,&hellip;",
-      "tags": [
-        "software engineering"
-      ],
-      "verdict": "review",
-      "fit": 52,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "GPU Infrastructure Engineer",
-      "company": "Polargrid",
-      "location": "Canada",
-      "url": "https://himalayas.app/companies/polargrid/jobs/gpu-infrastructure-engineer?utm_source=api",
-      "source": "Himalayas",
-      "description": "About PolarGrid PolarGrid is an early-stage Canadian company that runs managed AI inference. A customer brings a model or a serving image. We run it on dedicated GPUs behind one endpoint, serve each request from the nearest site, and move traffic to the next nearest site when one fails. Our goal is to make AI inference fast, reliable, and secure for customers running production workloads. The Role This role is responsible for scaling PolarGrid's inference network from a handful of sites to a geographically distributed fleet of GPU clusters. The GPU Infrastructure Engineer will own how new site",
-      "tags": [
-        "gpu-infrastructure-engineer",
-        "infrastructure-engineer",
-        "cloud-infrastructure-engineer",
-        "systems-engineer",
-        "site-reliability-engineer"
-      ],
-      "verdict": "review",
-      "fit": 52,
-      "reasons": [
-        "Canada-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
     {
@@ -1176,6 +1284,22 @@
       ]
     },
     {
+      "title": "Software Engineer - Python - Container Images",
+      "company": "Canonical",
+      "location": "APAC, EMEA, LATAM, Canada, USA",
+      "url": "https://jobicy.com/jobs/150364-software-engineer-python-container-images",
+      "source": "Jobicy",
+      "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders&hellip;",
+      "tags": [
+        "software engineering"
+      ],
+      "verdict": "review",
+      "fit": 48,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
       "title": "Software Developer (Backend SaaS)",
       "company": "Canonical",
       "location": "LATAM, Canada, USA",
@@ -1192,22 +1316,6 @@
       ]
     },
     {
-      "title": "Technical Product Marketing Manager - Cybersecurity",
-      "company": "Canonical",
-      "location": "EMEA",
-      "url": "https://jobicy.com/jobs/159597-technical-product-marketing-manager-cybersecurity",
-      "source": "Jobicy",
-      "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders&hellip;",
-      "tags": [
-        "marketing & sales"
-      ],
-      "verdict": "review",
-      "fit": 48,
-      "reasons": [
-        "EMEA-tagged — verify it's open to Africa first"
-      ]
-    },
-    {
       "title": "Senior Backend Cloud Engineer",
       "company": "Halcyon",
       "location": "USA Only",
@@ -1219,6 +1327,40 @@
       "fit": 46,
       "reasons": [
         "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Senior DevOps Engineer / Cloud Infrastructure Engineer - Cybersecurity",
+      "company": "Truelogic",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/161545-senior-devops-engineer-cloud-infrastructure-engineer-cybersecurity",
+      "source": "Jobicy",
+      "description": "About Truelogic At Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of all sizes, from innovative startups to industry leaders, helping them achieve their digital transformation goals. Our team of 600+ highly skilled tech professionals, based&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
+      "verdict": "review",
+      "fit": 46,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Senior Platform Engineer",
+      "company": "Filigran",
+      "location": "France",
+      "url": "https://jobicy.com/jobs/161359-senior-platform-engineer-7",
+      "source": "Jobicy",
+      "description": "The Company Founded in 2022, Filigran is a global cybersecurity company on a mission to empower defense teams to be proactive through open-source solutions that uncover threats and drive action. Filigran stands out in the cybersecurity ecosystem through its open-source, AI-powered and threat-informed approach to Continuous Threat Exposure Management (CTEM). Our eXtended Threat Management&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
+      "verdict": "review",
+      "fit": 46,
+      "reasons": [
+        "France-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -1263,23 +1405,6 @@
       "url": "https://jobicy.com/jobs/159827-senior-salesforce-platform-engineer",
       "source": "Jobicy",
       "description": "Amplitude is the leading AI analytics platform, helping over 5,200 customers—including Atlassian, Burger King, NBCUniversal, and Square—build better products and digital experiences. With powerful AI Agents embedded across our platform, teams can analyze, test, and optimize user experiences faster than ever. Ranked #1 across multiple categories in G2’s Winter 2026 Report, Amplitude is the best-in-class&hellip;",
-      "tags": [
-        "software engineering"
-      ],
-      "verdict": "review",
-      "fit": 46,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Senior Full Stack Engineer",
-      "company": "infisical",
-      "location": "Brazil, Canada, Europe, USA",
-      "url": "https://jobicy.com/jobs/159679-senior-full-stack-engineer-10",
-      "source": "Jobicy",
-      "description": "Infisical is the open source security infrastructure platform that engineers use for secrets management, certificates, and privileged access management. We help developers and organizations securely manage billions of secrets every month including application configuration, database credentials, certificates, and more. We’ve raised ~$60M from Y Combinator, Google, and Elad Gil, and our customers include Hugging Face,&hellip;",
       "tags": [
         "software engineering"
       ],
@@ -1339,19 +1464,23 @@
       ]
     },
     {
-      "title": "Contracts Administrator",
-      "company": "Caylent",
-      "location": "Mexico",
-      "url": "https://jobicy.com/jobs/159731-contracts-administrator",
-      "source": "Jobicy",
-      "description": "Caylent is an AI-first cloud services company that helps organizations turn ambitious ideas into meaningful business impact. As an AWS Premier Tier Services Partner and a charter member of Anthropic’s Claude Partner Network, we combine deep expertise in AWS, artificial intelligence, and Anthropic’s Claude platform to help customers modernize their technology, build intelligent products, and&hellip;",
+      "title": "Ingeniero de Seguridad Cloud",
+      "company": "TECDATA ENGINEERING",
+      "location": "Spain",
+      "url": "https://himalayas.app/companies/tecdata-engineering/jobs/ingeniero-de-seguridad-cloud?utm_source=api",
+      "source": "Himalayas",
+      "description": "Buscamos un Ingeniero de Seguridad Cloud ≥ 5 años en seguridad TI, de los cuales ≥ 3 en seguridad cloud sobre AWS (IAM, SCPs, GuardDuty, Security Hub, KMS), en tareas de DevSecOps (integración de seguridad en pipelines), federación de identidades y proyectos de cumplimiento ENS e ISO 27001. CERTIFICACIONES : AWS Certified Security – Specialty y al menos una certificación de seguridad general (CISSP, CISM, CCSP o equivalente) Originally posted on Himalayas",
       "tags": [
-        "legal & compliance"
+        "cloud-security-engineer",
+        "security-engineer",
+        "cloud-engineer",
+        "devsecops-engineer",
+        "iam-engineer"
       ],
       "verdict": "review",
       "fit": 40,
       "reasons": [
-        "Mexico-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+        "Spain-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -1431,102 +1560,51 @@
       ]
     },
     {
-      "title": "Future Shaprs",
-      "company": "Shapr3D",
-      "location": "Budapest,",
-      "url": "https://remoteOK.com/remote-jobs/remote-future-shaprs-shapr3d-1136770",
-      "source": "RemoteOK",
-      "description": "Here at Shapr3D we donât just innovate. We create a new status quo in 3D design. To achieve this, weâre completely reimagining legacy computer-aided design (CAD) tools with an iconic, mobile-first product. Weâre backed by top European VCs Point9 Capital and Creandum. We're constantly looking for talented individuals to join our team, so even if our current postings haven't piqued your interest, don't hesitate to hit us up. We are where we are because of the extraordinary people who build our product, so we are always happy to talk to experts whose ambition matches our vision. \"By joining",
+      "title": "Public Sector Account Executive - Civilian",
+      "company": "Chainguard",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/161417-public-sector-account-executive-civilian",
+      "source": "Jobicy",
+      "description": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. Our customers include Fortune 500 enterprises and global industry leaders, including Anduril, Canva, Fortinet, Hewlett Packard Enterprise, OpenAI,&hellip;",
       "tags": [
-        "testing",
-        "education",
-        "customer support",
-        "finance",
-        "c",
-        "scheme",
-        "exec",
-        "medical",
-        "marketing",
-        "full time",
-        "design",
-        "infosec",
-        "music",
-        "digital nomad",
-        "technical",
-        "engineer",
-        "teaching",
-        "math",
-        "recruiter",
-        "sys admin",
-        "golang",
-        "microsoft",
-        "excel",
-        "sales",
-        "travel",
-        "ops",
-        "virtual assistant",
-        "supervisor",
-        "serverless",
-        "cloud",
-        "legal",
-        "senior",
-        "dev",
-        "mobile",
-        "hr",
-        "game dev",
-        "stats",
-        "part time",
-        "vfx"
+        "sales"
       ],
       "verdict": "review",
       "fit": 36,
       "reasons": [
-        "location unconfirmed — verify it's open to Africa"
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
-      "title": "Freelance Designer",
-      "company": "Control Shift Video",
-      "location": "Texas,",
-      "url": "https://remoteOK.com/remote-jobs/remote-freelance-designer-control-shift-video-1136213",
-      "source": "RemoteOK",
-      "description": "Job Description And Requirements Project-based | Remote | United States | Contract Pay based on freelancer's rate Control Shift Video is looking for a freelance designer to collaborate with our creative team on project-based work across video, motion graphics, web visuals, and brand content. Our projects span technology, healthcare, energy, consumer brands, nonprofits, and passion projects. What Youâll Do Design visual systems, frames, and assets for video and motion projects Support branding, layout, and visual storytelling needs Translate concepts into clean, purposeful designs Prepare fil",
+      "title": "Partner Sales Engineer - West",
+      "company": "Chainguard",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/161411-partner-sales-engineer-west",
+      "source": "Jobicy",
+      "description": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. Our customers include Fortune 500 enterprises and global industry leaders, including Anduril, Canva, Fortinet, Hewlett Packard Enterprise, OpenAI,&hellip;",
       "tags": [
-        "exec",
-        "design",
-        "architecture",
-        "recruiter",
-        "customer support",
-        "marketing",
-        "content writing",
-        "ops",
-        "golang",
-        "full time",
-        "digital nomad",
-        "dev",
-        "senior",
-        "medical",
-        "engineer",
-        "infosec",
-        "react",
-        "embedded",
-        "technical",
-        "finance",
-        "cloud",
-        "postgres",
-        "typescript",
-        "ruby",
-        "stats",
-        "accounting",
-        "designer",
-        "web dev",
-        "video",
-        "ads"
+        "sales"
       ],
       "verdict": "review",
       "fit": 36,
       "reasons": [
-        "location unconfirmed — verify it's open to Africa"
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "Manager, Customer Success Management - Public Sector",
+      "company": "Chainguard",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/161402-manager-customer-success-management-public-sector",
+      "source": "Jobicy",
+      "description": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. Our customers include Fortune 500 enterprises and global industry leaders, including Anduril, Canva, Fortinet, Hewlett Packard Enterprise, OpenAI,&hellip;",
+      "tags": [
+        "customer support & success"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -1706,38 +1784,6 @@
       ]
     },
     {
-      "title": "Safety Engineer - Free Tier Abuse",
-      "company": "Elevenlabs",
-      "location": "Ireland, Japan, Poland, UK, USA",
-      "url": "https://jobicy.com/jobs/154823-safety-engineer-free-tier-abuse",
-      "source": "Jobicy",
-      "description": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deutsche Telekom and Meta. Our investors are some of&hellip;",
-      "tags": [
-        "cybersecurity"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Forward Deployed Engineer",
-      "company": "Tailscale",
-      "location": "Canada",
-      "url": "https://jobicy.com/jobs/152680-forward-deployed-engineer-2",
-      "source": "Jobicy",
-      "description": "About Tailscale Tailscale is making safe connection effortless by delivering software that makes it easy to securely interconnect people and their devices, no matter where they are. From hobbyists to multinational corporations, teams of every size use Tailscale each day to protect their networks, share access to internal tools, and more. We're building a future&hellip;",
-      "tags": [
-        "technical support"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Canada-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
       "title": "Senior Forward Deployed Engineer",
       "company": "Caylent",
       "location": "Mexico",
@@ -1768,6 +1814,40 @@
       "fit": 34,
       "reasons": [
         "Mexico-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Contract | Senior SDET (MARVEL SNAP)",
+      "company": "Second Dinner",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/161535-contract-senior-sdet-marvel-snap",
+      "source": "Jobicy",
+      "description": "Who We Are Second Dinner is an award-winning independent game development studio that is here to make the most fun games in the world. Not super fun games. Not SUPER DUPER fun games. We mean the MOST fun games. In fact, our game MARVEL SNAP has earned multiple Mobile Game of the Year Awards (Game&hellip;",
+      "tags": [
+        "qa & testing"
+      ],
+      "verdict": "review",
+      "fit": 30,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Senior Forward Deployed Engineer (AI Agent) - UK",
+      "company": "Cresta",
+      "location": "UK",
+      "url": "https://jobicy.com/jobs/155100-senior-forward-deployed-engineer-ai-agent-uk",
+      "source": "Jobicy",
+      "description": "Cresta unlocks the true potential of the customer experience, turning every conversation into a competitive advantage. Cresta’s unified AI platform combines conversational AI agents, real-time human agent augmentation, and comprehensive conversation intelligence to drive revenue and efficiency gains across every channel. The world’s leading companies, including United Airlines, Cox Communications, and Marriott, use Cresta to&hellip;",
+      "tags": [
+        "software engineering"
+      ],
+      "verdict": "review",
+      "fit": 30,
+      "reasons": [
+        "Uk-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -1819,57 +1899,6 @@
       "fit": 30,
       "reasons": [
         "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Senior Quality Engineer",
-      "company": "StackAdapt",
-      "location": "Canada, USA",
-      "url": "https://jobicy.com/jobs/154871-senior-quality-engineer-3",
-      "source": "Jobicy",
-      "description": "StackAdapt is the leading technology company that empowers marketers to reach, engage, and convert audiences with precision. With 465 billion automated optimizations per second, the AI-powered StackAdapt Marketing Platform seamlessly connects brand and performance marketing to drive measurable results across the entire customer journey. The most forward-thinking marketers choose StackAdapt to orchestrate high-impact campaigns across&hellip;",
-      "tags": [
-        "qa & testing"
-      ],
-      "verdict": "review",
-      "fit": 30,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Senior Customer Success Manager",
-      "company": "NetBox Labs",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/159644-senior-customer-success-manager-22",
-      "source": "Jobicy",
-      "description": "About the Role As a Senior Customer Success Manager at NetBox Labs, you will own the long-term success and growth of a strategic portfolio of customers. Your primary responsibility is to ensure customers realize sustained value from NetBox Labs’ products and services, resulting in strong net revenue retention (NRR) and customer lifetime value (CLV). This&hellip;",
-      "tags": [
-        "customer support & success"
-      ],
-      "verdict": "review",
-      "fit": 30,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Mid/Senior AI LLM Engineer (Full Remote - Netherlands)",
-      "company": "EverAI",
-      "location": "Netherlands, Portugal",
-      "url": "https://jobicy.com/jobs/159586-mid-senior-ai-llm-engineer-full-remote-netherlands",
-      "source": "Jobicy",
-      "description": "Our Vision &amp; Products EverAI — Building the Future of AI Companionship One of the Top 15 Largest &amp; Fastest-Growing AI Companies in the World 50 Million Users in 2 years — Help Us Reach 100M first, 500M next At EverAI, we’re shaping what it means to connect with AI. With 50 million users&hellip;",
-      "tags": [
-        "software engineering"
-      ],
-      "verdict": "review",
-      "fit": 30,
-      "reasons": [
-        "Netherlands-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -2018,6 +2047,22 @@
       ]
     },
     {
+      "title": "SecOps Security Engineer (Staff-level, L6)",
+      "company": "Synthesia",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/152968-secops-security-engineer-staff-level-l6",
+      "source": "Jobicy",
+      "description": "Synthesia is the world’s leading AI video platform for business, used by over 90% of the Fortune 100. Founded in 2017, the company is headquartered in London, with offices and teams across Europe and the US. As AI continues to shape the way we live and work, Synthesia develops products to enhance visual communication and&hellip;",
+      "tags": [
+        "cybersecurity"
+      ],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Staff-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
       "title": "Director of IT & Automation - Appen",
       "company": "Appen",
       "location": "USA",
@@ -2106,54 +2151,6 @@
       "description": "1Password is growing. We’ve surpassed $500M in ARR and we’re continuing to accelerate, earning a spot on the Forbes Cloud 100 for four years in a row and teaming up with iconic partners like Oracle Red Bull Racing. About 1Password At 1Password, we’re building the foundation for a safe, productive digital future. Our mission is&hellip;",
       "tags": [
         "devops & infrastructure"
-      ],
-      "verdict": "blocked",
-      "fit": 0,
-      "reasons": [
-        "Staff-level — usually 5–10+ yrs, you have ~4"
-      ]
-    },
-    {
-      "title": "Director, Engineering (Platform)",
-      "company": "Juniper Square",
-      "location": "Canada, USA",
-      "url": "https://jobicy.com/jobs/159720-director-engineering-platform-2",
-      "source": "Jobicy",
-      "description": "About Juniper Square Private markets are one of the largest, most complex, and most underserved corners of global finance. Our mission at Juniper Square is to unlock their full potential. We’re the Operations Partner trusted by 2,300+ GPs, unifying technology, data, and fund administration services into a single platform that helps GPs move faster, make&hellip;",
-      "tags": [
-        "software engineering"
-      ],
-      "verdict": "blocked",
-      "fit": 0,
-      "reasons": [
-        "Director-level — usually 5–10+ yrs, you have ~4"
-      ]
-    },
-    {
-      "title": "Staff Software Engineer - Full Stack",
-      "company": "A Place For Mom",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/159672-staff-software-engineer-full-stack",
-      "source": "Jobicy",
-      "description": "The Position: A Place for Mom is building the next generation of intelligent, scalable platforms that connect families, providers, and advisors through AI-driven experiences. We are looking for a talented Staff Software Engineer – Full Stack to help build and scale the platform our B2B partners run their business on. Our team owns the agency&hellip;",
-      "tags": [
-        "software engineering"
-      ],
-      "verdict": "blocked",
-      "fit": 0,
-      "reasons": [
-        "Staff-level — usually 5–10+ yrs, you have ~4"
-      ]
-    },
-    {
-      "title": "Staff Design Engineer - Cloud Networking UX",
-      "company": "Canonical",
-      "location": "EMEA",
-      "url": "https://jobicy.com/jobs/159592-staff-design-engineer-cloud-networking-ux",
-      "source": "Jobicy",
-      "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders&hellip;",
-      "tags": [
-        "web, ui & ux design"
       ],
       "verdict": "blocked",
       "fit": 0,
