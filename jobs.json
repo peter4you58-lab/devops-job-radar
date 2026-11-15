@@ -1,49 +1,13 @@
 {
-  "generated": "2026-11-14 12:39 UTC",
-  "count": 111,
+  "generated": "2026-11-15 13:05 UTC",
+  "count": 109,
   "summary": {
-    "scanned": 111,
-    "eligible": 43,
-    "review": 49,
-    "blocked": 19
+    "scanned": 109,
+    "eligible": 42,
+    "review": 47,
+    "blocked": 20
   },
   "jobs": [
-    {
-      "title": "AI Developer",
-      "company": "Salvo Software",
-      "location": "Worldwide",
-      "url": "https://remoteOK.com/remote-jobs/remote-ai-developer-salvo-software-1137701",
-      "source": "RemoteOK",
-      "description": "Salvo Software is a global technology company specializing in custom software development and advanced engineering solutions. With distributed teams across the US, LATAM, and India, we partner with clients to build high-performance, scalable systems that solve complex technical challenges. Our culture values innovation, ownership, and engineering excellence. We're growing our AI department and are looking for a hands-on AI Developer to help build it. Role Overview We are looking for an AI Developer to join and strengthen our AI department. Your core work will be building and operating LLM-powe",
-      "tags": [
-        "dev",
-        "grafana",
-        "infosec",
-        "python",
-        "docker",
-        "technical",
-        "customer support",
-        "devops",
-        "c",
-        "c plus plus",
-        "cloud",
-        "git",
-        "admin",
-        "microsoft",
-        "ops",
-        "golang",
-        "engineer",
-        "apache",
-        "linux",
-        "backend",
-        "digital nomad"
-      ],
-      "verdict": "eligible",
-      "fit": 74,
-      "reasons": [
-        "remote — anywhere / global"
-      ]
-    },
     {
       "title": "Senior DevOps Engineer",
       "company": "Lemon.io",
@@ -305,6 +269,23 @@
       ]
     },
     {
+      "title": "Senior Platform Engineer",
+      "company": "Fleetio",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/155361-senior-platform-engineer-5",
+      "source": "Jobicy",
+      "description": "A little about us…Fleetio is a modern software platform that helps thousands of organizations worldwide manage their fleet operations. Transportation technology is a hot market, and we’re leading the charge with raving fans and new customers signing up every day. We raised $450M in our Series D funding round in March of 2025 and are&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
+      "verdict": "eligible",
+      "fit": 60,
+      "reasons": [
+        "remote — anywhere / global",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
       "title": "Senior Platform Engineer (Infrastructure)",
       "company": "Fleetio",
       "location": "USA",
@@ -354,20 +335,6 @@
       "reasons": [
         "remote — anywhere / global",
         "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Cloud Network Engineer",
-      "company": "BeyondTrust",
-      "location": "Anywhere in the World",
-      "url": "https://weworkremotely.com/remote-jobs/beyondtrust-cloud-network-engineer",
-      "source": "WeWorkRemotely",
-      "description": "Headquarters: Remote United States BeyondTrust is a place where you can bring your purpose to life through the work that you do, creating a safer world through our cybersecurity SaaS portfolio. Our culture of flexibility, trust, and continual learning means you will be recognized for your growth, and for the impact you make on our success. You will be surrounded by people who challenge, support, and inspire you to be the best version of yourself. The Role The Cloud Network Engineer extends BeyondTrust's on-premises networking fundamentals into AWS cloud networking, with a primary focus on arch",
-      "tags": [],
-      "verdict": "eligible",
-      "fit": 54,
-      "reasons": [
-        "remote — anywhere / global"
       ]
     },
     {
@@ -579,7 +546,7 @@
       "location": "Worldwide",
       "url": "https://remoteOK.com/remote-jobs/remote-platform-and-integration-engineer-security-telemetry-redmimicry-1137465",
       "source": "RemoteOK",
-      "description": "Remote - Location: Mostly remote (within Germany), with monthly in-person collaboration at our Berlin officeHours: Part-time, 32 hours per weekContract: Fixed-termSalary: EUR 53,000 â 59,000 (at 32 hours per week)We are building a new capability that turns fragmented,... Please mention the word **THRIFTY** and tag RMTcyLjIwMy45NS4xNzg= when applying to show you read the job post completely (#RMTcyLjIwMy45NS4xNzg=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Location: Mostly remote (within Germany), with monthly in-person collaboration at our Berlin officeHours: Part-time, 32 hours per weekContract: Fixed-termSalary: EUR 53,000 â 59,000 (at 32 hours per week)We are building a new capability that turns fragmented,... Please mention the word **THRIFTY** and tag RMTcyLjE3MS4xMDMuMTM0 when applying to show you read the job post completely (#RMTcyLjE3MS4xMDMuMTM0). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "tags": [
         "golang",
         "infosec",
@@ -780,7 +747,7 @@
       "location": "Worldwide",
       "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-kubernetes-control-plane-buoyant-1137713",
       "source": "RemoteOK",
-      "description": "San Francisco, United States - Senior Software Engineer â Kubernetes Control Plane (Go / Golang)REMOTE: United States, Canada, or South America ONLYExperience: 7+ yearsIMPORTANT â PLEASE READ BEFORE APPLYINGBuoyant is seeking experienced software engineers who have personally designed ... Please mention the word **FECILITOUS** and tag RMTcyLjIwMy45NS4xNzg= when applying to show you read the job post completely (#RMTcyLjIwMy45NS4xNzg=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "San Francisco, United States - Senior Software Engineer â Kubernetes Control Plane (Go / Golang)REMOTE: United States, Canada, or South America ONLYExperience: 7+ yearsIMPORTANT â PLEASE READ BEFORE APPLYINGBuoyant is seeking experienced software engineers who have personally designed ... Please mention the word **FECILITOUS** and tag RMTcyLjE3MS4xMDMuMTM0 when applying to show you read the job post completely (#RMTcyLjE3MS4xMDMuMTM0). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "tags": [
         "golang",
         "dev",
@@ -1448,23 +1415,6 @@
       ]
     },
     {
-      "title": "Senior Platform Engineer",
-      "company": "Filigran",
-      "location": "France",
-      "url": "https://jobicy.com/jobs/161359-senior-platform-engineer-7",
-      "source": "Jobicy",
-      "description": "The Company Founded in 2022, Filigran is a global cybersecurity company on a mission to empower defense teams to be proactive through open-source solutions that uncover threats and drive action. Filigran stands out in the cybersecurity ecosystem through its open-source, AI-powered and threat-informed approach to Continuous Threat Exposure Management (CTEM). Our eXtended Threat Management&hellip;",
-      "tags": [
-        "devops & infrastructure"
-      ],
-      "verdict": "review",
-      "fit": 46,
-      "reasons": [
-        "France-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
       "title": "Customer Experience Enablement Lead",
       "company": "GitLab",
       "location": "USA",
@@ -1614,6 +1564,22 @@
       ]
     },
     {
+      "title": "Business Analyst",
+      "company": "Makai Labs",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/162170-business-analyst-3",
+      "source": "Jobicy",
+      "description": "About Makai Makai uses best-in-class AI and data to solve real-world operational and strategic challenges at scale. Our Makai Automation Platform consists of a library of pre-built components and modules to facilitate enterprise automation via a unified human-machine teaming interface. Until now, people have had to learn and adapt to software. Makai creates solutions that&hellip;",
+      "tags": [
+        "product & operations"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
       "title": "Manager, Customer Success - Americas",
       "company": "NetBox Labs",
       "location": "LATAM, Canada, USA",
@@ -1686,38 +1652,6 @@
       "description": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. Our customers include Fortune 500 enterprises and global industry leaders, including Anduril, Canva, Fortinet, Hewlett Packard Enterprise, OpenAI,&hellip;",
       "tags": [
         "sales"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Partner Sales Engineer - West",
-      "company": "Chainguard",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/161411-partner-sales-engineer-west",
-      "source": "Jobicy",
-      "description": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. Our customers include Fortune 500 enterprises and global industry leaders, including Anduril, Canva, Fortinet, Hewlett Packard Enterprise, OpenAI,&hellip;",
-      "tags": [
-        "sales"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Manager, Customer Success Management - Public Sector",
-      "company": "Chainguard",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/161402-manager-customer-success-management-public-sector",
-      "source": "Jobicy",
-      "description": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. Our customers include Fortune 500 enterprises and global industry leaders, including Anduril, Canva, Fortinet, Hewlett Packard Enterprise, OpenAI,&hellip;",
-      "tags": [
-        "customer support & success"
       ],
       "verdict": "review",
       "fit": 36,
@@ -2054,6 +1988,22 @@
       "fit": 0,
       "reasons": [
         "Director-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
+      "title": "Principal GSI Partner Manager - Accenture (EMEA)",
+      "company": "Datadog",
+      "location": "UK",
+      "url": "https://jobicy.com/jobs/155382-principal-gsi-partner-manager-accenture-emea",
+      "source": "Jobicy",
+      "description": "We are looking for an experienced Partner Sales Manager to ignite partnerships by identifying and recruiting new partners for long-term success and nurture ongoing relationships with key strategic Global Systems Integrator partners. Our ultimate goal is building channels and alliances that drive new customer adoption and revenue. This is a great opportunity for you to&hellip;",
+      "tags": [
+        "business development"
+      ],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Principal-level — usually 5–10+ yrs, you have ~4"
       ]
     },
     {
