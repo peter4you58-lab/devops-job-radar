@@ -1,11 +1,11 @@
 {
-  "generated": "2026-11-15 13:05 UTC",
-  "count": 109,
+  "generated": "2026-11-16 14:12 UTC",
+  "count": 108,
   "summary": {
-    "scanned": 109,
-    "eligible": 42,
-    "review": 47,
-    "blocked": 20
+    "scanned": 108,
+    "eligible": 41,
+    "review": 46,
+    "blocked": 21
   },
   "jobs": [
     {
@@ -269,12 +269,12 @@
       ]
     },
     {
-      "title": "Senior Platform Engineer",
-      "company": "Fleetio",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/155361-senior-platform-engineer-5",
+      "title": "IT Department Lead - Remote, Worldwide",
+      "company": "Nethermind",
+      "location": "Anywhere",
+      "url": "https://jobicy.com/jobs/162315-it-department-lead-remote-worldwide",
       "source": "Jobicy",
-      "description": "A little about us…Fleetio is a modern software platform that helps thousands of organizations worldwide manage their fleet operations. Transportation technology is a hot market, and we’re leading the charge with raving fans and new customers signing up every day. We raised $450M in our Series D funding round in March of 2025 and are&hellip;",
+      "description": "About Nethermind: Nethermind builds and secures core Ethereum infrastructure. We develop the Nethermind execution client, contribute to network upgrades, and deliver protocol-level work across rollups, zero-knowledge systems, and cross-chain architecture. Our security team audits smart contracts, ZK circuits, and off-chain components, with formal verification capabilities for critical systems. We maintain deep expertise across the full&hellip;",
       "tags": [
         "devops & infrastructure"
       ],
@@ -286,10 +286,10 @@
       ]
     },
     {
-      "title": "Senior Platform Engineer (Infrastructure)",
+      "title": "Senior Platform Engineer",
       "company": "Fleetio",
       "location": "USA",
-      "url": "https://jobicy.com/jobs/161526-senior-platform-engineer-infrastructure",
+      "url": "https://jobicy.com/jobs/155361-senior-platform-engineer-5",
       "source": "Jobicy",
       "description": "A little about us…Fleetio is a modern software platform that helps thousands of organizations worldwide manage their fleet operations. Transportation technology is a hot market, and we’re leading the charge with raving fans and new customers signing up every day. We raised $450M in our Series D funding round in March of 2025 and are&hellip;",
       "tags": [
@@ -546,7 +546,7 @@
       "location": "Worldwide",
       "url": "https://remoteOK.com/remote-jobs/remote-platform-and-integration-engineer-security-telemetry-redmimicry-1137465",
       "source": "RemoteOK",
-      "description": "Remote - Location: Mostly remote (within Germany), with monthly in-person collaboration at our Berlin officeHours: Part-time, 32 hours per weekContract: Fixed-termSalary: EUR 53,000 â 59,000 (at 32 hours per week)We are building a new capability that turns fragmented,... Please mention the word **THRIFTY** and tag RMTcyLjE3MS4xMDMuMTM0 when applying to show you read the job post completely (#RMTcyLjE3MS4xMDMuMTM0). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Location: Mostly remote (within Germany), with monthly in-person collaboration at our Berlin officeHours: Part-time, 32 hours per weekContract: Fixed-termSalary: EUR 53,000 â 59,000 (at 32 hours per week)We are building a new capability that turns fragmented,... Please mention the word **THRIFTY** and tag RMy40Mi4xNTcuMTc= when applying to show you read the job post completely (#RMy40Mi4xNTcuMTc=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "tags": [
         "golang",
         "infosec",
@@ -747,7 +747,7 @@
       "location": "Worldwide",
       "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-kubernetes-control-plane-buoyant-1137713",
       "source": "RemoteOK",
-      "description": "San Francisco, United States - Senior Software Engineer â Kubernetes Control Plane (Go / Golang)REMOTE: United States, Canada, or South America ONLYExperience: 7+ yearsIMPORTANT â PLEASE READ BEFORE APPLYINGBuoyant is seeking experienced software engineers who have personally designed ... Please mention the word **FECILITOUS** and tag RMTcyLjE3MS4xMDMuMTM0 when applying to show you read the job post completely (#RMTcyLjE3MS4xMDMuMTM0). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "San Francisco, United States - Senior Software Engineer â Kubernetes Control Plane (Go / Golang)REMOTE: United States, Canada, or South America ONLYExperience: 7+ yearsIMPORTANT â PLEASE READ BEFORE APPLYINGBuoyant is seeking experienced software engineers who have personally designed ... Please mention the word **FECILITOUS** and tag RMy40Mi4xNTcuMTc= when applying to show you read the job post completely (#RMy40Mi4xNTcuMTc=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "tags": [
         "golang",
         "dev",
@@ -858,21 +858,6 @@
       ]
     },
     {
-      "title": "Senior Detection & Response Engineer",
-      "company": "Expel",
-      "location": "Anywhere in the World",
-      "url": "https://weworkremotely.com/remote-jobs/expel-senior-detection-response-engineer",
-      "source": "WeWorkRemotely",
-      "description": "Headquarters: Remote You're the detection engineer people turn to when they ask \"what does Microsoft actually see here?\" Not the marketing-slide answer, the real map. Which product emits which telemetry, any anticipated ingestion lags, what table or API it lands in, which license tier gates it, how long it survives before it ages out, and where the documentation quietly disagrees with reality. When a new technique drops, your first instinct is to ask which Microsoft signal would catch it, and whether customers have it switched on. You also know Microsoft never sits still. Hunting tables appear",
-      "tags": [],
-      "verdict": "eligible",
-      "fit": 44,
-      "reasons": [
-        "remote — anywhere / global",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
       "title": "Software Engineer Infrastructure",
       "company": "Sodalis, Inc.",
       "location": "Palo Alto",
@@ -951,22 +936,6 @@
       ]
     },
     {
-      "title": "Devops Engineer (AWS)",
-      "company": "Particle41",
-      "location": "Argentina",
-      "url": "https://jobicy.com/jobs/161429-devops-engineer-aws",
-      "source": "Jobicy",
-      "description": "As a DevOps Engineer (AWS) at Particle41, you will play a crucial role in enhancing our software development and IT operations processes. The ideal candidate will have a strong background in both software development and IT operations, with a focus on automating and streamlining processes to achieve efficient and reliable software delivery for our customers.&hellip;",
-      "tags": [
-        "devops & infrastructure"
-      ],
-      "verdict": "review",
-      "fit": 56,
-      "reasons": [
-        "Argentina-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
       "title": "Full-Stack Platform Engineer",
       "company": "Edgewater Federal Solutions, Inc.",
       "location": "USA Only",
@@ -994,54 +963,6 @@
       "fit": 52,
       "reasons": [
         "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "DevOps Engineer (m/f/d)",
-      "company": "ecosio",
-      "location": "Austria, Croatia, Germany, Hungary, Italy, Portugal, Spain, UK",
-      "url": "https://jobicy.com/jobs/161743-devops-engineer-m-f-d",
-      "source": "Jobicy",
-      "description": "Company Description ecosio is a fast-growing, innovative service company and a leading provider of B2B integration, specialising in electronic data interchange (EDI), Web EDI and e-invoicing. ecosio is part of Vertex, Inc., a leading global provider of indirect tax solutions listed on Nasdaq (VERX). Our brand slogan is Connections That Work as we believe strong&hellip;",
-      "tags": [
-        "devops & infrastructure"
-      ],
-      "verdict": "review",
-      "fit": 52,
-      "reasons": [
-        "Uk-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "DevOps Engineer (GCP)",
-      "company": "Particle41",
-      "location": "Mexico",
-      "url": "https://jobicy.com/jobs/161436-devops-engineer-gcp",
-      "source": "Jobicy",
-      "description": "As a DevOps Engineer (GCP) at Particle41, you will play a crucial role in enhancing our software development and IT operations processes. The ideal candidate will have a strong background in both software development and IT operations, with a focus on automating and streamlining processes to achieve efficient and reliable software delivery for our customers.&hellip;",
-      "tags": [
-        "devops & infrastructure"
-      ],
-      "verdict": "review",
-      "fit": 52,
-      "reasons": [
-        "Mexico-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Devops Engineer (Azure)",
-      "company": "Particle41",
-      "location": "Mexico",
-      "url": "https://jobicy.com/jobs/161433-devops-engineer-azure",
-      "source": "Jobicy",
-      "description": "As a DevOps Engineer (Azure) at Particle41, you will play a crucial role in enhancing our software development and IT operations processes. The ideal candidate will have a strong background in both software development and IT operations, with a focus on automating and streamlining processes to achieve efficient and reliable software delivery for our customers.&hellip;",
-      "tags": [
-        "devops & infrastructure"
-      ],
-      "verdict": "review",
-      "fit": 52,
-      "reasons": [
-        "Mexico-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -1316,22 +1237,6 @@
       ]
     },
     {
-      "title": "Software Engineer - Python - Container Images",
-      "company": "Canonical",
-      "location": "APAC, EMEA, LATAM, Canada, USA",
-      "url": "https://jobicy.com/jobs/150364-software-engineer-python-container-images",
-      "source": "Jobicy",
-      "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders&hellip;",
-      "tags": [
-        "software engineering"
-      ],
-      "verdict": "review",
-      "fit": 48,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
       "title": "Senior Backend Cloud Engineer",
       "company": "Halcyon",
       "location": "USA Only",
@@ -1343,6 +1248,23 @@
       "fit": 46,
       "reasons": [
         "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Senior DevOps Engineer",
+      "company": "Documo Inc.",
+      "location": "Anywhere",
+      "url": "https://jobicy.com/jobs/155494-senior-devops-engineer-9",
+      "source": "Jobicy",
+      "description": "Documo is on a mission to help businesses digitize and streamline their document workflows. As a fast-growing B2B SaaS company, our platform makes it easier to handle unstructured files like faxes and forms through tools like Intelligent Document Processing - turning messy paperwork into structured, usable data. We believe great products start with great people.&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
+      "verdict": "review",
+      "fit": 46,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -1415,6 +1337,23 @@
       ]
     },
     {
+      "title": "Senior Engagement Manager - Professional Services Sales, EMEA",
+      "company": "GitLab",
+      "location": "France, Germany, Ireland, Spain, UK",
+      "url": "https://jobicy.com/jobs/162411-senior-engagement-manager-professional-services-sales-emea",
+      "source": "Jobicy",
+      "description": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster. The same principles built into&hellip;",
+      "tags": [
+        "sales"
+      ],
+      "verdict": "review",
+      "fit": 42,
+      "reasons": [
+        "Uk-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
       "title": "Customer Experience Enablement Lead",
       "company": "GitLab",
       "location": "USA",
@@ -1429,6 +1368,22 @@
       "reasons": [
         "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
         "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Web Automation Test Engineer",
+      "company": "Caylent",
+      "location": "Brazil",
+      "url": "https://jobicy.com/jobs/162439-web-automation-test-engineer-2",
+      "source": "Jobicy",
+      "description": "Caylent is an AI-first cloud services company that helps organizations turn ambitious ideas into meaningful business impact. As an AWS Premier Tier Services Partner and a charter member of Anthropic’s Claude Partner Network, we combine deep expertise in AWS, artificial intelligence, and Anthropic’s Claude platform to help customers modernize their technology, build intelligent products, and&hellip;",
+      "tags": [
+        "qa & testing"
+      ],
+      "verdict": "review",
+      "fit": 40,
+      "reasons": [
+        "Brazil-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -1448,43 +1403,27 @@
       ]
     },
     {
-      "title": "Tech Lead Full-Stack Rails Engineer",
-      "company": "Mitre Media",
-      "location": "USA, Canada, USA timezones",
-      "url": "https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746",
+      "title": "Content Creator - YouTube",
+      "company": "Metics Media",
+      "location": "USA, Canada",
+      "url": "https://remotive.com/remote-jobs/marketing/content-creator-youtube-2091173",
       "source": "Remotive",
-      "description": "About Mitre Media Mitre Media is redefining FinTech with AI-driven tools that empower millions of investors. Our portfolio, including Dividend.com and MutualFunds.com, leverages LLMs to deliver novel data insights and visually rich user experiences. For over a decade, we’ve served individual investors, financial advisors, and top asset managers like BlackRock and Vanguard through our premium data, tools, and advertising solutions. Join our lean, entrepreneurial team to shape the future of AI-powered investing from your location ±3 hours from Eastern Time. Our users are deeply engaged, spending",
+      "description": "Important: Applications without an intro video will not be considered. Job Overview Create engaging YouTube tutorials about software, digital marketing, and AI tools that reach millions of people around the world every month through our YouTube channel, Metics Media. About us Metics Media is a small, fully remote team creating high-quality YouTube videos about software, digital marketing, and AI tools for an audience of over 700,000 subscribers. Our mission is simple: to make technology easy to understand and help people get the most out of the tools available to them. We partner with leading ",
       "tags": [
-        "api",
-        "css",
-        "docker",
-        "elasticsearch",
-        "fullstack",
-        "html",
-        "javascript",
-        "kubernetes",
-        "postgresql",
-        "react",
-        "ror",
-        "ruby/rails",
+        "ecommerce",
+        "shopify",
+        "video",
         "ai/ml",
-        "cad",
-        "advertising",
-        "redis",
-        "es6",
-        "web applications",
-        "mysql",
-        "nlp",
-        "fintech",
-        "micro services",
-        "github",
-        "system architecture"
+        "research",
+        "digital marketing",
+        "youtube",
+        "editing",
+        "video editing"
       ],
       "verdict": "review",
-      "fit": 38,
+      "fit": 36,
       "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -1561,6 +1500,22 @@
       "fit": 36,
       "reasons": [
         "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
+      "title": "Corporate Account Executive - Central",
+      "company": "Chainguard",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/155527-corporate-account-executive-central-2",
+      "source": "Jobicy",
+      "description": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. Our customers include Fortune 500 enterprises and global industry leaders, including Anduril, Canva, Fortinet, Hewlett Packard Enterprise, OpenAI,&hellip;",
+      "tags": [
+        "sales"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -1644,19 +1599,20 @@
       ]
     },
     {
-      "title": "Public Sector Account Executive - Civilian",
-      "company": "Chainguard",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/161417-public-sector-account-executive-civilian",
+      "title": "Senior Security Engineer",
+      "company": "Caylent",
+      "location": "Brazil",
+      "url": "https://jobicy.com/jobs/162434-senior-security-engineer-4",
       "source": "Jobicy",
-      "description": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. Our customers include Fortune 500 enterprises and global industry leaders, including Anduril, Canva, Fortinet, Hewlett Packard Enterprise, OpenAI,&hellip;",
+      "description": "Caylent is an AI-first cloud services company that helps organizations turn ambitious ideas into meaningful business impact. As an AWS Premier Tier Services Partner and a charter member of Anthropic’s Claude Partner Network, we combine deep expertise in AWS, artificial intelligence, and Anthropic’s Claude platform to help customers modernize their technology, build intelligent products, and&hellip;",
       "tags": [
-        "sales"
+        "cybersecurity"
       ],
       "verdict": "review",
-      "fit": 36,
+      "fit": 34,
       "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+        "Brazil-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
     {
@@ -1673,23 +1629,6 @@
       "fit": 34,
       "reasons": [
         "Mexico-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Lead Software Solutions Architect",
-      "company": "Particle41",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/161630-lead-software-solutions-architect",
-      "source": "Jobicy",
-      "description": "Lead Architect As a Lead Software and Cloud Architect at Particle41, you will drive the design and development of our cloud-native solutions. You will be asked to use your expertise in s, and AWS technologies to craft robust and scalable architectures that meet the evolving needs of our clients. Working closely with cross-functional teams, you&hellip;",
-      "tags": [
-        "software engineering"
-      ],
-      "verdict": "review",
-      "fit": 34,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -1724,6 +1663,40 @@
       "fit": 34,
       "reasons": [
         "Brazil-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Senior Software Engineer, Services",
+      "company": "Rush Street Interactive",
+      "location": "Canada",
+      "url": "https://jobicy.com/jobs/162522-senior-software-engineer-services",
+      "source": "Jobicy",
+      "description": "Rush Street Interactive (NYSE: RSI) is a market leader in online casino and sports betting, currently operating real-money gaming with our brands: BetRivers.com, PlaySugarHouse.com, and RushBet.co. We’re building bridges between online, social and land-based gaming businesses to create amazing, integrated experiences that keep players in the game. We are looking for a Senior Software Engineer,&hellip;",
+      "tags": [
+        "software engineering"
+      ],
+      "verdict": "review",
+      "fit": 30,
+      "reasons": [
+        "Canada-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Senior+ Backend Software Engineer - Asia",
+      "company": "Palmstreet",
+      "location": "China",
+      "url": "https://jobicy.com/jobs/153195-senior-backend-software-engineer-asia",
+      "source": "Jobicy",
+      "description": "About Palmstreet: Palmstreet is the #1 live shopping platform for rare plants, handmade crafts, &amp; unique goods. Founded in 2020 by Instagram and Apple veterans, Palmstreet began as a plant identification app and quickly evolved into a trailblazer in live shopping, beginning with plant sellers. Fueled by a passionate, plant-loving community, we rapidly expanded into&hellip;",
+      "tags": [
+        "software engineering"
+      ],
+      "verdict": "review",
+      "fit": 30,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -1826,23 +1799,6 @@
       "fit": 30,
       "reasons": [
         "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Senior Forward Deployed Engineer (AI Agent) - UK",
-      "company": "Cresta",
-      "location": "UK",
-      "url": "https://jobicy.com/jobs/155100-senior-forward-deployed-engineer-ai-agent-uk",
-      "source": "Jobicy",
-      "description": "Cresta unlocks the true potential of the customer experience, turning every conversation into a competitive advantage. Cresta’s unified AI platform combines conversational AI agents, real-time human agent augmentation, and comprehensive conversation intelligence to drive revenue and efficiency gains across every channel. The world’s leading companies, including United Airlines, Cox Communications, and Marriott, use Cresta to&hellip;",
-      "tags": [
-        "software engineering"
-      ],
-      "verdict": "review",
-      "fit": 30,
-      "reasons": [
-        "Uk-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -1984,6 +1940,38 @@
       "source": "WeWorkRemotely",
       "description": "Headquarters: Remote About Carrot: Carrot is the leading global fertility and family care platform, built on intelligent care orchestration: the right clinical guidance, at the right moment, in the context of each member’s life. More than a thousand multinational employers, health plans, and health systems trust Carrot to support millions of members across 195 countries – from pre-pregnancy through menopause and major life moments in between. Carrot's comprehensive clinical program delivers industry-leading cost savings for plan sponsors and award-winning experiences and improved outcomes for ",
       "tags": [],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Director-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
+      "title": "Senior Staff Site Reliability Engineer",
+      "company": "Ping Identity",
+      "location": "UK",
+      "url": "https://jobicy.com/jobs/162313-senior-staff-site-reliability-engineer",
+      "source": "Jobicy",
+      "description": "About Ping Identity: At Ping Identity, we believe in making digital experiences both secure and seamless for all users, without compromise. We call this digital freedom. And it's not just something we provide our customers. It's something that inspires our company. People don't come here to join a culture that's built on digital freedom. They&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Staff-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
+      "title": "Director of Platform Engineering [gn] – Data Intelligence Platform",
+      "company": "Actian",
+      "location": "France, Germany, Spain, UK, USA",
+      "url": "https://jobicy.com/jobs/162293-director-of-platform-engineering-gn-data-intelligence-platform-2",
+      "source": "Jobicy",
+      "description": "About Actian Actian is the company behind the Data Intelligence Platform — an enterprise solution that helps organisations discover, govern, and trust their data at scale. Our platform connects metadata, data lineage, data quality, and business context into a single knowledge graph, enabling enterprises to turn raw data into reliable decisions and providing the trusted&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
       "verdict": "blocked",
       "fit": 0,
       "reasons": [
@@ -2180,22 +2168,6 @@
       "fit": 0,
       "reasons": [
         "Director-level — usually 5–10+ yrs, you have ~4"
-      ]
-    },
-    {
-      "title": "SecOps Security Engineer (Staff-level, L6)",
-      "company": "Synthesia",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/152968-secops-security-engineer-staff-level-l6",
-      "source": "Jobicy",
-      "description": "Synthesia is the world’s leading AI video platform for business, used by over 90% of the Fortune 100. Founded in 2017, the company is headquartered in London, with offices and teams across Europe and the US. As AI continues to shape the way we live and work, Synthesia develops products to enhance visual communication and&hellip;",
-      "tags": [
-        "cybersecurity"
-      ],
-      "verdict": "blocked",
-      "fit": 0,
-      "reasons": [
-        "Staff-level — usually 5–10+ yrs, you have ~4"
       ]
     }
   ]
