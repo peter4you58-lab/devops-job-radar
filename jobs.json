@@ -1,11 +1,11 @@
 {
-  "generated": "2026-11-17 15:04 UTC",
-  "count": 114,
+  "generated": "2026-11-18 14:43 UTC",
+  "count": 111,
   "summary": {
-    "scanned": 114,
-    "eligible": 43,
-    "review": 51,
-    "blocked": 20
+    "scanned": 111,
+    "eligible": 44,
+    "review": 46,
+    "blocked": 21
   },
   "jobs": [
     {
@@ -301,6 +301,40 @@
       ]
     },
     {
+      "title": "Senior DevOps Engineer - Storage Platforms",
+      "company": "Five9",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/153466-senior-devops-engineer-storage-platforms",
+      "source": "Jobicy",
+      "description": "Join us in bringing joy to customer experience. Five9 is a leading provider of cloud contact center software, bringing the power of cloud innovation to customers worldwide. Living our values everyday results in our team-first culture and enables us to innovate, grow, and thrive while enjoying the journey together. We celebrate diversity and foster an&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
+      "verdict": "eligible",
+      "fit": 60,
+      "reasons": [
+        "remote — anywhere / global",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Senior MLOps Engineer",
+      "company": "Wellhub",
+      "location": "Brazil",
+      "url": "https://jobicy.com/jobs/163047-senior-mlops-engineer-2",
+      "source": "Jobicy",
+      "description": "Your wellbeing, our mission. Join a company shaping a healthier world. GET TO KNOW US At Wellhub we're revolutionizing workplace wellness. Our platform connects employees worldwide to the best partners for fitness, mindfulness, therapy, nutrition, and sleep—all in one simple subscription. Headquartered in NYC with team members in Europe, North America and South America, we’re&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
+      "verdict": "eligible",
+      "fit": 60,
+      "reasons": [
+        "remote — anywhere / global",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
       "title": "IT Department Lead - Remote, Worldwide",
       "company": "Nethermind",
       "location": "Anywhere",
@@ -578,7 +612,7 @@
       "location": "Worldwide",
       "url": "https://remoteOK.com/remote-jobs/remote-platform-and-integration-engineer-security-telemetry-redmimicry-1137465",
       "source": "RemoteOK",
-      "description": "Remote - Location: Mostly remote (within Germany), with monthly in-person collaboration at our Berlin officeHours: Part-time, 32 hours per weekContract: Fixed-termSalary: EUR 53,000 â 59,000 (at 32 hours per week)We are building a new capability that turns fragmented,... Please mention the word **THRIFTY** and tag RMy40Mi4xNTcuMTc0 when applying to show you read the job post completely (#RMy40Mi4xNTcuMTc0). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Location: Mostly remote (within Germany), with monthly in-person collaboration at our Berlin officeHours: Part-time, 32 hours per weekContract: Fixed-termSalary: EUR 53,000 â 59,000 (at 32 hours per week)We are building a new capability that turns fragmented,... Please mention the word **THRIFTY** and tag RNDAuNzYuMTkxLjE2Ng== when applying to show you read the job post completely (#RNDAuNzYuMTkxLjE2Ng==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "tags": [
         "golang",
         "infosec",
@@ -765,7 +799,7 @@
       "location": "Worldwide",
       "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-kubernetes-control-plane-buoyant-1137713",
       "source": "RemoteOK",
-      "description": "San Francisco, United States - Senior Software Engineer â Kubernetes Control Plane (Go / Golang)REMOTE: United States, Canada, or South America ONLYExperience: 7+ yearsIMPORTANT â PLEASE READ BEFORE APPLYINGBuoyant is seeking experienced software engineers who have personally designed ... Please mention the word **FECILITOUS** and tag RMy40Mi4xNTcuMTc0 when applying to show you read the job post completely (#RMy40Mi4xNTcuMTc0). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "San Francisco, United States - Senior Software Engineer â Kubernetes Control Plane (Go / Golang)REMOTE: United States, Canada, or South America ONLYExperience: 7+ yearsIMPORTANT â PLEASE READ BEFORE APPLYINGBuoyant is seeking experienced software engineers who have personally designed ... Please mention the word **FECILITOUS** and tag RNDAuNzYuMTkxLjE2Ng== when applying to show you read the job post completely (#RNDAuNzYuMTkxLjE2Ng==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "tags": [
         "golang",
         "dev",
@@ -852,21 +886,6 @@
       "url": "https://weworkremotely.com/remote-jobs/carrot-sr-it-systems-engineer",
       "source": "WeWorkRemotely",
       "description": "Headquarters: Remote About Carrot: Carrot is the leading global fertility and family care platform, built on intelligent care orchestration: the right clinical guidance, at the right moment, in the context of each member’s life. More than a thousand multinational employers, health plans, and health systems trust Carrot to support millions of members across 195 countries – from pre-pregnancy through menopause and major life moments in between. Carrot's comprehensive clinical program delivers industry-leading cost savings for plan sponsors and award-winning experiences and improved outcomes for ",
-      "tags": [],
-      "verdict": "eligible",
-      "fit": 44,
-      "reasons": [
-        "remote — anywhere / global",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Senior Security Engineer, Detection & Response",
-      "company": "Flexport",
-      "location": "Anywhere in the World",
-      "url": "https://weworkremotely.com/remote-jobs/flexport-senior-security-engineer-detection-response",
-      "source": "WeWorkRemotely",
-      "description": "Headquarters: U.S. Remote About Flexport:&nbsp; At Flexport, we believe global trade can move the human race forward. That’s why it’s our mission to make global commerce so easy there will be more of it. We’re shaping the future of a $10T industry with solutions powered by innovative technology and exceptional people. Today, companies of all sizes—from emerging brands to Fortune 500s—use Flexport technology to move more than $19B of merchandise across 112 countries a year.&nbsp; The recent global supply chain crisis has put Flexport center stage as we continue to play a pivotal role in how goo",
       "tags": [],
       "verdict": "eligible",
       "fit": 44,
@@ -1205,40 +1224,6 @@
       ]
     },
     {
-      "title": "Senior Platform Engineer",
-      "company": "Caylent",
-      "location": "Mexico",
-      "url": "https://jobicy.com/jobs/161624-senior-platform-engineer-8",
-      "source": "Jobicy",
-      "description": "Caylent is an AI-first cloud services company that helps organizations turn ambitious ideas into meaningful business impact. As an AWS Premier Tier Services Partner and a charter member of Anthropic’s Claude Partner Network, we combine deep expertise in AWS, artificial intelligence, and Anthropic’s Claude platform to help customers modernize their technology, build intelligent products, and&hellip;",
-      "tags": [
-        "software engineering"
-      ],
-      "verdict": "review",
-      "fit": 50,
-      "reasons": [
-        "Mexico-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Senior IT Engineer",
-      "company": "Caylent",
-      "location": "Mexico",
-      "url": "https://jobicy.com/jobs/161619-senior-it-engineer",
-      "source": "Jobicy",
-      "description": "Caylent is an AI-first cloud services company that helps organizations turn ambitious ideas into meaningful business impact. As an AWS Premier Tier Services Partner and a charter member of Anthropic’s Claude Partner Network, we combine deep expertise in AWS, artificial intelligence, and Anthropic’s Claude platform to help customers modernize their technology, build intelligent products, and&hellip;",
-      "tags": [
-        "devops & infrastructure"
-      ],
-      "verdict": "review",
-      "fit": 50,
-      "reasons": [
-        "Mexico-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
       "title": "Business Development Representative, Financial Services - UKI",
       "company": "GitLab",
       "location": "Ireland, UK",
@@ -1255,54 +1240,6 @@
       ]
     },
     {
-      "title": "Business Development Representative - West",
-      "company": "GitLab",
-      "location": "Canada, USA",
-      "url": "https://jobicy.com/jobs/161659-business-development-representative-west",
-      "source": "Jobicy",
-      "description": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster. The same principles built into&hellip;",
-      "tags": [
-        "business development"
-      ],
-      "verdict": "review",
-      "fit": 48,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Business Development Representative, SLED - West",
-      "company": "GitLab",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/161654-business-development-representative-sled-west",
-      "source": "Jobicy",
-      "description": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster. The same principles built into&hellip;",
-      "tags": [
-        "sales"
-      ],
-      "verdict": "review",
-      "fit": 48,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Business Development Representative, Financial Services",
-      "company": "GitLab",
-      "location": "Canada, USA",
-      "url": "https://jobicy.com/jobs/161647-business-development-representative-financial-services",
-      "source": "Jobicy",
-      "description": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster. The same principles built into&hellip;",
-      "tags": [
-        "business development"
-      ],
-      "verdict": "review",
-      "fit": 48,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
       "title": "Senior Backend Cloud Engineer",
       "company": "Halcyon",
       "location": "USA Only",
@@ -1314,6 +1251,57 @@
       "fit": 46,
       "reasons": [
         "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Senior SRE, Managed Gateways",
+      "company": "Kong Inc.",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/155629-senior-sre-managed-gateways",
+      "source": "Jobicy",
+      "description": "Are you ready to unlock intelligence? If you don’t think you meet all of the criteria below but are still interested in the job, please apply. Nobody checks every box - we’re looking for candidates that are particularly strong in a few areas, and have some interest and capabilities in others. Senior SRE, Managed Gateways&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
+      "verdict": "review",
+      "fit": 46,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Senior Fullstack Engineer",
+      "company": "Nebius",
+      "location": "Europe, Israel",
+      "url": "https://jobicy.com/jobs/162989-senior-fullstack-engineer-5",
+      "source": "Jobicy",
+      "description": "About Nebius: Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-house AI/ML infrastructure. Built by engineers, for engineers. From&hellip;",
+      "tags": [
+        "software engineering"
+      ],
+      "verdict": "review",
+      "fit": 46,
+      "reasons": [
+        "Europe-tagged — verify it's open to Africa first",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Senior Cloud Infrastructure Engineer",
+      "company": "Inato",
+      "location": "France",
+      "url": "https://jobicy.com/jobs/162982-senior-cloud-infrastructure-engineer-2",
+      "source": "Jobicy",
+      "description": "Who We Are Inato is a Tech for Good company striving to bring clinical research to each and every patient, regardless of who they are or where they live. To do this, we’ve built an AI-powered platform that changes how pharmaceutical companies and doctors around the world collaborate to bring medical breakthroughs to patients. Leading&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
+      "verdict": "review",
+      "fit": 46,
+      "reasons": [
+        "France-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -1352,60 +1340,6 @@
       ]
     },
     {
-      "title": "Senior DevOps Engineer",
-      "company": "Nearform",
-      "location": "UK",
-      "url": "https://jobicy.com/jobs/161653-senior-devops-engineer-13",
-      "source": "Jobicy",
-      "description": "About Nearform Nearform is an independent team of data &amp; AI experts, engineers, and designers who build intelligent digital solutions and capability at pace. We create AI-enabled solutions that enhance digital experiences, empower developers, and deliver measurable results. In these ways, we partner with ambitious enterprises to deliver enduring impact. Our deep expertise in solving&hellip;",
-      "tags": [
-        "devops & infrastructure"
-      ],
-      "verdict": "review",
-      "fit": 46,
-      "reasons": [
-        "Uk-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Lead DevOps Engineer",
-      "company": "Particle41",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/161625-lead-devops-engineer",
-      "source": "Jobicy",
-      "description": "Lead DevOps Engineer As a Lead DevOps Engineer at Particle41, you will own the DevOps strategy and the design, automation, and operation of the cloud infrastructure that powers our clients’ most complex digital projects. Working closely with cross-functional teams, you will champion DevOps culture and practices, set the standards other teams build on, and ensure&hellip;",
-      "tags": [
-        "devops & infrastructure"
-      ],
-      "verdict": "review",
-      "fit": 46,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Senior Backend Engineer (Platform Team)",
-      "company": "Twindo",
-      "location": "Anguilla, Antigua and Barbuda, Argentina, Aruba, Bahamas, Barbados, Belize, Bermuda, Bolivia, Bonaire, Sint Eustatius and Saba, Brazil, Canada, Cayman Islands, Chile, Colombia, Costa Rica, Cuba, Curaçao, Dominica, Dominican Republic, Ecuador, El Salvador, Falkland Islands (Malvinas), French Guiana, Greenland, Grenada, Guadeloupe, Guatemala, Guyana, Haiti, Honduras, Jamaica, Martinique, Mexico, Montserrat, Nicaragua, Panama, Paraguay, Peru, Puerto Rico, Saint Barthélemy, Saint Kitts and Nevis, Saint Lucia, Saint Martin (French part), Saint Pierre and Miquelon, Saint Vincent and the Grenadines, Sint Maarten (Dutch part), Suriname, Trinidad and Tobago, Turks and Caicos Islands, United States, United States Minor Outlying Islands, Uruguay, Venezuela, Virgin Islands, British, Virgin Islands, U.S.",
-      "url": "https://himalayas.app/companies/twindo/jobs/senior-backend-engineer-platform-team?utm_source=api",
-      "source": "Himalayas",
-      "description": "Twindo is at the forefront of revolutionizing the remodeling, architecture, and interior design industry through cutting-edge AI and computer vision technology. With our LiDAR-enabled iPhone or iPad scans, we capture precise 3D representations of homes in minutes, providing interactive models with accurate-to-the-inch measurements. Our proprietary process then turns these scans into highly detailed, editable, as-built files in industry-standard formats. Our technology was featured at Apple's keynote when the iPhone's LiDAR sensor was introduced, and we now model millions of square feet each mo",
-      "tags": [
-        "backend-engineer",
-        "platform-engineer",
-        "devops-engineer",
-        "software-engineer"
-      ],
-      "verdict": "review",
-      "fit": 46,
-      "reasons": [
-        "U.s.-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
       "title": "Senior Engagement Manager - Professional Services Sales, EMEA",
       "company": "GitLab",
       "location": "France, Germany, Ireland, Spain, UK",
@@ -1419,23 +1353,6 @@
       "fit": 42,
       "reasons": [
         "Uk-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Customer Experience Enablement Lead",
-      "company": "GitLab",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/161668-customer-experience-enablement-lead",
-      "source": "Jobicy",
-      "description": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster. The same principles built into&hellip;",
-      "tags": [
-        "education & e-learning"
-      ],
-      "verdict": "review",
-      "fit": 42,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -1612,57 +1529,99 @@
       ]
     },
     {
-      "title": "Future Shaprs",
-      "company": "Shapr3D",
-      "location": "Budapest,",
-      "url": "https://remoteOK.com/remote-jobs/remote-future-shaprs-shapr3d-1136770",
-      "source": "RemoteOK",
-      "description": "Here at Shapr3D we donât just innovate. We create a new status quo in 3D design. To achieve this, weâre completely reimagining legacy computer-aided design (CAD) tools with an iconic, mobile-first product. Weâre backed by top European VCs Point9 Capital and Creandum. We're constantly looking for talented individuals to join our team, so even if our current postings haven't piqued your interest, don't hesitate to hit us up. We are where we are because of the extraordinary people who build our product, so we are always happy to talk to experts whose ambition matches our vision. \"By joining",
+      "title": "Customer Success Manager",
+      "company": "NetBox Labs",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/163080-customer-success-manager-5",
+      "source": "Jobicy",
+      "description": "About the Role As a Customer Success Manager at NetBox Labs, you will own the success of a regional portfolio of customers. Your primary responsibility is to make sure customers adopt NetBox Labs’ products and see real value from them, which drives strong retention and healthy expansion. You will be the main point of contact&hellip;",
       "tags": [
-        "testing",
-        "education",
-        "customer support",
-        "finance",
-        "c",
-        "scheme",
-        "exec",
-        "medical",
-        "marketing",
-        "full time",
-        "design",
-        "infosec",
-        "music",
-        "digital nomad",
-        "technical",
-        "engineer",
-        "teaching",
-        "math",
-        "recruiter",
-        "sys admin",
-        "golang",
-        "microsoft",
-        "excel",
-        "sales",
-        "travel",
-        "ops",
-        "virtual assistant",
-        "supervisor",
-        "serverless",
-        "cloud",
-        "legal",
-        "senior",
-        "dev",
-        "mobile",
-        "hr",
-        "game dev",
-        "stats",
-        "part time",
-        "vfx"
+        "customer support & success"
       ],
       "verdict": "review",
       "fit": 36,
       "reasons": [
-        "location unconfirmed — verify it's open to Africa"
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "Software Engineer II - Poland",
+      "company": "Housecall Pro",
+      "location": "Poland",
+      "url": "https://jobicy.com/jobs/155678-software-engineer-ii-poland",
+      "source": "Jobicy",
+      "description": "Why Housecall Pro? Help us build solutions that build better lives. At Housecall Pro, we show up to work every day to make a difference for real people: the home service professionals that support America’s 100 million homes. We’re all about the Pro, and dedicate our days to helping them streamline operations, scale their businesses,&hellip;",
+      "tags": [
+        "software engineering"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "Poland-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "Agile Coach (FTC)",
+      "company": "TrustedHousesitters",
+      "location": "UK",
+      "url": "https://jobicy.com/jobs/153382-agile-coach-ftc",
+      "source": "Jobicy",
+      "description": "TrustedHousesitters is a fast growing, direct-to-consumer marketplace that is redefining pet care and travel. Here at TrustedHousesitters, we’re on a mission to make travel work better for pets, for their people, and for the global community of animal lovers who look after them. We’ve got big plans on becoming the world’s most-loved travel solution for&hellip;",
+      "tags": [
+        "project & program management"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "Uk-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "Growth Marketing Manager",
+      "company": "Maze",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/162999-growth-marketing-manager-7",
+      "source": "Jobicy",
+      "description": "Summary of the Role: Maze is a well-funded Series A startup using AI agents to fix vulnerability management for enterprise security teams. We're hiring a Growth Marketing Manager to own the campaigns that make Maze a name security teams know. It's a demand gen role at heart, but the job is bigger than running channels:&hellip;",
+      "tags": [
+        "marketing & sales"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "Software Engineer II (Frontend)",
+      "company": "Teamworks",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/162945-software-engineer-ii-frontend",
+      "source": "Jobicy",
+      "description": "AMS (Athlete Management System) is a core product in the Teamworks Performance suite, used by elite sports organizations and high-performance military programs as their single source of truth for physical performance data, medical records, and athlete readiness. We're investing seriously in modernizing the platform, and we're growing the team with a frontend engineer who can&hellip;",
+      "tags": [
+        "software engineering"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "Data Science Extern",
+      "company": "BetterHelp",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/162943-data-science-extern",
+      "source": "Jobicy",
+      "description": "Who are we and why should you join us? BetterHelp is on a mission to remove the traditional barriers to therapy and make mental health care more accessible to everyone. Founded in 2013, we are now the world’s largest online therapy service, providing affordable and convenient therapy across the globe. Our network of over 30,000&hellip;",
+      "tags": [
+        "data science & analytics"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -1778,24 +1737,6 @@
       ]
     },
     {
-      "title": "Product Manager - Cisco Partner Experience Platform",
-      "company": "Cisco",
-      "location": "United States",
-      "url": "https://himalayas.app/companies/cisco/jobs/product-manager-cisco-partner-experience-platform?utm_source=api",
-      "source": "Himalayas",
-      "description": "The application window is expected to close on: 12/17/2026 This role can be performed remotely from anywhere within the US. Meet the Team Come build the future of the Partner Experience Platform (PXP)! We are a high-energy team of innovators redefining how Cisco ’s global partners do business. By blending business strategy with innovative technology, we empower our partners to grow faster and operate more simply. We thrive on curiosity and teamwork, constantly evolving our approach to deliver data-driven digital experiences. Join us and make a tangible impact on Cisco ’s global ecosystem! Your",
-      "tags": [
-        "product-manager",
-        "technical-product-manager",
-        "platform-product-manager"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "United states-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
       "title": "Senior Security Engineer",
       "company": "Caylent",
       "location": "Brazil",
@@ -1809,40 +1750,6 @@
       "fit": 34,
       "reasons": [
         "Brazil-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Senior Revenue Forecasting & Operations Business Partner",
-      "company": "Caylent",
-      "location": "Mexico",
-      "url": "https://jobicy.com/jobs/161634-senior-revenue-forecasting-operations-business-partner",
-      "source": "Jobicy",
-      "description": "Caylent is an AI-first cloud services company that helps organizations turn ambitious ideas into meaningful business impact. As an AWS Premier Tier Services Partner and a charter member of Anthropic’s Claude Partner Network, we combine deep expertise in AWS, artificial intelligence, and Anthropic’s Claude platform to help customers modernize their technology, build intelligent products, and&hellip;",
-      "tags": [
-        "finance & accounting"
-      ],
-      "verdict": "review",
-      "fit": 34,
-      "reasons": [
-        "Mexico-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Senior QA Engineer",
-      "company": "Caylent",
-      "location": "Mexico",
-      "url": "https://jobicy.com/jobs/161629-senior-qa-engineer-4",
-      "source": "Jobicy",
-      "description": "Caylent is an AI-first cloud services company that helps organizations turn ambitious ideas into meaningful business impact. As an AWS Premier Tier Services Partner and a charter member of Anthropic’s Claude Partner Network, we combine deep expertise in AWS, artificial intelligence, and Anthropic’s Claude platform to help customers modernize their technology, build intelligent products, and&hellip;",
-      "tags": [
-        "qa & testing"
-      ],
-      "verdict": "review",
-      "fit": 34,
-      "reasons": [
-        "Mexico-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -1949,23 +1856,6 @@
       ]
     },
     {
-      "title": "Senior Software Engineer - Golang",
-      "company": "Nearform",
-      "location": "UK",
-      "url": "https://jobicy.com/jobs/161658-senior-software-engineer-golang-2",
-      "source": "Jobicy",
-      "description": "This is a permanent full-time remote opportunity for those based in the UK. About Nearform Nearform is an independent team of data &amp; AI experts, engineers, and designers who build intelligent digital solutions and capability at pace. We create AI-enabled solutions that enhance digital experiences, empower developers, and deliver measurable results. In these ways, we&hellip;",
-      "tags": [
-        "software engineering"
-      ],
-      "verdict": "review",
-      "fit": 30,
-      "reasons": [
-        "Uk-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
       "title": "Head of Engineering",
       "company": "Lemon.io",
       "location": "Worldwide",
@@ -1982,6 +1872,33 @@
       "fit": 0,
       "reasons": [
         "Head of-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
+      "title": "Engineering Manager Network Engineering",
+      "company": "PatientPoint",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-engineering-manager-network-engineering-patientpoint-1137797",
+      "source": "RemoteOK",
+      "description": "Join PatientPoint to be part of a dynamic team creating change in and around the doctorâs office. As a leading digital health company, we innovate to positively impact patient behaviors. Our purpose-driven approach offers an inspirational career opportunity where you can contribute to improving health outcomes for millions of patients nationwide. Location: Remote (Must reside in the United States within the Eastern or Central Time Zone) Travel Required: 2-4 Times a Year Job Summary As an Engineering Manager, Network Engineering, you will lead the team that designs and builds the network foun",
+      "tags": [
+        "exec",
+        "design",
+        "infosec",
+        "technical",
+        "dev",
+        "travel",
+        "devops",
+        "cloud",
+        "ops",
+        "medical",
+        "engineer",
+        "digital nomad"
+      ],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "work-authorization wall (must reside in)"
       ]
     },
     {
@@ -2121,6 +2038,38 @@
       "fit": 0,
       "reasons": [
         "Director-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
+      "title": "Principal Consultant (DevOps)",
+      "company": "Xebia",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/162995-principal-consultant-devops",
+      "source": "Jobicy",
+      "description": "Xebia is a pioneering Software Engineering and IT consultancy company, transforming and executing at the intersection of Domain and Technology to create digital leaders for our people, clients, partners, and communities. With over 20 years of experience, we help the world’s top 250 companies and category leaders overcome digital challenges, embrace innovation, adopt new technology,&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Principal-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
+      "title": "Principal Software Engineer, Infrastructure",
+      "company": "Reddit",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/162977-principal-software-engineer-infrastructure",
+      "source": "Jobicy",
+      "description": "Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Principal-level — usually 5–10+ yrs, you have ~4"
       ]
     },
     {
@@ -2274,38 +2223,6 @@
       "url": "https://jobicy.com/jobs/161676-tech-lead-python",
       "source": "Jobicy",
       "description": "Tech Lead (Perm, USA, Remote + Travel) This is a full-time, permanent opportunity for candidates based in the United States and authorized to work without sponsorship. Please note that visa sponsorship is not available for this role. This position also requires traveling to client sites within the U.S., with travel expenses covered by the company.&hellip;",
-      "tags": [
-        "software engineering"
-      ],
-      "verdict": "blocked",
-      "fit": 0,
-      "reasons": [
-        "work-authorization wall (without sponsorship)"
-      ]
-    },
-    {
-      "title": "Senior Software Engineer - React & Python",
-      "company": "Nearform",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/161667-senior-software-engineer-react-python",
-      "source": "Jobicy",
-      "description": "This is a full-time, permanent opportunity for candidates based in the United States and authorized to work without sponsorship. Please note that visa sponsorship is not available for this role. This position also requires traveling to client sites within the U.S., with travel expenses covered by the company. About Nearform Nearform is an independent team&hellip;",
-      "tags": [
-        "software engineering"
-      ],
-      "verdict": "blocked",
-      "fit": 0,
-      "reasons": [
-        "work-authorization wall (without sponsorship)"
-      ]
-    },
-    {
-      "title": "Senior Software Engineer - Python & AI",
-      "company": "Nearform",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/161663-senior-software-engineer-python-ai",
-      "source": "Jobicy",
-      "description": "This is a full-time, permanent opportunity for candidates based in the United States and authorized to work without sponsorship. Please note that visa sponsorship is not available for this role. This position also requires traveling to client sites within the U.S., with travel expenses covered by the company. About Nearform Nearform is an independent team&hellip;",
       "tags": [
         "software engineering"
       ],
