@@ -1,11 +1,11 @@
 {
-  "generated": "2026-11-19 14:51 UTC",
+  "generated": "2026-11-20 14:32 UTC",
   "count": 108,
   "summary": {
     "scanned": 108,
-    "eligible": 42,
-    "review": 49,
-    "blocked": 17
+    "eligible": 47,
+    "review": 45,
+    "blocked": 16
   },
   "jobs": [
     {
@@ -56,32 +56,52 @@
       ]
     },
     {
-      "title": "DESARROLLADOR FULL STACK",
-      "company": "Kruger NearShore LLC - Rekluti",
+      "title": "SEO Full Stack Engineer",
+      "company": "Treatwell",
       "location": "Worldwide",
-      "url": "https://remoteOK.com/remote-jobs/remote-desarrollador-full-stack-kruger-nearshore-llc-rekluti-1137062",
+      "url": "https://remoteOK.com/remote-jobs/remote-seo-full-stack-engineer-treatwell-1137805",
       "source": "RemoteOK",
-      "description": "Desarrollador/a Full Stack â Python / Angular / Go En Rekluti , consultora especializada en talento tecnolÃ³gico en LATAM, buscamos un/a Desarrollador/a Full Stack para integrarse a proyectos de alta complejidad y participar en el desarrollo de soluciones web escalables. Buscamos un perfil con sÃ³lida experiencia en Python, Angular y Go , capaz de desenvolverse de manera autÃ³noma, aportar en decisiones tÃ©cnicas y colaborar con equipos multidisciplinarios. ð¯ Principales responsabilidades DiseÃ±ar, desarrollar y mantener aplicaciones Full Stack, participando en frontend y backend. Desarro",
+      "description": "We're looking for a full-stack engineer to join our Product Engineering team, reporting to one of the Engineering Managers of the Marketplace area, with a dotted line to the Marketing SEO Manager, focused on supporting the Growth and Marketing area. This role will have a 60% focus on Front End, and 40% focus on Back End. You'll work on Treatwellâs Marketplace products and help Treatwell be discovered, understood, and chosen across 13 markets: SEO foundations, site performance, experimentation, analytics instrumentation, and the product surfaces that connect customer intent with booking, alon",
       "tags": [
         "full stack",
+        "react",
+        "rabbitmq",
         "front end",
-        "python",
+        "technical",
+        "customer support",
         "dev",
         "testing",
+        "marketing",
+        "design",
         "web dev",
-        "quality assurance",
+        "exec",
         "devops",
-        "c",
-        "cloud",
-        "nosql",
-        "git",
-        "flutter",
-        "angular",
-        "mobile",
-        "golang",
+        "finance",
+        "java",
+        "postgres",
+        "typescript",
+        "seo",
+        "senior",
+        "stats",
+        "engineer",
+        "recruiter",
         "backend",
         "digital nomad"
       ],
+      "verdict": "eligible",
+      "fit": 66,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
+    {
+      "title": "Application Security Engineer",
+      "company": "Dropbox",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/dropbox-application-security-engineer",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Remote - US: Select locations Role Description As part of the Product Security Engineering team, you’ll focus on reducing risk at scale by building the security infrastructure, automation, and tooling that empowers engineers to ship secure products with confidence. We work closely with engineering and product teams throughout the software development lifecycle (SDLC), embedding secure-by-default practices and delivering scalable solutions. Product Security Engineers create impact by implementing security tooling, writing custom security rules, and building frameworks that address",
+      "tags": [],
       "verdict": "eligible",
       "fit": 66,
       "reasons": [
@@ -259,23 +279,17 @@
       ]
     },
     {
-      "title": "Senior Cloud Infrastructure Engineer",
-      "company": "Optimal Growth Technologies",
-      "location": "South Africa",
-      "url": "https://himalayas.app/companies/optimal-growth-technologies/jobs/senior-cloud-infrastructure-engineer?utm_source=api",
-      "source": "Himalayas",
-      "description": "Job Description – Senior Cloud Infrastructure Engineer Location: Remote – Working EST (US Eastern Time Zone) Contract Duration: 12 Months (Dedicated, Full-Time Role) Experience: 15+ Years Role Purpose We are seeking a highly experienced and technically skilled Senior Cloud Infrastructure Engineer with extensive expertise in Microsoft Azure, enterprise infrastructure and Microsoft technologies. The successful candidate will be responsible for designing, implementing, managing and optimising complex cloud and hybrid infrastructure environments. This is a senior, hands-on technical role requiring",
-      "tags": [
-        "cloud-infrastructure-engineer",
-        "senior-cloud-infrastructure-engineer",
-        "azure-cloud-engineer",
-        "cloud-solutions-architect",
-        "infrastructure-engineer"
-      ],
+      "title": "Site Reliability Engineer, Sr. Site Reliability Engineer",
+      "company": "Prove",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/prove-site-reliability-engineer-sr-site-reliability-engineer",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: United States (Remote) About Prove&nbsp; As the world moves to a mobile-first economy, businesses need to modernize how they acquire, engage with and enable consumers. Prove’s phone-centric identity tokenization and passive cryptographic authentication solutions reduce friction, enhance security and privacy across all digital channels, and accelerate revenues while reducing operating expenses and fraud losses. Over 1,000 enterprise customers use Prove’s platform to process 20 billion customer requests annually across industries, including banking, lending, healthcare, gaming, cry",
+      "tags": [],
       "verdict": "eligible",
-      "fit": 62,
+      "fit": 60,
       "reasons": [
-        "explicitly open to Africa/Nigeria",
+        "remote — anywhere / global",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -357,41 +371,6 @@
       ],
       "verdict": "eligible",
       "fit": 60,
-      "reasons": [
-        "remote — anywhere / global",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "AWS Cloud Solutions Architect",
-      "company": "Cloudary SAS",
-      "location": "Worldwide",
-      "url": "https://remoteOK.com/remote-jobs/remote-aws-cloud-solutions-architect-cloudary-sas-1137606",
-      "source": "RemoteOK",
-      "description": "As a Senior AWS Cloud Solutions Architect , you will be the technical lead on our most complex engagements, from assessment and mobilization to large-scale migration and modernization. You will report to an Engineering Manager based in Europe and lead distributed teams of US- and Budapest-based engineers. You will also work closely with colleagues in our AI/ML and Application Development practices. What you'll be doing: Lead the technical delivery of complex, high-impact migration and modernization engagements, including AWS Migration Acceleration Program (MAP) assessments and mobilization. Le",
-      "tags": [
-        "architecture",
-        "design",
-        "ansible",
-        "infosec",
-        "docker",
-        "technical",
-        "dev",
-        "exec",
-        "serverless",
-        "cloud",
-        "postgres",
-        "sql",
-        "api",
-        "senior",
-        "ops",
-        "sales",
-        "golang",
-        "engineer",
-        "digital nomad"
-      ],
-      "verdict": "eligible",
-      "fit": 56,
       "reasons": [
         "remote — anywhere / global",
         "senior title — a stretch at ~4 yrs, but go for it"
@@ -606,13 +585,83 @@
       "location": "Worldwide",
       "url": "https://remoteOK.com/remote-jobs/remote-platform-and-integration-engineer-security-telemetry-redmimicry-1137465",
       "source": "RemoteOK",
-      "description": "Remote - Location: Mostly remote (within Germany), with monthly in-person collaboration at our Berlin officeHours: Part-time, 32 hours per weekContract: Fixed-termSalary: EUR 53,000 â 59,000 (at 32 hours per week)We are building a new capability that turns fragmented,... Please mention the word **THRIFTY** and tag RMy40MS4yMTAuMTM1 when applying to show you read the job post completely (#RMy40MS4yMTAuMTM1). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Location: Mostly remote (within Germany), with monthly in-person collaboration at our Berlin officeHours: Part-time, 32 hours per weekContract: Fixed-termSalary: EUR 53,000 â 59,000 (at 32 hours per week)We are building a new capability that turns fragmented,... Please mention the word **THRIFTY** and tag RNTIuMTU3LjMzLjE3MQ== when applying to show you read the job post completely (#RNTIuMTU3LjMzLjE3MQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "tags": [
         "golang",
         "infosec",
         "engineer",
         "part time"
       ],
+      "verdict": "eligible",
+      "fit": 50,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
+    {
+      "title": "PreSales Solutions Engineer",
+      "company": "Sumo Logic",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/sumo-logic-presales-solutions-engineer",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Remote US As a Sales Engineer , you will be the primary technical resource for our Account Executive team. You will share your product and technical expertise through presentations, product demonstrations, and technical evaluations (Proof Of Values). As the technical expert, you will work with clients to understand their requirements and pain points, then design the right solution for their business needs. During the sales cycle you will guide clients through trials and POVs, demonstrating Sumo Logic’s ability to meet and exceed their requirements and building a positive relation",
+      "tags": [],
+      "verdict": "eligible",
+      "fit": 50,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
+    {
+      "title": "Inside Solutions Engineer",
+      "company": "BeyondTrust",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/beyondtrust-inside-solutions-engineer",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Remote Germany BeyondTrust is a place where you can bring your purpose to life through the work that you do, creating a safer world through our cybersecurity SaaS portfolio. Our culture of flexibility, trust, and continual learning means you will be recognized for your growth, and for the impact you make on our success. You will be surrounded by people who challenge, support, and inspire you to be the best version of yourself. The Role As an Inside Solutions Engineer, you will collaborate with sales representatives and partners to showcase the value of BeyondTrust’s products, ser",
+      "tags": [],
+      "verdict": "eligible",
+      "fit": 50,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
+    {
+      "title": "Manager Security Engineer, Operations",
+      "company": "Fivetran",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/fivetran-manager-security-engineer-operations",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Remote, Massachusetts, United States, AMER From Fivetran’s founding until now, our mission has remained the same: to make access to data as simple and reliable as electricity. With Fivetran, customer data arrives in their warehouses, canonical and ready to query, with no engineering or maintenance required. We’re proud that more organizations continue to leverage our technology every day to become truly data-driven. About Us Fivetran and dbt Labs are bringing together two industry-leading companies with a shared mission: helping organizations unlock the full value of their data. ",
+      "tags": [],
+      "verdict": "eligible",
+      "fit": 50,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
+    {
+      "title": "Forward Deployed Engineer (SDEV)",
+      "company": "PagerDuty",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/pagerduty-forward-deployed-engineer-sdev",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Remote (USA - New York City, NY) PagerDuty, Inc. (NYSE: PD) is the global leader in AI-first digital operations. By automatically detecting, diagnosing, and remediating issues, the PagerDuty Platform orchestrates AI agents and automated workflows with context from over 750 integrations. Trusted by approximately two-thirds of the Fortune 100 and nearly half of the Fortune 500, PagerDuty is the industry standard for organizations scaling resilient, autonomous operations. Notable customers include Chipotle, Cloudflare, Docusign, Fox, Nvidia, Salesforce, Spotify, Zoom and more. We ar",
+      "tags": [],
+      "verdict": "eligible",
+      "fit": 50,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
+    {
+      "title": "Compliance Analyst",
+      "company": "BeyondTrust",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/beyondtrust-compliance-analyst",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Remote Canada BeyondTrust is a place where you can bring your purpose to life through the work that you do, creating a safer world through our cybersecurity SaaS portfolio. Our culture of flexibility, trust, and continual learning means you will be recognized for your growth, and for the impact you make on our success. You will be surrounded by people who challenge, support, and inspire you to be the best version of yourself. The Role This is a contract role with the BeyondTrust Trust &amp; Assurance team for 3 months for a full time Compliance Analyst role. As a Compliance Analy",
+      "tags": [],
       "verdict": "eligible",
       "fit": 50,
       "reasons": [
@@ -732,20 +781,6 @@
       ]
     },
     {
-      "title": "Enterprise Account Manager, SLED",
-      "company": "BeyondTrust",
-      "location": "Anywhere in the World",
-      "url": "https://weworkremotely.com/remote-jobs/beyondtrust-enterprise-account-manager-sled-1",
-      "source": "WeWorkRemotely",
-      "description": "Headquarters: Remote Chicago, IL | Remote Detroit, MI | Remote Columbus, OH | Remote Indianapolis, IN BeyondTrust is a place where you can bring your purpose to life through the work that you do, creating a safer world through our cybersecurity SaaS portfolio. Our culture of flexibility, trust, and continual learning means you will be recognized for your growth, and for the impact you make on our success. You will be surrounded by people who challenge, support, and inspire you to be the best version of yourself. The Role Identify, generate, qualify, and close new business for customers and pro",
-      "tags": [],
-      "verdict": "eligible",
-      "fit": 50,
-      "reasons": [
-        "remote — anywhere / global"
-      ]
-    },
-    {
       "title": "Engineering Manager, Platform Security",
       "company": "Discord",
       "location": "Anywhere in the World",
@@ -760,26 +795,12 @@
       ]
     },
     {
-      "title": "Channel Account Manager",
-      "company": "Ping Identity",
-      "location": "Anywhere in the World",
-      "url": "https://weworkremotely.com/remote-jobs/ping-identity-channel-account-manager",
-      "source": "WeWorkRemotely",
-      "description": "Headquarters: USA - Remote About Ping Identity:&nbsp; At Ping Identity, we believe in making digital experiences both secure and seamless for all users, without compromise. We call this digital freedom. And it's not just something we provide our customers. It's something that inspires our company. People don't come here to join a culture that's built on digital freedom. They come to cultivate it.&nbsp; Our intelligent, cloud identity platform lets people shop, work, bank, and interact wherever and however they want. Without friction. Without fear.&nbsp; While protecting digital identities is a",
-      "tags": [],
-      "verdict": "eligible",
-      "fit": 50,
-      "reasons": [
-        "remote — anywhere / global"
-      ]
-    },
-    {
       "title": "Senior Software Engineer â Kubernetes Control Plane",
       "company": "Buoyant",
       "location": "Worldwide",
       "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-kubernetes-control-plane-buoyant-1137713",
       "source": "RemoteOK",
-      "description": "San Francisco, United States - Senior Software Engineer â Kubernetes Control Plane (Go / Golang)REMOTE: United States, Canada, or South America ONLYExperience: 7+ yearsIMPORTANT â PLEASE READ BEFORE APPLYINGBuoyant is seeking experienced software engineers who have personally designed ... Please mention the word **FECILITOUS** and tag RMy40MS4yMTAuMTM1 when applying to show you read the job post completely (#RMy40MS4yMTAuMTM1). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "San Francisco, United States - Senior Software Engineer â Kubernetes Control Plane (Go / Golang)REMOTE: United States, Canada, or South America ONLYExperience: 7+ yearsIMPORTANT â PLEASE READ BEFORE APPLYINGBuoyant is seeking experienced software engineers who have personally designed ... Please mention the word **FECILITOUS** and tag RNTIuMTU3LjMzLjE3MQ== when applying to show you read the job post completely (#RNTIuMTU3LjMzLjE3MQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "tags": [
         "golang",
         "dev",
@@ -831,27 +852,43 @@
       ]
     },
     {
-      "title": "Oracle Fusion Cloud Lead â Logistics & Supply Chain Management",
-      "company": "Tessera Labs",
-      "location": "Worldwide",
-      "url": "https://remoteOK.com/remote-jobs/remote-oracle-fusion-cloud-lead-logistics-supply-chain-management-tessera-labs-1137155",
-      "source": "RemoteOK",
-      "description": "Oracle Fusion Cloud Lead â Logistics &amp; Supply Chain Management Greenfield Oracle Fusion Implementation Company Tessera Labs AI Role Type Senior consulting engagement â full-time or contract, workstream-critical role Location Nearshore, based in Mexico or Brazil â remote-based delivery model; excellent business English required for direct engagement with client stakeholders and leadership Reports To Program Director / Engagement Lead, Tessera Labs AI About the Role Tessera Labs AI is a technology product firm delivering next-generation, AI-accelerated enterprise transformation program",
-      "tags": [
-        "design",
-        "sys admin",
-        "consulting",
-        "testing",
-        "exec",
-        "cloud",
-        "senior",
-        "ops",
-        "engineer",
-        "ecommerce",
-        "shopify",
-        "full time",
-        "digital nomad"
-      ],
+      "title": "Senior Platform Security Engineer",
+      "company": "Discord",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/discord-senior-platform-security-engineer",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Remote (California, Washington, and Oregon Only) Discord has a highly engaged community of millions of daily active users who use the platform for many different reasons, but there’s one thing that nearly everyone does: play video games. Discord plays a uniquely important role in the future of gaming, and we are focused on making it easier and more fun for people to hang out before, during, and after playing games. More broadly, Discord is about empowering people to find belonging in all kinds of communities, and those people trust us to keep their communications safe. Our Platfo",
+      "tags": [],
+      "verdict": "eligible",
+      "fit": 44,
+      "reasons": [
+        "remote — anywhere / global",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Federal Enterprise Solution Architect",
+      "company": "Collibra",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/collibra-federal-enterprise-solution-architect",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Remote, USA Joining Collibra’s Public Sector team At Collibra Public Sector, our Professional Services team relies on Federal Solution Architects to deliver on customer expectations for the services we sell, working directly with customer key projects stakeholders throughout the entire customer journey. Ensuring growth, adoption and renewal, Federal Solution Architects act as customer champions, ensuring customers are onboarded and realizing value rapidly. Federal Enterprise Solution Architects at Collibra Public Sector are responsible for Supporting federal customer engagements ",
+      "tags": [],
+      "verdict": "eligible",
+      "fit": 44,
+      "reasons": [
+        "remote — anywhere / global",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Senior Manager, Platform Security",
+      "company": "Gemini",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/gemini-senior-manager-platform-security",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: New York, New York; Miami, Florida; Remote (USA) About the Company Gemini is a global crypto and Web3 platform founded by Cameron and Tyler Winklevoss in 2014, offering a wide range of simple, reliable, and secure crypto products and services to individuals and institutions in over 70 countries. Our mission is to unlock the next era of financial, creative, and personal freedom by providing trusted access to the decentralized future. We envision a world where crypto reshapes the global financial system, internet, and money to create greater choice, independence, and opportunity fo",
+      "tags": [],
       "verdict": "eligible",
       "fit": 44,
       "reasons": [
@@ -934,6 +971,22 @@
       "fit": 56,
       "reasons": [
         "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
+      "title": "Infrastructure Engineer",
+      "company": "Bayesian Health",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/153599-infrastructure-engineer-3",
+      "source": "Jobicy",
+      "description": "In Brief We’re a rapidly growing startup on a mission to make healthcare proactive by empowering physicians, nurses, and care team members with real-time data to save lives. You will build and maintain the infrastructure for the Bayesian platform and develop CI/CD to enable other team members such as software engineers, data scientists, etc. to&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
+      "verdict": "review",
+      "fit": 56,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -1220,6 +1273,22 @@
       ]
     },
     {
+      "title": "Backend Engineer (Ruby), Plan: Spec-Driven Development",
+      "company": "GitLab",
+      "location": "UK",
+      "url": "https://jobicy.com/jobs/156080-backend-engineer-ruby-plan-spec-driven-development",
+      "source": "Jobicy",
+      "description": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster. The same principles built into&hellip;",
+      "tags": [
+        "software engineering"
+      ],
+      "verdict": "review",
+      "fit": 48,
+      "reasons": [
+        "Uk-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
       "title": "Business Development Representative, Financial Services - UKI",
       "company": "GitLab",
       "location": "Ireland, UK",
@@ -1336,44 +1405,6 @@
       ]
     },
     {
-      "title": "Senior Systems Engineer",
-      "company": "Fueled",
-      "location": "APAC",
-      "url": "https://jobicy.com/jobs/155236-senior-systems-engineer-2",
-      "source": "Jobicy",
-      "description": "Location: Remote — South Asia (Open to applicants located anywhere in South Asia, with a preference for those based in IST or PKT time zones) Fueled is a leading digital strategy, design, and engineering agency. We are a 300+ person team that has designed and built hundreds of digital products and experiences for brands like&hellip;",
-      "tags": [
-        "devops & infrastructure"
-      ],
-      "verdict": "review",
-      "fit": 46,
-      "reasons": [
-        "APAC-tagged — verify it's open to Africa first",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Lead Software Engineer – Platform Engineering, Distributed Systems & Resiliency",
-      "company": "JPM Unternehmensgruppe",
-      "location": "India",
-      "url": "https://himalayas.app/companies/jpm-unternehmensgruppe/jobs/lead-software-engineer-platform-engineering-distributed-systems-resiliency?utm_source=api",
-      "source": "Himalayas",
-      "description": "Build the engineering foundations that thousands of developers rely on every day. Shape a modern platform with strong automation, resilience, and measurable reliability, leveraging your expertise in infrastructure and distributed systems. As a Lead Software Engineer at JPMorganChase within the Chief Technology Office team, you will design, build, and operate enterprise Source Code Management services, such as GitLab. You will create secure, scalable platform capabilities that reduce manual effort through automation and self-service. You will own service health end-to-end, from architecture and",
-      "tags": [
-        "software-engineer",
-        "platform-engineer",
-        "cloud-engineer",
-        "site-reliability-engineer",
-        "distributed-systems-engineer"
-      ],
-      "verdict": "review",
-      "fit": 46,
-      "reasons": [
-        "location unconfirmed — verify it's open to Africa",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
       "title": "Senior Engagement Manager - Professional Services Sales, EMEA",
       "company": "GitLab",
       "location": "France, Germany, Ireland, Spain, UK",
@@ -1404,22 +1435,6 @@
       "fit": 40,
       "reasons": [
         "Brazil-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Founding Sales Engineer",
-      "company": "Tracebit",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/161912-founding-sales-engineer",
-      "source": "Jobicy",
-      "description": "Founding Sales Engineer (NY, NY or US Remote) Why we're hiring Tracebit is helping some of the world's best security teams at Snyk, Docker, Riot Games and many more to achieve an 'assume breach' strategy at scale. Tracebit detects intrusions in critical environments using canaries - decoy assets deployed to deceive attackers. We're at a&hellip;",
-      "tags": [
-        "sales"
-      ],
-      "verdict": "review",
-      "fit": 40,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -1563,6 +1578,38 @@
       ]
     },
     {
+      "title": "Sales Engineer - Los Angeles",
+      "company": "Harness",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/156006-sales-engineer-los-angeles",
+      "source": "Jobicy",
+      "description": "Harness is the AI Software Delivery Platform company, led by technologist and entrepreneur Jyoti Bansal (founder of AppDynamics, acquired by Cisco for $3.7B). Harness has raised approximately $570M in funding and is valued at $5.5B, backed by leading investors including Goldman Sachs, Menlo Ventures, IVP, Unusual Ventures, Citi Ventures, and more. As AI accelerates code&hellip;",
+      "tags": [
+        "sales"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "Sales Engineer - Denver",
+      "company": "Harness",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/156004-sales-engineer-denver",
+      "source": "Jobicy",
+      "description": "Harness is the AI Software Delivery Platform company, led by technologist and entrepreneur Jyoti Bansal (founder of AppDynamics, acquired by Cisco for $3.7B). Harness has raised approximately $570M in funding and is valued at $5.5B, backed by leading investors including Goldman Sachs, Menlo Ventures, IVP, Unusual Ventures, Citi Ventures, and more. As AI accelerates code&hellip;",
+      "tags": [
+        "sales"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
       "title": "Software Engineer - Agent Team",
       "company": "Automox",
       "location": "USA",
@@ -1624,22 +1671,6 @@
       "fit": 36,
       "reasons": [
         "Poland-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Agile Coach (FTC)",
-      "company": "TrustedHousesitters",
-      "location": "UK",
-      "url": "https://jobicy.com/jobs/153382-agile-coach-ftc",
-      "source": "Jobicy",
-      "description": "TrustedHousesitters is a fast growing, direct-to-consumer marketplace that is redefining pet care and travel. Here at TrustedHousesitters, we’re on a mission to make travel work better for pets, for their people, and for the global community of animal lovers who look after them. We’ve got big plans on becoming the world’s most-loved travel solution for&hellip;",
-      "tags": [
-        "project & program management"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Uk-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -1755,38 +1786,6 @@
       ]
     },
     {
-      "title": "Forward Deployed Engineer",
-      "company": "Kong Inc.",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/161898-forward-deployed-engineer-11",
-      "source": "Jobicy",
-      "description": "Are you ready to unlock intelligence? If you don’t think you meet all of the criteria below but are still interested in the job, please apply. Nobody checks every box - we’re looking for candidates that are particularly strong in a few areas, and have some interest and capabilities in others. About the Role: We&hellip;",
-      "tags": [
-        "software engineering"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Enterprise Account Executive - Northeast",
-      "company": "Kong Inc.",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/161891-enterprise-account-executive-northeast-2",
-      "source": "Jobicy",
-      "description": "Are you ready to unlock intelligence? If you don’t think you meet all of the criteria below but are still interested in the job, please apply. Nobody checks every box - we’re looking for candidates that are particularly strong in a few areas, and have some interest and capabilities in others. The Mission: We are&hellip;",
-      "tags": [
-        "sales"
-      ],
-      "verdict": "review",
-      "fit": 36,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
       "title": "Senior Security Engineer",
       "company": "Caylent",
       "location": "Brazil",
@@ -1852,59 +1851,6 @@
       "reasons": [
         "Uk-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
         "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Software Engineer, Systems Architecture",
-      "company": "Valinor Enterprises, Inc.",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/161726-software-engineer-systems-architecture",
-      "source": "Jobicy",
-      "description": "Valinor is a new type of defense and government tech company focused on solving the problems others don't. Our unique model of centralized go-to-market and decentralized engineering allows us to move with unparalleled efficiency to identify unmet needs, build right-sized solutions, and get products where they matter most - in the hands of users. Unlike&hellip;",
-      "tags": [
-        "software engineering"
-      ],
-      "verdict": "review",
-      "fit": 30,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Senior Forward Deployed Engineer (AI Agent)",
-      "company": "Cresta",
-      "location": "Australia",
-      "url": "https://jobicy.com/jobs/155182-senior-forward-deployed-engineer-ai-agent",
-      "source": "Jobicy",
-      "description": "Cresta unlocks the true potential of the customer experience, turning every conversation into a competitive advantage. Cresta’s unified AI platform combines conversational AI agents, real-time human agent augmentation, and comprehensive conversation intelligence to drive revenue and efficiency gains across every channel. The world’s leading companies, including United Airlines, Cox Communications, and Marriott, use Cresta to&hellip;",
-      "tags": [
-        "software engineering"
-      ],
-      "verdict": "review",
-      "fit": 30,
-      "reasons": [
-        "Australia-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Head of Engineering",
-      "company": "Lemon.io",
-      "location": "Worldwide",
-      "url": "https://remotive.com/remote-jobs/software-development/head-of-engineering-2091134",
-      "source": "Remotive",
-      "description": "About Lemon.io Lemon.io is a profitable, growing talent marketplace that connects vetted senior engineers with companies that need them. We’ve been in business for 10 years, have 60 people across Ukraine, Europe, Canada, and the US, and process over $16M in annual GMV. We compress the traditional 2–5 week hiring timeline down to 24–48 hours through a curated, pre-vetted supply of developers. Hiring is still broken. Recruiters spend weeks building candidate pipelines on traditional platforms, burning energy on unqualified leads. We’re building the product that changes that. Giving recruiters qu",
-      "tags": [
-        "ai/ml",
-        "startup",
-        "marketplace",
-        "fundraising"
-      ],
-      "verdict": "blocked",
-      "fit": 0,
-      "reasons": [
-        "Head of-level — usually 5–10+ yrs, you have ~4"
       ]
     },
     {
@@ -2001,6 +1947,34 @@
       "fit": 0,
       "reasons": [
         "Principal-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
+      "title": "Staff Software Engineer",
+      "company": "CircleCI",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/circleci-staff-software-engineer",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Canada (Remote), United States (Remote), United Kingdom (Remote) Mexico City, Mexico - Hybrid About CircleCI Engineering CI/CD has been solved. Now it's being reinvented. AI agents don't just run pipelines. They write code, trigger builds, interpret failures, and propose fixes. The interfaces that developers use to understand and trust that work don't exist yet. We're building them. At CircleCI, our guiding principles aren't posters on a wall. We learn fast: we run experiments, accept failure, and scale what works. We think like the customer: every decision connects back to the d",
+      "tags": [],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Staff-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
+      "title": "Staff Security Engineer, Product Security",
+      "company": "Flexport",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/flexport-staff-security-engineer-product-security",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: U.S. Remote About Flexport:&nbsp; At Flexport, we believe global trade can move the human race forward. That’s why it’s our mission to make global commerce so easy there will be more of it. We’re shaping the future of a $10T industry with solutions powered by innovative technology and exceptional people. Today, companies of all sizes—from emerging brands to Fortune 500s—use Flexport technology to move more than $19B of merchandise across 112 countries a year.&nbsp; The recent global supply chain crisis has put Flexport center stage as we continue to play a pivotal role in how goo",
+      "tags": [],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Staff-level — usually 5–10+ yrs, you have ~4"
       ]
     },
     {
@@ -2169,38 +2143,6 @@
       "fit": 0,
       "reasons": [
         "Staff-level — usually 5–10+ yrs, you have ~4"
-      ]
-    },
-    {
-      "title": "Staff Platform Engineer",
-      "company": "Wurl",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/161903-staff-platform-engineer-4",
-      "source": "Jobicy",
-      "description": "About Wurl, LLC. At Wurl, our mission is to create innovative technologies and services that help accelerate the shift to streaming. At our core, we are innovators focused on driving the streaming industry forward with technologies that help connect viewers to the right content and ads. Our technology and data-driven solutions help companies reach new&hellip;",
-      "tags": [
-        "devops & infrastructure"
-      ],
-      "verdict": "blocked",
-      "fit": 0,
-      "reasons": [
-        "Staff-level — usually 5–10+ yrs, you have ~4"
-      ]
-    },
-    {
-      "title": "Tech Lead - React & Python",
-      "company": "Nearform",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/161682-tech-lead-react-python",
-      "source": "Jobicy",
-      "description": "Tech Lead (Perm, USA, Remote + Travel) This is a full-time, permanent opportunity for candidates based in the United States and authorized to work without sponsorship. Please note that visa sponsorship is not available for this role. This position also requires traveling to client sites within the U.S., with travel expenses covered by the company.&hellip;",
-      "tags": [
-        "software engineering"
-      ],
-      "verdict": "blocked",
-      "fit": 0,
-      "reasons": [
-        "work-authorization wall (without sponsorship)"
       ]
     }
   ]
