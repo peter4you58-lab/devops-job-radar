@@ -1,11 +1,11 @@
 {
-  "generated": "2026-11-23 16:44 UTC",
-  "count": 104,
+  "generated": "2026-11-24 16:39 UTC",
+  "count": 113,
   "summary": {
-    "scanned": 104,
-    "eligible": 51,
+    "scanned": 113,
+    "eligible": 57,
     "review": 29,
-    "blocked": 24
+    "blocked": 27
   },
   "jobs": [
     {
@@ -21,6 +21,62 @@
       "reasons": [
         "remote — anywhere / global",
         "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Engineering Manager - Grafana Infrastructure (Remote, Ireland)",
+      "company": "Grafana Labs",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/grafana-labs-engineering-manager-grafana-infrastructure-remote-ireland",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Republic of Ireland (Remote) Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any stack, Grafana Cloud brings AI to observability and observability to AI, giving teams (and their agents) unified visibility so they can see, understand, and act on all their disparate data, wherever it lives, and move at the speed of their ambitions. Custom",
+      "tags": [],
+      "verdict": "eligible",
+      "fit": 70,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
+    {
+      "title": "Engineering Manager - Grafana Infrastructure (Remote, Canada)",
+      "company": "Grafana Labs",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/grafana-labs-engineering-manager-grafana-infrastructure-remote-canada",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Canada (Remote) Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any stack, Grafana Cloud brings AI to observability and observability to AI, giving teams (and their agents) unified visibility so they can see, understand, and act on all their disparate data, wherever it lives, and move at the speed of their ambitions. Customers, includin",
+      "tags": [],
+      "verdict": "eligible",
+      "fit": 70,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
+    {
+      "title": "General Accountant - Accounts Payable",
+      "company": "Upsun",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/upsun-general-accountant-accounts-payable",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Remote • France, Spain, Canada About Upsun Upsun is the software factory for human-AI workflows. We give teams one unified platform to create, review, deploy, and run software, with AI agents and humans working in sync. Developers, DevOps engineers, and platform teams use Upsun to build and ship with confidence, without wrestling with infrastructure. Upsun brings this together through two products: one that shapes the work, and one that runs it. Upsun Dispatch™: the AI-first product accelerator. Dispatch governs and simplifies collaboration between AI agents and cross-functional ",
+      "tags": [],
+      "verdict": "eligible",
+      "fit": 66,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
+    {
+      "title": "Site Reliability Engineer",
+      "company": "Gusto, Inc.",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/gusto-inc-site-reliability-engineer",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Denver, CO - Hybrid; San Francisco, CA - Hybrid; Seattle, WA - Remote &nbsp; About Gusto At Gusto, we're on a mission to grow the small business economy. We handle the hard stuff — payroll, health insurance, 401(k)s, and HR — so owners can focus on their craft and their customers. With teams in Denver, San Francisco, and New York, we support more than 500,000 small businesses nationwide and are building a workplace that reflects the people we serve. All full-time employees receive competitive base pay, benefits, and equity (RSUs) — because everyone who helps build Gusto should sh",
+      "tags": [],
+      "verdict": "eligible",
+      "fit": 66,
+      "reasons": [
+        "remote — anywhere / global"
       ]
     },
     {
@@ -243,6 +299,20 @@
       ]
     },
     {
+      "title": "Manager II, Engineering - Kubernetes Platform",
+      "company": "Pinterest",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/pinterest-manager-ii-engineering-kubernetes-platform",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: San Francisco, CA, US; Remote, CA, US About Pinterest: Millions of people around the world come to our platform to find creative ideas, dream about new possibilities and plan for memories that will last a lifetime. At Pinterest, we’re on a mission to bring everyone the inspiration to create a life they love, and that starts with the people behind the product. Discover a career where you ignite innovation for millions, transform passion into growth opportunities, celebrate each other’s unique experiences and embrace the&nbsp; flexibility to do your best work. Creating a career you",
+      "tags": [],
+      "verdict": "eligible",
+      "fit": 54,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
+    {
       "title": "Regional Manager, Sales Engineering - Key Accounts (East)",
       "company": "Datadog",
       "location": "Anywhere in the World",
@@ -415,6 +485,44 @@
       ]
     },
     {
+      "title": "Strategic Technical Advisor",
+      "company": "Thrive",
+      "location": "Worldwide",
+      "url": "https://remoteOK.com/remote-jobs/remote-strategic-technical-advisor-thrive-1138074",
+      "source": "RemoteOK",
+      "description": "Thrive is an innovative technology solutions provider focused on Cyber Security, Hybrid Cloud, Global Network Management, Disaster Recovery, and traditional Managed Services. Our corporate culture, engineering talent, customer-centric approach, and focus upon NextGen services help us stand out among our peers. Thrive is on the look-out for individuals who don't view their weekdays spent at 'a job' but rather look to develop valuable skills that ignite their passion and lead to a CAREER. If you're attracted to a work hard, play hard environment and seek the guidance, training, and experience ne",
+      "tags": [
+        "infosec",
+        "education",
+        "technical",
+        "customer support",
+        "finance",
+        "cloud",
+        "exec",
+        "ops",
+        "engineer"
+      ],
+      "verdict": "eligible",
+      "fit": 50,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
+    {
+      "title": "Engineering Manager, Ranking Platform",
+      "company": "Reddit",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/reddit-engineering-manager-ranking-platform",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Remote - United States Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internet’s largest sources of information. For more information, visit www.redditinc.com . The Ranking Platform team builds and runs the services that coordinate contextualized and personalized ranki",
+      "tags": [],
+      "verdict": "eligible",
+      "fit": 50,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
+    {
       "title": "Associate Counsel, Vendor and Provider Contracting",
       "company": "Clover Health",
       "location": "Anywhere in the World",
@@ -443,20 +551,6 @@
       ]
     },
     {
-      "title": "Software Engineer (Remote Eligible in Bulgaria)",
-      "company": "Smartsheet",
-      "location": "Anywhere in the World",
-      "url": "https://weworkremotely.com/remote-jobs/smartsheet-software-engineer-remote-eligible-in-bulgaria",
-      "source": "WeWorkRemotely",
-      "description": "Headquarters: -REMOTE, BULGARIA- For over 20 years, Smartsheet has empowered teams to manage work seamlessly and scale solutions smarter. Now, in our most ambitious chapter yet, we are uniting human teams with AI agents. By orchestrating the work agents do best, automating manual tasks and uncovering insights at scale, we create the space for people to focus on what truly matters: judgment, creativity, and big thinking. That is magic at work, and it’s what we show up for every day. As a global leader in Intelligent Work Management with a market cap of $10bn, we’ve continued to scale our engine",
-      "tags": [],
-      "verdict": "eligible",
-      "fit": 50,
-      "reasons": [
-        "remote — anywhere / global"
-      ]
-    },
-    {
       "title": "Business Services Assistant",
       "company": "Ping Identity",
       "location": "Anywhere in the World",
@@ -477,20 +571,6 @@
       "url": "https://weworkremotely.com/remote-jobs/smartsheet-software-engineer-i-remote-eligible",
       "source": "WeWorkRemotely",
       "description": "Headquarters: -REMOTE, USA- For over 20 years, Smartsheet has empowered teams to manage work seamlessly and scale solutions smarter. Now, in our most ambitious chapter yet, we are uniting human teams with AI agents. By orchestrating the work agents do best, automating manual tasks and uncovering insights at scale, we create the space for people to focus on what truly matters: judgment, creativity, and big thinking. That is magic at work, and it’s what we show up for every day. We are hiring a Software Engineer I to join our Engineering team. You will get your hands on full-stack services, dig ",
-      "tags": [],
-      "verdict": "eligible",
-      "fit": 50,
-      "reasons": [
-        "remote — anywhere / global"
-      ]
-    },
-    {
-      "title": "PreSales Solutions Engineer",
-      "company": "Sumo Logic",
-      "location": "Anywhere in the World",
-      "url": "https://weworkremotely.com/remote-jobs/sumo-logic-presales-solutions-engineer",
-      "source": "WeWorkRemotely",
-      "description": "Headquarters: Remote US As a Sales Engineer , you will be the primary technical resource for our Account Executive team. You will share your product and technical expertise through presentations, product demonstrations, and technical evaluations (Proof Of Values). As the technical expert, you will work with clients to understand their requirements and pain points, then design the right solution for their business needs. During the sales cycle you will guide clients through trials and POVs, demonstrating Sumo Logic’s ability to meet and exceed their requirements and building a positive relation",
       "tags": [],
       "verdict": "eligible",
       "fit": 50,
@@ -636,6 +716,21 @@
       "fit": 50,
       "reasons": [
         "remote — anywhere / global"
+      ]
+    },
+    {
+      "title": "Senior Manager, Application Security",
+      "company": "MetaMask",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/metamask-senior-manager-application-security",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: EMEA - Remote Please note that we are unable to consider applications from candidates based in France, Italy, or Germany for this role. Money is moving onto the internet, and the shift has a name: Open Money. This is money that is open, portable, agentic, and owned by you. MetaMask spent the last ten years building it; with 100M+ downloads, users in ~190 countries, and trillions in cumulative transaction volume, it's the most trusted self-custodial financial platform on the internet. Now we're building the operating system for your money: one place to hold, move, grow, and use an",
+      "tags": [],
+      "verdict": "eligible",
+      "fit": 44,
+      "reasons": [
+        "remote — anywhere / global",
+        "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
     {
@@ -929,22 +1024,6 @@
       ]
     },
     {
-      "title": "PreSales Solutions Engineer",
-      "company": "Sumo Logic",
-      "location": "US Only",
-      "url": "https://remoteOK.com/remote-jobs/remote-presales-solutions-engineer-sumo-logic-1137877",
-      "source": "RemoteOK",
-      "description": "As a Sales Engineer , you will be the primary technical resource for our Account Executive team. You will share your product and technical expertise through presentations, product demonstrations, and technical evaluations (Proof Of Values). As the technical expert, you will work with clients to understand their requirements and pain points, then design the right solution for their business needs. During the sales cycle you will guide clients through trials and POVs, demonstrating Sumo Logicâs ability to meet and exceed their requirements and building a positive relationship that will provide",
-      "tags": [
-        "devops"
-      ],
-      "verdict": "review",
-      "fit": 52,
-      "reasons": [
-        "Us only-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
       "title": "Full-Stack Platform Engineer",
       "company": "Edgewater Federal Solutions, Inc.",
       "location": "USA Only",
@@ -952,6 +1031,54 @@
       "source": "WeWorkRemotely",
       "description": "Headquarters: United States URL: https://www.edgewaterit.com Overview Edgewater Federal Solutions is seeking an experienced Full-Stack Platform Engineer .&nbsp;The Full-Stack Platform Engineer provides senior technical leadership and hands-on engineering for a secure enterprise data analytics platform supporting a federal environment. The role designs and delivers scalable web applications, APIs, data integrations, cloud solutions, and secure development practices while guiding technical decisions and resolving complex platform issues. &nbsp; *Due to the nature of the work and contract - US Ci",
       "tags": [],
+      "verdict": "review",
+      "fit": 52,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "DevOps Engineer",
+      "company": "Oddball",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/164108-devops-engineer-8",
+      "source": "Jobicy",
+      "description": "Oddball believes that we can bring change and improve the daily lives of millions by bringing quality software to the federal space. Our team is full of experienced engineering, product, and user experience professionals who love bringing scalable solutions to life as much as they love working with clients to solve problems. We value learning,&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
+      "verdict": "review",
+      "fit": 52,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "DevOps Engineer, Edge and Developer Experience (Remote Eligible in Bulgaria)",
+      "company": "Smartsheet",
+      "location": "Bulgaria",
+      "url": "https://jobicy.com/jobs/156722-devops-engineer-edge-and-developer-experience-remote-eligible-in-bulgaria",
+      "source": "Jobicy",
+      "description": "For over 20 years, Smartsheet has empowered teams to manage work seamlessly and scale solutions smarter. Now, in our most ambitious chapter yet, we are uniting human teams with AI agents. By orchestrating the work agents do best, automating manual tasks and uncovering insights at scale, we create the space for people to focus on&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
+      "verdict": "review",
+      "fit": 52,
+      "reasons": [
+        "location unconfirmed — verify it's open to Africa"
+      ]
+    },
+    {
+      "title": "IT Systems DevOps Engineer",
+      "company": "Cologix, Inc.",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/163973-it-systems-devops-engineer-2",
+      "source": "Jobicy",
+      "description": "About Our Company: Headquartered in Denver, Colorado, Cologix is a leading North America network-neutral interconnection and hyperscale edge data center company. Our platform gives customers access to 45+ digital edge and Scalelogix℠ hyperscale edge data centers in 13 markets across the United States and Canada along with a carrier-dense ecosystem of 710+ networks, 360+ cloud&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
       "verdict": "review",
       "fit": 52,
       "reasons": [
@@ -1214,23 +1341,6 @@
       ]
     },
     {
-      "title": "Sr Analyst, Analytics & Insights",
-      "company": "BeyondTrust",
-      "location": "North America",
-      "url": "https://remoteOK.com/remote-jobs/remote-sr-analyst-analytics-insights-beyondtrust-1137962",
-      "source": "RemoteOK",
-      "description": "BeyondTrust is a place where you can bring your purpose to life through the work that you do, creating a safer world through our cybersecurity SaaS portfolio. Our culture of flexibility, trust, and continual learning means you will be recognized for your growth, and for the impact you make on our success. You will be surrounded by people who challenge, support, and inspire you to be the best version of yourself. The Role Youâll bring statistical rigor to the teamâs hardest go-to-market questions: forecasting, propensity, conversion, churn, and measuring what actually caused a change. Youâ",
-      "tags": [
-        "devops"
-      ],
-      "verdict": "review",
-      "fit": 46,
-      "reasons": [
-        "North america-tagged — verify it's open to Africa first",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
       "title": "Senior Software Engineer - Behavioral Security Products",
       "company": "Abnormal",
       "location": "UK Only",
@@ -1344,23 +1454,6 @@
       "fit": 46,
       "reasons": [
         "Latam-tagged — verify it's open to Africa first",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Senior DevOps Engineer",
-      "company": "dscout",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/155574-senior-devops-engineer-10",
-      "source": "Jobicy",
-      "description": "At Dscout, we’re building the most flexible and powerful UX research platform on the market—trusted by the world’s top brands in finance (JP Morgan Chase, Intuit, Charles Schwab, PayPal), healthcare (Aya, Headspace), consumer goods (Keen, Verizon, Target, Northface), and tech (Google, Amazon, Facebook, Meta, Spotify, AirBnB). Our tools help teams deeply understand the humans behind&hellip;",
-      "tags": [
-        "devops & infrastructure"
-      ],
-      "verdict": "review",
-      "fit": 46,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -1613,6 +1706,48 @@
       "tags": [
         "devops"
       ],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Director-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
+      "title": "Staff Platform Security Engineer",
+      "company": "Gemini",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/gemini-staff-platform-security-engineer",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: New York, New York; Miami, Florida; Remote (USA) About the Company Gemini is a global crypto and Web3 platform founded by Cameron and Tyler Winklevoss in 2014, offering a wide range of simple, reliable, and secure crypto products and services to individuals and institutions in over 70 countries. Our mission is to unlock the next era of financial, creative, and personal freedom by providing trusted access to the decentralized future. We envision a world where crypto reshapes the global financial system, internet, and money to create greater choice, independence, and opportunity fo",
+      "tags": [],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Staff-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
+      "title": "Staff Platform Engineer",
+      "company": "Gemini",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/gemini-staff-platform-engineer",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: New York, New York; Miami, Florida; Remote (USA) About the Company Gemini is a global crypto and Web3 platform founded by Cameron and Tyler Winklevoss in 2014, offering a wide range of simple, reliable, and secure crypto products and services to individuals and institutions in over 70 countries. Our mission is to unlock the next era of financial, creative, and personal freedom by providing trusted access to the decentralized future. We envision a world where crypto reshapes the global financial system, internet, and money to create greater choice, independence, and opportunity fo",
+      "tags": [],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Staff-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
+      "title": "Senior Director, Enablement",
+      "company": "LaunchDarkly",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/launchdarkly-senior-director-enablement",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Remote - US About the Job: LaunchDarkly is seeking a Sr. Director, Enablement to join our Revenue team. This position will report to the VP, Revenue Operations and Enablement. The Revenue Operations and Enablement team is responsible for sales strategy, technology, and enablement. The Sr. Director, Enablement will build a repeatable enablement framework to systematically support all segments of LaunchDarkly’s Revenue Organization. This role will ensure that all customer-facing personnel have the knowledge, content, skills, processes, and behaviors needed to optimize every interac",
+      "tags": [],
       "verdict": "blocked",
       "fit": 0,
       "reasons": [
