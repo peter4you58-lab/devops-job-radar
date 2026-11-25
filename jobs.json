@@ -1,11 +1,11 @@
 {
-  "generated": "2026-11-24 16:39 UTC",
-  "count": 113,
+  "generated": "2026-11-25 16:22 UTC",
+  "count": 124,
   "summary": {
-    "scanned": 113,
-    "eligible": 57,
-    "review": 29,
-    "blocked": 27
+    "scanned": 124,
+    "eligible": 61,
+    "review": 35,
+    "blocked": 28
   },
   "jobs": [
     {
@@ -21,6 +21,34 @@
       "reasons": [
         "remote — anywhere / global",
         "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Engineering Manager - Grafana Infrastructure (Remote, UK)",
+      "company": "Grafana Labs",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/grafana-labs-engineering-manager-grafana-infrastructure-remote-uk",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: United Kingdom (Remote) Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any stack, Grafana Cloud brings AI to observability and observability to AI, giving teams (and their agents) unified visibility so they can see, understand, and act on all their disparate data, wherever it lives, and move at the speed of their ambitions. Customers, ",
+      "tags": [],
+      "verdict": "eligible",
+      "fit": 70,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
+    {
+      "title": "Engineering Manager - Grafana Infrastructure (Remote, Spain)",
+      "company": "Grafana Labs",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/grafana-labs-engineering-manager-grafana-infrastructure-remote-spain",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Spain (Remote) Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any stack, Grafana Cloud brings AI to observability and observability to AI, giving teams (and their agents) unified visibility so they can see, understand, and act on all their disparate data, wherever it lives, and move at the speed of their ambitions. Customers, including",
+      "tags": [],
+      "verdict": "eligible",
+      "fit": 70,
+      "reasons": [
+        "remote — anywhere / global"
       ]
     },
     {
@@ -207,6 +235,21 @@
       ]
     },
     {
+      "title": "Solution Architect, New Logo (Presales)",
+      "company": "JFrog",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/jfrog-solution-architect-new-logo-presales",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Remote, US At JFrog, we’re reinventing DevOps to help the world’s greatest companies innovate -- and we want you along for the ride. This is a special place with a unique combination of brilliance, spirit and just all-around great people. Here, if you’re willing to do more, your career can take off. And since software plays a central role in everyone’s lives, you’ll be part of an important mission. Thousands of customers, including the majority of the Fortune 100, trust JFrog to manage, accelerate, and secure their software delivery from code to production -- a concept we call “l",
+      "tags": [],
+      "verdict": "eligible",
+      "fit": 60,
+      "reasons": [
+        "remote — anywhere / global",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
       "title": "Senior Technical Project Manager",
       "company": "JFrog",
       "location": "Anywhere in the World",
@@ -282,23 +325,6 @@
       ]
     },
     {
-      "title": "Senior DevOps Engineer - Storage Platforms",
-      "company": "Five9",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/153466-senior-devops-engineer-storage-platforms",
-      "source": "Jobicy",
-      "description": "Join us in bringing joy to customer experience. Five9 is a leading provider of cloud contact center software, bringing the power of cloud innovation to customers worldwide. Living our values everyday results in our team-first culture and enables us to innovate, grow, and thrive while enjoying the journey together. We celebrate diversity and foster an&hellip;",
-      "tags": [
-        "devops & infrastructure"
-      ],
-      "verdict": "eligible",
-      "fit": 60,
-      "reasons": [
-        "remote — anywhere / global",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
       "title": "Manager II, Engineering - Kubernetes Platform",
       "company": "Pinterest",
       "location": "Anywhere in the World",
@@ -324,43 +350,6 @@
       "fit": 54,
       "reasons": [
         "remote — anywhere / global"
-      ]
-    },
-    {
-      "title": "Senior Product Engineer",
-      "company": "Arbor Education",
-      "location": "Worldwide",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-product-engineer-arbor-education-1137865",
-      "source": "RemoteOK",
-      "description": "Location: Remote - UK Salary: Â£70,000-80,000 About us At Arbor, weâre on a mission to transform the way schools work for the better.Â We believe in a future of work in schools where being challenged doesnât mean being burnt out and overworked. Where data guides progress without overwhelming staff. And where everyone working in a school is reminded why they got into education every day.Â Our MIS and school management tools are already making a difference in over 7,000 schools and trusts. Giving time and power back to staff, turning data into clear, actionable insights, and supporting happi",
-      "tags": [
-        "design",
-        "react",
-        "backend",
-        "education",
-        "consulting",
-        "docker",
-        "customer support",
-        "dev",
-        "testing",
-        "scrum",
-        "exec",
-        "quality assurance",
-        "finance",
-        "cloud",
-        "php",
-        "senior",
-        "sys admin",
-        "medical",
-        "engineer",
-        "recruiter",
-        "digital nomad"
-      ],
-      "verdict": "eligible",
-      "fit": 52,
-      "reasons": [
-        "remote — anywhere / global",
-        "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
     {
@@ -509,6 +498,20 @@
       ]
     },
     {
+      "title": "Incident Escalations Manager",
+      "company": "Ping Identity",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/ping-identity-incident-escalations-manager",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: UK - Remote About Ping Identity:&nbsp; At Ping Identity, we believe in making digital experiences both secure and seamless for all users, without compromise. We call this digital freedom. And it's not just something we provide our customers. It's something that inspires our company. People don't come here to join a culture that's built on digital freedom. They come to cultivate it.&nbsp; Our intelligent, cloud identity platform lets people shop, work, bank, and interact wherever and however they want. Without friction. Without fear.&nbsp; While protecting digital identities is at",
+      "tags": [],
+      "verdict": "eligible",
+      "fit": 50,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
+    {
       "title": "Engineering Manager, Ranking Platform",
       "company": "Reddit",
       "location": "Anywhere in the World",
@@ -649,20 +652,6 @@
       ]
     },
     {
-      "title": "Competitive Intelligence Strategist",
-      "company": "Huntress Labs",
-      "location": "Anywhere in the World",
-      "url": "https://weworkremotely.com/remote-jobs/huntress-labs-competitive-intelligence-strategist",
-      "source": "WeWorkRemotely",
-      "description": "Headquarters: Remote Ireland &nbsp; What We Do: Cybercrime is growing, and more businesses are getting hit by threats that used to target only the biggest organizations. That pushes defenders like us to operate at the highest level, and it deepens our need for good people who want to make a meaningful impact. Founded in 2015 by former NSA cyber operators, Huntress is a remote-first team working to make enterprise-grade cybersecurity accessible to businesses of all sizes. We work closely with security teams and service providers protecting complex environments, often without the time or headcou",
-      "tags": [],
-      "verdict": "eligible",
-      "fit": 50,
-      "reasons": [
-        "remote — anywhere / global"
-      ]
-    },
-    {
       "title": "Product and Project Marketing Specialist (Temp to Hire)",
       "company": "Jumio",
       "location": "Anywhere in the World",
@@ -716,6 +705,51 @@
       "fit": 50,
       "reasons": [
         "remote — anywhere / global"
+      ]
+    },
+    {
+      "title": "Senior Partner Solutions Architect (Pan-EMEA GSI)",
+      "company": "Datadog",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/datadog-senior-partner-solutions-architect-pan-emea-gsi",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Germany, Remote; The Netherlands, Remote The Team: We are Datadog's in-house product experts. The technical solutions team enables Datadog's worldwide growth by educating potential clients and ensuring that existing customers are happy and successful. We share our technical and product expertise with customers through demos, presentations, technical evaluations, and ongoing support. Technical solutions is a growing global team that collaborates constantly to share knowledge and continuously advance our technical skillset. &nbsp; The Opportunity: The Partner Solution Architect (PS",
+      "tags": [],
+      "verdict": "eligible",
+      "fit": 48,
+      "reasons": [
+        "remote — anywhere / global",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Senior Manager, Security",
+      "company": "LaunchDarkly",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/launchdarkly-senior-manager-security",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Remote - US West About the Job: We're looking for a senior security leader to run our Product Security team and partner to the Director of Security. In this role, you'll own how Security operates: a program led by risk rather than audit calendars, where engineering teams own their security health and Security informs, guides, and validates, where automation and AI take the first pass on every finding, and where posture is measured and published to executives every quarter. You'll build that model, starting with Product Security and extending across the division. You'll bring a ba",
+      "tags": [],
+      "verdict": "eligible",
+      "fit": 44,
+      "reasons": [
+        "remote — anywhere / global",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Senior Channel Account Manager",
+      "company": "Fastly",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/fastly-senior-channel-account-manager",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Bangalore, India; India (Remote); Mumbai, India; Pune, India Fastly helps people stay better connected with the things they love. Fastly’s edge cloud platform enables customers to create great digital experiences quickly, securely, and reliably by processing, serving, and securing our customers’ applications as close to their end-users as possible — at the edge of the Internet. The platform is designed to take advantage of the modern internet, to be programmable, and to support agile software development. Fastly’s customers include many of the world’s most prominent companies, in",
+      "tags": [],
+      "verdict": "eligible",
+      "fit": 44,
+      "reasons": [
+        "remote — anywhere / global",
+        "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
     {
@@ -944,6 +978,56 @@
       ]
     },
     {
+      "title": "Senior Manager, Enterprise Application Development Engineering",
+      "company": "GitLab",
+      "location": "US Only",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-manager-enterprise-application-development-engineering-gitlab-1138079",
+      "source": "RemoteOK",
+      "description": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster. The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, in",
+      "tags": [
+        "devops"
+      ],
+      "verdict": "review",
+      "fit": 58,
+      "reasons": [
+        "Us only-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Senior CX Platform Engineer",
+      "company": "GitLab",
+      "location": "Canada Only",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-cx-platform-engineer-gitlab-1138075",
+      "source": "RemoteOK",
+      "description": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster. The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, in",
+      "tags": [
+        "devops"
+      ],
+      "verdict": "review",
+      "fit": 58,
+      "reasons": [
+        "Canada-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Security Engineer, Offensive Security",
+      "company": "Dropbox",
+      "location": "North America",
+      "url": "https://remoteOK.com/remote-jobs/remote-security-engineer-offensive-security-dropbox-1138096",
+      "source": "RemoteOK",
+      "description": "Role Description As an Â Offensive Security Engineer within Dropbox Security, you will investigate how attackers could compromise our products and infrastructure, including AI-enabled applications and agentic systems. You will help identify meaningful attack paths and improve the controls intended to prevent, detect or contain them. This is a hands-on offensive security and threat research role with broad scope and meaningful impact. You will contribute to investigations and multi-phase red team exercises, help prioritize work based on risk, develop attack techniques, and build tooling and aut",
+      "tags": [
+        "devops"
+      ],
+      "verdict": "review",
+      "fit": 52,
+      "reasons": [
+        "North america-tagged — verify it's open to Africa first"
+      ]
+    },
+    {
       "title": "VP, Customer Experience Operations",
       "company": "Ping Identity",
       "location": "US Only",
@@ -1031,6 +1115,22 @@
       "source": "WeWorkRemotely",
       "description": "Headquarters: United States URL: https://www.edgewaterit.com Overview Edgewater Federal Solutions is seeking an experienced Full-Stack Platform Engineer .&nbsp;The Full-Stack Platform Engineer provides senior technical leadership and hands-on engineering for a secure enterprise data analytics platform supporting a federal environment. The role designs and delivers scalable web applications, APIs, data integrations, cloud solutions, and secure development practices while guiding technical decisions and resolving complex platform issues. &nbsp; *Due to the nature of the work and contract - US Ci",
       "tags": [],
+      "verdict": "review",
+      "fit": 52,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "Forward Deployed Engineer - DevOps/SRE",
+      "company": "Harness",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/164235-forward-deployed-engineer-devops-sre",
+      "source": "Jobicy",
+      "description": "Harness is the AI Software Delivery Platform company, led by technologist and entrepreneur Jyoti Bansal (founder of AppDynamics, acquired by Cisco for $3.7B). Harness has raised approximately $570M in funding and is valued at $5.5B, backed by leading investors including Goldman Sachs, Menlo Ventures, IVP, Unusual Ventures, Citi Ventures, and more. As AI accelerates code&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
       "verdict": "review",
       "fit": 52,
       "reasons": [
@@ -1392,19 +1492,17 @@
       ]
     },
     {
-      "title": "Senior Atlassian Cloud Administrator",
+      "title": "Senior Security Engineer, Offensive Security",
       "company": "Dropbox",
-      "location": "Europe",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-atlassian-cloud-administrator-dropbox-1137874",
-      "source": "RemoteOK",
-      "description": "Role Description As a Senior Atlassian Cloud Engineer at Dropbox, you will design, build, and evolve the platforms that help our employees collaborate and get support. With a focus on Jira Service Management (JSM), you will own solutions that simplify service delivery, automate manual processes, and improve the employee experience. You will lead the design and implementation of service workflows, portals, integrations, asset management, and AI-powered support experiences. Your work will also strengthen the security, reliability, and governance of our broader Atlassian ecosystem, including Jira",
-      "tags": [
-        "devops"
-      ],
+      "location": "North America Only",
+      "url": "https://weworkremotely.com/remote-jobs/dropbox-senior-security-engineer-offensive-security",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Remote - Mexico URL: https://jobs.dropbox.com Role Description As a Senior Offensive Security Engineer within Dropbox Security, you will investigate how attackers could compromise our products and infrastructure, including AI-enabled applications and agentic systems. You will help identify meaningful attack paths and improve the controls intended to prevent, detect or contain them. This is a hands-on offensive security and threat research role with broad scope and meaningful impact. You will independently define and lead complex investigations and multi-phase red team exercises, ",
+      "tags": [],
       "verdict": "review",
       "fit": 46,
       "reasons": [
-        "Europe-tagged — verify it's open to Africa first",
+        "North america-tagged — verify it's open to Africa first",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -1495,6 +1593,25 @@
       "reasons": [
         "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
         "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "WordPress Theme & Plugin Developer",
+      "company": "Steward Web Development",
+      "location": "Americas, LATAM, Canada, USA timezones",
+      "url": "https://remotive.com/remote-jobs/software-development/wordpress-theme-plugin-developer-2091179",
+      "source": "Remotive",
+      "description": "About the Role We're seeking a talented Fullstack WordPress Developer with strong expertise in custom theme and plugin development. You'll work on WordPress projects, including theme and plugin development, and potentially some Joomla projects (with appropriate support, depending on your familiarity). This is a contract role for full-time work over a 5 month contract. However, you'll work as if you were a full-time employee, participating in team meetings, communicating via Slack, and coordinating with other people on our team. Key Responsibilities Build custom WordPress themes that closely ma",
+      "tags": [
+        "fullstack",
+        "wordpress",
+        "oop",
+        "themes"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -1601,6 +1718,39 @@
       ]
     },
     {
+      "title": "Senior Software Engineer, AI & Science Platform",
+      "company": "Reddit",
+      "location": "US Only",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-ai-science-platform-reddit-1138093",
+      "source": "RemoteOK",
+      "description": "Reddit is a community of communities. Itâs built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internetâs largest sources of information. For more information, visit www.redditinc.com . Reddit has a flexible workforce! If you happen to live close to one of our physical office locations our doors are open for you to come into ",
+      "tags": [
+        "programming"
+      ],
+      "verdict": "review",
+      "fit": 30,
+      "reasons": [
+        "Us only-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Principal Software Engineer",
+      "company": "Ping Identity",
+      "location": "US Only",
+      "url": "https://remoteOK.com/remote-jobs/remote-principal-software-engineer-ping-identity-1138095",
+      "source": "RemoteOK",
+      "description": "About Ping Identity:Â At Ping Identity, we believe in making digital experiences both secure and seamless for all users, without compromise. We call this digital freedom. And it's not just something we provide our customers. It's something that inspires our company. People don't come here to join a culture that's built on digital freedom. They come to cultivate it.Â Our intelligent, cloud identity platform lets people shop, work, bank, and interact wherever and however they want. Without friction. Without fear.Â While protecting digital identities is at the core of our technology, protecting i",
+      "tags": [
+        "devops"
+      ],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Principal-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
       "title": "Senior Staff SRE, Site Experience",
       "company": "Reddit",
       "location": "US Only",
@@ -1681,15 +1831,13 @@
       ]
     },
     {
-      "title": "Sr Director, L2C Process Owner",
-      "company": "BeyondTrust",
-      "location": "US Only",
-      "url": "https://remoteOK.com/remote-jobs/remote-sr-director-l2c-process-owner-beyondtrust-1137890",
-      "source": "RemoteOK",
-      "description": "BeyondTrust is a place where you can bring your purpose to life through the work that you do, creating a safer world through our cybersecurity SaaS portfolio. Our culture of flexibility, trust, and continual learning means you will be recognized for your growth, and for the impact you make on our success. You will be surrounded by people who challenge, support, and inspire you to be the best version of yourself. The Role The Senior Director, L2C Process Owner owns how changes to BeyondTrustâs Lead-to-Cash (L2C) processes and systems are prioritized and governed. The role runs the L2C governa",
-      "tags": [
-        "devops"
-      ],
+      "title": "GTM Solutions Management Director",
+      "company": "Ping Identity",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/ping-identity-gtm-solutions-management-director",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: USA - Remote About Ping Identity:&nbsp; At Ping Identity, we believe in making digital experiences both secure and seamless for all users, without compromise. We call this digital freedom. And it's not just something we provide our customers. It's something that inspires our company. People don't come here to join a culture that's built on digital freedom. They come to cultivate it.&nbsp; Our intelligent, cloud identity platform lets people shop, work, bank, and interact wherever and however they want. Without friction. Without fear.&nbsp; While protecting digital identities is a",
+      "tags": [],
       "verdict": "blocked",
       "fit": 0,
       "reasons": [
@@ -1697,15 +1845,27 @@
       ]
     },
     {
-      "title": "Director, Sales",
+      "title": "Director, Enterprise Sales",
+      "company": "Keeper Security",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/keeper-security-director-enterprise-sales",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Remote, US Description Keeper Security is hiring a Director of Enterprise Sales to drive revenue growth within the enterprise segment for North America Private Sector. This is a 100% remote position. Keeper’s cybersecurity software is trusted by millions of people and thousands of organizations, globally. Keeper is published in 23 languages and is sold in over 150 countries. Join one of the fastest-growing cybersecurity companies and be responsible for leading enterprise sales. About Keeper Keeper Security is transforming cybersecurity for people and organizations globally. Keepe",
+      "tags": [],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Director-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
+      "title": "Director, Sales - SLED",
       "company": "Ping Identity",
-      "location": "US Only",
-      "url": "https://remoteOK.com/remote-jobs/remote-director-sales-ping-identity-1137884",
-      "source": "RemoteOK",
-      "description": "About Ping Identity:Â At Ping Identity, we believe in making digital experiences both secure and seamless for all users, without compromise. We call this digital freedom. And it's not just something we provide our customers. It's something that inspires our company. People don't come here to join a culture that's built on digital freedom. They come to cultivate it.Â Our intelligent, cloud identity platform lets people shop, work, bank, and interact wherever and however they want. Without friction. Without fear.Â While protecting digital identities is at the core of our technology, protecting i",
-      "tags": [
-        "devops"
-      ],
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/ping-identity-director-sales-sled",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: USA - Remote About Ping Identity:&nbsp; At Ping Identity, we believe in making digital experiences both secure and seamless for all users, without compromise. We call this digital freedom. And it's not just something we provide our customers. It's something that inspires our company. People don't come here to join a culture that's built on digital freedom. They come to cultivate it.&nbsp; Our intelligent, cloud identity platform lets people shop, work, bank, and interact wherever and however they want. Without friction. Without fear.&nbsp; While protecting digital identities is a",
+      "tags": [],
       "verdict": "blocked",
       "fit": 0,
       "reasons": [
@@ -1965,26 +2125,12 @@
       ]
     },
     {
-      "title": "Director, Global Alliances – Accenture",
-      "company": "Ping Identity",
-      "location": "Anywhere in the World",
-      "url": "https://weworkremotely.com/remote-jobs/ping-identity-director-global-alliances-accenture",
-      "source": "WeWorkRemotely",
-      "description": "Headquarters: USA - Remote About Ping Identity:&nbsp; At Ping Identity, we believe in making digital experiences both secure and seamless for all users, without compromise. We call this digital freedom. And it's not just something we provide our customers. It's something that inspires our company. People don't come here to join a culture that's built on digital freedom. They come to cultivate it.&nbsp; Our intelligent, cloud identity platform lets people shop, work, bank, and interact wherever and however they want. Without friction. Without fear.&nbsp; While protecting digital identities is a",
-      "tags": [],
-      "verdict": "blocked",
-      "fit": 0,
-      "reasons": [
-        "Director-level — usually 5–10+ yrs, you have ~4"
-      ]
-    },
-    {
-      "title": "Principal Consultant (DevOps)",
-      "company": "Xebia",
+      "title": "Principal Software Engineer, DevOps",
+      "company": "Legion",
       "location": "USA",
-      "url": "https://jobicy.com/jobs/162995-principal-consultant-devops",
+      "url": "https://jobicy.com/jobs/164123-principal-software-engineer-devops-2",
       "source": "Jobicy",
-      "description": "Xebia is a pioneering Software Engineering and IT consultancy company, transforming and executing at the intersection of Domain and Technology to create digital leaders for our people, clients, partners, and communities. With over 20 years of experience, we help the world’s top 250 companies and category leaders overcome digital challenges, embrace innovation, adopt new technology,&hellip;",
+      "description": "Principal Software Engineer, DevOps Remote, United States ABOUT POSITION: Are you passionate about automation, DevOps, public cloud services, Kubernetes, and observability? As a site reliability engineer at Legion, you will be responsible for building the tools, infrastructure, and services to create a secure, highly scalable, and cost-effective AWS/Kubernetes-based cloud platform. You will be working with&hellip;",
       "tags": [
         "devops & infrastructure"
       ],
