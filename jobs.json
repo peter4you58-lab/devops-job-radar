@@ -1,10 +1,10 @@
 {
-  "generated": "2026-11-25 16:22 UTC",
-  "count": 124,
+  "generated": "2026-11-26 15:57 UTC",
+  "count": 123,
   "summary": {
-    "scanned": 124,
-    "eligible": 61,
-    "review": 35,
+    "scanned": 123,
+    "eligible": 66,
+    "review": 29,
     "blocked": 28
   },
   "jobs": [
@@ -21,6 +21,34 @@
       "reasons": [
         "remote — anywhere / global",
         "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Infrastructure Software Engineer, Orchestration",
+      "company": "Dropbox",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/dropbox-infrastructure-software-engineer-orchestration",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Remote - Poland Role Description As an Infrastructure Software Engineer on Dropbox’s Orchestration team, you’ll build and operate the platforms that help engineering teams run services reliably, efficiently, and at scale. The team provides internal cloud capabilities for compute, storage, deployment, orchestration, and multi-tenancy across on-premises and public-cloud environments. You’ll contribute to systems such as Kubernetes, OpenSearch, Rook/Ceph, and deployment automation, with opportunities to deepen your expertise in distributed systems, storage, observability, automation",
+      "tags": [],
+      "verdict": "eligible",
+      "fit": 70,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
+    {
+      "title": "Engineering Manager - Grafana Infrastructure | USA | Remote",
+      "company": "Grafana Labs",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/grafana-labs-engineering-manager-grafana-infrastructure-usa-remote",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: United States (Remote) Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any stack, Grafana Cloud brings AI to observability and observability to AI, giving teams (and their agents) unified visibility so they can see, understand, and act on all their disparate data, wherever it lives, and move at the speed of their ambitions. Customers, i",
+      "tags": [],
+      "verdict": "eligible",
+      "fit": 70,
+      "reasons": [
+        "remote — anywhere / global"
       ]
     },
     {
@@ -310,21 +338,6 @@
       ]
     },
     {
-      "title": "Senior IT Systems Engineer",
-      "company": "Upsun",
-      "location": "Anywhere in the World",
-      "url": "https://weworkremotely.com/remote-jobs/upsun-senior-it-systems-engineer",
-      "source": "WeWorkRemotely",
-      "description": "Headquarters: Remote • Canada About Upsun Upsun is the software factory for human-AI workflows. We give teams one unified platform to create, review, deploy, and run software, with AI agents and humans working in sync. Developers, DevOps engineers, and platform teams use Upsun to build and ship with confidence, without wrestling with infrastructure. Upsun brings this together through two products: one that shapes the work, and one that runs it. Upsun Dispatch™: the AI-first product accelerator. Dispatch governs and simplifies collaboration between AI agents and cross-functional human teams, so",
-      "tags": [],
-      "verdict": "eligible",
-      "fit": 60,
-      "reasons": [
-        "remote — anywhere / global",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
       "title": "Manager II, Engineering - Kubernetes Platform",
       "company": "Pinterest",
       "location": "Anywhere in the World",
@@ -491,6 +504,34 @@
         "ops",
         "engineer"
       ],
+      "verdict": "eligible",
+      "fit": 50,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
+    {
+      "title": "Compliance Trust Analyst",
+      "company": "Abnormal",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/abnormal-compliance-trust-analyst",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Remote - USA About the Role Abnormal AI is looking for a Trust Analyst II to join the Compliance Trust team within Abnormal’s Trust organization. The Trust organization is made up of the Compliance Trust and Customer Trust teams. This role sits on the Compliance Trust team, which owns the company’s GRC (Governance, Risk, and Compliance) programs. The Compliance Trust team drives internal and external audit readiness, manages enterprise and third-party risk, and leads governance across information security, AI, and data to deliver a foundation to maintain company's information sec",
+      "tags": [],
+      "verdict": "eligible",
+      "fit": 50,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
+    {
+      "title": "Enterprise Sales Executive",
+      "company": "Keeper Security",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/keeper-security-enterprise-sales-executive",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Remote, US Description Keeper is hiring a driven Enterprise Sales Executive to join our high producing B2B sales division. This can be a 100% remote position from select locations, with an opportunity to work a hybrid schedule for candidates based in the Chicago, IL metro area! Keeper’s cybersecurity software is trusted by millions of people and thousands of organizations, globally. Keeper is published in 23 languages and is sold in over 150 countries. Join one of the fastest-growing cybersecurity companies and play a key role in our continued growth! About Keeper Keeper Security",
+      "tags": [],
       "verdict": "eligible",
       "fit": 50,
       "reasons": [
@@ -708,6 +749,21 @@
       ]
     },
     {
+      "title": "Certification Program Lead",
+      "company": "Datadog",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/datadog-certification-program-lead",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: California, USA, Remote; Massachusetts, USA, Remote; New York, USA, Remote; Washington, USA, Remote As Certification Program Lead, you will join the Customer Education and Training team and will take ownership of the strategy, execution, and expansion of our current certification initiatives. Your core mission will be to elevate the Datadog Certified practitioner program into the leading industry credential for individuals and enterprises across observability, security, and the diverse technical ecosystems that Datadog supports. What You'll Do Own program direction, roadmap, and ",
+      "tags": [],
+      "verdict": "eligible",
+      "fit": 48,
+      "reasons": [
+        "remote — anywhere / global",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
       "title": "Senior Partner Solutions Architect (Pan-EMEA GSI)",
       "company": "Datadog",
       "location": "Anywhere in the World",
@@ -717,6 +773,21 @@
       "tags": [],
       "verdict": "eligible",
       "fit": 48,
+      "reasons": [
+        "remote — anywhere / global",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Senior Systems Administrator",
+      "company": "MetaMask",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/metamask-senior-systems-administrator",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: UNITED STATES - Remote, EMEA - Remote, LATAM - Remote, CANADA - Remote Please note that we are unable to consider applications from candidates based in France, Italy, or Germany for this role. Money is moving onto the internet, and the shift has a name: Open Money. This is money that is open, portable, agentic, and owned by you. MetaMask spent the last ten years building it; with 100M+ downloads, users in ~190 countries, and trillions in cumulative transaction volume, it's the most trusted self-custodial financial platform on the internet. Now we're building the operating system ",
+      "tags": [],
+      "verdict": "eligible",
+      "fit": 44,
       "reasons": [
         "remote — anywhere / global",
         "senior title — a stretch at ~4 yrs, but go for it"
@@ -978,6 +1049,22 @@
       ]
     },
     {
+      "title": "Intermediate Security Engineer, Security Incident Response Team (SIRT)",
+      "company": "GitLab",
+      "location": "US Only",
+      "url": "https://remoteOK.com/remote-jobs/remote-intermediate-security-engineer-security-incident-response-team-sirt-gitlab-1138104",
+      "source": "RemoteOK",
+      "description": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster. The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, in",
+      "tags": [
+        "devops"
+      ],
+      "verdict": "review",
+      "fit": 64,
+      "reasons": [
+        "Us only-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
       "title": "Senior Manager, Enterprise Application Development Engineering",
       "company": "GitLab",
       "location": "US Only",
@@ -1025,86 +1112,6 @@
       "fit": 52,
       "reasons": [
         "North america-tagged — verify it's open to Africa first"
-      ]
-    },
-    {
-      "title": "VP, Customer Experience Operations",
-      "company": "Ping Identity",
-      "location": "US Only",
-      "url": "https://remoteOK.com/remote-jobs/remote-vp-customer-experience-operations-ping-identity-1137949",
-      "source": "RemoteOK",
-      "description": "About Ping Identity:Â At Ping Identity, we believe in making digital experiences both secure and seamless for all users, without compromise. We call this digital freedom. And it's not just something we provide our customers. It's something that inspires our company. People don't come here to join a culture that's built on digital freedom. They come to cultivate it.Â Our intelligent, cloud identity platform lets people shop, work, bank, and interact wherever and however they want. Without friction. Without fear.Â While protecting digital identities is at the core of our technology, protecting i",
-      "tags": [
-        "devops"
-      ],
-      "verdict": "review",
-      "fit": 52,
-      "reasons": [
-        "Us only-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Engineering Manager, Ranking Platform",
-      "company": "Reddit",
-      "location": "US Only",
-      "url": "https://remoteOK.com/remote-jobs/remote-engineering-manager-ranking-platform-reddit-1137946",
-      "source": "RemoteOK",
-      "description": "Reddit is a community of communities. Itâs built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internetâs largest sources of information. For more information, visit www.redditinc.com . The Ranking Platform team builds and runs the services that coordinate contextualized and personalized ranking on Reddit. We build infrastruc",
-      "tags": [
-        "devops"
-      ],
-      "verdict": "review",
-      "fit": 52,
-      "reasons": [
-        "Us only-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Business Services Assistant",
-      "company": "Ping Identity",
-      "location": "UK Only",
-      "url": "https://remoteOK.com/remote-jobs/remote-business-services-assistant-ping-identity-1137936",
-      "source": "RemoteOK",
-      "description": "About Ping Identity:Â At Ping Identity, we believe in making digital experiences both secure and seamless for all users, without compromise. We call this digital freedom. And it's not just something we provide our customers. It's something that inspires our company. People don't come here to join a culture that's built on digital freedom. They come to cultivate it.Â Our intelligent, cloud identity platform lets people shop, work, bank, and interact wherever and however they want. Without friction. Without fear.Â While protecting digital identities is at the core of our technology, protecting i",
-      "tags": [
-        "devops"
-      ],
-      "verdict": "review",
-      "fit": 52,
-      "reasons": [
-        "Uk-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Associate Counsel, Vendor and Provider Contracting",
-      "company": "Clover Health",
-      "location": "US Only",
-      "url": "https://remoteOK.com/remote-jobs/remote-associate-counsel-vendor-and-provider-contracting-clover-health-1137933",
-      "source": "RemoteOK",
-      "description": "Clover Healthâs legal team is a group of proactive business partners whose mission is to empower the organization to innovate and achieve its goals within a dynamic and fluid regulatory environment. We are committed to supporting continued excellence for our customers while building a sustainable future for the organization. We believe integrity, collaboration, and sustainability ensures Clover Health exceeds its objectives, while upholding the highest standards of legal and ethical responsibility. Clover is looking for an attorney with three to five years of experience to join our Legal tea",
-      "tags": [
-        "devops"
-      ],
-      "verdict": "review",
-      "fit": 52,
-      "reasons": [
-        "Us only-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "Security Analyst - Governance, Risk, and Compliance",
-      "company": "LaunchDarkly",
-      "location": "US Only",
-      "url": "https://remoteOK.com/remote-jobs/remote-security-analyst-governance-risk-and-compliance-launchdarkly-1137898",
-      "source": "RemoteOK",
-      "description": "About the Job: LaunchDarkly's Governance, Risk, and Compliance team is hiring a Security Analyst III to facilitate the definition, implementation, and operation of security and privacy programs at LaunchDarkly. LaunchDarkly is critical infrastructure. Our security team keeps it safe for the global systems that depend on us and the GRC team demonstrates that to earn the trust of our customers. As a member of the team, you'll drive initiatives to assess and reduce security risks to the company, advise stakeholders, and maintain compliance with the frameworks that we adhere to including ISO 27001",
-      "tags": [
-        "devops"
-      ],
-      "verdict": "review",
-      "fit": 52,
-      "reasons": [
-        "Us only-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -1194,22 +1201,6 @@
       "description": "At ClickUp, we're building the future of work: the first truly converged AI workspace unifying tasks, docs, chat, calendar, and enterprise search, all supercharged by context-driven AI. We are an AI-native company. Every team member is expected to leverage AI daily, and we evaluate AI fluency as part of our hiring process. Join us and&hellip;",
       "tags": [
         "devops & infrastructure"
-      ],
-      "verdict": "review",
-      "fit": 52,
-      "reasons": [
-        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
-      ]
-    },
-    {
-      "title": "QA/DevOps Engineer",
-      "company": "Discord",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/155923-qa-devops-engineer",
-      "source": "Jobicy",
-      "description": "Discord has a highly engaged community of millions of daily active users who use the platform for many different reasons, but there’s one thing that nearly everyone does: play video games. Discord plays a uniquely important role in the future of gaming, and we are focused on making it easier and more fun for people&hellip;",
-      "tags": [
-        "qa & testing"
       ],
       "verdict": "review",
       "fit": 52,
@@ -1458,40 +1449,6 @@
       ]
     },
     {
-      "title": "Lead, Office of Software Assurance",
-      "company": "Natera",
-      "location": "US Only",
-      "url": "https://remoteOK.com/remote-jobs/remote-lead-office-of-software-assurance-natera-1137940",
-      "source": "RemoteOK",
-      "description": "Role Summary Â The Office of Software Assurance (OSA) Lead is the senior individual contributor who establishes and leads the Office of Software Assurance, a new shift-left software quality function inside the Agile Office, through technical expertise and influence rather than line management. The OSA embeds right-sized, risk-based assurance into a 1,000+ person Engineering organization, so that compliance evidence is produced as a natural, tool-native output of how teams build, not assembled after the fact. Â You will own day-to-day software quality execution across three lifecycle domains (S",
-      "tags": [
-        "devops"
-      ],
-      "verdict": "review",
-      "fit": 46,
-      "reasons": [
-        "Us only-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Sr Sales Ops Analyst",
-      "company": "BeyondTrust",
-      "location": "US Only",
-      "url": "https://remoteOK.com/remote-jobs/remote-sr-sales-ops-analyst-beyondtrust-1137902",
-      "source": "RemoteOK",
-      "description": "BeyondTrust is a place where you can bring your purpose to life through the work that you do, creating a safer world through our cybersecurity SaaS portfolio. Our culture of flexibility, trust, and continual learning means you will be recognized for your growth, and for the impact you make on our success. You will be surrounded by people who challenge, support, and inspire you to be the best version of yourself. The Role BeyondTrustâs Field Operations team sits at the center of how the company plans, forecasts, and executes revenue. We are building a team that operates with the analytic rigo",
-      "tags": [
-        "devops"
-      ],
-      "verdict": "review",
-      "fit": 46,
-      "reasons": [
-        "Us only-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
       "title": "Senior Security Engineer, Offensive Security",
       "company": "Dropbox",
       "location": "North America Only",
@@ -1514,6 +1471,23 @@
       "source": "WeWorkRemotely",
       "description": "Headquarters: United States URL: http://www.halcyon.ai What we do: Halcyon is the industry’s first dedicated, adaptive security platform that combines multiple proprietary advanced prevention engines along with AI models focused specifically on stopping ransomware. Who we are: Halcyon was formed in 2021 by a team of cyber industry veterans after battling the scourge of ransomware (and advanced threats) for years at some of the largest global security vendors. Comprised of leaders from Cylance (now Blackberry), Accuvant (now Optiv), Fireye and ISS X-Force (now IBM), Halcyon is focused on buildi",
       "tags": [],
+      "verdict": "review",
+      "fit": 46,
+      "reasons": [
+        "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Sr. DevOps Engineer",
+      "company": "Cyware",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/157082-sr-devops-engineer",
+      "source": "Jobicy",
+      "description": "Job Title: Senior DevOps Engineer Location: USA (Remote or Regional Office) Reports To: SVP of Engineering About Cyware Cyware delivers an innovative approach to cybersecurity that unifies threat intelligence, automation, threat response, and vulnerability management with data insights gleaned from assets, users, malware, attackers, and vulnerabilities. Cyware’s Cyber Fusion platform integrates SOAR and TIP technology,&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
       "verdict": "review",
       "fit": 46,
       "reasons": [
@@ -1735,6 +1709,22 @@
       ]
     },
     {
+      "title": "Associate Director of Field Marketing - Quality Cloud - Europe",
+      "company": "Veeva Systems",
+      "location": "UK Only",
+      "url": "https://remoteOK.com/remote-jobs/remote-associate-director-of-field-marketing-quality-cloud-europe-veeva-systems-1138121",
+      "source": "RemoteOK",
+      "description": "Veeva Systems is a mission-driven organization and pioneer in industry cloud, helping life sciences companies bring therapies to patients faster. As one of the fastest-growing SaaS companies in history, we surpassed $3B in revenue in our last fiscal year with extensive growth potential ahead. Â At the heart of Veeva are our values: Do the Right Thing, Customer Success, Employee Success, and Speed. We're not just any public company â we made history in 2021 by becoming aÂ public benefit corporation Â (PBC), legally bound to balancing the interests of customers, employees, society, and investo",
+      "tags": [
+        "marketing"
+      ],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Director-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
       "title": "Principal Software Engineer",
       "company": "Ping Identity",
       "location": "US Only",
@@ -1783,15 +1773,27 @@
       ]
     },
     {
-      "title": "Principal Software Engineer, Infrastructure",
-      "company": "Reddit",
-      "location": "US Only",
-      "url": "https://remoteOK.com/remote-jobs/remote-principal-software-engineer-infrastructure-reddit-1137945",
-      "source": "RemoteOK",
-      "description": "Reddit is a community of communities. Itâs built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internetâs largest sources of information. For more information, visit www.redditinc.com . The Infrastructure organization has the mission of building and delivering the compute orchestration environment, storage and data systems, a",
-      "tags": [
-        "devops"
-      ],
+      "title": "Director, Sales Engineering (Southern Europe)",
+      "company": "Ping Identity",
+      "location": "Europe Only",
+      "url": "https://weworkremotely.com/remote-jobs/ping-identity-director-sales-engineering-southern-europe",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: France - Remote About Ping Identity:&nbsp; At Ping Identity, we believe in making digital experiences both secure and seamless for all users, without compromise. We call this digital freedom. And it's not just something we provide our customers. It's something that inspires our company. People don't come here to join a culture that's built on digital freedom. They come to cultivate it.&nbsp; Our intelligent, cloud identity platform lets people shop, work, bank, and interact wherever and however they want. Without friction. Without fear.&nbsp; While protecting digital identities i",
+      "tags": [],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Director-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
+      "title": "Principal Software Engineer in Test",
+      "company": "Natera",
+      "location": "USA Only",
+      "url": "https://weworkremotely.com/remote-jobs/natera-principal-software-engineer-in-test",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: US Remote POSITION SUMMARY Natera is seeking a highly technical, hands-on Principal Software Engineer in Test to define and own the end-to-end test automation strategy across all products in the Women's Health, Organ Health, and EB (WH/OH/EB) vertical. In this role, you will design, build, and maintain scalable backend automation suites to validate critical workflows across distributed microservice architectures, guaranteeing data integrity from order entry and lab processing to clinical reporting. You will drive innovation by leveraging AI-assisted practices and large language m",
+      "tags": [],
       "verdict": "blocked",
       "fit": 0,
       "reasons": [
@@ -1801,13 +1803,11 @@
     {
       "title": "Art Director",
       "company": "Abnormal",
-      "location": "US Only",
-      "url": "https://remoteOK.com/remote-jobs/remote-art-director-abnormal-1137901",
-      "source": "RemoteOK",
-      "description": "About the Role Abnormal is built to look and feel like nothing else in security: precision-engineered, a little rebellious, and a few steps ahead of now. We protect more than 5,000 customers, including 30% of the Fortune 500, with a platform that stops the attacks everyone else misses. We need someone to make it look like the future it is. We're looking for an Art Director who is first and foremost an artist. This is not a creative production role. You will own Abnormal's aesthetic direction, a singular visual identity with a bold and cinematic sensibility, and communicate that vision clearly ",
-      "tags": [
-        "devops"
-      ],
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/abnormal-art-director",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Remote - USA About the Role Abnormal is built to look and feel like nothing else in security: precision-engineered, a little rebellious, and a few steps ahead of now. We protect more than 5,000 customers, including 30% of the Fortune 500, with a platform that stops the attacks everyone else misses. We need someone to make it look like the future it is. We're looking for an Art Director who is first and foremost an artist. This is not a creative production role. You will own Abnormal's aesthetic direction, a singular visual identity with a bold and cinematic sensibility, and commu",
+      "tags": [],
       "verdict": "blocked",
       "fit": 0,
       "reasons": [
@@ -1815,19 +1815,17 @@
       ]
     },
     {
-      "title": "Staff Security Engineer - AppSec",
-      "company": "6sense",
-      "location": "US Only",
-      "url": "https://remoteOK.com/remote-jobs/remote-staff-security-engineer-appsec-6sense-1137897",
-      "source": "RemoteOK",
-      "description": "Our Mission: 6sense's mission is to multiply what matters: growth, retention, and efficiency.Â We envision a future where companies, teams and people reach their full potential. Our People: People are the heart and soul of 6sense. We serve with passion and purpose. We live by our Being 6sense values of Win as One Team, Stay Curious, Do The Right Thing, Own the Outcome, and Create Belonging. Â Every 6sensor plays a part in deï¬ning the future of our industry-leading technology.Â 6sense is a place where difference-makers roll up their sleeves, take risks, act with integrity, and measure success",
-      "tags": [
-        "devops"
-      ],
+      "title": "Director, RevOps Strategy & Operations",
+      "company": "Keeper Security",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/keeper-security-director-revops-strategy-operations",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Remote, US Description Keeper Security is hiring an experienced and strategic Director, RevOps Strategy &amp; Operations to lead revenue operations strategy and drive operational excellence across the organization. This role will optimize revenue processes, systems, forecasting, reporting, and performance management to support scalable growth and cross-functional alignment. This is a 100% remote position from select locations, with an opportunity to work a hybrid schedule for candidates who live near our global headquarters in Chicago. Keeper’s cybersecurity software is trusted b",
+      "tags": [],
       "verdict": "blocked",
       "fit": 0,
       "reasons": [
-        "Staff-level — usually 5–10+ yrs, you have ~4"
+        "Director-level — usually 5–10+ yrs, you have ~4"
       ]
     },
     {
@@ -1898,20 +1896,6 @@
       "fit": 0,
       "reasons": [
         "Staff-level — usually 5–10+ yrs, you have ~4"
-      ]
-    },
-    {
-      "title": "Senior Director, Enablement",
-      "company": "LaunchDarkly",
-      "location": "Anywhere in the World",
-      "url": "https://weworkremotely.com/remote-jobs/launchdarkly-senior-director-enablement",
-      "source": "WeWorkRemotely",
-      "description": "Headquarters: Remote - US About the Job: LaunchDarkly is seeking a Sr. Director, Enablement to join our Revenue team. This position will report to the VP, Revenue Operations and Enablement. The Revenue Operations and Enablement team is responsible for sales strategy, technology, and enablement. The Sr. Director, Enablement will build a repeatable enablement framework to systematically support all segments of LaunchDarkly’s Revenue Organization. This role will ensure that all customer-facing personnel have the knowledge, content, skills, processes, and behaviors needed to optimize every interac",
-      "tags": [],
-      "verdict": "blocked",
-      "fit": 0,
-      "reasons": [
-        "Director-level — usually 5–10+ yrs, you have ~4"
       ]
     },
     {
@@ -2019,20 +2003,6 @@
       "url": "https://weworkremotely.com/remote-jobs/stability-ai-staff-software-engineer-data",
       "source": "WeWorkRemotely",
       "description": "Headquarters: Remote The Team The Data team builds and runs the systems that make Stability AI's data usable, both to operate the business and to train our models. We're a small, collaborative team that works closely with Finance, Marketing, SRE, Security, Product and Research. We focus on outcomes rather than hours, and you'll have deep technical access and the freedom to build. Our stack: AWS (S3, Athena, Glue, EMR, Step Functions, EventBridge), Iceberg, dbt, Postgres, Terraform, Helm, GitHub Actions, QuickSight, Stripe, Auth0, HubSpot, Customer.io, PostHog, OpenTelemetry and SLURM — or simi",
-      "tags": [],
-      "verdict": "blocked",
-      "fit": 0,
-      "reasons": [
-        "Staff-level — usually 5–10+ yrs, you have ~4"
-      ]
-    },
-    {
-      "title": "Staff Software Engineer, Enterprise Platform",
-      "company": "Discord",
-      "location": "Anywhere in the World",
-      "url": "https://weworkremotely.com/remote-jobs/discord-staff-software-engineer-enterprise-platform",
-      "source": "WeWorkRemotely",
-      "description": "Headquarters: San Francisco Bay Area or Remote (West Coast) Discord has a highly engaged community of millions of daily active users who use the platform for many different reasons, but there’s one thing that nearly everyone does: play video games. Discord plays a uniquely important role in the future of gaming, and we are focused on making it easier and more fun for people to hang out before, during, and after playing games. Discord's Enterprise Technology org is building a software engineering discipline from the ground up, and this is the founding engineering hire. There is no Enterprise Pl",
       "tags": [],
       "verdict": "blocked",
       "fit": 0,
