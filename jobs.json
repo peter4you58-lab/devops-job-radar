@@ -1,13 +1,28 @@
 {
-  "generated": "2026-11-26 15:57 UTC",
-  "count": 123,
+  "generated": "2026-11-27 15:45 UTC",
+  "count": 140,
   "summary": {
-    "scanned": 123,
-    "eligible": 66,
+    "scanned": 140,
+    "eligible": 80,
     "review": 29,
-    "blocked": 28
+    "blocked": 31
   },
   "jobs": [
+    {
+      "title": "Cloud Platform Engineer",
+      "company": "GitLab",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/gitlab-cloud-platform-engineer",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Remote, Canada; Remote, United States GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster. The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate A",
+      "tags": [],
+      "verdict": "eligible",
+      "fit": 78,
+      "reasons": [
+        "remote — anywhere / global",
+        "Africa-friendly employer (Gitlab)"
+      ]
+    },
     {
       "title": "Senior DevOps Engineer",
       "company": "EPAM Systems",
@@ -338,6 +353,48 @@
       ]
     },
     {
+      "title": "Enterprise Sales Engineer - Germany",
+      "company": "Datadog",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/datadog-enterprise-sales-engineer-germany",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Germany, Remote As an Enterprise Sales Engineer, you will provide technical expertise through sales presentations, product demonstrations, and supporting technical evaluations (POVs). Sales Engineers help qualify and close opportunities with customers and partners and have a voice with the product team to help prioritize features based on input from customers, competitors, and partners. What You’ll Do: Partner with the Sales team to articulate the overall Datadog value proposition, vision and strategy to customers Own technical engagement with customers during the trial phase. Co",
+      "tags": [],
+      "verdict": "eligible",
+      "fit": 54,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
+    {
+      "title": "Engineering Manager - Grafana Productivity | USA | Remote",
+      "company": "Grafana Labs",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/grafana-labs-engineering-manager-grafana-productivity-usa-remote",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: United States (Remote) Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any stack, Grafana Cloud brings AI to observability and observability to AI, giving teams (and their agents) unified visibility so they can see, understand, and act on all their disparate data, wherever it lives, and move at the speed of their ambitions. Customers, i",
+      "tags": [],
+      "verdict": "eligible",
+      "fit": 54,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
+    {
+      "title": "Engineering Manager - Grafana Productivity | Canada | Remote",
+      "company": "Grafana Labs",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/grafana-labs-engineering-manager-grafana-productivity-canada-remote",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Canada (Remote) Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any stack, Grafana Cloud brings AI to observability and observability to AI, giving teams (and their agents) unified visibility so they can see, understand, and act on all their disparate data, wherever it lives, and move at the speed of their ambitions. Customers, includin",
+      "tags": [],
+      "verdict": "eligible",
+      "fit": 54,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
+    {
       "title": "Manager II, Engineering - Kubernetes Platform",
       "company": "Pinterest",
       "location": "Anywhere in the World",
@@ -487,23 +544,97 @@
       ]
     },
     {
-      "title": "Strategic Technical Advisor",
-      "company": "Thrive",
-      "location": "Worldwide",
-      "url": "https://remoteOK.com/remote-jobs/remote-strategic-technical-advisor-thrive-1138074",
-      "source": "RemoteOK",
-      "description": "Thrive is an innovative technology solutions provider focused on Cyber Security, Hybrid Cloud, Global Network Management, Disaster Recovery, and traditional Managed Services. Our corporate culture, engineering talent, customer-centric approach, and focus upon NextGen services help us stand out among our peers. Thrive is on the look-out for individuals who don't view their weekdays spent at 'a job' but rather look to develop valuable skills that ignite their passion and lead to a CAREER. If you're attracted to a work hard, play hard environment and seek the guidance, training, and experience ne",
-      "tags": [
-        "infosec",
-        "education",
-        "technical",
-        "customer support",
-        "finance",
-        "cloud",
-        "exec",
-        "ops",
-        "engineer"
-      ],
+      "title": "Professional Services Engagement Manager",
+      "company": "Ping Identity",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/ping-identity-professional-services-engagement-manager",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: UK - Remote About Ping Identity:&nbsp; At Ping Identity, we believe in making digital experiences both secure and seamless for all users, without compromise. We call this digital freedom. And it's not just something we provide our customers. It's something that inspires our company. People don't come here to join a culture that's built on digital freedom. They come to cultivate it.&nbsp; Our intelligent, cloud identity platform lets people shop, work, bank, and interact wherever and however they want. Without friction. Without fear.&nbsp; While protecting digital identities is at",
+      "tags": [],
+      "verdict": "eligible",
+      "fit": 50,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
+    {
+      "title": "Enterprise Sales Executive, SLED",
+      "company": "Keeper Security",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/keeper-security-enterprise-sales-executive-sled",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Remote, US Keeper is hiring a driven Enterprise Sales Executive, SLED, to join our high-producing B2B sales division. This role will drive new logo growth across state, local government, and education accounts within an assigned geography. This can be a 100% remote position from select locations, with an opportunity to work a hybrid schedule for candidates based in the Chicago, IL metro area. Keeper’s cybersecurity software is trusted by millions of people and thousands of organizations globally. Keeper is published in 23 languages and is sold in over 150 countries. Join one of t",
+      "tags": [],
+      "verdict": "eligible",
+      "fit": 50,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
+    {
+      "title": "Enterprise Sales Executive, EMEA",
+      "company": "Keeper Security",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/keeper-security-enterprise-sales-executive-emea",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Remote, Ireland Description Keeper is hiring a driven Enterprise Sales Executive to join our high producing EMEA B2B sales division. Qualified candidates must permanently reside in Ireland. This is a hybrid position for those living within a commutable distance to our Cork, Ireland office, or fully remote for those living outside a commutable distance. Keeper’s cybersecurity software is trusted by millions of people and thousands of organizations, globally. Keeper is published in 23 languages and is sold in over 150 countries. Join one of the fastest-growing cybersecurity compani",
+      "tags": [],
+      "verdict": "eligible",
+      "fit": 50,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
+    {
+      "title": "Partner Sales Engineer (France)",
+      "company": "Ping Identity",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/ping-identity-partner-sales-engineer-france",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Remote - Paris About Ping Identity:&nbsp; At Ping Identity, we believe in making digital experiences both secure and seamless for all users, without compromise. We call this digital freedom. And it's not just something we provide our customers. It's something that inspires our company. People don't come here to join a culture that's built on digital freedom. They come to cultivate it.&nbsp; Our intelligent, cloud identity platform lets people shop, work, bank, and interact wherever and however they want. Without friction. Without fear.&nbsp; While protecting digital identities is",
+      "tags": [],
+      "verdict": "eligible",
+      "fit": 50,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
+    {
+      "title": "Cyber Evaluations Engineer",
+      "company": "Anthropic",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/anthropic-cyber-evaluations-engineer",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Remote-Friendly, United States; San Francisco, CA | Washington, DC About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems. About the role We're hiring Cyber Evaluations Engineers to build and run the evaluations that measure cyber-relevant capabilities and safeguard robustness in our models. You'll desi",
+      "tags": [],
+      "verdict": "eligible",
+      "fit": 50,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
+    {
+      "title": "Corporate Network Engineer",
+      "company": "Anthropic",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/anthropic-corporate-network-engineer",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Remote-Friendly (Travel Required) | San Francisco, CA About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems. About the role Corporate Network Engineering designs, builds, and operates the networks in Anthropic's offices around the world: campus switching, Wi-Fi, and edge. We think a good office network",
+      "tags": [],
+      "verdict": "eligible",
+      "fit": 50,
+      "reasons": [
+        "remote — anywhere / global"
+      ]
+    },
+    {
+      "title": "Manager, CyberSecurity Risk Management",
+      "company": "Rubrik Job Board",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/rubrik-job-board-manager-cybersecurity-risk-management",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Remote &nbsp; About the team: The Information Security organization advances the overall state of security at Rubrik through critical initiatives and coordination of large security projects. Information Security builds technologies, tools, and processes to better enable teams at Rubrik to develop secure software and protect data and systems with appropriate security controls. Information Security also develops systems to monitor and respond to attacks against our assets, provides awareness education to teams on security best practices for data protection, and ensures data governa",
+      "tags": [],
       "verdict": "eligible",
       "fit": 50,
       "reasons": [
@@ -749,6 +880,36 @@
       ]
     },
     {
+      "title": "Senior Security Sales Engineer",
+      "company": "Datadog",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/datadog-senior-security-sales-engineer-1",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Florida, USA, Remote; Georgia, USA, Remote; Massachusetts, USA, Remote; New York, USA, Remote As a Senior Enterprise Sales Engineer, you’ll serve as a trusted technical advisor and strategic partner to both customers and Sales. You’ll lead complex technical evaluations, align solutions to business outcomes, and help shape deal strategy in high-impact opportunities. This role goes beyond delivering demos - you’ll own the evaluation experience end-to-end, influence key stakeholders, and help drive successful outcomes across enterprise accounts. What You’ll Do: Own the sales process",
+      "tags": [],
+      "verdict": "eligible",
+      "fit": 48,
+      "reasons": [
+        "remote — anywhere / global",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Senior Security Sales Engineer",
+      "company": "Datadog",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/datadog-senior-security-sales-engineer",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: California, USA, Remote; Colorado, USA, Remote; Washington, USA, Remote As a Senior Enterprise Sales Engineer, you’ll serve as a trusted technical advisor and strategic partner to both customers and Sales. You’ll lead complex technical evaluations, align solutions to business outcomes, and help shape deal strategy in high-impact opportunities. This role goes beyond delivering demos - you’ll own the evaluation experience end-to-end, influence key stakeholders, and help drive successful outcomes across enterprise accounts. What You’ll Do: Own the sales process in partnership with A",
+      "tags": [],
+      "verdict": "eligible",
+      "fit": 48,
+      "reasons": [
+        "remote — anywhere / global",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
       "title": "Certification Program Lead",
       "company": "Datadog",
       "location": "Anywhere in the World",
@@ -773,6 +934,36 @@
       "tags": [],
       "verdict": "eligible",
       "fit": 48,
+      "reasons": [
+        "remote — anywhere / global",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Resident Solution Architect",
+      "company": "Fivetran",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/fivetran-resident-solution-architect",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Remote, Colorado, United States, AMER From Fivetran’s founding until now, our mission has remained the same: to make access to data as simple and reliable as electricity. With Fivetran, customer data arrives in their warehouses, canonical and ready to query, with no engineering or maintenance required. We’re proud that more organizations continue to leverage our technology every day to become truly data-driven. About Us Fivetran and dbt Labs are bringing together two industry-leading companies with a shared mission: helping organizations unlock the full value of their data. Toget",
+      "tags": [],
+      "verdict": "eligible",
+      "fit": 44,
+      "reasons": [
+        "remote — anywhere / global",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Senior Software Engineer, Enterprise Platform",
+      "company": "Discord",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/discord-senior-software-engineer-enterprise-platform",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: San Francisco Bay Area or Remote (West Coast) Discord has a highly engaged community of millions of daily active users who use the platform for many different reasons, but there’s one thing that nearly everyone does: play video games. Discord plays a uniquely important role in the future of gaming, and we are focused on making it easier and more fun for people to hang out before, during, and after playing games. Discord's Enterprise Technology org is building a software engineering discipline from the ground up, and this is one of its first engineering hires. The Enterprise Platf",
+      "tags": [],
+      "verdict": "eligible",
+      "fit": 44,
       "reasons": [
         "remote — anywhere / global",
         "senior title — a stretch at ~4 yrs, but go for it"
@@ -1065,37 +1256,19 @@
       ]
     },
     {
-      "title": "Senior Manager, Enterprise Application Development Engineering",
-      "company": "GitLab",
-      "location": "US Only",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-manager-enterprise-application-development-engineering-gitlab-1138079",
+      "title": "Enterprise Sales Engineer - Germany",
+      "company": "Datadog",
+      "location": "Europe",
+      "url": "https://remoteOK.com/remote-jobs/remote-enterprise-sales-engineer-germany-datadog-1138184",
       "source": "RemoteOK",
-      "description": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster. The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, in",
+      "description": "As an Enterprise Sales Engineer, you will provide technical expertise through sales presentations, product demonstrations, and supporting technical evaluations (POVs). Sales Engineers help qualify and close opportunities with customers and partners and have a voice with the product team to help prioritize features based on input from customers, competitors, and partners. What Youâll Do: Partner with the Sales team to articulate the overall Datadog value proposition, vision and strategy to customers Own technical engagement with customers during the trial phase. Communicate Datadogâs value ",
       "tags": [
         "devops"
       ],
       "verdict": "review",
-      "fit": 58,
+      "fit": 56,
       "reasons": [
-        "Us only-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Senior CX Platform Engineer",
-      "company": "GitLab",
-      "location": "Canada Only",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-cx-platform-engineer-gitlab-1138075",
-      "source": "RemoteOK",
-      "description": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster. The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, in",
-      "tags": [
-        "devops"
-      ],
-      "verdict": "review",
-      "fit": 58,
-      "reasons": [
-        "Canada-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
+        "Europe-tagged — verify it's open to Africa first"
       ]
     },
     {
@@ -1126,6 +1299,22 @@
       "fit": 52,
       "reasons": [
         "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
+      ]
+    },
+    {
+      "title": "DevOps - Remote (Only Mexico)",
+      "company": "Orion Innovation",
+      "location": "Mexico",
+      "url": "https://jobicy.com/jobs/164497-devops-remote-only-mexico-2",
+      "source": "Jobicy",
+      "description": "Orion Innovation is a premier, award-winning, global business and technology services firm. Orion delivers game-changing business transformation and product development rooted in digital strategy, experience design, and engineering, with a unique combination of agility, scale, and maturity. We work with a wide range of clients across many industries including financial services, professional services, telecommunications and&hellip;",
+      "tags": [
+        "devops & infrastructure"
+      ],
+      "verdict": "review",
+      "fit": 52,
+      "reasons": [
+        "Mexico-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -1398,57 +1587,6 @@
       ]
     },
     {
-      "title": "Senior SRE, Site Experience",
-      "company": "Reddit",
-      "location": "US Only",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-sre-site-experience-reddit-1137975",
-      "source": "RemoteOK",
-      "description": "Reddit is a community of communities. Itâs built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internetâs largest sources of information. For more information, visit www.redditinc.com . This role is fully remote. Reddit has a flexible first workforce The Site Experience SRE team sits at the intersection of infrastructure, pro",
-      "tags": [
-        "devops"
-      ],
-      "verdict": "review",
-      "fit": 46,
-      "reasons": [
-        "Us only-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Sr. Forward Deployed Data Engineer",
-      "company": "Natera",
-      "location": "US Only",
-      "url": "https://remoteOK.com/remote-jobs/remote-sr-forward-deployed-data-engineer-natera-1137970",
-      "source": "RemoteOK",
-      "description": "POSITION SUMMARY: Natera is a global leader in cell-free DNA testing, serving patients across oncology, womenâs health, and organ health. Our Data &amp; AI organization builds the enterprise data platform and AI systems that turn clinical, genomic, and operational data into products that improve patient care and accelerate the business. We are looking for a Senior Forward Deployed Data Engineer to work directly with internal business stakeholders and domain teams to design, build, and deploy high-impact analytics and AI solutions. Reporting directly to the Data &amp; AI Engineering Tech Lead",
-      "tags": [
-        "devops"
-      ],
-      "verdict": "review",
-      "fit": 46,
-      "reasons": [
-        "Us only-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
-      "title": "Senior Software Engineer - Behavioral Security Products",
-      "company": "Abnormal",
-      "location": "UK Only",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-behavioral-security-products-abnormal-1137948",
-      "source": "RemoteOK",
-      "description": "At Abnormal AI, we protect our customers against nefarious adversaries who are constantly evolving their techniques and tactics to outwit and undermine the traditional approaches to Security.Â Abnormal is recognized as a top cybersecurity startup (Leader in the 2025 Gartner Magic Quadrant for Email Security Platforms), securing a Series D funding of $250 million at a $5.1 billion valuation in August 2024.Â About The TeamÂ The team is responsible for the ownership, development, and operation of the infrastructure and ML models, customer facing APIs and internal tools that drive Abnormal's Accou",
-      "tags": [
-        "devops"
-      ],
-      "verdict": "review",
-      "fit": 46,
-      "reasons": [
-        "Uk-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
-        "senior title — a stretch at ~4 yrs, but go for it"
-      ]
-    },
-    {
       "title": "Senior Security Engineer, Offensive Security",
       "company": "Dropbox",
       "location": "North America Only",
@@ -1513,19 +1651,44 @@
       ]
     },
     {
-      "title": "Senior DevOps Engineer - LATAM",
-      "company": "Luxury Presence",
-      "location": "LATAM",
-      "url": "https://jobicy.com/jobs/156418-senior-devops-engineer-latam-2",
-      "source": "Jobicy",
-      "description": "Luxury Presence is building the AI growth platform for real estate. Backed by Bessemer Venture Partners and other top investors, we're a Series C company that has hit $100M in annual recurring revenue. More than 90,000 real estate professionals, including over 30% of the WSJ Real Trends top 100 agents in the United States, use&hellip;",
+      "title": "Senior Cloud / VMware Engineer",
+      "company": "Accendra Health, Inc.",
+      "location": "Mexico",
+      "url": "https://himalayas.app/companies/accendra-health-inc/jobs/senior-cloud-vmware-engineer?utm_source=api",
+      "source": "Himalayas",
+      "description": "At Accendra Health, we understand that healthcare is complex, and we’re here to make it easier. We help deliver care beyond traditional settings, making essential products and services more accessible through every stage of life. As part of the care team, our teammates play a critical role in delivering personalized, long-term care for the patients we serve. With deep expertise promoting health outside the hospital and a presence in communities nationwide through our Apria and Byram Healthcare brands, Accendra Health does more than just deliver the essentials. If you’re interested in meaningfu",
       "tags": [
-        "devops & infrastructure"
+        "cloud-engineer",
+        "cloud-infrastructure-engineer",
+        "vmware-engineer",
+        "cloud-architect",
+        "systems-engineer"
       ],
       "verdict": "review",
       "fit": 46,
       "reasons": [
-        "Latam-tagged — verify it's open to Africa first",
+        "Mexico-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Senior Software Engineer, Enterprise Platform",
+      "company": "Discord",
+      "location": "United States",
+      "url": "https://himalayas.app/companies/discord/jobs/senior-software-engineer-enterprise-platform?utm_source=api",
+      "source": "Himalayas",
+      "description": "Discord has a highly engaged community of millions of daily active users who use the platform for many different reasons, but there’s one thing that nearly everyone does: play video games. Discord plays a uniquely important role in the future of gaming, and we are focused on making it easier and more fun for people to hang out before, during, and after playing games. Discord 's Enterprise Technology org is building a software engineering discipline from the ground up, and this is one of its first engineering hires. The Enterprise Platform team is brand new. You will not be inheriting a mature ",
+      "tags": [
+        "software-engineer",
+        "platform-engineer",
+        "infrastructure-engineer",
+        "devops-engineer",
+        "enterprise-platform-engineer"
+      ],
+      "verdict": "review",
+      "fit": 46,
+      "reasons": [
+        "United states-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
         "senior title — a stretch at ~4 yrs, but go for it"
       ]
     },
@@ -1567,6 +1730,28 @@
       "reasons": [
         "Usa-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
         "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
+      "title": "Produktspezialist:in (German-speaking)",
+      "company": "Creative Force",
+      "location": "Europe, EMEA, Germany, European timezones",
+      "url": "https://remotive.com/remote-jobs/customer-service/produktspezialist-in-german-speaking-2091212",
+      "source": "Remotive",
+      "description": "You know SaaS. You like helping people get it right. And you'd rather have a real conversation than a hard sell. Do you speak German natively and want to help organisations get the most from a world-class SaaS platform? Then this might be the role you're looking for. Join a lean-by-design, globally recognised B2B SaaS company as the German-speaking specialist for our DACH+ markets. No cold calling, no quotas — just meaningful conversations that help interested people discover how our software makes their work easier, then supporting them brilliantly once they're on board. You won't be opening ",
+      "tags": [
+        "api",
+        "css",
+        "html",
+        "javascript",
+        "saas",
+        "onboarding",
+        "responsive"
+      ],
+      "verdict": "review",
+      "fit": 36,
+      "reasons": [
+        "Germany-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying"
       ]
     },
     {
@@ -1709,6 +1894,27 @@
       ]
     },
     {
+      "title": "Power Platform Technical Architect",
+      "company": "Ludia Consulting",
+      "location": "United States",
+      "url": "https://himalayas.app/companies/ludia-consulting/jobs/power-platform-technical-architect?utm_source=api",
+      "source": "Himalayas",
+      "description": "Ludia Consulting is one of the fastest growing and innovative consulting firms in Microsoft Dynamics Finance &amp; Supply Chain, Customer Engagement and Power Platform. We are looking for a team member that is committed to helping others and their communities while also growing professionally as part of our Ludia family. We are not just a traditional organization; we are driven to help our partners and clients while delivering value every day. Our team members are also encouraged to grow by sharing their knowledge and experience through a multitude of community-driven channels, including local",
+      "tags": [
+        "technical-architect",
+        "solutions-architect",
+        "software-architect",
+        "integration-architect",
+        "cloud-architect"
+      ],
+      "verdict": "review",
+      "fit": 30,
+      "reasons": [
+        "United states-tagged — some US/EU firms still hire globally; check for a work-auth clause before applying",
+        "senior title — a stretch at ~4 yrs, but go for it"
+      ]
+    },
+    {
       "title": "Associate Director of Field Marketing - Quality Cloud - Europe",
       "company": "Veeva Systems",
       "location": "UK Only",
@@ -1741,35 +1947,59 @@
       ]
     },
     {
-      "title": "Senior Staff SRE, Site Experience",
-      "company": "Reddit",
-      "location": "US Only",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-staff-sre-site-experience-reddit-1137974",
-      "source": "RemoteOK",
-      "description": "Reddit is a community of communities. Itâs built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internetâs largest sources of information. For more information, visit www.redditinc.com . This role is fully remote. Reddit has a flexible first workforce. The Site Experience SRE team sits at the intersection of infrastructure, pr",
-      "tags": [
-        "devops"
-      ],
+      "title": "Principal Technical Account Manager",
+      "company": "Ping Identity",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/ping-identity-principal-technical-account-manager",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: USA - Remote About Ping Identity:&nbsp; At Ping Identity, we believe in making digital experiences both secure and seamless for all users, without compromise. We call this digital freedom. And it's not just something we provide our customers. It's something that inspires our company. People don't come here to join a culture that's built on digital freedom. They come to cultivate it.&nbsp; Our intelligent, cloud identity platform lets people shop, work, bank, and interact wherever and however they want. Without friction. Without fear.&nbsp; While protecting digital identities is a",
+      "tags": [],
       "verdict": "blocked",
       "fit": 0,
       "reasons": [
-        "Staff-level — usually 5–10+ yrs, you have ~4"
+        "Principal-level — usually 5–10+ yrs, you have ~4"
       ]
     },
     {
-      "title": "Staff Data Scientist - Martech Platform (ML/Algos)",
-      "company": "Airbnb",
-      "location": "US Only",
-      "url": "https://remoteOK.com/remote-jobs/remote-staff-data-scientist-martech-platform-ml-algos-airbnb-1137956",
-      "source": "RemoteOK",
-      "description": "Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way. The Community You Will Join: Marketing Data Science Measurement empowers Airbnb to optimize marketing ROI through data-informed decision-making. We lead the way in defining and advancing best practices for measuring and optimizing marketi",
-      "tags": [
-        "programming"
-      ],
+      "title": "Principal Platform Security Engineer",
+      "company": "Upstart",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/upstart-principal-platform-security-engineer",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: United States | Remote About Upstart At Upstart, we’re united by a mission that matters: to radically reduce the cost and complexity of borrowing for all Americans. Every day, we bring creativity, experimentation, and advanced AI to reshape access to credit, helping millions move forward financially with clarity and confidence. As the leading AI lending marketplace, we partner with banks and credit unions to expand access to affordable credit through technology that’s both radically intelligent and deeply human. Our platform runs over one million predictions per borrower using mo",
+      "tags": [],
       "verdict": "blocked",
       "fit": 0,
       "reasons": [
-        "Staff-level — usually 5–10+ yrs, you have ~4"
+        "Principal-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
+      "title": "Principal Software Engineer, Data Lakes",
+      "company": "Fivetran",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/fivetran-principal-software-engineer-data-lakes",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Remote, Germany, EMEA From Fivetran’s founding until now, our mission has remained the same: to make access to data as simple and reliable as electricity. With Fivetran, customer data arrives in their warehouses, canonical and ready to query, with no engineering or maintenance required. We’re proud that more organizations continue to leverage our technology every day to become truly data-driven. About Us Fivetran and dbt Labs are bringing together two industry-leading companies with a shared mission: helping organizations unlock the full value of their data. Together, we’re deliv",
+      "tags": [],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Principal-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
+      "title": "Principal Software Engineer",
+      "company": "Ping Identity",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/ping-identity-principal-software-engineer",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: USA - Remote About Ping Identity:&nbsp; At Ping Identity, we believe in making digital experiences both secure and seamless for all users, without compromise. We call this digital freedom. And it's not just something we provide our customers. It's something that inspires our company. People don't come here to join a culture that's built on digital freedom. They come to cultivate it.&nbsp; Our intelligent, cloud identity platform lets people shop, work, bank, and interact wherever and however they want. Without friction. Without fear.&nbsp; While protecting digital identities is a",
+      "tags": [],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Principal-level — usually 5–10+ yrs, you have ~4"
       ]
     },
     {
@@ -2108,6 +2338,25 @@
       "fit": 0,
       "reasons": [
         "Principal-level — usually 5–10+ yrs, you have ~4"
+      ]
+    },
+    {
+      "title": "Associate Director of Field Marketing - Quality Cloud - Europe",
+      "company": "Veeva Systems",
+      "location": "Germany",
+      "url": "https://himalayas.app/companies/veeva-systems/jobs/associate-director-of-field-marketing-quality-cloud-europe-7916496574?utm_source=api",
+      "source": "Himalayas",
+      "description": "Veeva Systems is a mission-driven organization and pioneer in industry cloud, helping life sciences companies bring therapies to patients faster. As one of the fastest-growing SaaS companies in history, we surpassed $3B in revenue in our last fiscal year with extensive growth potential ahead. At the heart of Veeva are our values: Do the Right Thing, Customer Success, Employee Success, and Speed. We're not just any public company – we made history in 2021 by becoming a public benefit corporation (PBC), legally bound to balancing the interests of customers, employees, society, and investors. As ",
+      "tags": [
+        "director-of-field-marketing",
+        "field-marketing-director",
+        "marketing-director",
+        "account-based-marketing-director"
+      ],
+      "verdict": "blocked",
+      "fit": 0,
+      "reasons": [
+        "Director-level — usually 5–10+ yrs, you have ~4"
       ]
     }
   ]
